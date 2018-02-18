@@ -5,3 +5,5 @@ src
 .babelrc
 .eslintrc
 .travis.yml
+
+data/origin
