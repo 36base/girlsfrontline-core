@@ -6,4 +6,4 @@ src
 .eslintrc
 .travis.yml
 
-data/origin
+data/raw
