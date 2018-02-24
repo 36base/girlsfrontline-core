@@ -6,7 +6,7 @@
   "repository": "https://github.com/CirnoV/girlsfrontline-core",
   "author": "CirnoV <cirnov59@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "rimraf dist && babel src --presets=stage-1 --out-dir dist --ignore **/*.spec.js",
     "prepublish": "npm run build",
