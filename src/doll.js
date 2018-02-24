@@ -5,7 +5,6 @@ export default class doll {
     this._name = data.name;
     this._rank = data.rank;
     this._type = data.type;
-    this._type = data.type;
     this._stats = data.stats;
     this._effect = data.effect;
     // this._skills = data.skills;
