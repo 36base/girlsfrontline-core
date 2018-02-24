@@ -7,3 +7,4 @@ src
 .travis.yml
 
 data/raw
+src/parser
