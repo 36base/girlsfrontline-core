@@ -90,6 +90,6 @@ switch (type) {
 const {effect} = doll
 
 effect['gridEffect'].map((elem) => {
-  console.log(`${elem.type} 스탯 ${elem.type}% 상승`);
+  console.log(`${elem.type} 스탯 ${elem.value}% 상승`);
 });
 ```
