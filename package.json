@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "babel src --presets=stage-1 --out-dir dist --ignore **/*.spec.js",
+    "build": "rimraf dist && babel src --presets=stage-1 --out-dir dist --ignore **/*.spec.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
@@ -24,7 +24,8 @@
     "eslint-config-prev": "^6.10.0",
     "husky": "^0.14.3",
     "jest": "^22.3.0",
-    "lint-staged": "^6.1.1"
+    "lint-staged": "^6.1.1",
+    "rimraf": "^2.6.2"
   },
   "jest": {
     "transform": {
@@ -32,6 +33,9 @@
     }
   },
   "lint-staged": {
-    "^.+\\.(js)$": ["eslint --fix", "git add"]
+    "^.+\\.(js)$": [
+      "eslint --fix",
+      "git add"
+    ]
   }
 }
