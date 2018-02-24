@@ -68,6 +68,12 @@ switch (type) {
 ### [effect](#main) ⇒ <code>Object(effect)</code>
 해당 인형의 진형 버프 데이터를 나타냅니다.
 
+| 1열 | 2열 | 3열 |
+| --- | --- | --- |
+| 7 | 8 | 9 |
+| 4 | 5 | 6 |
+| 1 | 2 | 3 |
+
 | Key | Value Type | Description |
 | --- | --- | --- |
 | effectType | Number | 버프 대상 |
