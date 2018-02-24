@@ -4,6 +4,7 @@ src
 .editorconfig
 .babelrc
 .eslintrc
+.eslintignore
 .travis.yml
 
 data/raw
