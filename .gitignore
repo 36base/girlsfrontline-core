@@ -24,3 +24,4 @@ yarn-error.log*
 
 /data/raw
 /src/parser
+/parser
