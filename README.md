@@ -4,6 +4,19 @@
 
 <a name="main"></a>
 
+## Install
+```bash
+$ yarn add girlsfrontline-core
+```
+
+## Example
+```javascript
+import {dolls} from 'girlsfrontline-core';
+
+// AR 타입 인형 찾기
+const AR = dolls.filter(({type}) => type === 4);
+```
+
 <a name="doll"></a>
 ## [doll](#main) 멤버
 
