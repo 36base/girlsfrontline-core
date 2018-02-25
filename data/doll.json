@@ -6,8 +6,8 @@
   "illust": "Saru",
   "voice": "Aimi Tanaka",
   "buildTime": 3000,
-  "drop": ["0-1","4-1","5-1","6-5","7-1","8-2","1-4E","3-1E","3-4E","4-1E","5-1E","6-1E","8-1E"],
-  "skins":["별똥별의 소원"],
+  "drop": ["0-1", "4-1", "5-1", "6-5", "7-1", "8-2", "1-4E", "3-1E", "3-4E", "4-1E", "5-1E", "6-1E", "8-1E"],
+  "skins": ["별똥별의 소원"],
   "stats": {
     "armor": 0,
     "dodge": 76,
@@ -36,9 +36,9 @@
       "type": "hit",
       "value": 25
     }]
-  }
-}, {
-  "id": 2,
+  },
+  "krName": "콜트 리볼버"
+}, { "id": 2,
   "name": "M1911",
   "rank": 2,
   "type": 1,
@@ -73,7 +73,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "M1911"
 }, {
   "id": 3,
   "name": "M9",
@@ -110,7 +111,8 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "M9"
 }, {
   "id": 5,
   "name": "M1895",
@@ -147,7 +149,8 @@
       "type": "crit",
       "value": 8
     }]
-  }
+  },
+  "krName": "나강 리볼버"
 }, {
   "id": 6,
   "name": "TT33",
@@ -184,7 +187,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "토카레프"
 }, {
   "id": 7,
   "name": "APS",
@@ -221,7 +225,8 @@
       "type": "rate",
       "value": 12
     }]
-  }
+  },
+  "krName": "스테츠킨"
 }, {
   "id": 8,
   "name": "PM",
@@ -258,7 +263,8 @@
       "type": "rate",
       "value": 6
     }]
-  }
+  },
+  "krName": "마카로프"
 }, {
   "id": 9,
   "name": "P38",
@@ -295,7 +301,8 @@
       "type": "hit",
       "value": 28
     }]
-  }
+  },
+  "krName": "P38"
 }, {
   "id": 10,
   "name": "PPK",
@@ -332,7 +339,8 @@
       "type": "crit",
       "value": 8
     }]
-  }
+  },
+  "krName": "PPK"
 }, {
   "id": 11,
   "name": "P08",
@@ -369,7 +377,8 @@
       "type": "hit",
       "value": 35
     }]
-  }
+  },
+  "krName": "P08"
 }, {
   "id": 12,
   "name": "C96",
@@ -406,10 +415,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "C96"
 }, {
   "id": 13,
-  "name": "Type 92",
+  "name": "92type",
   "rank": 3,
   "type": 1,
   "illust": "莲子",
@@ -443,7 +453,8 @@
       "type": "dodge",
       "value": 20
     }]
-  }
+  },
+  "krName": "92식"
 }, {
   "id": 14,
   "name": "357",
@@ -480,10 +491,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "아스트라 리볼버"
 }, {
   "id": 15,
-  "name": "Glock 17",
+  "name": "Glock17",
   "rank": 3,
   "type": 1,
   "illust": "Rain Lan",
@@ -517,7 +529,8 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "글록17"
 }, {
   "id": 16,
   "name": "M1928A1",
@@ -554,7 +567,8 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "톰슨"
 }, {
   "id": 17,
   "name": "M3",
@@ -591,10 +605,11 @@
       "type": "dodge",
       "value": 30
     }]
-  }
+  },
+  "krName": "M3"
 }, {
   "id": 18,
-  "name": "MAC-10",
+  "name": "MAC10",
   "rank": 3,
   "type": 2,
   "illust": "SA",
@@ -625,10 +640,11 @@
       "type": "pow",
       "value": 12
     }]
-  }
+  },
+  "krName": "MAC-10"
 }, {
   "id": 19,
-  "name": "FMG-9",
+  "name": "FMG9",
   "rank": 3,
   "type": 2,
   "illust": "NorthAbyssor",
@@ -662,7 +678,8 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "FMG-9"
 }, {
   "id": 20,
   "name": "Vector",
@@ -696,10 +713,11 @@
       "type": "rate",
       "value": 25
     }]
-  }
+  },
+  "krName": "Vector"
 }, {
   "id": 21,
-  "name": "PPSh-41",
+  "name": "PPsh41",
   "rank": 2,
   "type": 2,
   "illust": "和茶",
@@ -733,10 +751,11 @@
       "type": "rate",
       "value": 5
     }]
-  }
+  },
+  "krName": "PPsh-41"
 }, {
   "id": 22,
-  "name": "PPS-43",
+  "name": "PPS43",
   "rank": 3,
   "type": 2,
   "illust": "两卡车",
@@ -767,10 +786,11 @@
       "type": "pow",
       "value": 12
     }]
-  }
+  },
+  "krName": "PPS-43"
 }, {
   "id": 23,
-  "name": "PP-90",
+  "name": "PP90",
   "rank": 4,
   "type": 2,
   "illust": "NIXOO",
@@ -804,10 +824,11 @@
       "type": "dodge",
       "value": 20
     }]
-  }
+  },
+  "krName": "PP-90"
 }, {
   "id": 24,
-  "name": "PP-2000",
+  "name": "PP2000",
   "rank": 2,
   "type": 2,
   "illust": "NoriZC",
@@ -841,7 +862,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "PP-2000"
 }, {
   "id": 25,
   "name": "MP40",
@@ -878,7 +900,8 @@
       "type": "dodge",
       "value": 20
     }]
-  }
+  },
+  "krName": "MP40"
 }, {
   "id": 26,
   "name": "MP5",
@@ -915,10 +938,11 @@
       "type": "crit",
       "value": 20
     }]
-  }
+  },
+  "krName": "MP5"
 }, {
   "id": 27,
-  "name": "Vz. 61",
+  "name": "VZ61",
   "rank": 3,
   "type": 2,
   "illust": "SA",
@@ -952,10 +976,15 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "스콜피온"
+}, {
+  "id": 28,
+  "name": "MP7",
+  "krName": "MP7"
 }, {
   "id": 29,
-  "name": "Sten Mk Ⅱ",
+  "name": "StenMK2",
   "rank": 3,
   "type": 2,
   "illust": "真名",
@@ -989,10 +1018,11 @@
       "type": "dodge",
       "value": 30
     }]
-  }
+  },
+  "krName": "스텐MkII"
 }, {
   "id": 31,
-  "name": "MAB 38",
+  "name": "MAB38",
   "rank": 2,
   "type": 2,
   "illust": "ALLENES",
@@ -1026,10 +1056,11 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "베레타 38형"
 }, {
   "id": 32,
-  "name": "Micro Uzi",
+  "name": "MicroUZI",
   "rank": 3,
   "type": 2,
   "illust": "死盖",
@@ -1060,7 +1091,8 @@
       "type": "pow",
       "value": 18
     }]
-  }
+  },
+  "krName": "마이크로 우지"
 }, {
   "id": 33,
   "name": "m45",
@@ -1097,7 +1129,8 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "m45"
 }, {
   "id": 34,
   "name": "M1",
@@ -1131,7 +1164,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "M1 개런드"
 }, {
   "id": 35,
   "name": "M1A1",
@@ -1165,7 +1199,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "M1A1"
 }, {
   "id": 36,
   "name": "M1903",
@@ -1199,7 +1234,8 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "스프링필드"
 }, {
   "id": 37,
   "name": "M14",
@@ -1233,7 +1269,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "M14"
 }, {
   "id": 38,
   "name": "M21",
@@ -1267,7 +1304,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "M21"
 }, {
   "id": 39,
   "name": "M1891",
@@ -1301,10 +1339,11 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "모신나강"
 }, {
   "id": 40,
-  "name": "SVT-38",
+  "name": "SVT38",
   "rank": 2,
   "type": 3,
   "illust": "sola7764",
@@ -1335,7 +1374,8 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "SVT-38"
 }, {
   "id": 41,
   "name": "SKS",
@@ -1369,7 +1409,8 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "시모노프"
 }, {
   "id": 42,
   "name": "PTRD",
@@ -1403,7 +1444,8 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "PTRD"
 }, {
   "id": 43,
   "name": "SVD",
@@ -1437,10 +1479,11 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "SVD"
 }, {
   "id": 44,
-  "name": "SV-98",
+  "name": "SV98",
   "rank": 3,
   "type": 3,
   "illust": "幻象黑兔",
@@ -1471,10 +1514,11 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "SV-98"
 }, {
   "id": 46,
-  "name": "Kar98k",
+  "name": "98K",
   "rank": 5,
   "type": 3,
   "illust": "芙芙酱",
@@ -1505,7 +1549,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "Kar98k"
 }, {
   "id": 47,
   "name": "G43",
@@ -1539,7 +1584,8 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "G43"
 }, {
   "id": 48,
   "name": "WA2000",
@@ -1573,10 +1619,11 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "WA2000"
 }, {
   "id": 49,
-  "name": "Type 56 R",
+  "name": "56typeR",
   "rank": 3,
   "type": 3,
   "illust": "KAN",
@@ -1607,10 +1654,11 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "56식 반"
 }, {
   "id": 50,
-  "name": "MLE Mk I",
+  "name": "MLEMK1",
   "rank": 5,
   "type": 3,
   "illust": "rei",
@@ -1641,10 +1689,11 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "리엔필드"
 }, {
   "id": 51,
-  "name": "FN-49",
+  "name": "FN49",
   "rank": 2,
   "type": 3,
   "illust": "Bison仓鼠",
@@ -1675,7 +1724,8 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "FN-49"
 }, {
   "id": 52,
   "name": "BM59",
@@ -1709,10 +1759,11 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "BM59"
 }, {
   "id": 53,
-  "name": "NTW-20",
+  "name": "NTW20",
   "rank": 5,
   "type": 3,
   "illust": "RAN",
@@ -1743,7 +1794,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "NTW-20"
 }, {
   "id": 54,
   "name": "M16A1",
@@ -1780,7 +1832,8 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "M16A1"
 }, {
   "id": 55,
   "name": "M4A1",
@@ -1817,7 +1870,8 @@
       "type": "crit",
       "value": 30
     }]
-  }
+  },
+  "krName": "M4A1"
 }, {
   "id": 56,
   "name": "M4 SOPMOD II",
@@ -1854,10 +1908,11 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "M4 SOPMODII"
 }, {
   "id": 57,
-  "name": "ST AR-15",
+  "name": "AR15",
   "rank": 4,
   "type": 4,
   "illust": "LIN+",
@@ -1891,10 +1946,11 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "ST AR-15"
 }, {
   "id": 58,
-  "name": "AK-47",
+  "name": "AK47",
   "rank": 3,
   "type": 4,
   "illust": "厕所董事长",
@@ -1925,10 +1981,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "AK-47"
 }, {
   "id": 60,
-  "name": "AS Val",
+  "name": "ASVAL",
   "rank": 4,
   "type": 4,
   "illust": "防弹乳牛",
@@ -1962,10 +2019,11 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "AS Val"
 }, {
   "id": 61,
-  "name": "StG44",
+  "name": "STG44",
   "rank": 3,
   "type": 4,
   "illust": "八才",
@@ -1999,7 +2057,8 @@
       "type": "hit",
       "value": 60
     }]
-  }
+  },
+  "krName": "StG44"
 }, {
   "id": 62,
   "name": "G41",
@@ -2036,7 +2095,8 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "G41"
 }, {
   "id": 63,
   "name": "G3",
@@ -2073,7 +2133,8 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "G3"
 }, {
   "id": 64,
   "name": "G36",
@@ -2110,7 +2171,8 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "G36"
 }, {
   "id": 65,
   "name": "HK416",
@@ -2144,10 +2206,11 @@
       "type": "pow",
       "value": 40
     }]
-  }
+  },
+  "krName": "HK416"
 }, {
   "id": 66,
-  "name": "Type 56-1 A",
+  "name": "56_1type",
   "rank": 4,
   "type": 4,
   "illust": "CanceR",
@@ -2181,7 +2244,8 @@
       "type": "crit",
       "value": 10
     }]
-  }
+  },
+  "krName": "56-1식"
 }, {
   "id": 68,
   "name": "L85A1",
@@ -2218,7 +2282,8 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "L85A1"
 }, {
   "id": 69,
   "name": "FAMAS",
@@ -2255,10 +2320,11 @@
       "type": "hit",
       "value": 60
     }]
-  }
+  },
+  "krName": "FAMAS"
 }, {
   "id": 70,
-  "name": "FNC",
+  "name": "FNFNC",
   "rank": 3,
   "type": 4,
   "illust": "麻将",
@@ -2292,7 +2358,8 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "FNC"
 }, {
   "id": 71,
   "name": "AR",
@@ -2329,10 +2396,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "갈릴"
 }, {
   "id": 72,
-  "name": "TAR-21",
+  "name": "TAR21",
   "rank": 4,
   "type": 4,
   "illust": "木shiyo",
@@ -2363,10 +2431,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "TAR-21"
 }, {
   "id": 74,
-  "name": "SIG-510",
+  "name": "SIG510",
   "rank": 2,
   "type": 4,
   "illust": "spirtie",
@@ -2400,7 +2469,8 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "SIG-510"
 }, {
   "id": 75,
   "name": "M1918",
@@ -2437,10 +2507,11 @@
       "type": "armor",
       "value": 10
     }]
-  }
+  },
+  "krName": "M1918"
 }, {
   "id": 77,
-  "name": "M2HB ",
+  "name": "M2HB",
   "rank": 3,
   "type": 5,
   "illust": "15K",
@@ -2471,7 +2542,8 @@
       "type": "pow",
       "value": 22
     }]
-  }
+  },
+  "krName": "M2HB"
 }, {
   "id": 78,
   "name": "M60",
@@ -2508,10 +2580,11 @@
       "type": "rate",
       "value": 8
     }]
-  }
+  },
+  "krName": "M60"
 }, {
   "id": 79,
-  "name": "M249 SAW",
+  "name": "M249SAW",
   "rank": 3,
   "type": 5,
   "illust": "雪樱樱",
@@ -2545,7 +2618,8 @@
       "type": "hit",
       "value": 10
     }]
-  }
+  },
+  "krName": "M249 SAW"
 }, {
   "id": 80,
   "name": "M1919A4",
@@ -2582,7 +2656,8 @@
       "type": "armor",
       "value": 10
     }]
-  }
+  },
+  "krName": "M1919A4"
 }, {
   "id": 81,
   "name": "LWMMG",
@@ -2619,7 +2694,8 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "LWMMG"
 }, {
   "id": 82,
   "name": "DP28",
@@ -2653,7 +2729,8 @@
       "type": "rate",
       "value": 15
     }]
-  }
+  },
+  "krName": "DP28"
 }, {
   "id": 84,
   "name": "RPD",
@@ -2687,7 +2764,8 @@
       "type": "rate",
       "value": 16
     }]
-  }
+  },
+  "krName": "RPD"
 }, {
   "id": 85,
   "name": "PK",
@@ -2721,7 +2799,8 @@
       "type": "pow",
       "value": 18
     }]
-  }
+  },
+  "krName": "PK"
 }, {
   "id": 86,
   "name": "MG42",
@@ -2755,7 +2834,8 @@
       "type": "pow",
       "value": 22
     }]
-  }
+  },
+  "krName": "MG42"
 }, {
   "id": 87,
   "name": "MG34",
@@ -2789,7 +2869,8 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "MG34"
 }, {
   "id": 88,
   "name": "MG3",
@@ -2826,10 +2907,11 @@
       "type": "hit",
       "value": 15
     }]
-  }
+  },
+  "krName": "MG3"
 }, {
   "id": 89,
-  "name": "Bren MK I",
+  "name": "BrenMK",
   "rank": 3,
   "type": 5,
   "illust": "废人",
@@ -2863,10 +2945,11 @@
       "type": "hit",
       "value": 12
     }]
-  }
+  },
+  "krName": "브렌"
 }, {
   "id": 90,
-  "name": "FNP-9",
+  "name": "FNP9",
   "rank": 2,
   "type": 1,
   "illust": "Bison仓鼠",
@@ -2900,10 +2983,11 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "FNP9"
 }, {
   "id": 91,
-  "name": "MP-446",
+  "name": "MP446",
   "rank": 2,
   "type": 1,
   "illust": "XQ",
@@ -2934,10 +3018,11 @@
       "type": "pow",
       "value": 14
     }]
-  }
+  },
+  "krName": "MP-446"
 }, {
   "id": 92,
-  "name": "Spectre M4",
+  "name": "SpectreM4",
   "rank": 2,
   "type": 2,
   "illust": "MKiiiiii",
@@ -2968,7 +3053,8 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "Spectre M4"
 }, {
   "id": 93,
   "name": "IDW",
@@ -3002,10 +3088,11 @@
       "type": "dodge",
       "value": 20
     }]
-  }
+  },
+  "krName": "IDW"
 }, {
   "id": 94,
-  "name": "Type 64",
+  "name": "64type",
   "rank": 2,
   "type": 2,
   "illust": "小迪",
@@ -3036,10 +3123,11 @@
       "type": "rate",
       "value": 20
     }]
-  }
+  },
+  "krName": "64식"
 }, {
   "id": 95,
-  "name": "Type 88",
+  "name": "88type",
   "rank": 3,
   "type": 3,
   "illust": "团子",
@@ -3070,7 +3158,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "한양조 88식"
 }, {
   "id": 96,
   "name": "Grizzly",
@@ -3107,7 +3196,8 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "그리즐리 Mk V"
 }, {
   "id": 97,
   "name": "M950A",
@@ -3144,10 +3234,11 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "M950A"
 }, {
   "id": 98,
-  "name": "SPP-1",
+  "name": "SPP1",
   "rank": 4,
   "type": 1,
   "illust": "麻将",
@@ -3181,7 +3272,8 @@
       "type": "hit",
       "value": 45
     }]
-  }
+  },
+  "krName": "SPP-1"
 }, {
   "id": 99,
   "name": "Mk23",
@@ -3215,7 +3307,8 @@
       "type": "pow",
       "value": 18
     }]
-  }
+  },
+  "krName": "Mk23"
 }, {
   "id": 100,
   "name": "P7",
@@ -3252,7 +3345,8 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "P7"
 }, {
   "id": 101,
   "name": "UMP9",
@@ -3289,7 +3383,8 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "UMP9"
 }, {
   "id": 102,
   "name": "UMP40",
@@ -3323,7 +3418,8 @@
       "type": "crit",
       "value": 500
     }]
-  }
+  },
+  "krName": "UMP40"
 }, {
   "id": 103,
   "name": "UMP45",
@@ -3360,7 +3456,8 @@
       "type": "crit",
       "value": 30
     }]
-  }
+  },
+  "krName": "UMP45"
 }, {
   "id": 104,
   "name": "G36C",
@@ -3397,10 +3494,11 @@
       "type": "rate",
       "value": 8
     }]
-  }
+  },
+  "krName": "G36C"
 }, {
   "id": 105,
-  "name": "OTs-12",
+  "name": "OTs12",
   "rank": 3,
   "type": 4,
   "illust": "林檎愛す",
@@ -3434,10 +3532,11 @@
       "type": "rate",
       "value": 20
     }]
-  }
+  },
+  "krName": "OTs-12"
 }, {
   "id": 106,
-  "name": "FAL",
+  "name": "FNFAL",
   "rank": 5,
   "type": 4,
   "illust": "水乌龟",
@@ -3468,7 +3567,8 @@
       "type": "dodge",
       "value": 20
     }]
-  }
+  },
+  "krName": "FAL"
 }, {
   "id": 107,
   "name": "F2000",
@@ -3505,10 +3605,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "F2000"
 }, {
   "id": 108,
-  "name": "CZ-805",
+  "name": "CZ805",
   "rank": 3,
   "type": 4,
   "illust": "木子翔",
@@ -3542,7 +3643,8 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "CZ-805"
 }, {
   "id": 109,
   "name": "MG5",
@@ -3579,7 +3681,8 @@
       "type": "armor",
       "value": 10
     }]
-  }
+  },
+  "krName": "MG5"
 }, {
   "id": 110,
   "name": "FG42",
@@ -3613,10 +3716,11 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "FG42"
 }, {
   "id": 111,
-  "name": "AAT-52",
+  "name": "AAT52",
   "rank": 2,
   "type": 5,
   "illust": "Lino",
@@ -3647,7 +3751,8 @@
       "type": "rate",
       "value": 20
     }]
-  }
+  },
+  "krName": "AAT-52"
 }, {
   "id": 112,
   "name": "NEGEV",
@@ -3681,7 +3786,8 @@
       "type": "armor",
       "value": 20
     }]
-  }
+  },
+  "krName": "네게브"
 }, {
   "id": 113,
   "name": "SPS",
@@ -3718,10 +3824,11 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "세르듀코프"
 }, {
   "id": 114,
-  "name": "Welrod Mk Ⅱ",
+  "name": "Welrod",
   "rank": 5,
   "type": 1,
   "illust": "工口牛",
@@ -3755,10 +3862,11 @@
       "type": "rate",
       "value": 8
     }]
-  }
+  },
+  "krName": "웰로드MkII"
 }, {
   "id": 115,
-  "name": "KP/-31 ",
+  "name": "KP31",
   "rank": 5,
   "type": 2,
   "illust": "Anmi",
@@ -3792,10 +3900,11 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "수오미"
 }, {
   "id": 116,
-  "name": "Z-62",
+  "name": "Z62",
   "rank": 3,
   "type": 2,
   "illust": "ALLENES",
@@ -3829,10 +3938,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "Z-62"
 }, {
   "id": 117,
-  "name": "PSG-1",
+  "name": "PSG1",
   "rank": 4,
   "type": 3,
   "illust": "CanceR",
@@ -3863,10 +3973,11 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "PSG-1"
 }, {
   "id": 118,
-  "name": "9A-91",
+  "name": "9A91",
   "rank": 4,
   "type": 4,
   "illust": "防弹乳牛",
@@ -3900,10 +4011,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "9A-91"
 }, {
   "id": 119,
-  "name": "OTs-14",
+  "name": "OTs14",
   "rank": 5,
   "type": 4,
   "illust": "ASK",
@@ -3937,10 +4049,11 @@
       "type": "hit",
       "value": 65
     }]
-  }
+  },
+  "krName": "OTs-14"
 }, {
   "id": 120,
-  "name": "ARX-160",
+  "name": "ARX160",
   "rank": 3,
   "type": 4,
   "illust": "死盖",
@@ -3974,10 +4087,11 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "ARX-160"
 }, {
   "id": 121,
-  "name": "Mk48",
+  "name": "MK48",
   "rank": 4,
   "type": 5,
   "illust": "SA",
@@ -4008,7 +4122,8 @@
       "type": "rate",
       "value": 18
     }]
-  }
+  },
+  "krName": "Mk48"
 }, {
   "id": 122,
   "name": "G11",
@@ -4045,7 +4160,8 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "G11"
 }, {
   "id": 123,
   "name": "P99",
@@ -4082,10 +4198,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "P99"
 }, {
   "id": 124,
-  "name": "Super SASS",
+  "name": "SuperSASS",
   "rank": 3,
   "type": 3,
   "illust": "受菟",
@@ -4116,7 +4233,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "Super SASS"
 }, {
   "id": 125,
   "name": "MG4",
@@ -4153,7 +4271,8 @@
       "type": "armor",
       "value": 15
     }]
-  }
+  },
+  "krName": "MG4"
 }, {
   "id": 126,
   "name": "NZ75",
@@ -4190,10 +4309,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "NZ75"
 }, {
   "id": 127,
-  "name": "Type 79",
+  "name": "79type",
   "rank": 5,
   "type": 2,
   "illust": "防弹乳牛",
@@ -4224,7 +4344,8 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "79식"
 }, {
   "id": 128,
   "name": "M99",
@@ -4258,10 +4379,11 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "M99"
 }, {
   "id": 129,
-  "name": "Type 95",
+  "name": "95type",
   "rank": 5,
   "type": 4,
   "illust": "木shiyo",
@@ -4295,10 +4417,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "95식"
 }, {
   "id": 130,
-  "name": "Type 97",
+  "name": "97type",
   "rank": 5,
   "type": 4,
   "illust": "木shiyo",
@@ -4332,10 +4455,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "97식"
 }, {
   "id": 131,
-  "name": "EVO 3",
+  "name": "EVO3",
   "rank": 3,
   "type": 2,
   "illust": "钉田西瓜",
@@ -4366,10 +4490,11 @@
       "type": "hit",
       "value": 55
     }]
-  }
+  },
+  "krName": "EVO 3"
 }, {
   "id": 132,
-  "name": "Type 59",
+  "name": "59type",
   "rank": 3,
   "type": 1,
   "illust": "麻将",
@@ -4403,10 +4528,11 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "59식"
 }, {
   "id": 133,
-  "name": "Type 63",
+  "name": "63type",
   "rank": 2,
   "type": 4,
   "illust": "TOMATO",
@@ -4440,7 +4566,8 @@
       "type": "rate",
       "value": 20
     }]
-  }
+  },
+  "krName": "63식"
 }, {
   "id": 134,
   "name": "AR70",
@@ -4477,10 +4604,11 @@
       "type": "hit",
       "value": 75
     }]
-  }
+  },
+  "krName": "AR70"
 }, {
   "id": 135,
-  "name": "SR-3MP",
+  "name": "SR3MP",
   "rank": 5,
   "type": 2,
   "illust": "熊猫印象",
@@ -4514,10 +4642,11 @@
       "type": "crit",
       "value": 30
     }]
-  }
+  },
+  "krName": "SR-3MP"
 }, {
   "id": 136,
-  "name": "PP-19",
+  "name": "PP19",
   "rank": 4,
   "type": 2,
   "illust": "八才",
@@ -4548,7 +4677,8 @@
       "type": "pow",
       "value": 24
     }]
-  }
+  },
+  "krName": "PP-19"
 }, {
   "id": 137,
   "name": "PP1901",
@@ -4585,7 +4715,8 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "PP-19-01"
 }, {
   "id": 138,
   "name": "6P62",
@@ -4619,10 +4750,11 @@
       "type": "pow",
       "value": 35
     }]
-  }
+  },
+  "krName": "6P62"
 }, {
   "id": 139,
-  "name": "Bren Ten",
+  "name": "BrenTen",
   "rank": 2,
   "type": 1,
   "illust": "林大B",
@@ -4656,7 +4788,8 @@
       "type": "rate",
       "value": 5
     }]
-  }
+  },
+  "krName": "Bren Ten"
 }, {
   "id": 140,
   "name": "PSM",
@@ -4693,10 +4826,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "PSM"
 }, {
   "id": 141,
-  "name": "USP Compact",
+  "name": "USPCompact",
   "rank": 2,
   "type": 1,
   "illust": "哈路卡",
@@ -4727,10 +4861,11 @@
       "type": "rate",
       "value": 14
     }]
-  }
+  },
+  "krName": "USP Compact"
 }, {
   "id": 142,
-  "name": "Five-seveN",
+  "name": "FN57",
   "rank": 5,
   "type": 1,
   "illust": "水乌龟",
@@ -4764,7 +4899,8 @@
       "type": "crit",
       "value": 10
     }]
-  }
+  },
+  "krName": "Five-seveN"
 }, {
   "id": 143,
   "name": "RO635",
@@ -4801,10 +4937,11 @@
       "type": "hit",
       "value": 35
     }]
-  }
+  },
+  "krName": "RO635"
 }, {
   "id": 144,
-  "name": "MT-9",
+  "name": "MT9",
   "rank": 3,
   "type": 2,
   "illust": "麻将",
@@ -4838,10 +4975,11 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "MT-9"
 }, {
   "id": 145,
-  "name": "OTs-44",
+  "name": "OC44",
   "rank": 3,
   "type": 3,
   "illust": "rosele",
@@ -4872,7 +5010,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "OTs-44"
 }, {
   "id": 146,
   "name": "G28",
@@ -4906,10 +5045,11 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "G28"
 }, {
   "id": 147,
-  "name": "SSG 69",
+  "name": "SSG69",
   "rank": 3,
   "type": 3,
   "illust": "拿铁",
@@ -4940,10 +5080,11 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "SSG 69"
 }, {
   "id": 148,
-  "name": "IWS 2000",
+  "name": "IWS2000",
   "rank": 5,
   "type": 3,
   "illust": "十月十日奏",
@@ -4974,10 +5115,11 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "IWS 2000"
 }, {
   "id": 149,
-  "name": "AEK-999",
+  "name": "AEK999",
   "rank": 4,
   "type": 5,
   "illust": "RAN",
@@ -5011,7 +5153,8 @@
       "type": "armor",
       "value": 10
     }]
-  }
+  },
+  "krName": "AEK999"
 }, {
   "id": 150,
   "name": "Shipka",
@@ -5048,7 +5191,8 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "시프카"
 }, {
   "id": 151,
   "name": "M1887",
@@ -5085,7 +5229,8 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "M1887"
 }, {
   "id": 152,
   "name": "M1897",
@@ -5119,10 +5264,11 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "M1897"
 }, {
   "id": 153,
-  "name": "M37",
+  "name": "Ithaca37",
   "rank": 4,
   "type": 6,
   "illust": "Rain Lan",
@@ -5153,7 +5299,8 @@
       "type": "pow",
       "value": 18
     }]
-  }
+  },
+  "krName": "M37"
 }, {
   "id": 154,
   "name": "M500",
@@ -5187,7 +5334,8 @@
       "type": "pow",
       "value": 18
     }]
-  }
+  },
+  "krName": "M500"
 }, {
   "id": 155,
   "name": "M590",
@@ -5221,10 +5369,11 @@
       "type": "hit",
       "value": 55
     }]
-  }
+  },
+  "krName": "M590"
 }, {
   "id": 156,
-  "name": "Super-Shorty",
+  "name": "SuperShorty",
   "rank": 4,
   "type": 6,
   "illust": "废人",
@@ -5258,7 +5407,8 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "Super-Shorty"
 }, {
   "id": 157,
   "name": "KSG",
@@ -5292,10 +5442,11 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "KSG"
 }, {
   "id": 158,
-  "name": "KS-23",
+  "name": "KS23",
   "rank": 3,
   "type": 6,
   "illust": "死盖",
@@ -5329,10 +5480,11 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "KS-23"
 }, {
   "id": 159,
-  "name": "RMB-93",
+  "name": "RMB93",
   "rank": 3,
   "type": 6,
   "illust": "Bison仓鼠",
@@ -5366,10 +5518,11 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "RMB-93"
 }, {
   "id": 160,
-  "name": "Saiga-12",
+  "name": "Saiga12",
   "rank": 5,
   "type": 6,
   "illust": "防弹乳牛",
@@ -5400,10 +5553,11 @@
       "type": "pow",
       "value": 15
     }]
-  }
+  },
+  "krName": "Saiga-12"
 }, {
   "id": 161,
-  "name": "Type 97 S",
+  "name": "97typeS",
   "rank": 4,
   "type": 6,
   "illust": "河马",
@@ -5434,10 +5588,11 @@
       "type": "pow",
       "value": 12
     }]
-  }
+  },
+  "krName": "97식 산탄총"
 }, {
   "id": 162,
-  "name": "SPAS-12",
+  "name": "SPAS12",
   "rank": 4,
   "type": 6,
   "illust": "陆生の洲川",
@@ -5468,7 +5623,8 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "SPAS-12"
 }, {
   "id": 166,
   "name": "CZ75",
@@ -5505,7 +5661,8 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "CZ75"
 }, {
   "id": 167,
   "name": "HK45",
@@ -5539,7 +5696,8 @@
       "type": "pow",
       "value": 16
     }]
-  }
+  },
+  "krName": "HK45"
 }, {
   "id": 168,
   "name": "Spitfire",
@@ -5576,10 +5734,11 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "Spitfire"
 }, {
   "id": 169,
-  "name": "Colt SCW",
+  "name": "ColtSCW",
   "rank": 3,
   "type": 2,
   "illust": "幻象黑兔",
@@ -5613,10 +5772,11 @@
       "type": "rate",
       "value": 10
     }]
-  }
+  },
+  "krName": "SCW"
 }, {
   "id": 170,
-  "name": "ASh-12.7",
+  "name": "Ash127",
   "rank": 3,
   "type": 4,
   "illust": "仙女V",
@@ -5647,10 +5807,11 @@
       "type": "pow",
       "value": 30
     }]
-  }
+  },
+  "krName": "Ash-12.7"
 }, {
   "id": 171,
-  "name": "Ribeyrolles1918",
+  "name": "Ribeyrolles",
   "rank": 4,
   "type": 4,
   "illust": "rei",
@@ -5681,7 +5842,8 @@
       "type": "pow",
       "value": 20
     }]
-  }
+  },
+  "krName": "리베롤"
 }, {
   "id": 172,
   "name": "RFB",
@@ -5718,10 +5880,11 @@
       "type": "dodge",
       "value": 18
     }]
-  }
+  },
+  "krName": "RFB"
 }, {
   "id": 173,
-  "name": "Pecheneg",
+  "name": "PKP",
   "rank": 5,
   "type": 5,
   "illust": "虎三",
@@ -5755,10 +5918,11 @@
       "type": "hit",
       "value": 12
     }]
-  }
+  },
+  "krName": "PKP"
 }, {
   "id": 174,
-  "name": "type 81 R",
+  "name": "81typeR",
   "rank": 3,
   "type": 3,
   "illust": "八才",
@@ -5789,7 +5953,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "81식 카빈"
 }, {
   "id": 175,
   "name": "ART556",
@@ -5826,7 +5991,8 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "ART556"
 }, {
   "id": 176,
   "name": "TMP",
@@ -5863,7 +6029,8 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "TMP"
 }, {
   "id": 177,
   "name": "KLIN",
@@ -5897,7 +6064,8 @@
       "type": "rate",
       "value": 25
     }]
-  }
+  },
+  "krName": "KLIN"
 }, {
   "id": 178,
   "name": "F1",
@@ -5934,10 +6102,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "F1"
 }, {
   "id": 179,
-  "name": "DSR-50",
+  "name": "DSR50",
   "rank": 5,
   "type": 3,
   "illust": "liduke",
@@ -5968,7 +6137,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "DSR-50"
 }, {
   "id": 180,
   "name": "PzB39",
@@ -6002,7 +6172,8 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "PzB39"
 }, {
   "id": 181,
   "name": "T91",
@@ -6039,10 +6210,11 @@
       "type": "dodge",
       "value": 12
     }]
-  }
+  },
+  "krName": "T91"
 }, {
   "id": 182,
-  "name": "wz.29",
+  "name": "wz29",
   "rank": 3,
   "type": 3,
   "illust": "zui",
@@ -6073,7 +6245,8 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "wz.39"
 }, {
   "id": 183,
   "name": "Contender",
@@ -6110,10 +6283,11 @@
       "type": "crit",
       "value": 10
     }]
-  }
+  },
+  "krName": "컨텐더"
 }, {
   "id": 184,
-  "name": "T-5000",
+  "name": "T5000",
   "rank": 4,
   "type": 3,
   "illust": "92M",
@@ -6144,7 +6318,8 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "T-5000"
 }, {
   "id": 185,
   "name": "Ameli",
@@ -6181,7 +6356,8 @@
       "type": "armor",
       "value": 15
     }]
-  }
+  },
+  "krName": "아멜리"
 }, {
   "id": 186,
   "name": "P226",
@@ -6218,7 +6394,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "P226"
 }, {
   "id": 187,
   "name": "Ak5",
@@ -6255,7 +6432,8 @@
       "type": "hit",
       "value": 30
     }]
-  }
+  },
+  "krName": "Ak 5"
 }, {
   "id": 188,
   "name": "SAT8",
@@ -6292,7 +6470,8 @@
       "type": "hit",
       "value": 15
     }]
-  }
+  },
+  "krName": "S.A.T.8"
 }, {
   "id": 189,
   "name": "USAS12",
@@ -6329,7 +6508,8 @@
       "type": "hit",
       "value": 20
     }]
-  }
+  },
+  "krName": "USAS-12"
 }, {
   "id": 190,
   "name": "NS2000",
@@ -6363,7 +6543,8 @@
       "type": "pow",
       "value": 15
     }]
-  }
+  },
+  "krName": "NS2000"
 }, {
   "id": 191,
   "name": "M12",
@@ -6400,10 +6581,11 @@
       "type": "dodge",
       "value": 8
     }]
-  }
+  },
+  "krName": "M!2"
 }, {
   "id": 192,
-  "name": "JS05",
+  "name": "JS_127",
   "rank": 5,
   "type": 3,
   "illust": "音符",
@@ -6434,7 +6616,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "JS05"
 }, {
   "id": 193,
   "name": "T65",
@@ -6471,7 +6654,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "T65"
 }, {
   "id": 194,
   "name": "K2",
@@ -6508,7 +6692,8 @@
       "type": "hit",
       "value": 50
     }]
-  }
+  },
+  "krName": "K2"
 }, {
   "id": 195,
   "name": "HK23",
@@ -6545,10 +6730,11 @@
       "type": "armor",
       "value": 12
     }]
-  }
+  },
+  "krName": "HK23"
 }, {
   "id": 196,
-  "name": "Zastava M21",
+  "name": "ZastavaM21",
   "rank": 5,
   "type": 4,
   "illust": "nineo",
@@ -6582,10 +6768,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "Zas M21"
 }, {
   "id": 197,
-  "name": "Carcano M1891",
+  "name": "Carcano1891",
   "rank": 5,
   "type": 3,
   "illust": "細重ソウジ",
@@ -6616,10 +6803,11 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "카르카노M1891"
 }, {
   "id": 198,
-  "name": "Carcano M91/38",
+  "name": "Carcano1938",
   "rank": 5,
   "type": 3,
   "illust": "細重ソウジ",
@@ -6650,7 +6838,8 @@
       "type": "coolDown",
       "value": 10
     }]
-  }
+  },
+  "krName": "카르카노M91/38"
 }, {
   "id": 199,
   "name": "80type",
@@ -6687,10 +6876,11 @@
       "type": "hit",
       "value": 15
     }]
-  }
+  },
+  "krName": "80식"
 }, {
   "id": 200,
-  "name": "XM3",
+  "name": "xm3",
   "rank": 4,
   "type": 3,
   "illust": "时辰",
@@ -6721,10 +6911,11 @@
       "type": "coolDown",
       "value": 15
     }]
-  }
+  },
+  "krName": "XM3"
 }, {
   "id": 201,
-  "name": "Gepard M1",
+  "name": "GepardM1",
   "rank": 3,
   "type": 3,
   "illust": "荒境TS",
@@ -6755,7 +6946,12 @@
       "type": "coolDown",
       "value": 12
     }]
-  }
+  },
+  "krName": "게파드 M1"
+}, {
+  "id": 202,
+  "name": "Thunder50",
+  "krName": "썬더"
 }, {
   "id": 203,
   "name": "PDW",
@@ -6792,7 +6988,8 @@
       "type": "crit",
       "value": 20
     }]
-  }
+  },
+  "krName": "PDW"
 }, {
   "id": 204,
   "name": "Ballista",
@@ -6826,7 +7023,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "발리스타"
 }, {
   "id": 205,
   "name": "AN94",
@@ -6863,7 +7061,8 @@
       "type": "dodge",
       "value": 16
     }]
-  }
+  },
+  "krName": "AN-94"
 }, {
   "id": 206,
   "name": "AK12",
@@ -6900,7 +7099,8 @@
       "type": "rate",
       "value": 15
     }]
-  }
+  },
+  "krName": "AK-12"
 }, {
   "id": 207,
   "name": "CZ2000",
@@ -6937,7 +7137,8 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "CZ2000"
 }, {
   "id": 208,
   "name": "HK21",
@@ -6966,7 +7167,7 @@
   "effect": {
     "effectType": 6,
     "effectCenter": 4,
-    "effectPos": [3,6],
+    "effectPos": [3, 6],
     "gridEffect": [{
       "type": "pow",
       "value": 15
@@ -6974,7 +7175,8 @@
       "type": "armor",
       "value": 15
     }]
-  }
+  },
+  "krName": "HK21"
 }, {
   "id": 210,
   "name": "CZ52",
@@ -7011,10 +7213,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "CZ52"
 }, {
   "id": 1001,
-  "name": "Noel",
+  "name": "BB_Noel",
   "rank": 5,
   "type": 1,
   "illust": "水熊",
@@ -7048,10 +7251,11 @@
       "type": "dodge",
       "value": 10
     }]
-  }
+  },
+  "krName": "노엘 버밀리온"
 }, {
   "id": 1002,
-  "name": "Elphelt",
+  "name": "GG_elfeldt",
   "rank": 5,
   "type": 6,
   "illust": "ZAGALA",
@@ -7085,7 +7289,8 @@
       "type": "hit",
       "value": 15
     }]
-  }
+  },
+  "krName": "엘펠트 밸런타인"
 }, {
   "id": 1003,
   "name": "Kiana",
@@ -7122,10 +7327,11 @@
       "type": "dodge",
       "value": 15
     }]
-  }
+  },
+  "krName": "키아나 카스라나"
 }, {
   "id": 1004,
-  "name": "Mei",
+  "name": "RaidenMei",
   "rank": 5,
   "type": 3,
   "illust": "NIN",
@@ -7156,7 +7362,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "라이덴 메이"
 }, {
   "id": 1005,
   "name": "Bronya",
@@ -7190,7 +7397,8 @@
       "type": "coolDown",
       "value": 18
     }]
-  }
+  },
+  "krName": "브로냐 자이칙"
 }, {
   "id": 1006,
   "name": "Theresa",
@@ -7227,7 +7435,8 @@
       "type": "hit",
       "value": 25
     }]
-  }
+  },
+  "krName": "테레사 아포칼립스"
 }, {
   "id": 1007,
   "name": "Himeko",
@@ -7264,7 +7473,8 @@
       "type": "rate",
       "value": 20
     }]
-  }
+  },
+  "krName": "무라타 히메코"
 }, {
   "id": 1008,
   "name": "Seele",
@@ -7301,5 +7511,6 @@
       "type": "hit",
       "value": 10
     }]
-  }
+  },
+  "krName": "제레 발레"
 }]
