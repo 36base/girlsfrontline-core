@@ -33,27 +33,6 @@ const AR = dolls.filter(({type}) => type === 4);
 | 5 | MG |
 | 6 | SG |
 
-```javascript
-const {type} = doll;
-
-switch (type) {
-  case 1: console.log('HG');
-    break;
-  case 2: console.log('SMG');
-    break;
-  case 3: console.log('RF');
-    break;
-  case 4: console.log('AR');
-    break;
-  case 5: console.log('SG');
-    break;
-  case 6: console.log('MG');
-    break;
-  default:
-    console.log('UNKNOWN');
-}
-```
-
 <a name="doll_stats"></a>
 ### [stats](#main) ⇒ <code>Object</code>
 해당 인형의 기본 스탯을 나타냅니다.
