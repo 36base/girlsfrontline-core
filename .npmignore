@@ -4,6 +4,9 @@ src
 .editorconfig
 .babelrc
 .eslintrc
+.eslintignore
 .travis.yml
 
-data/origin
+data/raw
+src/parser
+parser
