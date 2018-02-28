@@ -1,0 +1,1278 @@
+[{
+  "name": "LRA 2-12x50",
+  "rank": "3",
+  "category": "1",
+  "type": "1",
+  "buildTime": "1200",
+  "stats": {
+    "crit": {
+      "min": 9,
+      "max": 12,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "PSO-1",
+  "rank": "4",
+  "category": "1",
+  "type": "1",
+  "buildTime": "2100",
+  "stats": {
+    "crit": {
+      "min": 13,
+      "max": 16,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "VFL 6-24X56",
+  "rank": "5",
+  "category": "1",
+  "type": "1",
+  "buildTime": "2700",
+  "stats": {
+    "crit": {
+      "min": 17,
+      "max": 24,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "EOT 506",
+  "rank": "2",
+  "category": "1",
+  "type": "2",
+  "buildTime": "480",
+  "stats": {
+    "hit": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 0
+    },
+    "pow": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 0
+    },
+    "rate": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "EOT 512",
+  "rank": "3",
+  "category": "1",
+  "type": "2",
+  "buildTime": "1380",
+  "stats": {
+    "hit": {
+      "min": 2,
+      "max": 2,
+      "upgrade": 5
+    },
+    "pow": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 5
+    },
+    "rate": {
+      "min": -2,
+      "max": -2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "EOT 516",
+  "rank": "4",
+  "category": "1",
+  "type": "2",
+  "buildTime": "2280",
+  "stats": {
+    "hit": {
+      "min": 3,
+      "max": 5,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 4
+    },
+    "rate": {
+      "min": -4,
+      "max": -3,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "EOT 518",
+  "rank": "5",
+  "category": "1",
+  "type": "2",
+  "buildTime": "2880",
+  "stats": {
+    "hit": {
+      "min": 6,
+      "max": 10,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 4
+    },
+    "rate": {
+      "min": -6,
+      "max": -4,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "AMP COMPM2",
+  "rank": "2",
+  "category": "1",
+  "type": "3",
+  "buildTime": "600",
+  "stats": {
+    "hit": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 0
+    },
+    "rate": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "AMP COMPM4",
+  "rank": "3",
+  "category": "1",
+  "type": "3",
+  "buildTime": "1500",
+  "stats": {
+    "hit": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -2,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "COG M150",
+  "rank": "4",
+  "category": "1",
+  "type": "3",
+  "buildTime": "2400",
+  "stats": {
+    "hit": {
+      "min": 7,
+      "max": 10,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -3,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "ITI MARS",
+  "rank": "5",
+  "category": "1",
+  "type": "3",
+  "buildTime": "3000",
+  "stats": {
+    "hit": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -4,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "PEQ-2",
+  "rank": "2",
+  "category": "1",
+  "type": "4",
+  "buildTime": "540",
+  "stats": {
+    "nightView": {
+      "min": 51,
+      "max": 55,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "PEQ-5",
+  "rank": "3",
+  "category": "1",
+  "type": "4",
+  "buildTime": "1440",
+  "stats": {
+    "nightView": {
+      "min": 61,
+      "max": 70,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "PEQ-15",
+  "rank": "4",
+  "category": "1",
+  "type": "4",
+  "buildTime": "2340",
+  "stats": {
+    "nightView": {
+      "min": 76,
+      "max": 85,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "PEQ-16A",
+  "rank": "5",
+  "category": "1",
+  "type": "4",
+  "buildTime": "2940",
+  "stats": {
+    "nightView": {
+      "min": 91,
+      "max": 100,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "M61철갑탄",
+  "rank": "2",
+  "category": "2",
+  "type": "5",
+  "buildTime": "900",
+  "stats": {
+    "armorPiercing": {
+      "min": 25,
+      "max": 35,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "M993철갑탄",
+  "rank": "3",
+  "category": "2",
+  "type": "5",
+  "buildTime": "1800",
+  "stats": {
+    "armorPiercing": {
+      "min": 40,
+      "max": 50,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "Mk169철갑탄",
+  "rank": "4",
+  "category": "2",
+  "type": "5",
+  "buildTime": "2700",
+  "stats": {
+    "armorPiercing": {
+      "min": 55,
+      "max": 65,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "Mk211고폭철갑탄",
+  "rank": "5",
+  "category": "2",
+  "type": "5",
+  "buildTime": "3300",
+  "stats": {
+    "armorPiercing": {
+      "min": 70,
+      "max": 80,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "FMJ고속탄",
+  "rank": "2",
+  "category": "2",
+  "type": "8",
+  "buildTime": "1080",
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "JSP고속탄",
+  "rank": "3",
+  "category": "2",
+  "type": "8",
+  "buildTime": "1980",
+  "stats": {
+    "pow": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "JHP고속탄",
+  "rank": "4",
+  "category": "2",
+  "type": "8",
+  "buildTime": "2880",
+  "stats": {
+    "pow": {
+      "min": 5,
+      "max": 7,
+      "upgrade": 8
+    }
+  }
+}, {
+  "name": "APCR고속탄",
+  "rank": "5",
+  "category": "2",
+  "type": "8",
+  "buildTime": "3480",
+  "stats": {
+    "pow": {
+      "min": 8,
+      "max": 12,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "IOP T1 외골격",
+  "rank": "2",
+  "category": "3",
+  "type": "10",
+  "buildTime": "720",
+  "stats": {
+    "dodge": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 0
+    },
+    "pow": {
+      "min": -2,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "IOP T2 외골격",
+  "rank": "3",
+  "category": "3",
+  "type": "10",
+  "buildTime": "1620",
+  "stats": {
+    "dodge": {
+      "min": 10,
+      "max": 12,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": -4,
+      "max": -3,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "IOP T3 외골격",
+  "rank": "4",
+  "category": "3",
+  "type": "10",
+  "buildTime": "2520",
+  "stats": {
+    "dodge": {
+      "min": 14,
+      "max": 16,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": -6,
+      "max": -5,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "IOP T4 외골격",
+  "rank": "5",
+  "category": "3",
+  "type": "10",
+  "buildTime": "3120",
+  "stats": {
+    "dodge": {
+      "min": 20,
+      "max": 25,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": -8,
+      "max": -6,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "Type1 방탄판",
+  "rank": "3",
+  "category": "3",
+  "type": "11",
+  "buildTime": "1560",
+  "stats": {
+    "armor": {
+      "min": 3,
+      "max": 3,
+      "upgrade": 4
+    },
+    "dodge": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "Type2 방탄판",
+  "rank": "4",
+  "category": "3",
+  "type": "11",
+  "buildTime": "2460",
+  "stats": {
+    "armor": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 4
+    },
+    "dodge": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "Type3 방탄판",
+  "rank": "5",
+  "category": "3",
+  "type": "11",
+  "buildTime": "3060",
+  "stats": {
+    "armor": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 4
+    },
+    "dodge": {
+      "min": -3,
+      "max": -2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "16Lab 적외선지시기",
+  "rank": "5",
+  "category": "1",
+  "type": "4",
+  "buildTime": "3120",
+  "stats": {
+    "nightView": {
+      "min": 100,
+      "max": 100,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "16Lab 차구경철갑탄",
+  "rank": "5",
+  "category": "2",
+  "type": "5",
+  "buildTime": "3420",
+  "stats": {
+    "armorPiercing": {
+      "min": 80,
+      "max": 80,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "IOP X1외골격",
+  "rank": "2",
+  "category": "3",
+  "type": "10",
+  "buildTime": "720",
+  "stats": {
+    "dodge": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "IOP X2외골격",
+  "rank": "3",
+  "category": "3",
+  "type": "10",
+  "buildTime": "1620",
+  "stats": {
+    "dodge": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 8
+    }
+  }
+}, {
+  "name": "IOP X3외골격",
+  "rank": "4",
+  "category": "3",
+  "type": "10",
+  "buildTime": "2520",
+  "stats": {
+    "dodge": {
+      "min": 6,
+      "max": 7,
+      "upgrade": 9
+    }
+  }
+}, {
+  "name": "IOP X4외골격",
+  "rank": "5",
+  "category": "3",
+  "type": "10",
+  "buildTime": "3120",
+  "stats": {
+    "dodge": {
+      "min": 8,
+      "max": 12,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "사격경기용 철갑탄",
+  "rank": "5",
+  "category": "2",
+  "type": "5",
+  "buildTime": "3420",
+  "fitGuns": [36],
+  "stats": {
+    "rate": {
+      "min": 1,
+      "max": 8,
+      "upgrade": 3
+    },
+    "armorPiercing": {
+      "min": 75,
+      "max": 85,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": ".300BLK고속탄",
+  "rank": "5",
+  "category": "2",
+  "type": "8",
+  "buildTime": "3420",
+  "fitGuns": [57],
+  "stats": {
+    "hit": {
+      "min": -5,
+      "max": -1,
+      "upgrade": 0
+    },
+    "pow": {
+      "min": 12,
+      "max": 16,
+      "upgrade": 6
+    }
+  }
+}, {
+  "name": "Titan사격제어칩",
+  "rank": "5",
+  "category": "3",
+  "type": "9",
+  "buildTime": "3420",
+  "fitGuns": [75],
+  "stats": {
+    "pow": {
+      "min": -4,
+      "max": -2,
+      "upgrade": 0
+    },
+    "rate": {
+      "min": -8,
+      "max": -1,
+      "upgrade": 0
+    },
+    "bullet": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "GSG UX외골격",
+  "rank": "5",
+  "category": "3",
+  "type": "10",
+  "buildTime": "3120",
+  "fitGuns": [26],
+  "stats": {
+    "dodge": {
+      "min": 30,
+      "max": 45,
+      "upgrade": 3
+    },
+    "pow": {
+      "min": -10,
+      "max": -6,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "AC1소음기",
+  "rank": "2",
+  "category": "1",
+  "type": "13",
+  "buildTime": "420",
+  "stats": {
+    "dodge": {
+      "min": 2,
+      "max": 2,
+      "upgrade": 0
+    },
+    "crit": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "AC2소음기",
+  "rank": "3",
+  "category": "1",
+  "type": "13",
+  "buildTime": "1320",
+  "stats": {
+    "dodge": {
+      "min": 3,
+      "max": 3,
+      "upgrade": 4
+    },
+    "crit": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "AC3소음기",
+  "rank": "4",
+  "category": "1",
+  "type": "13",
+  "buildTime": "2220",
+  "stats": {
+    "dodge": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 4
+    },
+    "crit": {
+      "min": 9,
+      "max": 11,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "AC4소음기",
+  "rank": "5",
+  "category": "1",
+  "type": "13",
+  "buildTime": "2820",
+  "stats": {
+    "dodge": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 3
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "IOP보급형 탄약통",
+  "rank": "4",
+  "category": "3",
+  "type": "14",
+  "buildTime": "2820",
+  "stats": {
+    "dodge": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    },
+    "bullet": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 20
+    }
+  }
+}, {
+  "name": "IOP대용량 탄약통",
+  "rank": "5",
+  "category": "3",
+  "type": "14",
+  "buildTime": "3420",
+  "stats": {
+    "dodge": {
+      "min": -3,
+      "max": -2,
+      "upgrade": 0
+    },
+    "bullet": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "ILM HP탄",
+  "rank": "2",
+  "category": "2",
+  "type": "6",
+  "buildTime": "780",
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 0
+    },
+    "armorPiercing": {
+      "min": -1,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "ILM HP탄",
+  "rank": "3",
+  "category": "2",
+  "type": "6",
+  "buildTime": "1680",
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    },
+    "armorPiercing": {
+      "min": -3,
+      "max": -2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "ILM HP탄",
+  "rank": "4",
+  "category": "2",
+  "type": "6",
+  "buildTime": "2580",
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -6,
+      "max": -4,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "ILM HP탄",
+  "rank": "5",
+  "category": "2",
+  "type": "6",
+  "buildTime": "3180",
+  "stats": {
+    "pow": {
+      "min": 7,
+      "max": 10,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -10,
+      "max": -7,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "#1벅 샷",
+  "rank": "2",
+  "category": "2",
+  "type": "7",
+  "buildTime": "840",
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "#0벅 샷",
+  "rank": "3",
+  "category": "2",
+  "type": "7",
+  "buildTime": "1740",
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 5,
+      "max": 6,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "#00벅 샷",
+  "rank": "4",
+  "category": "2",
+  "type": "7",
+  "buildTime": "2640",
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 7,
+      "max": 9,
+      "upgrade": 6
+    }
+  }
+}, {
+  "name": "#000벅 샷",
+  "rank": "5",
+  "category": "2",
+  "type": "7",
+  "buildTime": "3240",
+  "stats": {
+    "pow": {
+      "min": 7,
+      "max": 10,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 10,
+      "max": 15,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "BK 슬러그탄",
+  "rank": "2",
+  "category": "2",
+  "type": "7",
+  "buildTime": "840",
+  "stats": {
+    "hit": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "FST 슬러그탄",
+  "rank": "3",
+  "category": "2",
+  "type": "7",
+  "buildTime": "1740",
+  "stats": {
+    "hit": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "WAD 슬러그탄",
+  "rank": "4",
+  "category": "2",
+  "type": "7",
+  "buildTime": "2640",
+  "stats": {
+    "hit": {
+      "min": 5,
+      "max": 7,
+      "upgrade": 9
+    }
+  }
+}, {
+  "name": "SABOT 슬러그탄",
+  "rank": "5",
+  "category": "2",
+  "type": "7",
+  "buildTime": "3240",
+  "stats": {
+    "hit": {
+      "min": 8,
+      "max": 12,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "16Lab 방탄판",
+  "rank": "5",
+  "category": "3",
+  "type": "11",
+  "buildTime": "3060",
+  "stats": {
+    "armor": {
+      "min": 8,
+      "max": 8,
+      "upgrade": 4
+    },
+    "dodge": {
+      "min": -2,
+      "max": -2,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "16Lab벅 샷",
+  "rank": "5",
+  "category": "2",
+  "type": "7",
+  "buildTime": "3240",
+  "stats": {
+    "pow": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "KSTSP",
+  "rank": "5",
+  "category": "1",
+  "type": "1",
+  "buildTime": "2700",
+  "fitGuns": [58, 66],
+  "stats": {
+    "crit": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 40,
+      "max": 40,
+      "upgrade": 1
+    }
+  }
+}, {
+  "name": "KST1P8",
+  "rank": "5",
+  "category": "1",
+  "type": "1",
+  "buildTime": "2700",
+  "fitGuns": [58, 66],
+  "stats": {
+    "crit": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 25,
+      "max": 25,
+      "upgrade": 2
+    }
+  }
+}, {
+  "name": "KST1P7",
+  "rank": "5",
+  "category": "1",
+  "type": "1",
+  "buildTime": "2700",
+  "fitGuns": [58, 66],
+  "stats": {
+    "crit": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    },
+    "critDmg": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "Hayha메모리 칩",
+  "rank": "5",
+  "category": "3",
+  "type": "9",
+  "buildTime": "3420",
+  "fitGuns": [39],
+  "stats": {
+    "dodge": {
+      "min": 2,
+      "max": 4,
+      "upgrade": 3
+    },
+    "pow": {
+      "min": 18,
+      "max": 25,
+      "upgrade": 2
+    },
+    "critDmg": {
+      "min": 15,
+      "max": 20,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "낡은 슈트",
+  "rank": "2",
+  "category": "3",
+  "type": "15",
+  "buildTime": "960",
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "길리슈트",
+  "rank": "3",
+  "category": "3",
+  "type": "15",
+  "buildTime": "1860",
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 5,
+      "max": 7,
+      "upgrade": 9
+    }
+  }
+}, {
+  "name": "도시 미채 슈트",
+  "rank": "4",
+  "category": "3",
+  "type": "15",
+  "buildTime": "2760",
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 8,
+      "max": 10,
+      "upgrade": 8
+    }
+  }
+}, {
+  "name": "열광학 미채 슈트",
+  "rank": "5",
+  "category": "3",
+  "type": "15",
+  "buildTime": "3360",
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "특수 전술기동장갑",
+  "rank": "5",
+  "category": "3",
+  "type": "11",
+  "buildTime": "3060",
+  "fitGuns": [54],
+  "stats": {
+    "armor": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 3
+    },
+    "dodge": {
+      "min": 8,
+      "max": 8,
+      "upgrade": 3
+    },
+    "hit": {
+      "min": -20,
+      "max": -20,
+      "upgrade": 0
+    },
+    "rate": {
+      "min": -10,
+      "max": -10,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "UMP UX외골격",
+  "rank": "5",
+  "category": "3",
+  "type": "10",
+  "buildTime": "3120",
+  "fitGuns": [101, 102, 103],
+  "stats": {
+    "dodge": {
+      "min": 20,
+      "max": 25,
+      "upgrade": 4
+    },
+    "critDmg": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "PKN03M야간조준경",
+  "rank": "5",
+  "category": "1",
+  "type": "4",
+  "buildTime": "2940",
+  "fitGuns": [118],
+  "stats": {
+    "pow": {
+      "min": 5,
+      "max": 5,
+      "upgrade": 6
+    },
+    "nightView": {
+      "min": 100,
+      "max": 100,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "전술용 메모리 칩",
+  "rank": "5",
+  "category": "3",
+  "type": "9",
+  "buildTime": "3420",
+  "fitGuns": [185],
+  "stats": {
+    "hit": {
+      "min": -5,
+      "max": -3,
+      "upgrade": 0
+    },
+    "pow": {
+      "min": 3,
+      "max": 5,
+      "upgrade": 6
+    },
+    "bullet": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 5
+    }
+  }
+}, {
+  "name": "16Lab HP탄",
+  "rank": "5",
+  "category": "2",
+  "type": "6",
+  "buildTime": "3180",
+  "stats": {
+    "pow": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -7,
+      "max": -7,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "16lab 열광학 슈트",
+  "rank": "5",
+  "category": "3",
+  "type": "15",
+  "buildTime": "3360",
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "BM 3-12X40",
+  "rank": "2",
+  "category": "1",
+  "type": "1",
+  "buildTime": "300",
+  "stats": {
+    "crit": {
+      "min": 5,
+      "max": 8,
+      "upgrade": 0
+    }
+  }
+}]
