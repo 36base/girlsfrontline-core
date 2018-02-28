@@ -1,9 +1,9 @@
 [{
   "name": "LRA 2-12x50",
-  "rank": "3",
-  "category": "1",
-  "type": "1",
-  "buildTime": "1200",
+  "rank": 3,
+  "category": 1,
+  "type": 1,
+  "buildTime": 1200,
   "stats": {
     "crit": {
       "min": 9,
@@ -13,10 +13,10 @@
   }
 }, {
   "name": "PSO-1",
-  "rank": "4",
-  "category": "1",
-  "type": "1",
-  "buildTime": "2100",
+  "rank": 4,
+  "category": 1,
+  "type": 1,
+  "buildTime": 2100,
   "stats": {
     "crit": {
       "min": 13,
@@ -26,10 +26,10 @@
   }
 }, {
   "name": "VFL 6-24X56",
-  "rank": "5",
-  "category": "1",
-  "type": "1",
-  "buildTime": "2700",
+  "rank": 5,
+  "category": 1,
+  "type": 1,
+  "buildTime": 2700,
   "stats": {
     "crit": {
       "min": 17,
@@ -39,10 +39,10 @@
   }
 }, {
   "name": "EOT 506",
-  "rank": "2",
-  "category": "1",
-  "type": "2",
-  "buildTime": "480",
+  "rank": 2,
+  "category": 1,
+  "type": 2,
+  "buildTime": 480,
   "stats": {
     "hit": {
       "min": 1,
@@ -62,10 +62,10 @@
   }
 }, {
   "name": "EOT 512",
-  "rank": "3",
-  "category": "1",
-  "type": "2",
-  "buildTime": "1380",
+  "rank": 3,
+  "category": 1,
+  "type": 2,
+  "buildTime": 1380,
   "stats": {
     "hit": {
       "min": 2,
@@ -85,10 +85,10 @@
   }
 }, {
   "name": "EOT 516",
-  "rank": "4",
-  "category": "1",
-  "type": "2",
-  "buildTime": "2280",
+  "rank": 4,
+  "category": 1,
+  "type": 2,
+  "buildTime": 2280,
   "stats": {
     "hit": {
       "min": 3,
@@ -108,10 +108,10 @@
   }
 }, {
   "name": "EOT 518",
-  "rank": "5",
-  "category": "1",
-  "type": "2",
-  "buildTime": "2880",
+  "rank": 5,
+  "category": 1,
+  "type": 2,
+  "buildTime": 2880,
   "stats": {
     "hit": {
       "min": 6,
@@ -131,10 +131,10 @@
   }
 }, {
   "name": "AMP COMPM2",
-  "rank": "2",
-  "category": "1",
-  "type": "3",
-  "buildTime": "600",
+  "rank": 2,
+  "category": 1,
+  "type": 3,
+  "buildTime": 600,
   "stats": {
     "hit": {
       "min": 2,
@@ -149,10 +149,10 @@
   }
 }, {
   "name": "AMP COMPM4",
-  "rank": "3",
-  "category": "1",
-  "type": "3",
-  "buildTime": "1500",
+  "rank": 3,
+  "category": 1,
+  "type": 3,
+  "buildTime": 1500,
   "stats": {
     "hit": {
       "min": 4,
@@ -167,10 +167,10 @@
   }
 }, {
   "name": "COG M150",
-  "rank": "4",
-  "category": "1",
-  "type": "3",
-  "buildTime": "2400",
+  "rank": 4,
+  "category": 1,
+  "type": 3,
+  "buildTime": 2400,
   "stats": {
     "hit": {
       "min": 7,
@@ -185,10 +185,10 @@
   }
 }, {
   "name": "ITI MARS",
-  "rank": "5",
-  "category": "1",
-  "type": "3",
-  "buildTime": "3000",
+  "rank": 5,
+  "category": 1,
+  "type": 3,
+  "buildTime": 3000,
   "stats": {
     "hit": {
       "min": 11,
@@ -203,10 +203,10 @@
   }
 }, {
   "name": "PEQ-2",
-  "rank": "2",
-  "category": "1",
-  "type": "4",
-  "buildTime": "540",
+  "rank": 2,
+  "category": 1,
+  "type": 4,
+  "buildTime": 540,
   "stats": {
     "nightView": {
       "min": 51,
@@ -216,10 +216,10 @@
   }
 }, {
   "name": "PEQ-5",
-  "rank": "3",
-  "category": "1",
-  "type": "4",
-  "buildTime": "1440",
+  "rank": 3,
+  "category": 1,
+  "type": 4,
+  "buildTime": 1440,
   "stats": {
     "nightView": {
       "min": 61,
@@ -229,10 +229,10 @@
   }
 }, {
   "name": "PEQ-15",
-  "rank": "4",
-  "category": "1",
-  "type": "4",
-  "buildTime": "2340",
+  "rank": 4,
+  "category": 1,
+  "type": 4,
+  "buildTime": 2340,
   "stats": {
     "nightView": {
       "min": 76,
@@ -242,10 +242,10 @@
   }
 }, {
   "name": "PEQ-16A",
-  "rank": "5",
-  "category": "1",
-  "type": "4",
-  "buildTime": "2940",
+  "rank": 5,
+  "category": 1,
+  "type": 4,
+  "buildTime": 2940,
   "stats": {
     "nightView": {
       "min": 91,
@@ -255,10 +255,10 @@
   }
 }, {
   "name": "M61철갑탄",
-  "rank": "2",
-  "category": "2",
-  "type": "5",
-  "buildTime": "900",
+  "rank": 2,
+  "category": 2,
+  "type": 5,
+  "buildTime": 900,
   "stats": {
     "armorPiercing": {
       "min": 25,
@@ -268,10 +268,10 @@
   }
 }, {
   "name": "M993철갑탄",
-  "rank": "3",
-  "category": "2",
-  "type": "5",
-  "buildTime": "1800",
+  "rank": 3,
+  "category": 2,
+  "type": 5,
+  "buildTime": 1800,
   "stats": {
     "armorPiercing": {
       "min": 40,
@@ -281,10 +281,10 @@
   }
 }, {
   "name": "Mk169철갑탄",
-  "rank": "4",
-  "category": "2",
-  "type": "5",
-  "buildTime": "2700",
+  "rank": 4,
+  "category": 2,
+  "type": 5,
+  "buildTime": 2700,
   "stats": {
     "armorPiercing": {
       "min": 55,
@@ -294,10 +294,10 @@
   }
 }, {
   "name": "Mk211고폭철갑탄",
-  "rank": "5",
-  "category": "2",
-  "type": "5",
-  "buildTime": "3300",
+  "rank": 5,
+  "category": 2,
+  "type": 5,
+  "buildTime": 3300,
   "stats": {
     "armorPiercing": {
       "min": 70,
@@ -307,10 +307,10 @@
   }
 }, {
   "name": "FMJ고속탄",
-  "rank": "2",
-  "category": "2",
-  "type": "8",
-  "buildTime": "1080",
+  "rank": 2,
+  "category": 2,
+  "type": 8,
+  "buildTime": 1080,
   "stats": {
     "pow": {
       "min": 2,
@@ -320,10 +320,10 @@
   }
 }, {
   "name": "JSP고속탄",
-  "rank": "3",
-  "category": "2",
-  "type": "8",
-  "buildTime": "1980",
+  "rank": 3,
+  "category": 2,
+  "type": 8,
+  "buildTime": 1980,
   "stats": {
     "pow": {
       "min": 3,
@@ -333,10 +333,10 @@
   }
 }, {
   "name": "JHP고속탄",
-  "rank": "4",
-  "category": "2",
-  "type": "8",
-  "buildTime": "2880",
+  "rank": 4,
+  "category": 2,
+  "type": 8,
+  "buildTime": 2880,
   "stats": {
     "pow": {
       "min": 5,
@@ -346,10 +346,10 @@
   }
 }, {
   "name": "APCR고속탄",
-  "rank": "5",
-  "category": "2",
-  "type": "8",
-  "buildTime": "3480",
+  "rank": 5,
+  "category": 2,
+  "type": 8,
+  "buildTime": 3480,
   "stats": {
     "pow": {
       "min": 8,
@@ -359,10 +359,10 @@
   }
 }, {
   "name": "IOP T1 외골격",
-  "rank": "2",
-  "category": "3",
-  "type": "10",
-  "buildTime": "720",
+  "rank": 2,
+  "category": 3,
+  "type": 10,
+  "buildTime": 720,
   "stats": {
     "dodge": {
       "min": 6,
@@ -377,10 +377,10 @@
   }
 }, {
   "name": "IOP T2 외골격",
-  "rank": "3",
-  "category": "3",
-  "type": "10",
-  "buildTime": "1620",
+  "rank": 3,
+  "category": 3,
+  "type": 10,
+  "buildTime": 1620,
   "stats": {
     "dodge": {
       "min": 10,
@@ -395,10 +395,10 @@
   }
 }, {
   "name": "IOP T3 외골격",
-  "rank": "4",
-  "category": "3",
-  "type": "10",
-  "buildTime": "2520",
+  "rank": 4,
+  "category": 3,
+  "type": 10,
+  "buildTime": 2520,
   "stats": {
     "dodge": {
       "min": 14,
@@ -413,10 +413,10 @@
   }
 }, {
   "name": "IOP T4 외골격",
-  "rank": "5",
-  "category": "3",
-  "type": "10",
-  "buildTime": "3120",
+  "rank": 5,
+  "category": 3,
+  "type": 10,
+  "buildTime": 3120,
   "stats": {
     "dodge": {
       "min": 20,
@@ -431,10 +431,10 @@
   }
 }, {
   "name": "Type1 방탄판",
-  "rank": "3",
-  "category": "3",
-  "type": "11",
-  "buildTime": "1560",
+  "rank": 3,
+  "category": 3,
+  "type": 11,
+  "buildTime": 1560,
   "stats": {
     "armor": {
       "min": 3,
@@ -449,10 +449,10 @@
   }
 }, {
   "name": "Type2 방탄판",
-  "rank": "4",
-  "category": "3",
-  "type": "11",
-  "buildTime": "2460",
+  "rank": 4,
+  "category": 3,
+  "type": 11,
+  "buildTime": 2460,
   "stats": {
     "armor": {
       "min": 4,
@@ -467,10 +467,10 @@
   }
 }, {
   "name": "Type3 방탄판",
-  "rank": "5",
-  "category": "3",
-  "type": "11",
-  "buildTime": "3060",
+  "rank": 5,
+  "category": 3,
+  "type": 11,
+  "buildTime": 3060,
   "stats": {
     "armor": {
       "min": 6,
@@ -485,10 +485,10 @@
   }
 }, {
   "name": "16Lab 적외선지시기",
-  "rank": "5",
-  "category": "1",
-  "type": "4",
-  "buildTime": "3120",
+  "rank": 5,
+  "category": 1,
+  "type": 4,
+  "buildTime": 3120,
   "stats": {
     "nightView": {
       "min": 100,
@@ -498,10 +498,10 @@
   }
 }, {
   "name": "16Lab 차구경철갑탄",
-  "rank": "5",
-  "category": "2",
-  "type": "5",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 2,
+  "type": 5,
+  "buildTime": 3420,
   "stats": {
     "armorPiercing": {
       "min": 80,
@@ -511,10 +511,10 @@
   }
 }, {
   "name": "IOP X1외골격",
-  "rank": "2",
-  "category": "3",
-  "type": "10",
-  "buildTime": "720",
+  "rank": 2,
+  "category": 3,
+  "type": 10,
+  "buildTime": 720,
   "stats": {
     "dodge": {
       "min": 2,
@@ -524,10 +524,10 @@
   }
 }, {
   "name": "IOP X2외골격",
-  "rank": "3",
-  "category": "3",
-  "type": "10",
-  "buildTime": "1620",
+  "rank": 3,
+  "category": 3,
+  "type": 10,
+  "buildTime": 1620,
   "stats": {
     "dodge": {
       "min": 4,
@@ -537,10 +537,10 @@
   }
 }, {
   "name": "IOP X3외골격",
-  "rank": "4",
-  "category": "3",
-  "type": "10",
-  "buildTime": "2520",
+  "rank": 4,
+  "category": 3,
+  "type": 10,
+  "buildTime": 2520,
   "stats": {
     "dodge": {
       "min": 6,
@@ -550,10 +550,10 @@
   }
 }, {
   "name": "IOP X4외골격",
-  "rank": "5",
-  "category": "3",
-  "type": "10",
-  "buildTime": "3120",
+  "rank": 5,
+  "category": 3,
+  "type": 10,
+  "buildTime": 3120,
   "stats": {
     "dodge": {
       "min": 8,
@@ -563,10 +563,10 @@
   }
 }, {
   "name": "사격경기용 철갑탄",
-  "rank": "5",
-  "category": "2",
-  "type": "5",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 2,
+  "type": 5,
+  "buildTime": 3420,
   "fitGuns": [36],
   "stats": {
     "rate": {
@@ -582,10 +582,10 @@
   }
 }, {
   "name": ".300BLK고속탄",
-  "rank": "5",
-  "category": "2",
-  "type": "8",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 2,
+  "type": 8,
+  "buildTime": 3420,
   "fitGuns": [57],
   "stats": {
     "hit": {
@@ -601,10 +601,10 @@
   }
 }, {
   "name": "Titan사격제어칩",
-  "rank": "5",
-  "category": "3",
-  "type": "9",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 3,
+  "type": 9,
+  "buildTime": 3420,
   "fitGuns": [75],
   "stats": {
     "pow": {
@@ -625,10 +625,10 @@
   }
 }, {
   "name": "GSG UX외골격",
-  "rank": "5",
-  "category": "3",
-  "type": "10",
-  "buildTime": "3120",
+  "rank": 5,
+  "category": 3,
+  "type": 10,
+  "buildTime": 3120,
   "fitGuns": [26],
   "stats": {
     "dodge": {
@@ -644,10 +644,10 @@
   }
 }, {
   "name": "AC1소음기",
-  "rank": "2",
-  "category": "1",
-  "type": "13",
-  "buildTime": "420",
+  "rank": 2,
+  "category": 1,
+  "type": 13,
+  "buildTime": 420,
   "stats": {
     "dodge": {
       "min": 2,
@@ -662,10 +662,10 @@
   }
 }, {
   "name": "AC2소음기",
-  "rank": "3",
-  "category": "1",
-  "type": "13",
-  "buildTime": "1320",
+  "rank": 3,
+  "category": 1,
+  "type": 13,
+  "buildTime": 1320,
   "stats": {
     "dodge": {
       "min": 3,
@@ -680,10 +680,10 @@
   }
 }, {
   "name": "AC3소음기",
-  "rank": "4",
-  "category": "1",
-  "type": "13",
-  "buildTime": "2220",
+  "rank": 4,
+  "category": 1,
+  "type": 13,
+  "buildTime": 2220,
   "stats": {
     "dodge": {
       "min": 4,
@@ -698,10 +698,10 @@
   }
 }, {
   "name": "AC4소음기",
-  "rank": "5",
-  "category": "1",
-  "type": "13",
-  "buildTime": "2820",
+  "rank": 5,
+  "category": 1,
+  "type": 13,
+  "buildTime": 2820,
   "stats": {
     "dodge": {
       "min": 6,
@@ -716,10 +716,10 @@
   }
 }, {
   "name": "IOP보급형 탄약통",
-  "rank": "4",
-  "category": "3",
-  "type": "14",
-  "buildTime": "2820",
+  "rank": 4,
+  "category": 3,
+  "type": 14,
+  "buildTime": 2820,
   "stats": {
     "dodge": {
       "min": -1,
@@ -734,10 +734,10 @@
   }
 }, {
   "name": "IOP대용량 탄약통",
-  "rank": "5",
-  "category": "3",
-  "type": "14",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 3,
+  "type": 14,
+  "buildTime": 3420,
   "stats": {
     "dodge": {
       "min": -3,
@@ -752,10 +752,10 @@
   }
 }, {
   "name": "ILM HP탄",
-  "rank": "2",
-  "category": "2",
-  "type": "6",
-  "buildTime": "780",
+  "rank": 2,
+  "category": 2,
+  "type": 6,
+  "buildTime": 780,
   "stats": {
     "pow": {
       "min": 1,
@@ -770,10 +770,10 @@
   }
 }, {
   "name": "ILM HP탄",
-  "rank": "3",
-  "category": "2",
-  "type": "6",
-  "buildTime": "1680",
+  "rank": 3,
+  "category": 2,
+  "type": 6,
+  "buildTime": 1680,
   "stats": {
     "pow": {
       "min": 2,
@@ -788,10 +788,10 @@
   }
 }, {
   "name": "ILM HP탄",
-  "rank": "4",
-  "category": "2",
-  "type": "6",
-  "buildTime": "2580",
+  "rank": 4,
+  "category": 2,
+  "type": 6,
+  "buildTime": 2580,
   "stats": {
     "pow": {
       "min": 4,
@@ -806,10 +806,10 @@
   }
 }, {
   "name": "ILM HP탄",
-  "rank": "5",
-  "category": "2",
-  "type": "6",
-  "buildTime": "3180",
+  "rank": 5,
+  "category": 2,
+  "type": 6,
+  "buildTime": 3180,
   "stats": {
     "pow": {
       "min": 7,
@@ -824,10 +824,10 @@
   }
 }, {
   "name": "#1벅 샷",
-  "rank": "2",
-  "category": "2",
-  "type": "7",
-  "buildTime": "840",
+  "rank": 2,
+  "category": 2,
+  "type": 7,
+  "buildTime": 840,
   "stats": {
     "pow": {
       "min": 1,
@@ -842,10 +842,10 @@
   }
 }, {
   "name": "#0벅 샷",
-  "rank": "3",
-  "category": "2",
-  "type": "7",
-  "buildTime": "1740",
+  "rank": 3,
+  "category": 2,
+  "type": 7,
+  "buildTime": 1740,
   "stats": {
     "pow": {
       "min": 2,
@@ -860,10 +860,10 @@
   }
 }, {
   "name": "#00벅 샷",
-  "rank": "4",
-  "category": "2",
-  "type": "7",
-  "buildTime": "2640",
+  "rank": 4,
+  "category": 2,
+  "type": 7,
+  "buildTime": 2640,
   "stats": {
     "pow": {
       "min": 4,
@@ -878,10 +878,10 @@
   }
 }, {
   "name": "#000벅 샷",
-  "rank": "5",
-  "category": "2",
-  "type": "7",
-  "buildTime": "3240",
+  "rank": 5,
+  "category": 2,
+  "type": 7,
+  "buildTime": 3240,
   "stats": {
     "pow": {
       "min": 7,
@@ -896,10 +896,10 @@
   }
 }, {
   "name": "BK 슬러그탄",
-  "rank": "2",
-  "category": "2",
-  "type": "7",
-  "buildTime": "840",
+  "rank": 2,
+  "category": 2,
+  "type": 7,
+  "buildTime": 840,
   "stats": {
     "hit": {
       "min": 1,
@@ -909,10 +909,10 @@
   }
 }, {
   "name": "FST 슬러그탄",
-  "rank": "3",
-  "category": "2",
-  "type": "7",
-  "buildTime": "1740",
+  "rank": 3,
+  "category": 2,
+  "type": 7,
+  "buildTime": 1740,
   "stats": {
     "hit": {
       "min": 3,
@@ -922,10 +922,10 @@
   }
 }, {
   "name": "WAD 슬러그탄",
-  "rank": "4",
-  "category": "2",
-  "type": "7",
-  "buildTime": "2640",
+  "rank": 4,
+  "category": 2,
+  "type": 7,
+  "buildTime": 2640,
   "stats": {
     "hit": {
       "min": 5,
@@ -935,10 +935,10 @@
   }
 }, {
   "name": "SABOT 슬러그탄",
-  "rank": "5",
-  "category": "2",
-  "type": "7",
-  "buildTime": "3240",
+  "rank": 5,
+  "category": 2,
+  "type": 7,
+  "buildTime": 3240,
   "stats": {
     "hit": {
       "min": 8,
@@ -948,10 +948,10 @@
   }
 }, {
   "name": "16Lab 방탄판",
-  "rank": "5",
-  "category": "3",
-  "type": "11",
-  "buildTime": "3060",
+  "rank": 5,
+  "category": 3,
+  "type": 11,
+  "buildTime": 3060,
   "stats": {
     "armor": {
       "min": 8,
@@ -966,10 +966,10 @@
   }
 }, {
   "name": "16Lab벅 샷",
-  "rank": "5",
-  "category": "2",
-  "type": "7",
-  "buildTime": "3240",
+  "rank": 5,
+  "category": 2,
+  "type": 7,
+  "buildTime": 3240,
   "stats": {
     "pow": {
       "min": 10,
@@ -984,10 +984,10 @@
   }
 }, {
   "name": "KSTSP",
-  "rank": "5",
-  "category": "1",
-  "type": "1",
-  "buildTime": "2700",
+  "rank": 5,
+  "category": 1,
+  "type": 1,
+  "buildTime": 2700,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1003,10 +1003,10 @@
   }
 }, {
   "name": "KST1P8",
-  "rank": "5",
-  "category": "1",
-  "type": "1",
-  "buildTime": "2700",
+  "rank": 5,
+  "category": 1,
+  "type": 1,
+  "buildTime": 2700,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1022,10 +1022,10 @@
   }
 }, {
   "name": "KST1P7",
-  "rank": "5",
-  "category": "1",
-  "type": "1",
-  "buildTime": "2700",
+  "rank": 5,
+  "category": 1,
+  "type": 1,
+  "buildTime": 2700,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1041,10 +1041,10 @@
   }
 }, {
   "name": "Hayha메모리 칩",
-  "rank": "5",
-  "category": "3",
-  "type": "9",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 3,
+  "type": 9,
+  "buildTime": 3420,
   "fitGuns": [39],
   "stats": {
     "dodge": {
@@ -1065,10 +1065,10 @@
   }
 }, {
   "name": "낡은 슈트",
-  "rank": "2",
-  "category": "3",
-  "type": "15",
-  "buildTime": "960",
+  "rank": 2,
+  "category": 3,
+  "type": 15,
+  "buildTime": 960,
   "stats": {
     "speed": {
       "min": -3,
@@ -1083,10 +1083,10 @@
   }
 }, {
   "name": "길리슈트",
-  "rank": "3",
-  "category": "3",
-  "type": "15",
-  "buildTime": "1860",
+  "rank": 3,
+  "category": 3,
+  "type": 15,
+  "buildTime": 1860,
   "stats": {
     "speed": {
       "min": -3,
@@ -1101,10 +1101,10 @@
   }
 }, {
   "name": "도시 미채 슈트",
-  "rank": "4",
-  "category": "3",
-  "type": "15",
-  "buildTime": "2760",
+  "rank": 4,
+  "category": 3,
+  "type": 15,
+  "buildTime": 2760,
   "stats": {
     "speed": {
       "min": -3,
@@ -1119,10 +1119,10 @@
   }
 }, {
   "name": "열광학 미채 슈트",
-  "rank": "5",
-  "category": "3",
-  "type": "15",
-  "buildTime": "3360",
+  "rank": 5,
+  "category": 3,
+  "type": 15,
+  "buildTime": 3360,
   "stats": {
     "speed": {
       "min": -3,
@@ -1137,10 +1137,10 @@
   }
 }, {
   "name": "특수 전술기동장갑",
-  "rank": "5",
-  "category": "3",
-  "type": "11",
-  "buildTime": "3060",
+  "rank": 5,
+  "category": 3,
+  "type": 11,
+  "buildTime": 3060,
   "fitGuns": [54],
   "stats": {
     "armor": {
@@ -1166,10 +1166,10 @@
   }
 }, {
   "name": "UMP UX외골격",
-  "rank": "5",
-  "category": "3",
-  "type": "10",
-  "buildTime": "3120",
+  "rank": 5,
+  "category": 3,
+  "type": 10,
+  "buildTime": 3120,
   "fitGuns": [101, 102, 103],
   "stats": {
     "dodge": {
@@ -1185,10 +1185,10 @@
   }
 }, {
   "name": "PKN03M야간조준경",
-  "rank": "5",
-  "category": "1",
-  "type": "4",
-  "buildTime": "2940",
+  "rank": 5,
+  "category": 1,
+  "type": 4,
+  "buildTime": 2940,
   "fitGuns": [118],
   "stats": {
     "pow": {
@@ -1204,10 +1204,10 @@
   }
 }, {
   "name": "전술용 메모리 칩",
-  "rank": "5",
-  "category": "3",
-  "type": "9",
-  "buildTime": "3420",
+  "rank": 5,
+  "category": 3,
+  "type": 9,
+  "buildTime": 3420,
   "fitGuns": [185],
   "stats": {
     "hit": {
@@ -1228,10 +1228,10 @@
   }
 }, {
   "name": "16Lab HP탄",
-  "rank": "5",
-  "category": "2",
-  "type": "6",
-  "buildTime": "3180",
+  "rank": 5,
+  "category": 2,
+  "type": 6,
+  "buildTime": 3180,
   "stats": {
     "pow": {
       "min": 10,
@@ -1246,10 +1246,10 @@
   }
 }, {
   "name": "16lab 열광학 슈트",
-  "rank": "5",
-  "category": "3",
-  "type": "15",
-  "buildTime": "3360",
+  "rank": 5,
+  "category": 3,
+  "type": 15,
+  "buildTime": 3360,
   "stats": {
     "speed": {
       "min": -3,
@@ -1264,10 +1264,10 @@
   }
 }, {
   "name": "BM 3-12X40",
-  "rank": "2",
-  "category": "1",
-  "type": "1",
-  "buildTime": "300",
+  "rank": 2,
+  "category": 1,
+  "type": 1,
+  "buildTime": 300,
   "stats": {
     "crit": {
       "min": 5,
