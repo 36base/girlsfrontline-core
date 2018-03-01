@@ -11,14 +11,46 @@ $ yarn add girlsfrontline-core
 
 ## Example
 ```javascript
-import {dolls} from 'girlsfrontline-core';
+import {dolls, equips} from 'girlsfrontline-core';
 
 // AR 타입 인형 찾기
 const AR = dolls.filter(({type}) => type === 4);
+
+// 전용 장비 찾기
+const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 ```
 
 <a name="doll"></a>
 ## [doll](#main) 멤버
+
+| Key | Value Type | Value |
+| --- | --- | --- |
+| id | Number | 도감번호 |
+| name | String | 이름 |
+| krName | String | 이름 (한국어판) |
+| rank | Number | 등급 |
+| type | [type](#doll_type) | 총기 종류 |
+| illust | String | 일러스트레이터 |
+| voice | String | 성우 |
+| buildTime | Number | 제조 시간(초) |
+| drop | Array(String) | 드랍 지역 |
+| skins | Array(String) | 스킨 목록 |
+| nick | Array(String) | 별명 목록 |
+| stats | [stats](#doll_stats) | 스탯 |
+| effect | [effect](#doll_effect) | 진형 버프 |
+
+<a name="equip"></a>
+## [equip](#main) 멤버
+
+| Key | Value Type | Value |
+| --- | --- | --- |
+| name | String | 이름 |
+| rank | Number | 등급 |
+| category | Number | 카테고리 |
+| type | Number | 장비 종류 |
+| buildTime | Number | 제조 시간(초) |
+| fitGuns | Array(Number) | 장착 가능한 인형 목록 |
+| stats | [equipStats](#equip_stats) | 장비 스탯 |
 
 <a name="doll_type"></a>
 ### [type](#main) ⇒ <code>Number</code>
@@ -55,9 +87,8 @@ const AR = dolls.filter(({type}) => type === 4);
 | coolDown | Number | 쿨타임 감소(%) |
 | bullet | Number | 장탄 수 |
 
-
 <a name="doll_effect"></a>
-### [effect](#main) ⇒ <code>Object(effect)</code>
+### [effect](#main) ⇒ <code>Object</code>
 해당 인형의 진형 버프 데이터를 나타냅니다.
 
 | 1열 | 2열 | 3열 |
@@ -71,17 +102,22 @@ const AR = dolls.filter(({type}) => type === 4);
 | effectType | Number | 버프 대상 |
 | effectCenter | Number | 버프 중심 |
 | effectPos | Array(Number) | 버프 적용 위치 |
-| gridEffect | Array(Effect) | 버프 목록 |
+| gridEffect | [stats](#doll_stats) | 버프 목록 |
+
+<a name="equip_stats"></a>
+### [equipStats](#main) ⇒ <code>stats(Object)</code>
+해당 장비의 스탯을 나타냅니다.
 
 | Key | Value Type | Description |
 | --- | --- | --- |
-| Effect.type | [String(stat)](#doll_stats) | 스탯 종류 |
-| Effect.value | Number | 스탯 증가량 |
+| min | Number | 최소 수치 |
+| max | Number | 최대 수치 |
+| upgrade | Number | 1레벨당 수치 증가량(%) |
 
 ```javascript
-const {effect} = doll
+const {stats} = equip;
 
-effect['gridEffect'].map((elem) => {
-  console.log(`${elem.type} 스탯 ${elem.value}% 상승`);
+Object.entries(stats).forEach(([stat, {min, max, upgrade}]) => {
+  console.log(`${stat} ${min} ~ ${max}, 1레벨당 ${upgrade}% 증가`);
 });
 ```
