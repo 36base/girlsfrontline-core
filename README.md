@@ -1,6 +1,6 @@
 # GirlsFrontline API
 
-> 소녀전선 API
+> A GirlsFrontline API
 
 <a name="main"></a>
 
