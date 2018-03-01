@@ -1085,7 +1085,7 @@
   "effect": {
     "effectType": 4,
     "effectCenter": 5,
-    "effectPos": [3, 6, 9],
+    "effectPos": [1, 4, 7],
     "gridEffect": [{
       "type": "rate",
       "value": 15
@@ -2425,7 +2425,7 @@
   "krName": "HK416"
 }, {
   "id": 66,
-  "name": "56_1type",
+  "name": "56-1type",
   "rank": 4,
   "type": 4,
   "illust": "CanceR",
