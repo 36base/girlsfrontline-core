@@ -7244,7 +7244,7 @@
   "effect": {
     "effectType": 1,
     "effectCenter": 5,
-    "effectPos": [1, 7],
+    "effectPos": [3, 9],
     "gridEffect": {
       "coolDown": 18
     }
@@ -7356,8 +7356,8 @@
   },
   "effect": {
     "effectType": 2,
-    "effectCenter": 2,
-    "effectPos": [4],
+    "effectCenter": 5,
+    "effectPos": [6],
     "gridEffect": {
       "rate": 10,
       "dodge": 15
