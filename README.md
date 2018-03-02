@@ -46,7 +46,7 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | --- | --- | --- |
 | name | String | 이름 |
 | rank | Number | 등급 |
-| category | Number | 카테고리 |
+| category | [category](#equip_category) | 카테고리 |
 | type | Number | 장비 종류 |
 | buildTime | Number | 제조 시간(초) |
 | fitGuns | Array(Number) | 장착 가능한 인형 목록 |
@@ -103,6 +103,38 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | effectCenter | Number | 버프 중심 |
 | effectPos | Array(Number) | 버프 적용 위치 |
 | gridEffect | [stats](#doll_stats) | 버프 목록 |
+
+<a name="equip_category"></a>
+### [category](#main) ⇒ <code>Number</code>
+해당 장비의 카테고리를 나타냅니다.
+
+| Value | Description |
+| --- | --- |
+| 1 | 부속 |
+| 2 | 탄약 |
+| 3 | 인형 |
+
+<a name="equip_type"></a>
+### [category](#main) ⇒ <code>Number</code>
+해당 장비의 타입을 나타냅니다.
+
+| Value | Description |
+| --- | --- |
+| 1 | 옵티컬 |
+| 2 | 이오텍 |
+| 3 | 레드닷 |
+| 4 | 야시장비 |
+| 5 | 철갑탄 |
+| 6 | 특수탄 |
+| 7 | 산탄 |
+| 8 | 고속탄 |
+| 9 | 칩셋 |
+| 10 | 외골격 |
+| 11 | 방탄판 |
+| 12 | ?? |
+| 13 | 소음기 |
+| 14 | 탄약통 |
+| 15 | 슈트 |
 
 <a name="equip_stats"></a>
 ### [equipStats](#main) ⇒ <code>stats(Object)</code>
