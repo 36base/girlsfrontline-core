@@ -47,7 +47,7 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | name | String | 이름 |
 | rank | Number | 등급 |
 | category | [category](#equip_category) | 카테고리 |
-| type | Number | 장비 종류 |
+| type | [type](#equip_type) | 장비 종류 |
 | buildTime | Number | 제조 시간(초) |
 | fitGuns | Array(Number) | 장착 가능한 인형 목록 |
 | stats | [equipStats](#equip_stats) | 장비 스탯 |
@@ -115,7 +115,7 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | 3 | 인형 |
 
 <a name="equip_type"></a>
-### [category](#main) ⇒ <code>Number</code>
+### [type](#main) ⇒ <code>Number</code>
 해당 장비의 타입을 나타냅니다.
 
 | Value | Description |
