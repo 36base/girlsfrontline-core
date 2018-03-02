@@ -7395,7 +7395,7 @@
   "effect": {
     "effectType": 6,
     "effectCenter": 4,
-    "effectPos": [1, 4],
+    "effectPos": [3, 6],
     "gridEffect": {
       "pow": 15,
       "armor": 15
