@@ -7169,7 +7169,7 @@
   "effect": {
     "effectType": 0,
     "effectCenter": 5,
-    "effectPos": [3, 4, 9],
+    "effectPos": [1, 6, 7],
     "gridEffect": {
       "pow": 36
     }
@@ -7206,7 +7206,7 @@
   "effect": {
     "effectType": 4,
     "effectCenter": 8,
-    "effectPos": [3, 9],
+    "effectPos": [1, 7],
     "gridEffect": {
       "pow": 20,
       "crit": 20
@@ -7244,7 +7244,7 @@
   "effect": {
     "effectType": 1,
     "effectCenter": 5,
-    "effectPos": [1, 7],
+    "effectPos": [3, 9],
     "gridEffect": {
       "coolDown": 18
     }
@@ -7281,7 +7281,7 @@
   "effect": {
     "effectType": 2,
     "effectCenter": 8,
-    "effectPos": [1, 4, 7],
+    "effectPos": [3, 6, 9],
     "gridEffect": {
       "hit": 55,
       "dodge": 16
@@ -7319,7 +7319,7 @@
   "effect": {
     "effectType": 2,
     "effectCenter": 2,
-    "effectPos": [1, 4, 7],
+    "effectPos": [3, 6, 9],
     "gridEffect": {
       "hit": 25,
       "rate": 15
@@ -7356,8 +7356,8 @@
   },
   "effect": {
     "effectType": 2,
-    "effectCenter": 2,
-    "effectPos": [4],
+    "effectCenter": 5,
+    "effectPos": [6],
     "gridEffect": {
       "rate": 10,
       "dodge": 15
@@ -7395,7 +7395,7 @@
   "effect": {
     "effectType": 6,
     "effectCenter": 4,
-    "effectPos": [1, 4],
+    "effectPos": [3, 6],
     "gridEffect": {
       "pow": 15,
       "armor": 15
@@ -7433,7 +7433,7 @@
   "effect": {
     "effectType": 0,
     "effectCenter": 5,
-    "effectPos": [1, 2, 7, 8],
+    "effectPos": [2, 3, 8, 9],
     "gridEffect": {
       "pow": 10,
       "dodge": 10
@@ -7741,5 +7741,5 @@
       "hit": 10
     }
   },
-  "krName": "제레 발레"
+  "krName": "제레 발레리"
 }]
