@@ -5479,7 +5479,7 @@
   },
   "effect": {
     "effectType": 5,
-    "effectCenter": 3,
+    "effectCenter": 9,
     "effectPos": [1, 7],
     "gridEffect": {
       "pow": 18
@@ -6762,7 +6762,7 @@
       "dodge": 8
     }
   },
-  "krName": "M!2"
+  "krName": "M12"
 }, {
   "id": 192,
   "name": "JS-127",
@@ -7321,7 +7321,7 @@
     "effectCenter": 2,
     "effectPos": [3, 6, 9],
     "gridEffect": {
-      "hit": 25,
+      "pow": 25,
       "rate": 15
     }
   },
@@ -7735,7 +7735,7 @@
   "effect": {
     "effectType": 5,
     "effectCenter": 6,
-    "effectPos": [3, 9],
+    "effectPos": [1, 7],
     "gridEffect": {
       "pow": 20,
       "hit": 10
