@@ -690,7 +690,7 @@
   "voice": "Saori Hayami",
   "buildTime": 9300,
   "drop": ["6-4e"],
-  "skins": ["고양이 발바닥"],
+  "skins": ["고양이 발바닥", "맹목적인 믿음"],
   "nick": [],
   "stats": {
     "armor": 0,
@@ -916,7 +916,7 @@
   "voice": "Naomi Mukaiyama",
   "buildTime": 8400,
   "drop": ["0-2", "2-4e", "3-2e", "3-4e", "4-2", "4-2e", "5-2", "5-2e", "6-4", "6-1e", "7-2", "7-4", "7-3e", "8-1", "8-6"],
-  "skins": ["드라큘라", "잠들지 않는 꽃"],
+  "skins": ["드라큘라", "잠들지 않는 꽃", "작은 한 걸음"],
   "nick": ["우유"],
   "stats": {
     "armor": 0,
@@ -1587,7 +1587,7 @@
   "voice": "Ai Kayano ",
   "buildTime": 16800,
   "drop": [],
-  "skins": [],
+  "skins": ["하트를 꿰뚫어주지!"],
   "nick": ["부츠", "카구팔"],
   "stats": {
     "armor": 0,
@@ -2224,7 +2224,7 @@
   "voice": "Koshimizu Ami",
   "buildTime": 13200,
   "drop": [],
-  "skins": ["꼬마 메이드", "바텐더"],
+  "skins": ["꼬마 메이드", "바텐더", "순백의 수레국화"],
   "nick": ["지상렬", "메이드"],
   "stats": {
     "armor": 0,
@@ -2299,7 +2299,7 @@
   "voice": "Sora Amamiya",
   "buildTime": 12300,
   "drop": ["0-3", "4-5", "4-3e", "5-3", "5-4e", "6-4", "6-4e", "7-3", "8-4"],
-  "skins": ["샐비어"],
+  "skins": ["샐비어", "마음을 엮는 매듭"],
   "nick": [],
   "stats": {
     "armor": 0,
@@ -5008,7 +5008,7 @@
   "voice": "Akane Fujita",
   "buildTime": 0,
   "drop": [],
-  "skins": ["크루즈의 여왕님"],
+  "skins": ["크루즈의 여왕님", "꿈꿔왔던 미소"],
   "nick": ["HOXY", "파세"],
   "stats": {
     "armor": 0,
