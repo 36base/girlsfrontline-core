@@ -4,6 +4,34 @@
 
 <a name="main"></a>
 
+## IMPORTANT
+
+0.4.0에서 일부 값이 변경되었습니다.
+### before
+```json
+{
+  "type": 1
+}
+```
+```json
+{
+  "category": 1,
+  "type": 1
+}
+```
+### after
+```json
+{
+  "type": "hg"
+}
+```
+```json
+{
+  "category": "accessory",
+  "type": "scope"
+}
+```
+
 ## Install
 ```bash
 $ yarn add girlsfrontline-core
