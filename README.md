@@ -14,10 +14,10 @@ $ yarn add girlsfrontline-core
 import {dolls, equips} from 'girlsfrontline-core';
 
 // AR 타입 인형 찾기
-const AR = dolls.filter(({type}) => type === 4);
+const AR = dolls.filter(({type}) => type === 'ar');
 
 // 전용 장비 찾기
-const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
+const fitGuns = equips.filter(({fitGuns}) => fitGuns);
 ```
 
 <a name="doll"></a>
@@ -53,17 +53,17 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | stats | [equipStats](#equip_stats) | 장비 스탯 |
 
 <a name="doll_type"></a>
-### [type](#main) ⇒ <code>Number</code>
+### [type](#main) ⇒ <code>String</code>
 해당 인형의 타입을 나타냅니다.
 
 | Value | Description |
 | --- | --- |
-| 1 | HG |
-| 2 | SMG |
-| 3 | RF |
-| 4 | AR |
-| 5 | MG |
-| 6 | SG |
+| hg | HG |
+| smg | SMG |
+| rf | RF |
+| ar | AR |
+| mg | MG |
+| sg | SG |
 
 <a name="doll_stats"></a>
 ### [stats](#main) ⇒ <code>Object</code>
@@ -105,36 +105,36 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns !== undefined);
 | gridEffect | [stats](#doll_stats) | 버프 목록 |
 
 <a name="equip_category"></a>
-### [category](#main) ⇒ <code>Number</code>
+### [category](#main) ⇒ <code>String</code>
 해당 장비의 카테고리를 나타냅니다.
 
 | Value | Description |
 | --- | --- |
-| 1 | 부속 |
-| 2 | 탄약 |
-| 3 | 인형 |
+| accessory | 부속 |
+| ammo | 탄약 |
+| doll | 인형 |
 
 <a name="equip_type"></a>
-### [type](#main) ⇒ <code>Number</code>
+### [type](#main) ⇒ <code>String</code>
 해당 장비의 타입을 나타냅니다.
 
 | Value | Description |
 | --- | --- |
-| 1 | 옵티컬 |
-| 2 | 이오텍 |
-| 3 | 레드닷 |
-| 4 | 야시장비 |
-| 5 | 철갑탄 |
-| 6 | 특수탄 |
-| 7 | 산탄 |
-| 8 | 고속탄 |
-| 9 | 칩셋 |
-| 10 | 외골격 |
-| 11 | 방탄판 |
-| 12 | ?? |
-| 13 | 소음기 |
-| 14 | 탄약통 |
-| 15 | 슈트 |
+| scope | 옵티컬 |
+| holo | 이오텍 |
+| reddot | 레드닷 |
+| nightvision | 야시장비 |
+| apBullet | 철갑탄 |
+| hpBullet | 특수탄 |
+| sgBullet | 산탄 |
+| hvBullet | 고속탄 |
+| chip | 칩셋 |
+| skeleton | 외골격 |
+| armor | 방탄판 |
+| special | ?? |
+| silencer | 소음기 |
+| ammoBox | 탄약통 |
+| suit | 슈트 |
 
 <a name="equip_stats"></a>
 ### [equipStats](#main) ⇒ <code>stats(Object)</code>
