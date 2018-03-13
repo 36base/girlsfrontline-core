@@ -1,0 +1,2175 @@
+[
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 0,
+    "name": "화력전개"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 1,
+    "name": "화력전개T"
+  },
+  {
+    "path": "nightPowBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 2,
+    "name": "화력전개N"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 3,
+    "name": "화력전개MG"
+  },
+  {
+    "path": "nightPowBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 4,
+    "name": "화력전개N-MG"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}% 상승시키며, 지속시간 동안 동시공격 가능한 타깃수가 5명으로 늘어난다.(슬러그 탄의 효과와 중첩되지 않는다) 지속시간 {D}초",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 5,
+    "name": "화력전개SG"
+  },
+  {
+    "path": "powBuff",
+    "desc": "아군 전체 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 6,
+    "name": "일제사격"
+  },
+  {
+    "path": "nightPowBuff",
+    "desc": "아군 전체 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 7,
+    "name": "일제사격N"
+  },
+  {
+    "path": "rateBuffSelf",
+    "desc": "자신의 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 8,
+    "name": "고속사격"
+  },
+  {
+    "path": "rateBuffSelf",
+    "desc": "자신의 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 9,
+    "name": "고속사격T"
+  },
+  {
+    "path": "nightrateBuffSelf",
+    "desc": "자신의 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 10,
+    "name": "고속사격N"
+  },
+  {
+    "path": "rateBuff",
+    "desc": "아군 전체 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 11,
+    "name": "진압신호"
+  },
+  {
+    "path": "hitBuffSelf",
+    "desc": "자신의 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 12,
+    "name": "호흡조절"
+  },
+  {
+    "path": "hitBuff",
+    "desc": "아군 전체 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 13,
+    "name": "목표확인"
+  },
+  {
+    "path": "dodgeBuffSelf",
+    "desc": "자신의 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 14,
+    "name": "회피기동"
+  },
+  {
+    "path": "dodgeBuffSelf",
+    "desc": "자신의 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 15,
+    "name": "회피기동T"
+  },
+  {
+    "path": "dodgeBuff",
+    "desc": "아군 전체 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 16,
+    "name": "엄호개시"
+  },
+  {
+    "path": "nightDodgeBuff",
+    "desc": "아군 전체 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 17,
+    "name": "엄호개시N"
+  },
+  {
+    "path": "powDebuff",
+    "desc": "적군 전체 화력을 {PW}% 하락시킨다.",
+    "data": [
+      {
+        "type": "E_POWER",
+        "key": "PW",
+        "label": "적 화력감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 18,
+    "name": "기선제압"
+  },
+  {
+    "path": "nightPowDebuff",
+    "desc": "적군 전체 화력을 {PW}% 하락시킨다.",
+    "data": [
+      {
+        "type": "E_POWER",
+        "key": "PW",
+        "label": "적 화력감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 19,
+    "name": "기선제압N"
+  },
+  {
+    "path": "rateDebuff",
+    "desc": "적군 전체 사속을 {AR}% 감소시킨다.",
+    "data": [
+      {
+        "type": "E_RATE",
+        "key": "AR",
+        "label": "적 사속감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 20,
+    "name": "격발차단"
+  },
+  {
+    "path": "hitDebuff",
+    "desc": "적군 전체 명중을 {HT}% 감소시킨다.",
+    "data": [
+      {
+        "type": "E_HIT",
+        "key": "HT",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 21,
+    "name": "시야봉쇄"
+  },
+  {
+    "path": "dodgeDebuff",
+    "desc": "적군 전체 회피를 {DG}% 감소시킨다.",
+    "data": [
+      {
+        "type": "E_DODGE",
+        "key": "DG",
+        "label": "적 회피감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 22,
+    "name": "퇴로차단"
+  },
+  {
+    "path": "dodgeDebuff",
+    "desc": "적군 전체 회피를 {DG}% 감소시킨다.",
+    "data": [
+      {
+        "type": "E_DODGE",
+        "key": "DG",
+        "label": "적 회피감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 23,
+    "name": "퇴로차단N"
+  },
+  {
+    "path": "Flare",
+    "desc": "아군 전체 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 24,
+    "name": "조명탄"
+  },
+  {
+    "path": "Smoke",
+    "desc": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 {AR}%, 이동속도를 {MS}% 감소시킨다.",
+    "data": [
+      {
+        "type": "E_RATE",
+        "key": "AR",
+        "label": "적 사속감소"
+      },
+      {
+        "type": "E_SPEED",
+        "key": "MS",
+        "label": "적 이속감소"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 25,
+    "name": "연막탄"
+  },
+  {
+    "path": "Flashbomb",
+    "desc": "섬광탄을 투척하여 반경 2.5범위 내의 적들을 {DR}초 동안 기절 상태로 만든다",
+    "data": [
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 26,
+    "name": "섬광탄"
+  },
+  {
+    "path": "Grenade",
+    "desc": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 27,
+    "name": "수류탄"
+  },
+  {
+    "path": "Napalm",
+    "desc": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 {D1}배의 폭발 데미지와 함께, {DR}초 동안, 매 0.33초당 공격력의 {D2}배의 화상 도트 데미지를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "D1",
+        "label": "폭발 공격력"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "D2",
+        "label": "화상 공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 28,
+    "name": "소이탄"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들애게 각각 공격력의 {D1}/{D2}/{D3}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "D1",
+        "label": "공격력(1범위)"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "D2",
+        "label": "공격력(2.5범위)"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "D3",
+        "label": "공격력(4범위)"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 29,
+    "name": "파열류탄"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 30,
+    "name": "살상류탄"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}%, 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 31,
+    "name": "강행돌파"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}%, 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 32,
+    "name": "기습공격"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}%, 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 33,
+    "name": "신속처분"
+  },
+  {
+    "path": "critBuffSelf",
+    "desc": "자신의 화력과 치명타율을 각각 {PW}% 씩 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 34,
+    "name": "집중사격"
+  },
+  {
+    "path": "powBuff",
+    "desc": "야간작전에서 자신의 화력을 {PW}%, 치명타율을 {CR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 35,
+    "name": "집중사격N"
+  },
+  {
+    "path": "powBuff",
+    "desc": "아군 전체의 화력과 사속을 각각 {PW}%씩 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 36,
+    "name": "돌격개시"
+  },
+  {
+    "path": "critBuff",
+    "desc": "아군 전체 화력을 {PW}%, 치명타율을 {CR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 37,
+    "name": "사냥신호"
+  },
+  {
+    "path": "dodgeBuff",
+    "desc": "아군 전체 명중을 {HT}%, 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 38,
+    "name": "엄폐지시"
+  },
+  {
+    "path": "powBuff",
+    "desc": "아군 전체 화력을 {PW}%, 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 39,
+    "name": "기습작전"
+  },
+  {
+    "path": "powBuff",
+    "desc": "아군 전체의 사속과 치명타율을 각각 {AR}% 씩 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 40,
+    "name": "소멸지시"
+  },
+  {
+    "path": "Invincible",
+    "desc": "어떠한 공격이라도 회피 할 수 있다. 지속시간 {DR}초",
+    "data": [
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 41,
+    "name": "포스실드"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "1.5초간 조준 후, 가장 멀리있는 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 42,
+    "name": "저격개시"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "1.5초간 조준 후, 현재 공격하던 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 43,
+    "name": "정밀저격"
+  },
+  {
+    "path": "AimAttackSpecificTarge",
+    "desc": "1.5초간 조준 후, 특정한 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 44,
+    "name": "목표제거"
+  },
+  {
+    "path": "AimAttackCurrentTarge",
+    "desc": "1.5초간 조준 후, 가장 가까운 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 45,
+    "name": "확인사살"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "{DR}초 동안 자신의 화력을 {PW}% 상승시키며, 사격 중 장탄수를 {BL}발 추가한다",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "BULLET",
+        "key": "BL",
+        "label": "탄약증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 46,
+    "name": "준비만전"
+  },
+  {
+    "path": "nightCritBuffSelf",
+    "desc": "{DR}초 동안 자신의 화력을 {PW}% 상승시키며, 사격 중 장탄수를 {BL}발 추가한다",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "BULLET",
+        "key": "BL",
+        "label": "탄약증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 47,
+    "name": "준비만전N"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "자신의 명중을 {HT}% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다.",
+    "data": [
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 48,
+    "name": "사냥충동"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "야간 작전에서 자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며 지속시간동안 모든 공격이 치명타로 적용된다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 49,
+    "name": "사냥충동N"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "패시브 스킬. 매 3회 공격시, 그 다음 공격은 타깃에게 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 50,
+    "name": "사중극점"
+  },
+  {
+    "path": "armorBuffSelf",
+    "desc": "자신의 장갑을 {AM}% 상승시킨다.",
+    "data": [
+      {
+        "type": "ARMOR",
+        "key": "AM",
+        "label": "장갑증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 51,
+    "name": "집중방어"
+  },
+  {
+    "path": "Invincible",
+    "desc": "자신의 회피를 {DG}%, 장갑을 {AM}% 상승시킨다.",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 52,
+    "name": "생존본능"
+  },
+  {
+    "path": "Shotgun",
+    "desc": "공격력의 {DM}배의 피해를 주는 추가탄을 발사하고, 거리 3칸만큼 적을 밀어낸다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 53,
+    "name": "진형붕괴"
+  },
+  {
+    "path": "AimAttackCurrentTarge",
+    "desc": "1초씩 두번 조준 사격하여, 각각 현재 타깃에게 공격력의 {DM}배의 데미지를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 54,
+    "name": "이중저격"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "3발의 유탄을 연속으로 발사하여 각 발당 반경 1.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 55,
+    "name": "유탄폭격"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "재장전 할 때마다 25초간 자신의 화력이 {PW}% 상승하는 버프를 받는다(각 버프는 중첩가능)",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "스택당 화력증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 56,
+    "name": "혈류가속"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "매 공격시 목표 대상에게 {AC}회의 피해를 입힌다.",
+    "data": [
+      {
+        "type": "ATTACK_COUNT",
+        "key": "AC",
+        "label": "타격횟수"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 57,
+    "name": "호크아이"
+  },
+  {
+    "path": "powDebuff",
+    "desc": "적군 전체 화력을 {PW}% 감소시키고, 자신의 회피를 {DG}% 상승시킨다.",
+    "data": [
+      {
+        "type": "E_POWER",
+        "key": "PW",
+        "label": "적 화력감소"
+      },
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 58,
+    "name": "정신교란"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "지속시간 동안 자신의 공격속도를 {AR}% 감소하고, 화력을 {PW}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE_DEC",
+        "key": "AR",
+        "label": "사속감소"
+      },
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 59,
+    "name": "육참골단"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "단일 적 타깃에게 {DM}의 고정 데미지를 입히고, 거리 3칸만큼 적을 밀어낸다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "고정 공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 60,
+    "name": "피니쉬 어택"
+  },
+  {
+    "path": "Shotgun",
+    "desc": "다음 3회의 공격을 점차 강화하여, 각각 타깃에게 자신의 공격력의 {D1}/{D2}/{D3}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "D1",
+        "label": "공격력(1)"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "D2",
+        "label": "공격력(2)"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "D3",
+        "label": "공격력(3)"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 61,
+    "name": "약점조준"
+  },
+  {
+    "path": "GG_Elfeldt",
+    "desc": "표적에게 공격력의 {TD}배의 피해를 입힌 뒤, 미사일을 발사하여 표적 주위 1.5범위 내의 적들에게 {AD}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "TD",
+        "label": "타겟 공격력"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "AD",
+        "label": "주변 공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 62,
+    "name": "제누와즈"
+  },
+  {
+    "path": "BB_Noel",
+    "desc": "적을 향해 필살기를 사용하여 일정 범위 내의 적들에게 공격력의 {DM}배의 데미지를 총 8회 입힌다.",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 63,
+    "name": "영총 펜릴"
+  },
+  {
+    "path": "Coldweapon",
+    "desc": "투척용 도끼를 던져, 타겟에게 공격력의 {DM}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 64,
+    "name": "토마호크 어택"
+  },
+  {
+    "path": "powBuff",
+    "desc": "스킬 발동 시 자신이 제공하는 버프칸에 있는 아군유닛에게 화력과 명중 그리고 사속을 {PW}% 상승시킨다. 지속시간 {DUR}초",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 65,
+    "name": "선혈의 파도"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "스킬 발동 시 자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며, 후열의 적을 우선적으로 공격하게 된다. 지속시간 {DUR}초",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 66,
+    "name": "저격지원"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "매 공격시 {PB}%의 확률로 반드시 치명상을 입히는 탄환 한발을 발사한다",
+    "data": [
+      {
+        "type": "PROBABILITY",
+        "key": "PB",
+        "label": "발동확률"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 67,
+    "name": "선전포고"
+  },
+  {
+    "path": "AimAttackCurrentTarge",
+    "desc": "2초간 조준 후, 가장 체력이 많은 적에게 공격력의 {ND}배의 피해를 입히며, 만약 목표 대상이 장갑형 개체일 경우 공격력의 {AD}배의 피해를 입힌다.",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "ND",
+        "label": "일반 공격력"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "AD",
+        "label": "장갑공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 68,
+    "name": "장갑파괴"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "2초간 조준 후, 가장 멀리있는 적에게 관통 효과를 지닌 탄환을 발사하여, 뚫고 지나간 모든 적에게 공격력의 {PD}의 피해를 입히며, 목표 대상에겐 추가로 공격력의 {TD}배의 피해를 입힌다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "PD",
+        "label": "관통 공격력"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "TD",
+        "label": "대상 공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 69,
+    "name": "관통사격"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "1초간 조준 후, 특수한 탄환을 발사하여 공격력의 {DM}배의 피해를 입히고, {DR}초간 받는 피해량을 {RD}% 증가시키며, 아군의 화력을 집중시킨다. 보스급의 적을 우선 조준하며, 컨텐더의 위치에 따라 전열: 가장 멀리있는 / 중간: 가장 체력이 많은 / 후열: 가장 가까운 적을 조준한다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "E_RECVDMG",
+        "key": "RD",
+        "label": "적 받는피해량 증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 70,
+    "name": "단죄의 마탄"
+  },
+  {
+    "path": "rateBuffSelf",
+    "desc": "자신의 사속을 {AR}%, 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 71,
+    "name": "민첩사격"
+  },
+  {
+    "path": "shield",
+    "desc": "전투 중 전열에 존재하는 아군측 인형에게 {SD}의 피해를 흡수하는 실드를 부여한다.",
+    "data": [
+      {
+        "type": "SHIELD",
+        "key": "SD",
+        "label": "실드"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 72,
+    "name": "철벽이론"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "{DR}초 동안 사속이 {AR}% 상승하며, 장탄수가 {BL}발 증가한다. 단, 다음 탄창 교체에 걸리는 시간이 1초 증가한다",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "BULLET",
+        "key": "BL",
+        "label": "탄약증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 73,
+    "name": "광란의 파티"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "패시브: 스킬 미발동 시, 매 2초마다 회피 상승 {PD}%, 화력감소 {PP}%(최대 5회 중첩) & 액티브 효과: 누적된 패시브 효과를 초기화 한 뒤, 매 2초마다 화력상승 {AP}%, 회피감소 {AD}%(최대 5회 중첩)",
+    "data": [
+      {
+        "type": "DODGE",
+        "key": "PD",
+        "label": "[패시브] 스택당 회피증가"
+      },
+      {
+        "type": "POWER_DEC",
+        "key": "PP",
+        "label": "[패시브] 스택당 화력감소"
+      },
+      {
+        "type": "DODGE_DEC",
+        "key": "AD",
+        "label": "[액티브] 스택당 회피감소"
+      },
+      {
+        "type": "POWER",
+        "key": "AP",
+        "label": "[액티브] 스택당 화력증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 74,
+    "name": "과중부하"
+  },
+  {
+    "path": "comboBuffSelf",
+    "desc": "[피버/기본] 공격력의 {FP}의 데미지로 {FC}회 공격, 온도 1도 상승. 15도 초과시 명중&화력이 누적온도당 {OH}%감소(최대 20도) [노트] 매 공격시 온도 1도 감소, 회피&이속 {ND}%감소. 동일 대상 타격 시 매 공격당 화력 {NP}%씩 상승(최대 10회)",
+    "data": [
+      {
+        "type": "POWER_DEC",
+        "key": "FP",
+        "label": "[피버모드] 공격력"
+      },
+      {
+        "type": "ATTACK_COUNT",
+        "key": "FC",
+        "label": "[피버모드] 타격횟수"
+      },
+      {
+        "type": "HIT_DEC",
+        "key": "OH",
+        "label": "[피버모드] 초과온도당 명중감소"
+      },
+      {
+        "type": "POWER_DEC",
+        "key": "OP",
+        "label": "[피버모드] 초과온도당 화력감소"
+      },
+      {
+        "type": "DODGE_DEC",
+        "key": "ND",
+        "label": "[노트모드] 회피감소"
+      },
+      {
+        "type": "SPEED_DEC",
+        "key": "NS",
+        "label": "[노트모드] 이속감소"
+      },
+      {
+        "type": "POWER",
+        "key": "NP",
+        "label": "[노트모드] 화력증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운\r\n"
+      }
+    ],
+    "id": 75,
+    "name": "오버히트"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "유탄을 발사하여 반경 2.5범위 내의 적들에게 공격력의 {DG}%의 피해를 입히며 3기 이상의 적 명중 시 3초동안 타깃의 받는 피해량을 {RD}% 증가시키고 3기 미만의 적 명중시 8초동안 자신의 데미지가 {PW}% 상승한다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "E_RECVDMG",
+        "key": "RD",
+        "label": "적 받는피해량 증가"
+      },
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 76,
+    "name": "야효요란"
+  },
+  {
+    "path": "Carcano1891",
+    "desc": "스킬 발동 시, 제대에 배속된 RF 1기마다(편제무관) 자신의 치명률과 사속 {AR}%씩 상승. {DR}지속. 패시브: 공격시 40%의 확률로 2초동안 같은 열에 있는 모든 아군의 치명률과 사속 {PR}% 상승(최대 3회 중첩)",
+    "data": [
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "[액티브] 사속증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "AC",
+        "label": "[액티브] 치명율 증가"
+      },
+      {
+        "type": "RATE",
+        "key": "PR",
+        "label": "[패시브] 스택당 사속증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "PC",
+        "label": "[패시브] 치명율 증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 77,
+    "name": "마르스의 나팔"
+  },
+  {
+    "path": "Carcano1938",
+    "desc": "발동 시 18개의 각인을 새긴다. 패시브: 공격 시 {PB}%의 확률로 각인을 2개씩 새긴다. 18개 도달시 다음 공격으로 엘리트 적에게 공격력의 {ED}%(통상 적에게 {ND}%)의 피해를 입히며 각인 수는 리셋된다",
+    "data": [
+      {
+        "type": "PROBABILITY",
+        "key": "PB",
+        "label": "발동확률"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "DE",
+        "label": "공격력(엘리트)"
+      },
+      {
+        "type": "DAMAGE",
+        "key": "DN",
+        "label": "공격력(일반)"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 78,
+    "name": "모르스의 가면"
+  },
+  {
+    "path": "Kiana",
+    "desc": "번개를 쏘아 1.5반경 내의 적에게 크리티컬 데미지를 주고 피격대상을 마비&취약 상태로 만든다",
+    "data": [],
+    "id": 79,
+    "name": "아스가르드의 분노"
+  },
+  {
+    "path": "RaidenMei",
+    "desc": "1.5초간 조준한 후 최후열의 적을 저격하여 공격력의 {DMG}피해를 입히고 마비상태로 만든다.",
+    "data": [],
+    "id": 80,
+    "name": "초전자 저격"
+  },
+  {
+    "path": "Bronya",
+    "desc": "폭발 후 일정 시간 지속되는 블랙홀을 생성하는 수류탄을 던진다. 블랙홀은 2.5반경 내의 적을 끌어당기며 1.5반경 내의 적은 매초 공격력의 {DMG}%만큼의 피해를 받는다. 지속시간 {DUR}초",
+    "data": [],
+    "id": 81,
+    "name": "블랙홀 촉매제"
+  },
+  {
+    "path": "Theresa",
+    "desc": "지속시간 동안 자신 주위 5반경 내의 적에게 주는 데미지가 증가하고 매 공격시마다 일정 확률로 대상을 처벌상태로 만든다",
+    "data": [],
+    "id": 82,
+    "name": "성광의 심판"
+  },
+  {
+    "path": "Himeko",
+    "desc": "최전열의 적 3명을 매혹&공포 상태로 만든다. 공포 상태의 적을 공격시 추가데미지(자신만)",
+    "data": [],
+    "id": 83,
+    "name": "밤의 공포"
+  },
+  {
+    "path": "Seele",
+    "desc": "탄창의 마지막 공격이 {DM}의 피해를 입히고 그 공격 직후 즉시 재장전된다",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 84,
+    "name": "양자 백트랙"
+  },
+  {
+    "path": "",
+    "desc": "1초간 조준한 후에 가장 가까운 적에게 공격력의 {DM}배의 피해를 입힌다. 회피 가능하며 사격후 재장전 필요",
+    "data": [
+      {
+        "type": "DAMAGE",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 85,
+    "name": "임계점 사격"
+  },
+  {
+    "path": "",
+    "desc": "자신의 사속이 {AR}%, 명중이 {HT}%만큼 감소하는 대신 기동력이 {MS}%, 회피가 {DG}%만큼 증가한다.",
+    "data": [
+      {
+        "type": "RATE_DEC",
+        "key": "AR",
+        "label": "사속감소"
+      },
+      {
+        "type": "HIT_DEC",
+        "key": "HT",
+        "label": "명중감소"
+      },
+      {
+        "type": "SPEED",
+        "key": "MS",
+        "label": "이속증가"
+      },
+      {
+        "type": "DODGE",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 86,
+    "name": "초승달의 춤꾼"
+  },
+  {
+    "path": "",
+    "desc": "패시브: 주기마다 적에게 표식을 1개씩 부여한다. 액티브: 매 공격시 표식이 있는 적에게 1회의 추가 공격을 하고 표식을 1개 지운다. 지속시간이 끝나거나 표식이 전부 없어질 때까지 지속된다. 지속시간 {DUR}초",
+    "data": [],
+    "id": 87,
+    "name": "사냥매의 처형장"
+  },
+  {
+    "path": "AN94_Shot",
+    "desc": "공격 대상이 바뀔시 2회의 데미지를 입힌다. 스킬 발동후 지속시간동안 매 공격시 2회의 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 88,
+    "name": "트윈 버스트"
+  },
+  {
+    "path": "AK12_Buff",
+    "desc": "자신의 화력, 사속, 명중 및 치명률을 {PW}% 상승시킨다. 지속시간 5초",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 89,
+    "name": "백랑의 눈"
+  },
+  {
+    "path": "",
+    "desc": "자신의 화력이 {PW}%, 치명타율이 {CR}%, 명중이 {HT}%, 사속이 {AR}% 증가한다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "CRIT_RATE",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "RATE",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 90,
+    "name": "여명의 기세"
+  },
+  {
+    "path": "",
+    "desc": "지속시간 동안 소사모드로 전환하여 매 공격이 목표를 바꾸고 자신의 화력이 {PW}%, 명중이 {HT}% 증가하고 이동속도가 {MS}%감소하며 사격중 장탄수를 {BL}발 추가한다",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "SPEED_DEC",
+        "key": "MS",
+        "label": "이속감소"
+      },
+      {
+        "type": "BULLET",
+        "key": "BL",
+        "label": "탄약증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 91,
+    "name": "무차별붕괴"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "지속시간동안 자신의 화력을 {PW}%, 명중을 {HT}% 상승시킨다.",
+    "data": [
+      {
+        "type": "POWER",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "HIT",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "DURATION",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "COOLDOWN",
+        "key": "CD",
+        "label": "쿨다운"
+      }
+    ],
+    "id": 92,
+    "name": "사냥의 기본"
+  }
+]
