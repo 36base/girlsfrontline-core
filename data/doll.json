@@ -7441,6 +7441,43 @@
   },
   "krName": "CZ52"
 }, {
+  "id": 211,
+  "name": "SRS",
+  "rank": 5,
+  "type": "rf",
+  "illust": "neco",
+  "voice": "/",
+  "buildTime": 0,
+  "drop": ["KEY 이벤트 전술능력 평가 보상"],
+  "skins": [],
+  "nick": ["서른살"],
+  "stats": {
+    "armor": 0,
+    "dodge": 35,
+    "hit": 82,
+    "hp": 435,
+    "pow": 135,
+    "range": 0,
+    "rate": 35,
+    "shield": 0,
+    "speed": 17,
+    "crit": 0,
+    "critDmg": 0,
+    "armorPiercing": 0,
+    "nightView": 0,
+    "coolDown": 0,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": 0,
+    "effectCenter": 5,
+    "effectPos": [3, 6],
+    "gridEffect": {
+      "coolDown": 18
+    }
+  },
+  "krName": "SRS"
+}, {
   "id": 1001,
   "name": "BB_Noel",
   "rank": 5,
