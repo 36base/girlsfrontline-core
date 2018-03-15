@@ -9,6 +9,7 @@ var _equip = require('../data/equip.json');
 var _equip2 = _interopRequireDefault(_equip);
 
 var _skill = require('../data/skill.json');
+
 var _skill2 = _interopRequireDefault(_skill);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
