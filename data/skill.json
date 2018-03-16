@@ -1572,16 +1572,6 @@
         "type": "probability",
         "key": "PB",
         "label": "발동확률"
-      },
-      {
-        "type": "cooldown",
-        "key": "CD",
-        "label": "쿨다운"
-      },
-      {
-        "type": "startcd",
-        "key": "IC",
-        "label": "초반 쿨타임"
       }
     ],
     "id": 56,
