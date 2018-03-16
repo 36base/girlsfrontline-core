@@ -17,6 +17,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 1,
@@ -24,7 +29,7 @@
   },
   {
     "path": "powBuffSelf",
-    "desc": "자신의 화력을 {PW}% 상승시키며, 지속시간 동안 동시공격 가능한 타깃수가 5명으로 늘어난다.(슬러그 탄의 효과와 중첩되지 않는다) 지속시간 {D}초",
+    "desc": "자신의 화력을 {PW}% 상승시키며, 동시공격 가능한 대상수가 5명으로 늘어난다.(슬러그 탄의 효과와 중첩되지 않는다)",
     "data": [
       {
         "type": "pow",
@@ -40,6 +45,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 2,
@@ -63,6 +73,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 3,
@@ -86,6 +101,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 4,
@@ -109,6 +129,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 5,
@@ -132,6 +157,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 6,
@@ -155,6 +185,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 7,
@@ -178,6 +213,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 8,
@@ -201,6 +241,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 9,
@@ -224,6 +269,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 10,
@@ -247,6 +297,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 11,
@@ -270,6 +325,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 12,
@@ -293,6 +353,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 13,
@@ -316,6 +381,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 14,
@@ -323,7 +393,7 @@
   },
   {
     "path": "Smoke",
-    "desc": "연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 {AR}%, 이동속도를 {MS}% 감소시킨다.",
+    "desc": "연막탄을 투척하여 반경 2.5범위 내의 적들의 사속을 {AR}%, 이동속도를 {MS}% 감소시킨다.",
     "data": [
       {
         "type": "enemy_rate",
@@ -344,6 +414,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 15,
@@ -362,6 +437,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 16,
@@ -369,7 +449,7 @@
   },
   {
     "path": "Grenade",
-    "desc": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "수류탄을 투척하여 반경 2.5범위 내의 적들에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -380,6 +460,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 17,
@@ -387,7 +472,7 @@
   },
   {
     "path": "Napalm",
-    "desc": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 공격력의 {D1}배의 폭발 데미지와 함께, {DR}초 동안, 매 0.33초당 공격력의 {D2}배의 화상 도트 데미지를 입힌다",
+    "desc": "소이탄을 투척하여 반경 1.5범위 내의 적들에게 {D1}% 폭발 데미지를 입히고 매 0.33초당 {D2}% 화상 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -400,9 +485,19 @@
         "label": "화상 공격력"
       },
       {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 18,
@@ -410,7 +505,7 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들애게 각각 공격력의 {D1}/{D2}/{D3}배의 피해를 입힌다",
+    "desc": "유탄을 발사하여 반경 1/2.5/4범위 내의 적들애게 각각 {D1}/{D2}/{D3}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -431,6 +526,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 19,
@@ -438,7 +538,7 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "유탄을 발사하여 반경 1.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "유탄을 발사하여 반경 1.5범위 내의 적들에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -449,6 +549,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 20,
@@ -469,9 +574,19 @@
         "label": "사속증가"
       },
       {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 21,
@@ -500,6 +615,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 22,
@@ -528,6 +648,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 23,
@@ -556,6 +681,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 24,
@@ -573,7 +703,7 @@
       {
         "type": "crit",
         "key": "CR",
-        "label": "치명율증가"
+        "label": "치명타율증가"
       },
       {
         "type": "duration",
@@ -584,6 +714,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 25,
@@ -612,6 +747,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 26,
@@ -640,6 +780,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 27,
@@ -668,6 +813,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 28,
@@ -696,6 +846,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 29,
@@ -703,7 +858,7 @@
   },
   {
     "path": "powBuff",
-    "desc": "아군 전체의 사속과 치명타율을 각각 {AR}% 씩 상승시킨다.",
+    "desc": "아군 전체의 사속과 치명타율을 각각 {AR}%씩 상승시킨다.",
     "data": [
       {
         "type": "rate",
@@ -724,6 +879,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 30,
@@ -731,7 +891,7 @@
   },
   {
     "path": "Invincible",
-    "desc": "어떠한 공격이라도 회피 할 수 있다. 지속시간 {DR}초",
+    "desc": "어떠한 공격이라도 회피 할 수 있다.",
     "data": [
       {
         "type": "duration",
@@ -742,6 +902,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 31,
@@ -749,7 +914,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "1.5초간 조준 후, 가장 멀리있는 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "1.5초간 조준 후, 가장 멀리있는 대상에게 {DM}% 피해를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -760,6 +925,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 32,
@@ -767,7 +937,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "1.5초간 조준 후, 현재 공격하던 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "1.5초간 조준 후, 현재 공격하던 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -778,6 +948,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 33,
@@ -785,7 +960,7 @@
   },
   {
     "path": "AimAttackSpecificTarge",
-    "desc": "1.5초간 조준 후, 특정한 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "1.5초간 조준 후, 특정한 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -796,6 +971,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 34,
@@ -803,7 +983,7 @@
   },
   {
     "path": "AimAttackCurrentTarge",
-    "desc": "1.5초간 조준 후, 가장 가까운 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "1.5초간 조준 후, 가장 가까운 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -814,6 +994,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 35,
@@ -842,6 +1027,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 36,
@@ -849,7 +1039,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "자신의 명중을 {HT}% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다.",
+    "desc": "자신의 명중을 {HT}% 상승시키며 모든 공격이 치명타로 적용된다.",
     "data": [
       {
         "type": "hit",
@@ -865,6 +1055,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 37,
@@ -872,7 +1067,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며 지속시간 동안 모든 공격이 치명타로 적용된다.",
+    "desc": "자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며 모든 공격이 치명타로 적용된다.",
     "data": [
       {
         "type": "pow",
@@ -893,6 +1088,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 38,
@@ -900,17 +1100,12 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "패시브 스킬. 매 3회 공격시, 그 다음 공격은 타깃에게 {DM}배의 피해를 입힌다",
+    "desc": "매 3회 공격시, 그 다음 공격은 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
         "key": "DM",
         "label": "공격력"
-      },
-      {
-        "type": "cooldown",
-        "key": "CD",
-        "label": "쿨다운"
       }
     ],
     "id": 39,
@@ -934,6 +1129,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 40,
@@ -962,6 +1162,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 41,
@@ -969,7 +1174,7 @@
   },
   {
     "path": "Shotgun",
-    "desc": "공격력의 {DM}배의 피해를 주는 추가탄을 발사하고, 거리 3칸만큼 적을 밀어낸다",
+    "desc": "{DM}% 피해를 주는 추가탄을 발사하고, 거리 3칸만큼 적을 밀어낸다",
     "data": [
       {
         "type": "damage",
@@ -980,6 +1185,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 42,
@@ -987,7 +1197,7 @@
   },
   {
     "path": "AimAttackCurrentTarge",
-    "desc": "1초씩 두번 조준 사격하여, 각각 현재 타깃에게 공격력의 {DM}배의 데미지를 입힌다",
+    "desc": "1초씩 두번 조준 사격하여, 각각 현재 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -998,6 +1208,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 43,
@@ -1005,7 +1220,7 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "3발의 유탄을 연속으로 발사하여 각 발당 반경 1.5범위 내의 적들에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "3발의 유탄을 연속으로 발사하여 각 발당 반경 1.5범위 내의 적들에게 {DM} 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -1016,6 +1231,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 44,
@@ -1031,9 +1251,19 @@
         "label": "스택당 화력증가"
       },
       {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 45,
@@ -1041,7 +1271,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "매 공격시 목표 대상에게 {AC}회의 피해를 입힌다.",
+    "desc": "매 공격시 목표 대상에게 {AC}회의 데미지를 입힌다.",
     "data": [
       {
         "type": "attackCount",
@@ -1049,9 +1279,19 @@
         "label": "타격횟수"
       },
       {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 46,
@@ -1080,6 +1320,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 47,
@@ -1087,7 +1332,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "지속시간 동안 자신의 공격속도를 {AR}% 감소하고, 화력을 {PW}% 상승시킨다.",
+    "desc": "자신의 사속을 {AR}% 감소시키고, 화력을 {PW}% 상승시킨다.",
     "data": [
       {
         "type": "rate",
@@ -1108,6 +1353,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 48,
@@ -1115,17 +1365,22 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "단일 적 타깃에게 {DM}의 고정 데미지를 입히고, 거리 3칸만큼 적을 밀어낸다",
+    "desc": "단일 적 대상에게 {DM}의 고정 데미지를 입히고, 거리 3칸만큼 적을 밀어낸다",
     "data": [
       {
         "type": "damage",
         "key": "DM",
-        "label": "고정 공격력"
+        "label": "고정 데미지"
       },
       {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 49,
@@ -1133,7 +1388,7 @@
   },
   {
     "path": "Shotgun",
-    "desc": "다음 3회의 공격을 점차 강화하여, 각각 타깃에게 자신의 공격력의 {D1}/{D2}/{D3}배의 피해를 입힌다",
+    "desc": "다음 3회의 공격을 점차 강화하여, 각각 대상에게 {D1}/{D2}/{D3}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -1154,6 +1409,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 50,
@@ -1161,12 +1421,12 @@
   },
   {
     "path": "GG_Elfeldt",
-    "desc": "표적에게 공격력의 {TD}배의 피해를 입힌 뒤, 미사일을 발사하여 표적 주위 1.5범위 내의 적들에게 {AD}배의 피해를 입힌다",
+    "desc": "표적에게 {TD}% 데미지를 입힌 뒤, 미사일을 발사하여 표적 주위 1.5범위 내의 적들에게 {AD}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
         "key": "TD",
-        "label": "타깃 공격력"
+        "label": "대상 공격력"
       },
       {
         "type": "damage",
@@ -1177,6 +1437,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 51,
@@ -1184,7 +1449,7 @@
   },
   {
     "path": "BB_Noel",
-    "desc": "적을 향해 필살기를 사용하여 일정 범위 내의 적들에게 공격력의 {DM}배의 데미지를 총 8회 입힌다.",
+    "desc": "적을 향해 필살기를 사용하여 일정 범위 내의 적들에게 {DM}% 데미지를 8회 입힌다.",
     "data": [
       {
         "type": "damage",
@@ -1195,6 +1460,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 52,
@@ -1202,7 +1472,7 @@
   },
   {
     "path": "Coldweapon",
-    "desc": "투척용 도끼를 던져, 타깃에게 공격력의 {DM}배의 피해를 입힌다",
+    "desc": "투척용 도끼를 던져, 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -1213,6 +1483,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 53,
@@ -1220,7 +1495,7 @@
   },
   {
     "path": "powBuff",
-    "desc": "스킬 발동 시 자신이 제공하는 버프칸에 있는 아군유닛에게 화력과 명중 그리고 사속을 {PW}% 상승시킨다. 지속시간 {DUR}초",
+    "desc": "스킬 발동 시 자신이 제공하는 버프칸에 있는 아군유닛의 화력과 명중 그리고 사속을 {PW}% 상승시킨다.",
     "data": [
       {
         "type": "pow",
@@ -1246,6 +1521,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 54,
@@ -1253,7 +1533,7 @@
   },
   {
     "path": "powBuffSelf",
-    "desc": "스킬 발동 시 자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며, 후열의 적을 우선적으로 공격하게 된다. 지속시간 {DUR}초",
+    "desc": "스킬 발동 시 자신의 화력을 {PW}%, 명중을 {HT}% 상승시키며, 후열의 적을 우선적으로 공격하게 된다.",
     "data": [
       {
         "type": "pow",
@@ -1274,6 +1554,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 55,
@@ -1281,7 +1566,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "매 공격시 {PB}%의 확률로 반드시 치명상을 입히는 탄환 한발을 발사한다",
+    "desc": "매 공격시 {PB}%의 확률로 반드시 치명상을 입히는 탄환 한발을 추가로 발사한다",
     "data": [
       {
         "type": "probability",
@@ -1292,6 +1577,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 56,
@@ -1299,7 +1589,7 @@
   },
   {
     "path": "AimAttackCurrentTarge",
-    "desc": "2초간 조준 후, 가장 체력이 많은 적에게 공격력의 {ND}배의 피해를 입히며, 만약 목표 대상이 장갑형 개체일 경우 공격력의 {AD}배의 피해를 입힌다.",
+    "desc": "2초간 조준 후, 가장 체력이 많은 적에게 {ND}% 데미지를 입힌다. 대상이 장갑을 가지고 있으면 대신 {AD}% 데미지를 입힌다.",
     "data": [
       {
         "type": "damage",
@@ -1315,6 +1605,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 57,
@@ -1322,7 +1617,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "2초간 조준 후, 가장 멀리있는 적에게 관통 효과를 지닌 탄환을 발사하여, 뚫고 지나간 모든 적에게 공격력의 {PD}의 피해를 입히며, 목표 대상에겐 추가로 공격력의 {TD}배의 피해를 입힌다",
+    "desc": "2초간 조준 후, 가장 멀리있는 적에게 관통 효과를 지닌 탄환을 발사한다. 뚫고 지나간 모든 적에게 {PD}% 데미지를 입히며 목표 대상에겐 추가로 {TD}% 데미지를 입힌다.",
     "data": [
       {
         "type": "damage",
@@ -1338,6 +1633,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 58,
@@ -1345,7 +1645,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "1초간 조준 후, 특수한 탄환을 발사하여 공격력의 {DM}배의 피해를 입히고, 받는 피해량을 {RD}% 증가시키며, 아군의 화력을 집중시킨다. 보스급의 적을 우선 조준하며, 컨텐더의 위치에 따라 전열: 가장 멀리있는 / 중간: 가장 체력이 많은 / 후열: 가장 가까운 적을 조준한다",
+    "desc": "1초간 조준 후, 특수한 탄환을 발사하여 {DM}% 데미지를 입히고 받는 데미지를 {RD}% 증가시키며 아군의 화력을 집중시킨다. 보스급의 적을 우선 조준하며, 컨텐더의 위치에 따라 전열: 가장 멀리있는 / 중간: 가장 체력이 많은 / 후열: 가장 가까운 적을 조준한다",
     "data": [
       {
         "type": "damage",
@@ -1366,6 +1666,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 59,
@@ -1394,6 +1699,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 60,
@@ -1401,7 +1711,7 @@
   },
   {
     "path": "shield",
-    "desc": "전투 중 전열에 존재하는 아군측 인형에게 {SD}의 피해를 흡수하는 보호막을 부여한다.",
+    "desc": "전투 중 전열에 존재하는 아군에게 {SD}의 피해를 흡수하는 보호막을 부여한다.",
     "data": [
       {
         "type": "shield",
@@ -1417,6 +1727,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 61,
@@ -1424,7 +1739,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "{DR}초 동안 사속이 {AR}% 상승하며, 장탄수가 {BL}발 증가한다. 단, 다음 탄창 교체에 걸리는 시간이 1초 증가한다",
+    "desc": "{DR}초 동안 사속이 {AR}% 상승하며, 장탄수가 {BL}발 증가하지만 다음 탄창 교체에 걸리는 시간이 1초 증가한다",
     "data": [
       {
         "type": "rate",
@@ -1445,6 +1760,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 62,
@@ -1478,6 +1798,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 63,
@@ -1485,7 +1810,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "[피버/기본] 공격력의 {FP}의 데미지로 {FC}회 공격, 온도 1도 상승. 15도 초과시 명중&화력이 누적온도당 {OH}%감소(최대 20도) [노트] 매 공격시 온도 1도 감소, 회피&이속 {ND}%감소. 동일 대상 타격 시 매 공격당 화력 {NP}%씩 상승(최대 10회)",
+    "desc": "[피버/기본] {FP}% 데미지로 {FC}회 공격, 온도 1도 상승. 15도 초과시 명중&화력이 누적온도당 {OH}%감소(최대 20도) [노트] 매 공격시 온도 1도 감소, 회피&이속 {ND}%감소. 동일 대상 타격 시 매 공격당 화력 {NP}%씩 상승(최대 10회)",
     "data": [
       {
         "type": "damage",
@@ -1526,6 +1851,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 64,
@@ -1533,7 +1863,7 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "유탄을 발사하여 반경 2.5범위 내의 적들에게 공격력의 {DG}%의 피해를 입히며 3기 이상의 적 명중 시 3초동안 대상이 받는 피해량을 {RD}% 증가시키고 3기 미만의 적 명중시 8초동안 자신의 데미지가 {PW}% 상승한다",
+    "desc": "유탄을 발사하여 반경 2.5범위 내의 적들에게 {DG}% 데미지를 입히며 3기 이상의 적 명중 시 3초동안 대상이 받는 데미지를 {RD}% 증가시키고 3기 미만의 적 명중시 8초동안 자신의 화력이 {PW}% 상승한다",
     "data": [
       {
         "type": "damage",
@@ -1554,6 +1884,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 65,
@@ -1561,7 +1896,7 @@
   },
   {
     "path": "Carcano1891",
-    "desc": "스킬 발동 시, 제대에 배속된 RF 1기마다(편제무관) 자신의 치명률과 사속 {AR}%씩 상승. {DR}지속. 패시브: 공격시 40%의 확률로 2초동안 같은 열에 있는 모든 아군의 치명률과 사속 {PR}% 상승(최대 3회 중첩)",
+    "desc": "스킬 발동 시, 제대에 배속된 RF 1기마다(편제무관) 자신의 치명률과 사속 {AR}%씩 상승. 패시브: 공격시 40%의 확률로 2초동안 같은 열에 있는 모든 아군의 치명률과 사속 {PR}% 상승(최대 3회 중첩)",
     "data": [
       {
         "type": "rate",
@@ -1592,6 +1927,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 66,
@@ -1599,7 +1939,7 @@
   },
   {
     "path": "Carcano1938",
-    "desc": "발동 시 18개의 각인을 새긴다. 패시브: 공격 시 {PB}%의 확률로 각인을 2개씩 새긴다. 18개 도달시 다음 공격으로 엘리트 적에게 공격력의 {ED}%(통상 적에게 {ND}%)의 피해를 입히며 각인 수는 리셋된다",
+    "desc": "발동 시 18개의 각인을 새긴다. 패시브: 공격 시 {PB}%의 확률로 각인을 2개씩 새긴다. 18개 도달시 다음 공격으로 엘리트 적에게 {ED}%(통상 적에게 {ND}%) 데미지를 입히며 각인 수는 리셋된다",
     "data": [
       {
         "type": "probability",
@@ -1620,6 +1960,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 67,
@@ -1627,7 +1972,7 @@
   },
   {
     "path": "Kiana",
-    "desc": "번개를 쏘아 1.5반경 내의 적에게 크리티컬 데미지를 주고, 받는 피해량이 {RD}% 증가하는 마비 상태로 만든다.",
+    "desc": "번개를 쏘아 1.5반경 내의 적에게 크리티컬 데미지를 주고, 받는 데미지가 {RD}% 증가하는 마비 상태로 만든다.",
     "data": [
       {
         "type": "enemy_recvDmg",
@@ -1643,6 +1988,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 68,
@@ -1650,7 +2000,7 @@
   },
   {
     "path": "RaidenMei",
-    "desc": "1.5초간 조준한 후 최후열의 적을 저격하여 공격력의 {DMG}% 피해를 입히고 마비 상태로 만든다.",
+    "desc": "1.5초간 조준한 후 최후열의 적을 저격하여 {DMG}% 데미지를 입히고 마비 상태로 만든다.",
     "data": [
       {
         "type": "damage",
@@ -1666,6 +2016,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 69,
@@ -1673,7 +2028,7 @@
   },
   {
     "path": "Bronya",
-    "desc": "폭발 후 일정 시간 지속되는 블랙홀을 생성하는 수류탄을 던진다. 블랙홀은 2.5반경 내의 적을 끌어당기며 1.5반경 내의 적은 매 초 공격력의 {DMG}%만큼의 피해를 받는다.",
+    "desc": "폭발 후 일정 시간 지속되는 블랙홀을 생성하는 수류탄을 던진다. 블랙홀은 2.5반경 내의 적을 끌어당기며 1.5반경 내의 적은 매 초 {DMG}% 만큼의 데미지를 받는다.",
     "data": [
       {
         "type": "damage",
@@ -1689,6 +2044,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 70,
@@ -1717,6 +2077,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 71,
@@ -1724,7 +2089,7 @@
   },
   {
     "path": "Himeko",
-    "desc": "최전열의 적 3명의 공격력과 이동속도를 {MS}% 감소시키고 해당 적을 공격시 {DMG}%의 추가데미지를 준다",
+    "desc": "최전열의 적 3명의 화력과 이동속도를 {MS}% 감소시키고 해당 적을 공격시 {DMG}% 추가 데미지를 준다",
     "data": [
       {
         "type": "pow",
@@ -1750,6 +2115,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 72,
@@ -1757,7 +2127,7 @@
   },
   {
     "path": "Seele",
-    "desc": "탄창의 마지막 공격이 {DM}%의 피해를 입히고 즉시 재장전된다",
+    "desc": "탄창의 마지막 공격이 {DM}% 데미지를 입히고 즉시 재장전된다",
     "data": [
       {
         "type": "damage",
@@ -1770,7 +2140,7 @@
   },
   {
     "path": "",
-    "desc": "1초간 조준한 후에 가장 가까운 적에게 공격력의 {DM}배의 피해를 입힌다. 회피 가능하며 사격 후 {RD}초간 재장전 필요",
+    "desc": "1초간 조준한 후에 가장 가까운 적에게 {DM}% 데미지를 입힌다. 회피 가능하며 사격 후 {RD}초간 재장전 필요",
     "data": [
       {
         "type": "damage",
@@ -1786,6 +2156,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 74,
@@ -1793,7 +2168,7 @@
   },
   {
     "path": "",
-    "desc": "자신의 사속이 {AR}%, 명중이 {HT}%만큼 감소하는 대신 이동속도가 {MS}%, 회피가 {DG}%만큼 증가한다.",
+    "desc": "자신의 사속이 {AR}%, 명중이 {HT}% 만큼 감소하는 대신 이동속도가 {MS}%, 회피가 {DG}% 만큼 증가한다.",
     "data": [
       {
         "type": "rate",
@@ -1824,6 +2199,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 75,
@@ -1831,8 +2211,24 @@
   },
   {
     "path": "",
-    "desc": "패시브: 주기마다 적에게 표식을 1개씩 부여한다. 액티브: 매 공격시 표식이 있는 적에게 1회의 추가 공격을 하고 표식을 1개 지운다. 지속시간이 끝나거나 표식이 전부 없어질 때까지 지속된다. 지속시간 {DUR}초",
-    "data": [],
+    "desc": "패시브: {DL}초 마다 적에게 표식을 1개씩 부여한다. 액티브: 매 공격시 표식이 있는 적에게 1회의 추가 공격을 하고 표식을 1개 지운다. 지속시간이 끝나거나 표식이 전부 없어질 때까지 지속된다.",
+    "data": [
+      {
+        "type": "delay",
+        "key": "DL",
+        "label": "표식 주기"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
     "id": 76,
     "name": "사냥매의 처형장"
   },
@@ -1849,6 +2245,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 77,
@@ -1856,7 +2257,7 @@
   },
   {
     "path": "AK12_Buff",
-    "desc": "자신의 화력, 사속, 명중 및 치명률을 {PW}% 상승시킨다. 지속시간 5초",
+    "desc": "자신의 화력, 사속, 명중 및 치명률을 {PW}% 상승시킨다.",
     "data": [
       {
         "type": "pow",
@@ -1887,6 +2288,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 78,
@@ -1925,6 +2331,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 79,
@@ -1963,6 +2374,11 @@
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
       }
     ],
     "id": 80,
