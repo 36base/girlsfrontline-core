@@ -2410,5 +2410,38 @@
     ],
     "id": 80,
     "name": "무차별붕괴"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}%, 명중을 {HT}% 증가시킨다.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 81,
+    "name": "사냥의 기본"
   }
 ]
