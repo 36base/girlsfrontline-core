@@ -365,29 +365,33 @@
   },
   {
     "path": "Flare",
-    "desc": "아군 전체 명중을 {HT}% 상승시킨다.",
-    "data": [
-      {
-        "type": "hit",
-        "key": "HT",
-        "label": "명중증가"
-      },
-      {
-        "type": "duration",
-        "key": "DR",
-        "label": "지속시간"
-      },
-      {
-        "type": "cooldown",
-        "key": "CD",
-        "label": "쿨다운"
-      },
-      {
-        "type": "startcd",
-        "key": "IC",
-        "label": "초반 쿨타임"
-      }
-    ],
+    "desc": "사용 불가",
+    "dataPool": [],
+    "night": {
+      "desc": "아군 전체 명중을 {HT}% 상승시킨다.",
+      "data": [
+        {
+          "type": "hit",
+          "key": "HT",
+          "label": "명중증가"
+        },
+        {
+          "type": "duration",
+          "key": "DR",
+          "label": "지속시간"
+        },
+        {
+          "type": "cooldown",
+          "key": "CD",
+          "label": "쿨다운"
+        },
+        {
+          "type": "startcd",
+          "key": "IC",
+          "label": "초반 쿨타임"
+        }
+      ]
+    },
     "id": 14,
     "name": "조명탄"
   },
@@ -2290,7 +2294,7 @@
   },
   {
     "path": "",
-    "desc": "자신의 화력이 {PW}%, 치명타율이 {CR}%, 명중이 {HT}%, 사속이 {AR}% 증가한다.",
+    "desc": "자신의 화력이 {PW}%, 치명타율이 {CR}% 증가한다.",
     "data": [
       {
         "type": "pow",
@@ -2301,16 +2305,6 @@
         "type": "crit",
         "key": "CR",
         "label": "치명율증가"
-      },
-      {
-        "type": "hit",
-        "key": "HT",
-        "label": "명중증가"
-      },
-      {
-        "type": "rate",
-        "key": "AR",
-        "label": "사속증가"
       },
       {
         "type": "duration",
@@ -2328,8 +2322,38 @@
         "label": "초반 쿨타임"
       }
     ],
+    "night": {
+      "desc": "자신의 명중이 {HT}%, 사속이 {AR}% 증가한다.",
+      "dataPool": [
+        {
+          "type": "hit",
+          "key": "HT",
+          "label": "명중증가"
+        },
+        {
+          "type": "rate",
+          "key": "AR",
+          "label": "사속증가"
+        },
+        {
+          "type": "duration",
+          "key": "DR",
+          "label": "지속시간"
+        },
+        {
+          "type": "cooldown",
+          "key": "CD",
+          "label": "쿨다운"
+        },
+        {
+          "type": "startcd",
+          "key": "IC",
+          "label": "초반 쿨타임"
+        }
+      ]
+    },
     "id": 79,
-    "name": "여명의 기세"
+    "name": "의 기세"
   },
   {
     "path": "",
