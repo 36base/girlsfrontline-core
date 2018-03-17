@@ -2221,6 +2221,11 @@
         "label": "표식 주기"
       },
       {
+        "type": "duration",
+        "key": "DR",
+        "label": "표식 지속시간"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
