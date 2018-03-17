@@ -366,7 +366,7 @@
   {
     "path": "Flare",
     "desc": "사용 불가",
-    "dataPool": [],
+    "data": [],
     "night": {
       "desc": "아군 전체 명중을 {HT}% 상승시킨다.",
       "data": [
@@ -2324,7 +2324,7 @@
     ],
     "night": {
       "desc": "자신의 명중이 {HT}%, 사속이 {AR}% 증가한다.",
-      "dataPool": [
+      "data": [
         {
           "type": "hit",
           "key": "HT",
@@ -2353,7 +2353,7 @@
       ]
     },
     "id": 79,
-    "name": "의 기세"
+    "name": "여명의 기세"
   },
   {
     "path": "",
