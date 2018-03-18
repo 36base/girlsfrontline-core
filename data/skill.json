@@ -1253,21 +1253,6 @@
         "type": "pow",
         "key": "PW",
         "label": "스택당 화력증가"
-      },
-      {
-        "type": "duration",
-        "key": "DR",
-        "label": "지속시간"
-      },
-      {
-        "type": "cooldown",
-        "key": "CD",
-        "label": "쿨다운"
-      },
-      {
-        "type": "startcd",
-        "key": "IC",
-        "label": "초반 쿨타임"
       }
     ],
     "id": 45,
