@@ -51,6 +51,7 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 | nick | Array(String) | 별명 목록 |
 | stats | [stats](#doll_stats) | 스탯 |
 | effect | [effect](#doll_effect) | 진형 버프 |
+| [getSkill](#doll_getSkill) | Function ⇒ <code>[skill](#doll_skill)</code> | 스킬 데이터 |
 
 <a name="equip"></a>
 ## [equip](#main) 멤버
@@ -132,6 +133,45 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 | effectPos | Array(Number) | 버프 적용 위치 |
 | gridEffect | [stats](#doll_stats) | 버프 목록 |
 
+<a name="doll_getSkill"></a>
+### [getSkill](#main)(options) ⇒ <code>[skill](#doll_skill)</code>
+해당 요정의 카테고리를 나타냅니다.
+
+| option | Value Type | Description |
+| --- | --- | --- |
+| level | Number | 스킬 레벨 |
+| night | bool | 야간전 |
+
+```javascript
+const {name, desc} = doll.getStats({level: 3, night: false});
+
+console.log(`${name}: ${desc}`);
+```
+
+<a name="doll_skill"></a>
+### [skill](#main) ⇒ <code>Object</code>
+해당 인형의 스킬 데이터를 나타냅니다.
+
+| Key | Value Type | Description |
+| --- | --- | --- |
+| id | Number | id |
+| path | String | 이미지 경로 |
+| name | String | 이름 |
+| desc | String | 설명 |
+| data | Object | 스킬 템플릿 |
+| dataPool | Object | 스킬 데이터 |
+
+```json
+{
+  "id": 39,
+  "path": "comboBuffSelf",
+  "name": "사중극점",
+  "desc": "매3회 공격시, 그 다음 공격은 260% 데미지를 입힌다",
+  "data": [{"key": "DM", "label": "공격력", "type": "damage"}],
+  "dataPool": {"DM": 260}
+}
+```
+
 <a name="equip_category"></a>
 ### [category](#main) ⇒ <code>String</code>
 해당 장비의 카테고리를 나타냅니다.
@@ -192,7 +232,7 @@ Object.entries(stats).forEach(([stat, {min, max, upgrade}]) => {
 | strategy | 전략 요정 |
 
 <a name="fairy_getStats"></a>
-### [getStats](#main)(options) ⇒ <code>Function</code>
+### [getStats](#main)(options) ⇒ <code>[stats](#doll_stats)</code>
 해당 요정의 카테고리를 나타냅니다.
 
 | option | Value Type | Description |
