@@ -1186,6 +1186,11 @@
         "label": "공격력"
       },
       {
+        "type": "knockback",
+        "key": "NB",
+        "label": "넉백거리"
+      },
+      {
         "type": "cooldown",
         "key": "CD",
         "label": "쿨다운"
