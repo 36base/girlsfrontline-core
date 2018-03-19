@@ -8,13 +8,15 @@ var _slicedToArray2 = require('babel-runtime/helpers/slicedToArray');
 
 var _slicedToArray3 = _interopRequireDefault(_slicedToArray2);
 
-var _keys = require('babel-runtime/core-js/object/keys');
+var _entries = require('babel-runtime/core-js/object/entries');
 
-var _keys2 = _interopRequireDefault(_keys);
+var _entries2 = _interopRequireDefault(_entries);
 
 var _extends2 = require('babel-runtime/helpers/extends');
 
 var _extends3 = _interopRequireDefault(_extends2);
+
+exports.default = getFairy;
 
 var _fairyGrow = require('../../data/fairyGrow.json');
 
@@ -35,8 +37,10 @@ function getFairy(fairy) {
 
       var stats = {};
 
-      (0, _keys2.default)(baseStats).forEach(function (key) {
-        var baseStat = baseStats[key];
+      (0, _entries2.default)(baseStats).forEach(function (_ref) {
+        var _ref2 = (0, _slicedToArray3.default)(_ref, 2),
+            key = _ref2[0],
+            baseStat = _ref2[1];
 
         var _fairyGrow$key = (0, _slicedToArray3.default)(_fairyGrow2.default[key], 2),
             statRatio = _fairyGrow$key[0],
@@ -50,5 +54,3 @@ function getFairy(fairy) {
     }
   });
 }
-
-exports.default = getFairy;
