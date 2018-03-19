@@ -6,30 +6,12 @@
 
 ## IMPORTANT
 
-0.4.0에서 일부 값이 변경되었습니다.
-### before
-```json
-{
-  "type": 1
-}
-```
-```json
-{
-  "category": 1,
-  "type": 1
-}
-```
-### after
-```json
-{
-  "type": "hg"
-}
-```
-```json
-{
-  "category": "accessory",
-  "type": "scope"
-}
+```javascript
+// before
+stats.coolDown
+
+//after
+stats.cooldown
 ```
 
 ## Install
@@ -39,13 +21,16 @@ $ yarn add girlsfrontline-core
 
 ## Example
 ```javascript
-import {dolls, equips} from 'girlsfrontline-core';
+import {dolls, equips, fairy} from 'girlsfrontline-core';
 
 // AR 타입 인형 찾기
 const AR = dolls.filter(({type}) => type === 'ar');
 
 // 전용 장비 찾기
 const fitGuns = equips.filter(({fitGuns}) => fitGuns);
+
+// 전투 요정 찾기
+const battleFairy = fairy.filter(({category}) => category === 'battle');
 ```
 
 <a name="doll"></a>
@@ -80,6 +65,21 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns);
 | fitGuns | Array(Number) | 장착 가능한 인형 목록 |
 | stats | [equipStats](#equip_stats) | 장비 스탯 |
 
+
+<a name="fairy"></a>
+## [fairy](#main) 멤버
+
+| Key | Value Type | Value |
+| --- | --- | --- |
+| id | Number | 도감번호 |
+| category | [category](#fairy_category) | 카테고리 |
+| name | String | 이름 |
+| krName | String | 이름 (한국어판) |
+| stats | [stats](#doll_stats) | 기본 버프 수치 |
+| [getStats](#fairy_getStats) | Function | 계산된 제대 버프 |
+| grow | Number | 성장 수치 |
+| buildTime | Number | 제조 시간(초) |
+
 <a name="doll_type"></a>
 ### [type](#main) ⇒ <code>String</code>
 해당 인형의 타입을 나타냅니다.
@@ -112,7 +112,7 @@ const fitGuns = equips.filter(({fitGuns}) => fitGuns);
 | critDmg | Number | 크리티컬 데미지 추가 증가량(%) |
 | armorPiercing | Number | 장갑 관통 |
 | nightView | Number | 야간전 명중(%) |
-| coolDown | Number | 쿨타임 감소(%) |
+| cooldown | Number | 쿨타임 감소(%) |
 | bullet | Number | 장탄 수 |
 
 <a name="doll_effect"></a>
@@ -180,4 +180,30 @@ const {stats} = equip;
 Object.entries(stats).forEach(([stat, {min, max, upgrade}]) => {
   console.log(`${stat} ${min} ~ ${max}, 1레벨당 ${upgrade}% 증가`);
 });
+```
+
+<a name="fairy_category"></a>
+### [category](#main) ⇒ <code>String</code>
+해당 요정의 카테고리를 나타냅니다.
+
+| Value | Description |
+| --- | --- |
+| battle | 전투 요정 |
+| strategy | 전략 요정 |
+
+<a name="fairy_getStats"></a>
+### [getStats](#main)(options) ⇒ <code>Function</code>
+해당 요정의 카테고리를 나타냅니다.
+
+| option | Value Type | Description |
+| --- | --- | --- |
+| level | Number | 레벨 |
+| quality | Number | 개조 수치 |
+
+```javascript
+const stats = fairy.getStats({level: 100, quality: 5});
+
+Object.entries(stats).forEach(([stat, value]) => {
+  console.log(`${stat} ${value}% 증가`);
+})
 ```
