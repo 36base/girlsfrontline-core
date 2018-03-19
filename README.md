@@ -1,10 +1,19 @@
 # GirlsFrontline API
 
+[![Code Style Prev](https://img.shields.io/badge/code%20style-prev-32c8fc.svg)](https://github.com/preco21/eslint-config-prev)
+[![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=develop)](https://travis-ci.org/36base/girlsfrontline-core)
+
 > A GirlsFrontline API
 
 <a name="main"></a>
 
 ## IMPORTANT
+
+### 0.5.0 주요 변경점
+- SRS 데이터 추가
+- 요정 데이터 추가
+- 스킬 데이터 추가 (추후 릴리즈 예정)
+- 인형 데이터 구조 변경 (하단 참조)
 
 ```javascript
 // before
