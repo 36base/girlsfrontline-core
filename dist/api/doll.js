@@ -45,7 +45,10 @@ function getDoll(doll) {
           level = _options$level === undefined ? 10 : _options$level,
           _options$night = options.night,
           isNight = _options$night === undefined ? true : _options$night;
-      var name = skill.name,
+      var id = skill.id,
+          path = skill.path,
+          data = skill.data,
+          name = skill.name,
           pool = skill.dataPool,
           nightPool = skill.nightDataPool,
           nightData = skill.night,
@@ -55,7 +58,11 @@ function getDoll(doll) {
       var dataPool = isNight ? getDataPool((0, _extends3.default)({}, pool, nightPool), level) : getDataPool(pool, level);
       var desc = isNight && nightData ? getDesc(nightData.desc, dataPool) : getDesc(dayDesc, dataPool);
 
-      return (0, _extends3.default)({}, skill, isNight ? nightData : {}, {
+      return (0, _extends3.default)({
+        id: id,
+        path: path,
+        data: data
+      }, isNight ? nightData : {}, {
         dataPool: dataPool,
         desc: desc,
         name: name

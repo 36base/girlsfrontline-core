@@ -10,7 +10,7 @@ export default function getDoll(doll) {
     skill,
     getSkill(options = {}) {
       const {level = 10, night: isNight = true} = options;
-      const {name, dataPool: pool, nightDataPool: nightPool, night: nightData, desc: dayDesc} = skill;
+      const {id, path, data, name, dataPool: pool, nightDataPool: nightPool, night: nightData, desc: dayDesc} = skill;
       
       const dataPool = isNight
         ? getDataPool({...pool, ...nightPool}, level)
@@ -20,7 +20,9 @@ export default function getDoll(doll) {
         : getDesc(dayDesc, dataPool);
       
       return {
-        ...skill,
+        id,
+        path,
+        data,
         ...isNight ? nightData : {},
         dataPool,
         desc,
