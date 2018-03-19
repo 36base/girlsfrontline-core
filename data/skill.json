@@ -1359,12 +1359,17 @@
   },
   {
     "path": "RifleGrenade",
-    "desc": "단일 적 대상에게 {DM}의 고정 데미지를 입히고, 거리 3칸만큼 적을 밀어낸다",
+    "desc": "단일 적 대상에게 {DM}의 고정 데미지를 입히고, 거리 {NB}칸만큼 적을 밀어낸다",
     "data": [
       {
         "type": "damage",
         "key": "DM",
         "label": "고정 데미지"
+      },
+      {
+        "type": "knockback",
+        "key": "NB",
+        "label": "넉백거리"
       },
       {
         "type": "cooldown",
