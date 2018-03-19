@@ -1,0 +1,248 @@
+[{
+  "id": 1,
+  "category": "battle",
+  "name": "용사요정",
+  "codeName": "fighting",
+  "stats": {
+    "pow": 160,
+    "hit": 160,
+    "dodge": 100,
+    "armor": 100
+  },
+  "grow": 100
+}, {
+  "id": 2,
+  "category": "battle",
+  "name": "격노요정",
+  "codeName": "crit",
+  "stats": {
+    "pow": 100,
+    "dodge": 100,
+    "armor": 100,
+    "critDmg": 199
+  },
+  "grow": 100
+}, {
+  "id": 3,
+  "category": "battle",
+  "name": "방패요정",
+  "codeName": "armor",
+  "stats": {
+    "pow": 145,
+    "armor": 242,
+    "critDmg": 101
+  },
+  "grow": 100
+}, {
+  "id": 4,
+  "category": "battle",
+  "name": "수호요정",
+  "codeName": "shield",
+  "stats": {
+    "pow": 130,
+    "hit": 120,
+    "dodge": 200
+  },
+  "grow": 100
+}, {
+  "id": 5,
+  "category": "strategy",
+  "name": "방어요정",
+  "codeName": "defense",
+  "stats": {
+    "pow": 131,
+    "dodge": 180,
+    "armor": 180
+  },
+  "grow": 121
+}, {
+  "id": 6,
+  "category": "battle",
+  "name": "도발요정",
+  "codeName": "target",
+  "stats": {
+    "pow": 101,
+    "hit": 100,
+    "dodge": 60,
+    "armor": 61,
+    "critDmg": 101
+  },
+  "grow": 130
+}, {
+  "id": 7,
+  "category": "battle",
+  "name": "저격요정",
+  "codeName": "sniper",
+  "stats": {
+    "hit": 175,
+    "dodge": 70,
+    "armor": 141,
+    "critDmg": 175
+  },
+  "grow": 100
+}, {
+  "id": 8,
+  "category": "battle",
+  "name": "포격요정",
+  "codeName": "bombard",
+  "stats": {
+    "pow": 372,
+    "dodge": 140,
+    "armor": 60
+  },
+  "grow": 100
+}, {
+  "id": 9,
+  "category": "battle",
+  "name": "공습요정",
+  "codeName": "air_attack",
+  "stats": {
+    "pow": 159,
+    "hit": 79,
+    "dodge": 79,
+    "armor": 79
+  },
+  "grow": 150
+}, {
+  "id": 10,
+  "category": "strategy",
+  "name": "증원요정",
+  "codeName": "reinforce",
+  "stats": {
+    "pow": 60,
+    "dodge": 175,
+    "armor": 81,
+    "critDmg": 60
+  },
+  "grow": 150
+}, {
+  "id": 11,
+  "category": "strategy",
+  "name": "공수요정",
+  "codeName": "airborne",
+  "stats": {
+    "pow": 190,
+    "dodge": 62,
+    "armor": 60,
+    "critDmg": 155
+  },
+  "grow": 150
+}, {
+  "id": 12,
+  "category": "strategy",
+  "name": "매설요정",
+  "codeName": "Landmines",
+  "stats": {
+    "pow": 200,
+    "hit": 100,
+    "dodge": 242
+  },
+  "grow": 73
+}, {
+  "id": 13,
+  "category": "strategy",
+  "name": "로켓요정",
+  "codeName": "position",
+  "stats": {
+    "hit": 100,
+    "armor": 241,
+    "critDmg": 200
+  },
+  "grow": 75
+}, {
+  "id": 14,
+  "category": "strategy",
+  "name": "공사요정",
+  "codeName": "fortress",
+  "stats": {
+    "pow": 120,
+    "hit": 120,
+    "dodge": 120,
+    "armor": 120,
+    "critDmg": 120
+  },
+  "grow": 65
+}, {
+  "id": 15,
+  "category": "strategy",
+  "name": "지휘요정",
+  "codeName": "command",
+  "stats": {
+    "pow": 285,
+    "dodge": 92,
+    "armor": 85,
+    "critDmg": 201
+  },
+  "grow": 70
+}, {
+  "id": 16,
+  "category": "strategy",
+  "name": "수색요정",
+  "codeName": "rescue",
+  "stats": {
+    "pow": 270,
+    "hit": 200,
+    "dodge": 200
+  },
+  "grow": 60
+}, {
+  "id": 17,
+  "category": "strategy",
+  "name": "조명요정",
+  "codeName": "illumine",
+  "stats": {
+    "hit": 200,
+    "dodge": 87,
+    "armor": 80,
+    "critDmg": 201
+  },
+  "grow": 80
+}, {
+  "id": 18,
+  "category": "battle",
+  "codeName": "golden",
+  "stats": {
+    "pow": 60,
+    "hit": 58,
+    "dodge": 58,
+    "armor": 56,
+    "critDmg": 58
+  },
+  "grow": 320
+}, {
+  "id": 1001,
+  "category": "battle",
+  "name": "야에 사쿠라 ",
+  "codeName": "Sakura",
+  "stats": {
+    "pow": 220,
+    "dodge": 75,
+    "armor": 65,
+    "critDmg": 200
+  },
+  "grow": 60
+}, {
+  "id": 1002,
+  "category": "strategy",
+  "name": "카구야",
+  "codeName": "Kaguya",
+  "stats": {
+    "hit": 173,
+    "dodge": 75,
+    "armor": 180,
+    "critDmg": 195
+  },
+  "grow": 60
+}, {
+  "id": 1003,
+  "category": "battle",
+  "name": "클로에",
+  "codeName": "Chloe",
+  "stats": {
+    "pow": 145,
+    "hit": 135,
+    "dodge": 199,
+    "armor": 65
+  },
+  "grow": 60
+}]
