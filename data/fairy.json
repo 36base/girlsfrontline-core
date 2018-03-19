@@ -1,65 +1,70 @@
 [{
   "id": 1,
   "category": "battle",
-  "name": "용사요정",
-  "codeName": "fighting",
+  "krName": "용사요정",
+  "name": "fighting",
   "stats": {
     "pow": 160,
     "hit": 160,
     "dodge": 100,
     "armor": 100
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 16200
 }, {
   "id": 2,
   "category": "battle",
-  "name": "격노요정",
-  "codeName": "crit",
+  "krName": "격노요정",
+  "name": "crit",
   "stats": {
     "pow": 100,
     "dodge": 100,
     "armor": 100,
     "critDmg": 199
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 16500
 }, {
   "id": 3,
   "category": "battle",
-  "name": "방패요정",
-  "codeName": "armor",
+  "krName": "방패요정",
+  "name": "armor",
   "stats": {
     "pow": 145,
     "armor": 242,
     "critDmg": 101
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 10800
 }, {
   "id": 4,
   "category": "battle",
-  "name": "수호요정",
-  "codeName": "shield",
+  "krName": "수호요정",
+  "name": "shield",
   "stats": {
     "pow": 130,
     "hit": 120,
     "dodge": 200
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 11100
 }, {
   "id": 5,
   "category": "strategy",
-  "name": "방어요정",
-  "codeName": "defense",
+  "krName": "방어요정",
+  "name": "defense",
   "stats": {
     "pow": 131,
     "dodge": 180,
     "armor": 180
   },
-  "grow": 121
+  "grow": 121,
+  "buildTime": 15000
 }, {
   "id": 6,
   "category": "battle",
-  "name": "도발요정",
-  "codeName": "target",
+  "krName": "도발요정",
+  "name": "target",
   "stats": {
     "pow": 101,
     "hit": 100,
@@ -67,93 +72,101 @@
     "armor": 61,
     "critDmg": 101
   },
-  "grow": 130
+  "grow": 130,
+  "buildTime": 11400
 }, {
   "id": 7,
   "category": "battle",
-  "name": "저격요정",
-  "codeName": "sniper",
+  "krName": "저격요정",
+  "name": "sniper",
   "stats": {
     "hit": 175,
     "dodge": 70,
     "armor": 141,
     "critDmg": 175
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 12600
 }, {
   "id": 8,
   "category": "battle",
-  "name": "포격요정",
-  "codeName": "bombard",
+  "krName": "포격요정",
+  "name": "bombard",
   "stats": {
     "pow": 372,
     "dodge": 140,
     "armor": 60
   },
-  "grow": 100
+  "grow": 100,
+  "buildTime": 12900
 }, {
   "id": 9,
   "category": "battle",
-  "name": "공습요정",
-  "codeName": "air_attack",
+  "krName": "공습요정",
+  "name": "air_attack",
   "stats": {
     "pow": 159,
     "hit": 79,
     "dodge": 79,
     "armor": 79
   },
-  "grow": 150
+  "grow": 150,
+  "buildTime": 13200
 }, {
   "id": 10,
   "category": "strategy",
-  "name": "증원요정",
-  "codeName": "reinforce",
+  "krName": "증원요정",
+  "name": "reinforce",
   "stats": {
     "pow": 60,
     "dodge": 175,
     "armor": 81,
     "critDmg": 60
   },
-  "grow": 150
+  "grow": 150,
+  "buildTime": 14400
 }, {
   "id": 11,
   "category": "strategy",
-  "name": "공수요정",
-  "codeName": "airborne",
+  "krName": "공수요정",
+  "name": "airborne",
   "stats": {
     "pow": 190,
     "dodge": 62,
     "armor": 60,
     "critDmg": 155
   },
-  "grow": 150
+  "grow": 150,
+  "buildTime": 14700
 }, {
   "id": 12,
   "category": "strategy",
-  "name": "매설요정",
-  "codeName": "Landmines",
+  "krName": "매설요정",
+  "name": "Landmines",
   "stats": {
     "pow": 200,
     "hit": 100,
     "dodge": 242
   },
-  "grow": 73
+  "grow": 73,
+  "buildTime": 19800
 }, {
   "id": 13,
   "category": "strategy",
-  "name": "로켓요정",
-  "codeName": "position",
+  "krName": "로켓요정",
+  "name": "position",
   "stats": {
     "hit": 100,
     "armor": 241,
     "critDmg": 200
   },
-  "grow": 75
+  "grow": 75,
+  "buildTime": 20100
 }, {
   "id": 14,
   "category": "strategy",
-  "name": "공사요정",
-  "codeName": "fortress",
+  "krName": "공사요정",
+  "name": "fortress",
   "stats": {
     "pow": 120,
     "hit": 120,
@@ -161,46 +174,50 @@
     "armor": 120,
     "critDmg": 120
   },
-  "grow": 65
+  "grow": 65,
+  "buildTime": 20400
 }, {
   "id": 15,
   "category": "strategy",
-  "name": "지휘요정",
-  "codeName": "command",
+  "krName": "지휘요정",
+  "name": "command",
   "stats": {
     "pow": 285,
     "dodge": 92,
     "armor": 85,
     "critDmg": 201
   },
-  "grow": 70
+  "grow": 70,
+  "buildTime": 18000
 }, {
   "id": 16,
   "category": "strategy",
-  "name": "수색요정",
-  "codeName": "rescue",
+  "krName": "수색요정",
+  "name": "rescue",
   "stats": {
     "pow": 270,
     "hit": 200,
     "dodge": 200
   },
-  "grow": 60
+  "grow": 60,
+  "buildTime": 18300
 }, {
   "id": 17,
   "category": "strategy",
-  "name": "조명요정",
-  "codeName": "illumine",
+  "krName": "조명요정",
+  "name": "illumine",
   "stats": {
     "hit": 200,
     "dodge": 87,
     "armor": 80,
     "critDmg": 201
   },
-  "grow": 80
+  "grow": 80,
+  "buildTime": 18600
 }, {
   "id": 18,
   "category": "battle",
-  "codeName": "golden",
+  "name": "golden",
   "stats": {
     "pow": 60,
     "hit": 58,
@@ -208,41 +225,45 @@
     "armor": 56,
     "critDmg": 58
   },
-  "grow": 320
+  "grow": 320,
+  "buildTime": 18600
 }, {
   "id": 1001,
   "category": "battle",
-  "name": "야에 사쿠라 ",
-  "codeName": "Sakura",
+  "krName": "야에 사쿠라 ",
+  "name": "Sakura",
   "stats": {
     "pow": 220,
     "dodge": 75,
     "armor": 65,
     "critDmg": 200
   },
-  "grow": 60
+  "grow": 60,
+  "buildTime": 18600
 }, {
   "id": 1002,
   "category": "strategy",
-  "name": "카구야",
-  "codeName": "Kaguya",
+  "krName": "카구야",
+  "name": "Kaguya",
   "stats": {
     "hit": 173,
     "dodge": 75,
     "armor": 180,
     "critDmg": 195
   },
-  "grow": 60
+  "grow": 60,
+  "buildTime": 18600
 }, {
   "id": 1003,
   "category": "battle",
-  "name": "클로에",
-  "codeName": "Chloe",
+  "krName": "클로에",
+  "name": "Chloe",
   "stats": {
     "pow": 145,
     "hit": 135,
     "dodge": 199,
     "armor": 65
   },
-  "grow": 60
+  "grow": 60,
+  "buildTime": 18600
 }]
