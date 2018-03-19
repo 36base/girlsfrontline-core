@@ -23,7 +23,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -70,7 +70,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -118,7 +118,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -164,7 +164,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -217,7 +217,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -264,7 +264,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -311,7 +311,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -358,7 +358,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -406,7 +406,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -454,7 +454,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -507,7 +507,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -555,7 +555,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -603,7 +603,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -650,7 +650,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -697,7 +697,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -743,7 +743,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -789,7 +789,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -836,7 +836,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -883,7 +883,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -930,7 +930,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -976,7 +976,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1021,7 +1021,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1069,7 +1069,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1115,7 +1115,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1163,7 +1163,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1209,7 +1209,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1256,7 +1256,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1306,7 +1306,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1352,7 +1352,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1398,7 +1398,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1445,7 +1445,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1493,7 +1493,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1501,7 +1501,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -1538,7 +1538,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1546,7 +1546,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -1585,7 +1585,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1593,7 +1593,7 @@
     "effectCenter": 5,
     "effectPos": [9],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -1630,7 +1630,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1638,7 +1638,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -1676,7 +1676,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1684,7 +1684,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -1721,7 +1721,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1729,7 +1729,7 @@
     "effectCenter": 5,
     "effectPos": [2],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -1766,7 +1766,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1774,7 +1774,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -1811,7 +1811,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1819,7 +1819,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -1857,7 +1857,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1865,7 +1865,7 @@
     "effectCenter": 5,
     "effectPos": [8],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -1902,7 +1902,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1910,7 +1910,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -1948,7 +1948,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -1956,7 +1956,7 @@
     "effectCenter": 5,
     "effectPos": [3],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -1993,7 +1993,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2001,7 +2001,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -2038,7 +2038,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2046,7 +2046,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -2089,7 +2089,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2097,7 +2097,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -2135,7 +2135,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2143,7 +2143,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -2181,7 +2181,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2189,7 +2189,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -2227,7 +2227,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2235,7 +2235,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -2273,7 +2273,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2281,7 +2281,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -2319,7 +2319,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2327,7 +2327,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -2364,7 +2364,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2410,7 +2410,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2458,7 +2458,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2504,7 +2504,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2552,7 +2552,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2599,7 +2599,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2651,7 +2651,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2699,7 +2699,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2747,7 +2747,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2793,7 +2793,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2841,7 +2841,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2886,7 +2886,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2934,7 +2934,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -2982,7 +2982,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3030,7 +3030,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3077,7 +3077,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3126,7 +3126,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3173,7 +3173,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3220,7 +3220,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -3268,7 +3268,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -3311,7 +3311,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -3363,7 +3363,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -3415,7 +3415,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -3462,7 +3462,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -3509,7 +3509,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -3556,7 +3556,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -3603,7 +3603,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 11
   },
   "effect": {
@@ -3646,7 +3646,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -3693,7 +3693,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -3740,7 +3740,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -3788,7 +3788,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -3836,7 +3836,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3883,7 +3883,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3929,7 +3929,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -3975,7 +3975,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4021,7 +4021,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4066,7 +4066,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4074,7 +4074,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -4117,7 +4117,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4164,7 +4164,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4211,7 +4211,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4258,7 +4258,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4310,7 +4310,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4357,7 +4357,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4403,7 +4403,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4451,7 +4451,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4499,7 +4499,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4545,7 +4545,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4594,7 +4594,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4639,7 +4639,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4686,7 +4686,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4734,7 +4734,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 11
   },
   "effect": {
@@ -4778,7 +4778,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -4824,7 +4824,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -4875,7 +4875,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -4918,7 +4918,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -4965,7 +4965,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5012,7 +5012,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5059,7 +5059,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5107,7 +5107,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5115,7 +5115,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -5152,7 +5152,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5204,7 +5204,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5256,7 +5256,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5302,7 +5302,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -5348,7 +5348,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5395,7 +5395,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5442,7 +5442,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5450,7 +5450,7 @@
     "effectCenter": 5,
     "effectPos": [9],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -5487,7 +5487,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -5535,7 +5535,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5582,7 +5582,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5627,7 +5627,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5635,7 +5635,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -5672,7 +5672,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5720,7 +5720,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5769,7 +5769,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5814,7 +5814,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5867,7 +5867,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5916,7 +5916,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -5962,7 +5962,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6009,7 +6009,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6054,7 +6054,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6102,7 +6102,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6149,7 +6149,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6196,7 +6196,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6244,7 +6244,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6290,7 +6290,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6338,7 +6338,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6386,7 +6386,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6432,7 +6432,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6440,7 +6440,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -6477,7 +6477,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6485,7 +6485,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -6523,7 +6523,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6531,7 +6531,7 @@
     "effectCenter": 5,
     "effectPos": [6],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -6569,7 +6569,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6577,7 +6577,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -6616,7 +6616,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -6667,7 +6667,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -6714,7 +6714,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -6761,7 +6761,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -6807,7 +6807,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -6853,7 +6853,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -6899,7 +6899,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -6945,7 +6945,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 3
   },
   "effect": {
@@ -6993,7 +6993,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
@@ -7040,7 +7040,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 3
   },
   "effect": {
@@ -7087,7 +7087,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -7134,7 +7134,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
@@ -7181,7 +7181,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 3
   },
   "effect": {
@@ -7227,7 +7227,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -7273,7 +7273,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7319,7 +7319,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7366,7 +7366,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7413,7 +7413,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7461,7 +7461,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7510,7 +7510,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7558,7 +7558,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7606,7 +7606,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -7650,7 +7650,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7658,7 +7658,7 @@
     "effectCenter": 5,
     "effectPos": [9],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -7701,7 +7701,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7749,7 +7749,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7796,7 +7796,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7843,7 +7843,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7891,7 +7891,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7899,7 +7899,7 @@
     "effectCenter": 4,
     "effectPos": [5, 6],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -7937,7 +7937,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -7945,7 +7945,7 @@
     "effectCenter": 5,
     "effectPos": [2, 8],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -7983,7 +7983,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8035,7 +8035,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8043,7 +8043,7 @@
     "effectCenter": 5,
     "effectPos": [3],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -8081,7 +8081,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8129,7 +8129,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8137,7 +8137,7 @@
     "effectCenter": 5,
     "effectPos": [2, 3],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -8176,7 +8176,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 8
   },
   "effect": {
@@ -8228,7 +8228,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8275,7 +8275,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8322,7 +8322,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 4
   },
   "effect": {
@@ -8369,7 +8369,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
@@ -8417,7 +8417,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
@@ -8463,7 +8463,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8511,7 +8511,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8519,7 +8519,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -8557,7 +8557,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8609,7 +8609,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8661,7 +8661,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 9
   },
   "effect": {
@@ -8709,7 +8709,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8759,7 +8759,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8767,7 +8767,7 @@
     "effectCenter": 7,
     "effectPos": [1, 4],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -8808,7 +8808,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8816,7 +8816,7 @@
     "effectCenter": 1,
     "effectPos": [4, 7],
     "gridEffect": {
-      "coolDown": 10
+      "cooldown": 10
     }
   },
   "skill": {
@@ -8857,7 +8857,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 10
   },
   "effect": {
@@ -8905,7 +8905,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8913,7 +8913,7 @@
     "effectCenter": 5,
     "effectPos": [6, 9],
     "gridEffect": {
-      "coolDown": 15
+      "cooldown": 15
     }
   },
   "skill": {
@@ -8956,7 +8956,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -8964,7 +8964,7 @@
     "effectCenter": 5,
     "effectPos": [3, 6],
     "gridEffect": {
-      "coolDown": 12
+      "cooldown": 12
     }
   },
   "skill": {
@@ -9001,7 +9001,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9047,7 +9047,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9095,7 +9095,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9103,7 +9103,7 @@
     "effectCenter": 5,
     "effectPos": [3, 9],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -9141,7 +9141,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9187,7 +9187,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9237,7 +9237,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9289,7 +9289,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9339,7 +9339,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9386,7 +9386,7 @@
     "critDmg": 0,
     "armorPiercing": 0,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9394,7 +9394,7 @@
     "effectCenter": 5,
     "effectPos": [3, 6],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -9433,7 +9433,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9479,7 +9479,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
@@ -9526,7 +9526,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9573,7 +9573,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9581,7 +9581,7 @@
     "effectCenter": 5,
     "effectPos": [8, 9],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -9619,7 +9619,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9627,7 +9627,7 @@
     "effectCenter": 5,
     "effectPos": [2, 3],
     "gridEffect": {
-      "coolDown": 18
+      "cooldown": 18
     }
   },
   "skill": {
@@ -9665,7 +9665,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9713,7 +9713,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 0
   },
   "effect": {
@@ -9762,7 +9762,7 @@
     "critDmg": 0,
     "armorPiercing": 10,
     "nightView": 0,
-    "coolDown": 0,
+    "cooldown": 0,
     "bullet": 5
   },
   "effect": {
