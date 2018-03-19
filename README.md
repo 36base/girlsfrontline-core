@@ -85,9 +85,9 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 | name | String | 이름 |
 | krName | String | 이름 (한국어판) |
 | stats | [stats](#doll_stats) | 기본 버프 수치 |
-| [getStats](#fairy_getStats) | Function | 계산된 제대 버프 |
 | grow | Number | 성장 수치 |
 | buildTime | Number | 제조 시간(초) |
+| [getStats](#fairy_getStats) | Function ⇒ <code>[stats](#doll_stats)</code> | 계산된 제대 버프 |
 
 <a name="doll_type"></a>
 ### [type](#main) ⇒ <code>String</code>
