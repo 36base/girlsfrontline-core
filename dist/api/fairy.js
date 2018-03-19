@@ -43,7 +43,7 @@ function getFairy(fairy) {
             levelRatio = _fairyGrow$key[1],
             proportion = _fairyGrow2.default.proportion;
 
-        stats[key] = Number(Number(Math.ceil(statRatio * (baseStat / 100) + Math.ceil((level - 1) * levelRatio * (baseStat / 100) * (grow / 100)))) * proportion[quality - 1]);
+        stats[key] = Number(Math.ceil(statRatio * (baseStat / 100) + Math.ceil((level - 1) * levelRatio * (baseStat / 100) * (grow / 100))) * proportion[quality - 1]);
       });
 
       return stats;
