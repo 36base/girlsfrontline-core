@@ -9367,11 +9367,11 @@
 	"rank": 3,
 	"type": "smg",
 	"illust": "spirtie",
-	"voice": "/",
+	"voice": "",
 	"buildTime": 0,
 	"drop": [ "2018년 3월 출석보상" ],
 	"skins": [],
-	"nick": [ "" ],
+	"nick": [],
 	"stats": {
 	    "armor": 0,
 	    "dodge": 72,
