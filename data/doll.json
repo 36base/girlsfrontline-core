@@ -9362,6 +9362,51 @@
   },
   "krName": "CZ52"
 }, {
+	"id": 209,
+	"name": "OTs39",
+	"rank": 3,
+	"type": "smg",
+	"illust": "spirtie",
+	"voice": "",
+	"buildTime": 0,
+	"drop": [ "2018년 3월 출석보상" ],
+	"skins": [],
+	"nick": [],
+	"stats": {
+	    "armor": 0,
+	    "dodge": 72,
+	    "hit": 14,
+	    "hp": 190,
+	    "pow": 27,
+	    "range": 0,
+	    "rate": 74,
+	    "shield": 0,
+	    "speed": 12,
+	    "crit": 5,
+	    "critDmg": 0,
+	    "armorPiercing": 10,
+	    "nightView": 0,
+	    "cooldown": 0,
+	    "bullet": 0
+	},
+	"effect": {
+	    "effectType": 4,
+	    "effectCenter": 5,
+	    "effectPos": [ 4, 7 ],
+	    "gridEffect": {
+	        "pow": 16
+	    }
+	},
+	"skill": {
+	    "id": 16,
+	    "dataPool": {
+	        "DR": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.5 ],
+	        "CD": [ 20, 19.6, 19.1, 18.7, 18.2, 17.6, 17.3, 16.9, 16.4, 16 ],
+	        "IC": 5
+	    }
+	},
+	"krName": "OTs-39"
+}, {
   "id": 211,
   "name": "SRS",
   "rank": 5,
@@ -9382,9 +9427,9 @@
     "rate": 35,
     "shield": 0,
     "speed": 17,
-    "crit": 0,
+    "crit": 40,
     "critDmg": 0,
-    "armorPiercing": 0,
+    "armorPiercing": 10,
     "nightView": 0,
     "cooldown": 0,
     "bullet": 0
