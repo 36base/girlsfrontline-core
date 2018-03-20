@@ -143,7 +143,7 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 
 <a name="doll_getSkill"></a>
 ### [getSkill](#main)(options) ⇒ <code>[skill](#doll_skill)</code>
-해당 요정의 카테고리를 나타냅니다.
+해당 인형의 계산된 스탯을 반환합니다.
 
 | option | Value Type | Description |
 | --- | --- | --- |
@@ -241,7 +241,7 @@ Object.entries(stats).forEach(([stat, {min, max, upgrade}]) => {
 
 <a name="fairy_getStats"></a>
 ### [getStats](#main)(options) ⇒ <code>[stats](#doll_stats)</code>
-해당 요정의 카테고리를 나타냅니다.
+해당 요정의 계산된 스탯을 반환합니다.
 
 | option | Value Type | Description |
 | --- | --- | --- |
