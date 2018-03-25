@@ -8771,18 +8771,6 @@
   "krName": "제레 발레리",
   "grow": 90
 }, {
-  "id": 9012,
-  "name": "M4A1Mod",
-  "type": "ar",
-  "rank": 5,
-  "stats": {
-    "hp": 100,
-    "speed": 200,
-    "armorPiercing": 10,
-    "crit": 68
-  },
-  "grow": 115
-}, {
   "id": 20002,
   "name": "M1911Mod",
   "type": "hg",
