@@ -2448,5 +2448,119 @@
     ],
     "id": 81,
     "name": "사냥의 기본"
+  },
+  {
+    "path": "VariableBuff",
+    "desc": "버프 진형 내에 있는 HG/SMG의 회피를 {DG}%, RF/AR의 화력을 {PW}%, MG/SG의 명중을 {HT}% 만큼 증가시킨다.",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "HG/SMG 회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "RF/AR 화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "MG/SG 명중증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 82,
+    "name": "전장의 철학관"
+  },
+  {
+    "path": "CBJMS",
+    "desc": "스킬을 사용할때마다 다른 효과를 지닌 탄환으로 교체한다. 아음속탄(기본): 회피가 {DG}% 상승, HP탄: 화력이 {PW}% 상승, 일반탄: 명중이 {HT}% 상승",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "아음속탄 회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "HP탄 화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "일반탄 명중증가"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 83,
+    "name": "마인드 체인"
+  },
+  {
+    "path": "powBuffShield",
+    "desc": "자신의 앞 칸에 아군 인형이 존재시, 해당 인형에게 {SD}의 보호막을 부여하고 회피를 {DG}% 상승시킨다. 아군인형이 존재하지 않으면 자신의 화력을 {PW}%, 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "shield",
+        "key": "SD",
+        "label": "보호막"
+      },
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 84,
+    "name": "데인저 스카우트"
   }
 ]

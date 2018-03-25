@@ -2,8 +2,9 @@ import dollData from '../../data/doll.json';
 import getDoll from './doll';
 
 describe('`getDoll()`', () => {
+  const m1873 = getDoll(dollData[0]);
+  
   test('returns skill object', () => {
-    const m1873 = getDoll(dollData[0]);
     const cz2000 = getDoll(dollData.find(({id}) => id === 207));
     const {skill} = m1873;
     
@@ -54,6 +55,61 @@ describe('`getDoll()`', () => {
       ],
       dataPool: {CD: 16, CR: 25, DR: 10, IC: 4, PW: 65},
       desc: '자신의 화력이 65%, 치명타율이 25% 증가한다.',
+    });
+  });
+  test('returns stats object', () => {
+    const m4a1 = getDoll(dollData.find(({id}) => id === 55));
+    const {stats} = m1873;
+    
+    expect(stats).toMatchObject({
+      hp: 120,
+      pow: 125,
+      hit: 90,
+      dodge: 95,
+      speed: 100,
+      rate: 85,
+      armorPiercing: 10,
+      crit: 20,
+    });
+    expect(m1873.getStats()).toMatchObject({
+      hp: 80,
+      pow: 36,
+      hit: 49,
+      dodge: 76,
+      speed: 15,
+      rate: 47,
+      armorPiercing: 10,
+      crit: 20,
+    });
+    expect(m1873.getStats({level: 20})).toMatchObject({
+      hp: 48,
+      pow: 17,
+      hit: 15,
+      dodge: 22,
+    });
+    expect(m1873.getStats({favor: 0})).toMatchObject({
+      pow: 34,
+      hit: 46,
+      dodge: 72,
+      rate: 47,
+    });
+    expect(m1873.getStats({favor: 100})).toMatchObject({
+      pow: 38,
+      hit: 52,
+      dodge: 80,
+      rate: 47,
+    });
+    expect(m4a1.getStats({favor: 150})).toMatchObject({
+      pow: 51,
+      hit: 53,
+      dodge: 53,
+      rate: 79,
+    });
+    expect(m4a1.getStats({level: 120, favor: 150})).toMatchObject({
+      pow: 53,
+      hit: 55,
+      dodge: 55,
+      rate: 80,
     });
   });
 });
