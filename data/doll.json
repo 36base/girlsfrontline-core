@@ -2900,7 +2900,7 @@
   "skill": {
     "id": 1,
     "name": "화력전개N-MG",
-    "path": "nightPowBuff",
+    "path": "nightpowBuff",
     "dataPool": {
       "PW": [12, 15, 17, 20, 22, 25, 27, 30, 32, 35],
       "DR": [4, 4.2, 4.4, 4.7, 4.9, 5.1, 5.3, 5.6, 5.8, 6],
@@ -3558,7 +3558,7 @@
   "skill": {
     "id": 1,
     "name": "화력전개N",
-    "path": "nightPowBuffSelf",
+    "path": "nightpowBuffSelf",
     "dataPool": {
       "PW": [16, 18, 19, 21, 22, 24, 25, 27, 28, 30],
       "DR": [3.5, 3.8, 4.1, 4.3, 4.6, 4.9, 5.2, 5.4, 5.7, 6],
@@ -3726,7 +3726,7 @@
   "skill": {
     "id": 3,
     "name": "일제사격N",
-    "path": "nightPowBuff",
+    "path": "nightpowBuff",
     "dataPool": {
       "PW": [10, 11, 12, 13, 14, 16, 17, 18, 19, 20],
       "DR": [3, 3.2, 3.4, 3.7, 3.9, 4.1, 4.3, 4.6, 4.8, 5],
@@ -4220,7 +4220,7 @@
   "skill": {
     "id": 1,
     "name": "화력전개N-MG",
-    "path": "nightPowBuff",
+    "path": "nightpowBuff",
     "dataPool": {
       "PW": [10, 12, 14, 17, 19, 21, 23, 26, 28, 30],
       "DR": [4, 4.2, 4.4, 4.7, 4.9, 5.1, 5.3, 5.6, 5.8, 6],
@@ -8206,6 +8206,51 @@
   "krName": "CZ52",
   "grow": 115
 }, {
+	"id": 209,
+	"name": "OTs39",
+	"rank": 3,
+	"type": "smg",
+	"illust": "spirtie",
+	"voice": "",
+	"buildTime": 0,
+	"drop": [ "2018년 3월 출석보상" ],
+	"skins": [],
+	"nick": [],
+	"stats": {
+	    "armor": 0,
+	    "dodge": 72,
+	    "hit": 14,
+	    "hp": 190,
+	    "pow": 27,
+	    "range": 0,
+	    "rate": 74,
+	    "shield": 0,
+	    "speed": 12,
+	    "crit": 5,
+	    "critDmg": 0,
+	    "armorPiercing": 10,
+	    "nightView": 0,
+	    "cooldown": 0,
+	    "bullet": 0
+	},
+	"effect": {
+	    "effectType": 4,
+	    "effectCenter": 5,
+	    "effectPos": [ 4, 7 ],
+	    "gridEffect": {
+	        "pow": 16
+	    }
+	},
+	"skill": {
+	    "id": 16,
+	    "dataPool": {
+	        "DR": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.5 ],
+	        "CD": [ 20, 19.6, 19.1, 18.7, 18.2, 17.6, 17.3, 16.9, 16.4, 16 ],
+	        "IC": 5
+	    }
+	},
+	"krName": "OTs-39"
+}, {
   "id": 211,
   "name": "DTASRS",
   "rank": 5,
@@ -8246,6 +8291,158 @@
   },
   "krName": "SRS",
   "grow": 130
+}, {
+  "id": 212,
+  "name": "K5",
+  "rank": 4,
+  "type": "hg",
+  "illust": "lpip",
+  "voice": "",
+  "buildTime": 3180,
+  "drop": [],
+  "skins": [],
+  "nick": ["케파"],
+  "stats": {
+    "armor": 0,
+    "dodge": 81,
+    "hit": 52,
+    "hp": 66,
+    "pow": 29,
+    "range": 0,
+    "rate": 62,
+    "shield": 0,
+    "speed": 15,
+    "crit": 40,
+    "critDmg": 0,
+    "armorPiercing": 10,
+    "nightView": 0,
+    "cooldown": 0,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": 0,
+    "effectCenter": 5,
+    "effectPos": [1, 2, 4, 6, 7, 8],
+    "gridEffect": {
+      "pow": 15,
+      "hit": 20
+    }
+  },
+  "krName": "K5"
+}, {
+  "id": 213,
+  "name": "CBJMS",
+  "rank": 5,
+  "type": "smg",
+  "illust": "小吃",
+  "voice": "",
+  "buildTime": 8880,
+  "drop": [],
+  "skins": [],
+  "nick": ["츤쨩"],
+  "stats": {
+    "armor": 0,
+    "dodge": 75,
+    "hit": 15,
+    "hp": 185,
+    "pow": 32,
+    "range": 0,
+    "rate": 87,
+    "shield": 0,
+    "speed": 12,
+    "crit": 5,
+    "critDmg": 0,
+    "armorPiercing": 10,
+    "nightView": 0,
+    "cooldown": 0,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": 4,
+    "effectCenter": 5,
+    "effectPos": [1, 4, 7],
+    "gridEffect": {
+      "pow": 15,
+      "rate": 5
+    }
+  },
+  "krName": "C-MS"
+}, {
+  "id": 215,
+  "name": "MDR",
+  "rank": 5,
+  "type": "ar",
+  "illust": "RAN",
+  "voice": "",
+  "buildTime": 13980,
+  "drop": [],
+  "skins": [],
+  "nick": ["미도리", "트짹"],
+  "stats": {
+    "armor": 0,
+    "dodge": 41,
+    "hit": 50,
+    "hp": 119,
+    "pow": 56,
+    "range": 0,
+    "rate": 76,
+    "shield": 0,
+    "speed": 10,
+    "crit": 20,
+    "critDmg": 0,
+    "armorPiercing": 10,
+    "nightView": 0,
+    "cooldown": 0,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": 2,
+    "effectCenter": 5,
+    "effectPos": [3, 6],
+    "gridEffect": {
+      "pow": 25,
+      "hit": 65
+    }
+  },
+  "krName": "MDR"
+}, {
+  "id": 216,
+  "name": "XM8",
+  "rank": 4,
+  "type": "ar",
+  "illust": "かれい",
+  "voice": "",
+  "buildTime": 12300,
+  "drop": [],
+  "skins": [],
+  "nick": ["고등어"],
+  "stats": {
+    "armor": 0,
+    "dodge": 42,
+    "hit": 46,
+    "hp": 108,
+    "pow": 48,
+    "range": 0,
+    "rate": 79,
+    "shield": 0,
+    "speed": 10,
+    "crit": 20,
+    "critDmg": 0,
+    "armorPiercing": 10,
+    "nightView": 0,
+    "cooldown": 0,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": 2,
+    "effectCenter": 5,
+    "effectPos": [9],
+    "gridEffect": {
+      "pow": 20,
+      "dodge": 15
+    }
+  },
+  "krName": "XM8"
 }, {
   "id": 1001,
   "name": "BB_Noel",
@@ -8568,7 +8765,7 @@
   "skill": {
     "id": 73,
     "dataPool": {
-      "DM": [150, 170, 180, 0, 0, 0, 250, 270, 0, 300]
+      "DM": [150, 170, 180, 200, 220, 230, 250, 270, 280, 300]
     }
   },
   "krName": "제레 발레리",
