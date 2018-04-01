@@ -4,18 +4,6 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _typeof2 = require('babel-runtime/helpers/typeof');
-
-var _typeof3 = _interopRequireDefault(_typeof2);
-
-var _slicedToArray2 = require('babel-runtime/helpers/slicedToArray');
-
-var _slicedToArray3 = _interopRequireDefault(_slicedToArray2);
-
-var _entries = require('babel-runtime/core-js/object/entries');
-
-var _entries2 = _interopRequireDefault(_entries);
-
 var _sign = require('babel-runtime/core-js/math/sign');
 
 var _sign2 = _interopRequireDefault(_sign);
@@ -30,10 +18,6 @@ var _extends3 = _interopRequireDefault(_extends2);
 
 exports.default = getDoll;
 
-var _skill = require('../../data/skill.json');
-
-var _skill2 = _interopRequireDefault(_skill);
-
 var _dollGrow = require('../../data/dollGrow.json');
 
 var _dollGrow2 = _interopRequireDefault(_dollGrow);
@@ -42,16 +26,12 @@ var _dollAttribute = require('../../data/dollAttribute.json');
 
 var _dollAttribute2 = _interopRequireDefault(_dollAttribute);
 
+var _skill = require('./base/skill');
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function getDoll(doll) {
-  var skillData = doll.skill;
-
-  var template = _skill2.default.find(function (_ref) {
-    var dataId = _ref.id;
-    return dataId === skillData.id;
-  });
-  var skill = (0, _extends3.default)({}, template, skillData);
+  var skill = (0, _skill.getSkill)(doll);
 
   return (0, _extends3.default)({}, doll, {
     skill: skill,
@@ -108,8 +88,8 @@ function getDoll(doll) {
           dayDesc = skill.desc;
 
 
-      var dataPool = isNight ? getDataPool((0, _extends3.default)({}, pool, nightPool), level) : getDataPool(pool, level);
-      var desc = isNight && nightData ? getDesc(nightData.desc, dataPool) : getDesc(dayDesc, dataPool);
+      var dataPool = isNight ? (0, _skill.getDataPool)((0, _extends3.default)({}, pool, nightPool), level) : (0, _skill.getDataPool)(pool, level);
+      var desc = isNight && nightData ? (0, _skill.getDesc)(nightData.desc, dataPool) : (0, _skill.getDesc)(dayDesc, dataPool);
 
       return (0, _extends3.default)({
         id: id,
@@ -134,32 +114,4 @@ function getFavorRatio(favor) {
   }
 
   return 0.1;
-}
-
-function getDataPool(dataPool, level) {
-  var pool = {};
-  (0, _entries2.default)(dataPool).forEach(function (_ref2) {
-    var _ref3 = (0, _slicedToArray3.default)(_ref2, 2),
-        key = _ref3[0],
-        values = _ref3[1];
-
-    var value = (typeof values === 'undefined' ? 'undefined' : (0, _typeof3.default)(values)) === 'object' ? values[level - 1] : values;
-
-    pool[key] = value || values[values.length - 1];
-  });
-
-  return pool;
-}
-
-function getDesc(template, dataPool) {
-  var desc = template;
-  (0, _entries2.default)(dataPool).forEach(function (_ref4) {
-    var _ref5 = (0, _slicedToArray3.default)(_ref4, 2),
-        key = _ref5[0],
-        value = _ref5[1];
-
-    desc = desc.replace(new RegExp('{' + key + '}', 'g'), value);
-  });
-
-  return desc;
 }
