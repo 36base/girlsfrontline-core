@@ -22,10 +22,15 @@ var _fairyGrow = require('../../data/fairyGrow.json');
 
 var _fairyGrow2 = _interopRequireDefault(_fairyGrow);
 
+var _skill = require('./base/skill');
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function getFairy(fairy) {
+  var skill = (0, _skill.getSkill)(fairy);
+
   return (0, _extends3.default)({}, fairy, {
+    skill: skill,
     getStats: function getStats() {
       var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
       var _options$level = options.level,
@@ -51,6 +56,35 @@ function getFairy(fairy) {
       });
 
       return stats;
+    },
+    getSkill: function getSkill() {
+      var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+      var _options$level2 = options.level,
+          level = _options$level2 === undefined ? 10 : _options$level2,
+          _options$night = options.night,
+          isNight = _options$night === undefined ? true : _options$night;
+      var id = skill.id,
+          path = skill.path,
+          data = skill.data,
+          name = skill.name,
+          pool = skill.dataPool,
+          nightPool = skill.nightDataPool,
+          nightData = skill.night,
+          dayDesc = skill.desc;
+
+
+      var dataPool = isNight ? (0, _skill.getDataPool)((0, _extends3.default)({}, pool, nightPool), level) : (0, _skill.getDataPool)(pool, level);
+      var desc = isNight && nightData ? (0, _skill.getDesc)(nightData.desc, dataPool) : (0, _skill.getDesc)(dayDesc, dataPool);
+
+      return (0, _extends3.default)({
+        id: id,
+        path: path,
+        data: data
+      }, isNight ? nightData : {}, {
+        dataPool: dataPool,
+        desc: desc,
+        name: name
+      });
     }
   });
 }
