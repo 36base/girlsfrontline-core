@@ -1,7 +1,8 @@
 import dollData from '../data/doll.json';
-import equips from '../data/equip.json';
+import equipData from '../data/equip.json';
 import fairyData from '../data/fairy.json';
 import getDoll from './api/doll';
+import getEquip from './api/equip';
 import getFairy from './api/fairy';
 
 const dolls = dollData.map((data) => {
@@ -12,6 +13,7 @@ const dolls = dollData.map((data) => {
     ? getDoll({...dollData.find(({id: baseId}) => baseId === (id - 20000)), ...data})
     : getDoll(data);
 });
+const equips = equipData.map((data) => getEquip(data));
 const fairy = fairyData.map((data) => getFairy(data));
 
 module.exports = {dolls, equips, fairy};
