@@ -1,7 +1,13 @@
 {
   "presets": [
     "env",
-    "stage-1"
+    "stage-1",
+    [
+      "minify",
+      {
+        "mangle": false
+      }
+    ]
   ],
   "plugins": [
     "transform-runtime"
