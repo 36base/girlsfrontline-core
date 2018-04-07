@@ -8,10 +8,6 @@ var _equip = require('../data/equip.json');
 
 var _equip2 = _interopRequireDefault(_equip);
 
-var _skill = require('../data/skill.json');
-
-var _skill2 = _interopRequireDefault(_skill);
-
 var _fairy = require('../data/fairy.json');
 
 var _fairy2 = _interopRequireDefault(_fairy);
@@ -33,4 +29,4 @@ var fairy = _fairy2.default.map(function (data) {
   return (0, _fairy4.default)(data);
 });
 
-module.exports = { dolls: dolls, equips: _equip2.default, skills: _skill2.default, fairy: fairy };
+module.exports = { dolls: dolls, equips: _equip2.default, fairy: fairy };
