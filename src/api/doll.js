@@ -1,13 +1,16 @@
 import dollGrow from '../../data/dollGrow.json';
 import dollAttribute from '../../data/dollAttribute.json';
-import {getSkill, getDataPool, getDesc} from './base/skill';
+import {getSkillData, getSkill} from './base/skill';
 
 export default function getDoll(doll) {
-  const skill = getSkill(doll);
+  const {skill: skillData, skill2: skill2Data} = doll;
+  const skill = getSkillData(skillData);
+  const skill2 = getSkillData(skill2Data);
   
   return {
     ...doll,
     skill,
+    skill2,
     getStats(options = {}) {
       const {level = 100, favor = 50} = options;
       const {type, stats: baseStats, grow} = doll;
@@ -43,27 +46,8 @@ export default function getDoll(doll) {
       
       return stats;
     },
-    getSkill(options = {}) {
-      const {level = 10, night: isNight = true} = options;
-      const {id, path, data, name, dataPool: pool, nightDataPool: nightPool, night: nightData, desc: dayDesc} = skill;
-      
-      const dataPool = isNight
-        ? getDataPool({...pool, ...nightPool}, level)
-        : getDataPool(pool, level);
-      const desc = isNight && nightData
-        ? getDesc(nightData.desc, dataPool)
-        : getDesc(dayDesc, dataPool);
-      
-      return {
-        id,
-        path,
-        data,
-        ...isNight ? nightData : {},
-        dataPool,
-        desc,
-        name,
-      };
-    },
+    getSkill: (options) => getSkill(skill, options),
+    getSkill2: skill2 ? (options) => getSkill(skill2, options) : () => undefined,
   };
 }
 
