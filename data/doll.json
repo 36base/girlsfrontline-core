@@ -8151,8 +8151,14 @@
 }, {
   "id": 209,
   "name": "OTs39",
-  "type": "smg",
   "rank": 3,
+  "type": "smg",
+  "illust": "spirtie",
+  "voice": "",
+  "buildTime": 0,
+  "drop": ["2018년 3월 출석보상"],
+  "skins": [],
+  "nick": [],
   "stats": {
     "hp": 108,
     "pow": 105,
@@ -8163,6 +8169,23 @@
     "armorPiercing": 10,
     "crit": 5
   },
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 5,
+    "effectPos": [4, 7],
+    "gridEffect": {
+      "pow": 16
+    }
+  },
+  "skill": {
+    "id": 16,
+    "dataPool": {
+      "DR": [2, 2.2, 2.3, 2.5, 2.7, 2.8, 3, 3.2, 3.3, 3.5],
+      "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.6, 17.3, 16.9, 16.4, 16],
+      "IC": 5
+    }
+  },
+  "krName": "OTs-39",
   "grow": 105
 }, {
   "id": 210,
@@ -8205,51 +8228,6 @@
   },
   "krName": "CZ52",
   "grow": 115
-}, {
-	"id": 209,
-	"name": "OTs39",
-	"rank": 3,
-	"type": "smg",
-	"illust": "spirtie",
-	"voice": "",
-	"buildTime": 0,
-	"drop": [ "2018년 3월 출석보상" ],
-	"skins": [],
-	"nick": [],
-	"stats": {
-    "armor": 0,
-    "dodge": 72,
-    "hit": 14,
-    "hp": 190,
-    "pow": 27,
-    "range": 0,
-    "rate": 74,
-    "shield": 0,
-    "speed": 12,
-    "crit": 5,
-    "critDmg": 0,
-    "armorPiercing": 10,
-    "nightView": 0,
-    "cooldown": 0,
-    "bullet": 0
-	},
-	"effect": {
-    "effectType": "ar",
-    "effectCenter": 5,
-    "effectPos": [ 4, 7 ],
-    "gridEffect": {
-      "pow": 16
-    }
-	},
-	"skill": {
-    "id": 16,
-    "dataPool": {
-      "DR": [2, 2.2, 2.3, 2.5, 2.7, 2.8, 3, 3.2, 3.3, 3.5],
-      "CD": [ 20, 19.6, 19.1, 18.7, 18.2, 17.6, 17.3, 16.9, 16.4, 16 ],
-      "IC": 5
-    }
-	},
-	"krName": "OTs-39"
 }, {
   "id": 211,
   "name": "DTASRS",
@@ -8303,21 +8281,14 @@
   "skins": [],
   "nick": ["케파"],
   "stats": {
-    "armor": 0,
-    "dodge": 81,
-    "hit": 52,
-    "hp": 66,
-    "pow": 29,
-    "range": 0,
-    "rate": 62,
-    "shield": 0,
-    "speed": 15,
-    "crit": 40,
-    "critDmg": 0,
+    "hp": 100,
+    "pow": 112,
+    "hit": 115,
+    "dodge": 120,
+    "speed": 100,
+    "rate": 118,
     "armorPiercing": 10,
-    "nightView": 0,
-    "cooldown": 0,
-    "bullet": 0
+    "crit": 40
   },
   "effect": {
     "effectType": "all",
@@ -8339,7 +8310,8 @@
       "IC": 6
     }
   },
-  "krName": "K5"
+  "krName": "K5",
+  "grow": 108
 }, {
   "id": 213,
   "name": "CBJMS",
@@ -8352,21 +8324,14 @@
   "skins": [],
   "nick": ["츤쨩"],
   "stats": {
-    "armor": 0,
-    "dodge": 75,
-    "hit": 15,
-    "hp": 185,
-    "pow": 32,
-    "range": 0,
-    "rate": 87,
-    "shield": 0,
-    "speed": 12,
-    "crit": 5,
-    "critDmg": 0,
+    "hp": 105,
+    "pow": 125,
+    "hit": 130,
+    "dodge": 122,
+    "speed": 100,
+    "rate": 110,
     "armorPiercing": 10,
-    "nightView": 0,
-    "cooldown": 0,
-    "bullet": 0
+    "crit": 5
   },
   "effect": {
     "effectType": "ar",
@@ -8387,7 +8352,8 @@
       "IC": 1
     }
   },
-  "krName": "C-MS"
+  "krName": "C-MS",
+  "grow": 110
 }, {
   "id": 215,
   "name": "MDR",
@@ -8400,21 +8366,14 @@
   "skins": [],
   "nick": ["미도리", "트짹"],
   "stats": {
-    "armor": 0,
-    "dodge": 41,
-    "hit": 50,
-    "hp": 119,
-    "pow": 56,
-    "range": 0,
-    "rate": 76,
-    "shield": 0,
-    "speed": 10,
-    "crit": 20,
-    "critDmg": 0,
+    "hp": 108,
+    "pow": 120,
+    "hit": 120,
+    "dodge": 98,
+    "speed": 100,
+    "rate": 112,
     "armorPiercing": 10,
-    "nightView": 0,
-    "cooldown": 0,
-    "bullet": 0
+    "crit": 20
   },
   "effect": {
     "effectType": "smg",
@@ -8437,7 +8396,8 @@
       "IC": 4
     }
   },
-  "krName": "MDR"
+  "krName": "MDR",
+  "grow": 122
 }, {
   "id": 216,
   "name": "XM8",
@@ -8450,21 +8410,14 @@
   "skins": [],
   "nick": ["고등어"],
   "stats": {
-    "armor": 0,
-    "dodge": 42,
-    "hit": 46,
-    "hp": 108,
-    "pow": 48,
-    "range": 0,
-    "rate": 79,
-    "shield": 0,
-    "speed": 10,
-    "crit": 20,
-    "critDmg": 0,
+    "hp": 98,
+    "pow": 110,
+    "hit": 118,
+    "dodge": 105,
+    "speed": 100,
+    "rate": 120,
     "armorPiercing": 10,
-    "nightView": 0,
-    "cooldown": 0,
-    "bullet": 0
+    "crit": 20
   },
   "effect": {
     "effectType": "smg",
@@ -8483,7 +8436,24 @@
       "IC": 8
     }
   },
-  "krName": "XM8"
+  "krName": "XM8",
+  "grow": 112
+}, {
+  "id": 217,
+  "name": "HEZISM1",
+  "type": "rf",
+  "rank": 3,
+  "stats": {
+    "hp": 92,
+    "pow": 90,
+    "hit": 125,
+    "dodge": 125,
+    "speed": 100,
+    "rate": 120,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 115
 }, {
   "id": 1001,
   "name": "BB_Noel",
@@ -8853,6 +8823,38 @@
   },
   "grow": 120
 }, {
+  "id": 20005,
+  "name": "M1895Mod",
+  "type": "hg",
+  "rank": 4,
+  "stats": {
+    "hp": 105,
+    "pow": 115,
+    "hit": 85,
+    "dodge": 120,
+    "speed": 100,
+    "rate": 80,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 130
+}, {
+  "id": 20039,
+  "name": "M1891Mod",
+  "type": "rf",
+  "rank": 5,
+  "stats": {
+    "hp": 100,
+    "pow": 115,
+    "hit": 120,
+    "dodge": 105,
+    "speed": 100,
+    "rate": 85,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 130
+}, {
   "id": 20051,
   "name": "FN49Mod",
   "type": "rf",
@@ -8969,6 +8971,38 @@
   },
   "grow": 120
 }, {
+  "id": 20075,
+  "name": "M1918Mod",
+  "type": "mg",
+  "rank": 5,
+  "stats": {
+    "hp": 95,
+    "pow": 118,
+    "hit": 125,
+    "dodge": 125,
+    "speed": 100,
+    "rate": 105,
+    "armorPiercing": 10,
+    "crit": 5
+  },
+  "grow": 125
+}, {
+  "id": 20091,
+  "name": "MP446Mod",
+  "type": "hg",
+  "rank": 4,
+  "stats": {
+    "hp": 100,
+    "pow": 105,
+    "hit": 110,
+    "dodge": 102,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 120
+}, {
   "id": 20093,
   "name": "IDWMod",
   "type": "smg",
@@ -9028,7 +9062,7 @@
   "skill": {
     "id": 16,
     "dataPool": {
-      "DR": [2.2, 2.4, 2.6, 2.8, 3, 3.2, 3.4, 3.6, 3.8, 4.0],
+      "DR": [2.2, 2.4, 2.6, 2.8, 3, 3.2, 3.4, 3.6, 3.8, 4],
       "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.6, 17.3, 16.9, 16.4, 16],
       "IC": 5
     }
