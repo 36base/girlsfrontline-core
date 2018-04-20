@@ -2662,6 +2662,88 @@
     "name": "침묵의 섬광"
   },
   {
+    "path": "",
+    "desc": "매 7회 공격시 {DR}초 동안 아군 전체의 화력과 명중이 {PW}% 상승.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 91,
+    "name": "칠색의 개선가"
+  },
+  {
+    "path": "",
+    "desc": "격발차단 발돵시 {DR}초 동안 버프진형 내의 아군의 사속 {AR}% 상승.",
+    "data": [
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 92,
+    "name": "파도의 외침"
+  },
+  {
+    "path": "MosinNagant",
+    "desc": "일반 공격으로 적 처치시 3초간 자신의 화력 {PW}% 상승(중첩 불가) / 저격 개시로 적 처치시 5초간 자신의 사속 {AR}% 상승",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 93,
+    "name": "하얀 사신"
+  },
+  {
+    "path": "M1918",
+    "desc": "재장전 시간이 {RD}초로 감소하고 탄창 교체 후 첫 3회 공격의 화력이 {PW}% 상승한다. (초탄부터 적용)",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "reload",
+        "key": "RD",
+        "label": "재장전 시간"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 94,
+    "name": "전장의 마술사"
+  },
+  {
     "path": "fighting",
     "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
     "data": [
