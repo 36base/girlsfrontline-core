@@ -1023,6 +1023,92 @@
     }
   }
 }, {
+  "name": "EOT XPS3",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 3120,
+  "fitGuns": [65],
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 3
+    },
+    "hit": {
+      "min": 6,
+      "max": 10,
+      "upgrade": 4
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 7
+    }
+  }
+}, {
+  "name": "PM 5-25X56",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 3120,
+  "fitGuns": [46],
+  "stats": {
+    "crit": {
+      "min": 24,
+      "max": 24,
+      "upgrade": 10
+    },
+    "critDmg": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "K6-24X56",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 3120,
+  "fitGuns": [39],
+  "stats": {
+    "hit": {
+      "min": 6,
+      "max": 6,
+      "upgrade": 0
+    },
+    "crit": {
+      "min": 50,
+      "max": 50,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "CT 4X20",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 3120,
+  "fitGuns": [75],
+  "stats": {
+    "hit": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -4,
+      "max": -1,
+      "upgrade": 0
+    },
+    "crit": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 0
+    }
+  }
+}, {
   "name": "KSTSP",
   "rank": 5,
   "category": "accessory",
@@ -1118,6 +1204,25 @@
     }
   }
 }, {
+  "name": "XM261 탄약",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hpBullet",
+  "buildTime": 3420,
+  "fitGuns": [36],
+  "stats": {
+    "pow": {
+      "min": 8,
+      "max": 11,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -10,
+      "max": -7,
+      "upgrade": 0
+    }
+  }
+}, {
   "name": ".300BLK고속탄",
   "rank": 5,
   "category": "ammo",
@@ -1184,7 +1289,7 @@
       "upgrade": 5
     }
   }
-},  {
+}, {
   "name": "전술용 메모리 칩",
   "rank": 5,
   "category": "doll",
@@ -1206,6 +1311,30 @@
       "min": 3,
       "max": 4,
       "upgrade": 5
+    }
+  }
+}, {
+  "name": "강화 카트리지",
+  "rank": 5,
+  "category": "doll",
+  "type": "chip",
+  "buildTime": 3420,
+  "fitGuns": [93],
+  "stats": {
+    "pow": {
+      "min": -10,
+      "max": -6,
+      "upgrade": 0
+    },
+    "hit": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 5
+    },
+    "dodge": {
+      "min": 21,
+      "max": 26,
+      "upgrade": 4
     }
   }
 }, {
@@ -1273,6 +1402,154 @@
       "min": 11,
       "max": 15,
       "upgrade": 7
+    }
+  }
+}, {
+  "name": "나강 리볼버용 소음기",
+  "rank": 5,
+  "category": "accessory",
+  "type": "silencer",
+  "buildTime": 3120,
+  "fitGuns": [5],
+  "stats": {
+    "hit": {
+      "min": 4,
+      "max": 4,
+      "upgrade": 0
+    },
+    "dodge": {
+      "min": 0,
+      "max": 14,
+      "upgrade": 4
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "64식용 소음기",
+  "rank": 5,
+  "category": "accessory",
+  "type": "silencer",
+  "buildTime": 3120,
+  "fitGuns": [94],
+  "stats": {
+    "dodge": {
+      "min": 8,
+      "max": 11,
+      "upgrade": 4
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "MP446C 경기용 총신",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [91],
+  "stats": {
+    "hit": {
+      "min": 8,
+      "max": 8,
+      "upgrade": 0
+    },
+    "dodge": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 2
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "남겨진 무기상자",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [55],
+  "stats": {
+    "power": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 6
+    },
+    "armor": {
+      "min": 9,
+      "max": 12,
+      "upgrade": 2
+    }
+  }
+}, {
+  "name": "경량화 레일 킷",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [57],
+  "stats": {
+    "hit": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 6
+    },
+    "critDmg": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 3
+    }
+  }
+}, {
+  "name": "조정간 트리거셋",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [51],
+  "stats": {
+    "rate": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 6
+    },
+    "crit": {
+      "min": 17,
+      "max": 24,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "두꺼운 푸른 슈트",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [51],
+  "stats": {
+    "critDmg": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
+    },
+    "rate": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
+    },
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
     }
   }
 }]
