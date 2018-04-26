@@ -58,7 +58,9 @@ function getFavorRatio(favor) {
     return 0;
   } else if (favor < 140) {
     return 0.05;
+  } else if (favor < 190) {
+    return 0.1;
   }
 
-  return 0.1;
+  return 0.15;
 }
