@@ -374,13 +374,13 @@
   "id": 19,
   "category": "battle",
   "krName": "취사요정",
-  "name": "cook",
+  "name": "cooking",
   "stats": {
-    "pow": 60,
-    "hit": 58,
-    "dodge": 58,
-    "armor": 56,
-    "critDmg": 58
+    "pow": 35,
+    "hit": 22,
+    "dodge": 113,
+    "armor": 106,
+    "critDmg": 25
   },
   "skill": {
     "id": 1019,
@@ -389,7 +389,7 @@
       "CP": 1
     }
   },
-  "grow": 320,
+  "grow": 250,
   "buildTime": 0
 }, {
   "id": 1001,

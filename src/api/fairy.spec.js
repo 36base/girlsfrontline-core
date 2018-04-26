@@ -5,6 +5,7 @@ describe('`getStats()`', () => {
   test('returns default stats', () => {
     const fighting = getFairy(fairyData[0]);
     const defense = getFairy(fairyData[4]);
+    const cooking = getFairy(fairyData.find(({id}) => id === 19));
     
     expect(fighting.getStats()).toMatchObject({
       pow: 25,
@@ -36,6 +37,13 @@ describe('`getStats()`', () => {
       pow: 22,
       dodge: 80,
       armor: 20,
+    });
+    expect(cooking.getStats()).toMatchObject({
+      pow: 10,
+      hit: 20,
+      dodge: 80,
+      armor: 20,
+      critDmg: 10,
     });
   });
 });
