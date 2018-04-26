@@ -8455,6 +8455,22 @@
   },
   "grow": 115
 }, {
+  "id": 218,
+  "name": "T77",
+  "type": "smg",
+  "rank": 3,
+  "stats": {
+    "hp": 105,
+    "pow": 98,
+    "hit": 102,
+    "dodge": 125,
+    "speed": 100,
+    "rate": 122,
+    "armorPiercing": 10,
+    "crit": 5
+  },
+  "grow": 98
+}, {
   "id": 1001,
   "name": "BB_Noel",
   "rank": 5,
@@ -8781,6 +8797,38 @@
   },
   "krName": "제레 발레리",
   "grow": 90
+}, {
+  "id": 1009,
+  "name": "CLEAR",
+  "type": "hg",
+  "rank": 5,
+  "stats": {
+    "hp": 100,
+    "pow": 100,
+    "hit": 108,
+    "dodge": 103,
+    "speed": 100,
+    "rate": 106,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 140
+}, {
+  "id": 1010,
+  "name": "FAIL",
+  "type": "hg",
+  "rank": 5,
+  "stats": {
+    "hp": 100,
+    "pow": 100,
+    "hit": 108,
+    "dodge": 103,
+    "speed": 100,
+    "rate": 106,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 140
 }, {
   "id": 20002,
   "name": "M1911Mod",
