@@ -8250,7 +8250,7 @@
     "crit": 40
   },
   "effect": {
-    "effectType": "all",
+    "effectType": "hg",
     "effectCenter": 5,
     "effectPos": [3, 6],
     "gridEffect": {
@@ -8453,7 +8453,15 @@
     "armorPiercing": 10,
     "crit": 40
   },
-  "grow": 115
+  "grow": 115,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [2, 8],
+    "gridEffect": {
+      "cooldown": 12
+    }
+  }
 }, {
   "id": 218,
   "name": "T77",
@@ -8469,7 +8477,15 @@
     "armorPiercing": 10,
     "crit": 5
   },
-  "grow": 98
+  "grow": 98,
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 5,
+    "effectPos": [1, 4, 7],
+    "gridEffect": {
+      "rate": 12
+    }
+  }
 }, {
   "id": 1001,
   "name": "BB_Noel",
@@ -8812,7 +8828,16 @@
     "armorPiercing": 10,
     "crit": 20
   },
-  "grow": 140
+  "grow": 140,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [1, 2, 4, 7, 8],
+    "gridEffect": {
+      "rate": 15,
+      "hit": 25
+    }
+  }
 }, {
   "id": 1010,
   "name": "FAIL",
@@ -8828,7 +8853,16 @@
     "armorPiercing": 10,
     "crit": 20
   },
-  "grow": 140
+  "grow": 140,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [2, 3, 6, 8, 9],
+    "gridEffect": {
+      "pow": 15,
+      "hit": 25
+    }
+  }
 }, {
   "id": 20002,
   "name": "M1911Mod",
@@ -8850,7 +8884,7 @@
     "effectPos": [2, 4, 6, 8],
     "gridEffect": {
       "rate": 12,
-      "hit": 30
+      "hit": 25
     }
   },
   "skill": {
