@@ -455,4 +455,40 @@
   },
   "grow": 60,
   "buildTime": 0
+}, {
+  "id": 1004,
+  "category": "strategy",
+  "name": "DJMAXSUEE",
+  "stats": {
+    "dodge": 175,
+    "armor": 170,
+    "critDmg": 150
+  },
+  "grow": 100,
+  "buildTime": 0
+}, {
+  "id": 1005,
+  "category": "battle",
+  "name": "DJMAXSEHRA",
+  "stats": {
+    "pow": 100,
+    "hit": 80,
+    "dodge": 125,
+    "critDmg": 100
+  },
+  "grow": 100,
+  "buildTime": 0
+}, {
+  "id": 1006,
+  "category": "battle",
+  "name": "DJMAXPREIYA",
+  "stats": {
+    "pow": 145,
+    "hit": 100,
+    "dodge": 25,
+    "armor": 100,
+    "critDmg": 110
+  },
+  "grow": 100,
+  "buildTime": 0
 }]
