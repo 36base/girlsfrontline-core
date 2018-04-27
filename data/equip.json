@@ -1074,14 +1074,14 @@
   "fitGuns": [39],
   "stats": {
     "hit": {
-      "min": 6,
-      "max": 6,
-      "upgrade": 0
+      "min": 2,
+      "max": 3,
+      "upgrade": 10
     },
     "crit": {
-      "min": 50,
-      "max": 50,
-      "upgrade": 0
+      "min": 18,
+      "max": 25,
+      "upgrade": 10
     }
   }
 }, {
@@ -1103,9 +1103,9 @@
       "upgrade": 0
     },
     "crit": {
-      "min": 10,
-      "max": 10,
-      "upgrade": 0
+      "min": 3,
+      "max": 5,
+      "upgrade": 10
     }
   }
 }, {
@@ -1413,9 +1413,9 @@
   "fitGuns": [5],
   "stats": {
     "hit": {
-      "min": 4,
-      "max": 4,
-      "upgrade": 0
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
     },
     "dodge": {
       "min": 0,
@@ -1456,9 +1456,9 @@
   "fitGuns": [91],
   "stats": {
     "hit": {
-      "min": 8,
-      "max": 8,
-      "upgrade": 0
+      "min": 3,
+      "max": 4,
+      "upgrade": 10
     },
     "dodge": {
       "min": 6,
