@@ -51,6 +51,19 @@
     }
   }
 }, {
+  "name": "16Lab 6-24X56",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 3120,
+  "stats": {
+    "crit": {
+      "min": 24,
+      "max": 24,
+      "upgrade": 10
+    }
+  }
+}, {
   "name": "EOT 506",
   "rank": 2,
   "category": "accessory",
@@ -507,7 +520,7 @@
     }
   }
 }, {
-  "name": "16Lab벅 샷",
+  "name": "16Lab 벅 샷",
   "rank": 5,
   "category": "ammo",
   "type": "sgBullet",
@@ -626,6 +639,19 @@
       "min": 8,
       "max": 12,
       "upgrade": 7
+    }
+  }
+}, {
+  "name": "16Lab 고속탄",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hvBullet",
+  "buildTime": 3120,
+  "stats": {
+    "pow": {
+      "min": 12,
+      "max": 12,
+      "upgrade": 6
     }
   }
 }, {
@@ -1529,10 +1555,34 @@
     }
   }
 }, {
+  "name": "무한 탄약통",
+  "rank": 5,
+  "category": "doll",
+  "type": "ammoBox",
+  "buildTime": 3120,
+  "fitGuns": [88],
+  "stats": {
+    "bullet": {
+      "min": 20,
+      "max": 20,
+      "upgrade": 5
+    },
+    "power": {
+      "min": -25,
+      "max": -25,
+      "upgrade": 0
+    },
+    "dodge": {
+      "min": -2,
+      "max": -2,
+      "upgrade": 0
+    }
+  }
+}, {
   "name": "두꺼운 푸른 슈트",
   "rank": 5,
-  "category": "accessory",
-  "type": "special",
+  "category": "doll",
+  "type": "suit",
   "buildTime": 3120,
   "fitGuns": [51],
   "stats": {
