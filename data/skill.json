@@ -2744,6 +2744,82 @@
     "name": "전장의 마술사"
   },
   {
+    "path": "Clear",
+    "desc": "일반 공격을 멈추고 5회 연주 / 1회 연주마다 무작위의 동료의 화력과 명중 {PW}% 상승 (전용장비 착용시 {EQ}%) / 1회까지 효과 중첩 가능.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "increase",
+        "key": "EQ",
+        "label": "장비착용시 수치"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 95,
+    "name": "칠전팔기!"
+  },
+  {
+    "path": "Fail",
+    "desc": "일반 공격을 멈추고 5회 연주 / 1회 연주마다 무작위 적 3명의 사속과 명중 {AR}% 하락 (전용장비 착용시 {EQ}%) / 2회까지 효과 중첩 가능.",
+    "data": [
+      {
+        "type": "enemy_hit",
+        "key": "HT",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "enemy_rate",
+        "key": "AR",
+        "label": "적 사속감소"
+      },
+      {
+        "type": "increase",
+        "key": "EQ",
+        "label": "장비착용시 수치"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 96,
+    "name": "느긋하게~"
+  },
+  {
     "path": "fighting",
     "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
     "data": [
@@ -3238,5 +3314,79 @@
     ],
     "id": 1022,
     "name": "통곡의 인형"
+  },
+  {
+    "path": "IWantU",
+    "desc": "적이 없는 특별한 지점에 꽃잎을 흩뿌려 두 턴동안 해당 지점에 있는 아군의 화력, 명중, 회피, 장갑, 치명타율이 {IC}% 상승한다.",
+    "data": [
+      {
+        "type": "increase",
+        "key": "IC",
+        "label": "증가율"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1023,
+    "name": "I Want You"
+  },
+  {
+    "path": "LadyMadeSTAR",
+    "desc": "다음 전역에서 20초간 아군 제대의 전체화력을 {PW}% 상승시키고, 적군의 명중을 {AR}% 감소시킨다.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "AR",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1024,
+    "name": "Ladymade Star"
+  },
+  {
+    "path": "OblivioN",
+    "desc": "전투에서 30초간, 붉은색 칸 내 아군의 화력과 명중이 {RI}% 증가하고 회피와 방어가 {RD}% 감소한다. 노란색 칸 내 아군의 회피와 방어가 {YI}% 상승하고 화력과 명중이 {YD}% 감소한다.",
+    "data": [
+      {
+        "type": "red_increase",
+        "key": "RI",
+        "label": "붉은색 증가"
+      },
+      {
+        "type": "red_decrease",
+        "key": "RD",
+        "label": "붉은색 감소"
+      },
+      {
+        "type": "yellow_increase",
+        "key": "YI",
+        "label": "노란색 증가"
+      },
+      {
+        "type": "yellow_decrease",
+        "key": "YD",
+        "label": "노란색 증가"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1025,
+    "name": "OBLIVION"
   }
 ]
