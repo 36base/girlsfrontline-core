@@ -1,8 +1,13 @@
 import fairyGrow from '../../data/fairyGrow.json';
+import {getSkillData, getSkill} from './base/skill';
 
 export default function getFairy(fairy) {
+  const {skill: skillData} = fairy;
+  const skill = getSkillData(skillData);
+  
   return {
     ...fairy,
+    skill,
     getStats(options = {}) {
       const {level = 100, quality = 5} = options;
       const {stats: baseStats, grow} = fairy;
@@ -16,5 +21,6 @@ export default function getFairy(fairy) {
       
       return stats;
     },
+    getSkill: (options) => getSkill(skill, options),
   };
 }

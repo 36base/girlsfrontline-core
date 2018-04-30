@@ -918,7 +918,7 @@
   },
   {
     "path": "AimAttackDistanceTarge",
-    "desc": "1.5초간 조준 후, 가장 멀리있는 대상에게 {DM}% 피해를 입힌다",
+    "desc": "1.5초간 조준 후, 가장 멀리있는 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
@@ -1178,7 +1178,7 @@
   },
   {
     "path": "Shotgun",
-    "desc": "{DM}% 피해를 주는 추가탄을 발사하고, 거리 {NB}칸만큼 적을 밀어낸다",
+    "desc": "{DM}% 데미지를 주는 추가탄을 발사하고, 거리 {NB}칸만큼 적을 밀어낸다",
     "data": [
       {
         "type": "damage",
@@ -1565,7 +1565,7 @@
   },
   {
     "path": "comboBuffSelf",
-    "desc": "매 공격시 {PB}%의 확률로 반드시 치명상을 입히는 탄환 한발을 추가로 발사한다",
+    "desc": "매 공격시 {PB}% 확률로 반드시 치명상을 입히는 탄환 한발을 추가로 발사한다",
     "data": [
       {
         "type": "probability",
@@ -1644,7 +1644,7 @@
       {
         "type": "enemy_recvDmg",
         "key": "RD",
-        "label": "적 받는피해량 증가"
+        "label": "받는 데미지 증가량"
       },
       {
         "type": "duration",
@@ -1700,7 +1700,7 @@
   },
   {
     "path": "shield",
-    "desc": "전투 중 전열에 존재하는 아군에게 {SD}의 피해를 흡수하는 보호막을 부여한다.",
+    "desc": "전투 중 전열에 존재하는 아군에게 {SD}의 데미지를 흡수하는 보호막을 부여한다.",
     "data": [
       {
         "type": "shield",
@@ -1862,7 +1862,7 @@
       {
         "type": "enemy_recvDmg",
         "key": "RD",
-        "label": "적 받는피해량 증가"
+        "label": "받는 데미지 증가량"
       },
       {
         "type": "pow",
@@ -1895,7 +1895,7 @@
   },
   {
     "path": "Carcano1891",
-    "desc": "스킬 발동 시, 제대에 배속된 RF 1기마다(편제무관) 자신의 치명률과 사속 {AR}%씩 상승. 패시브: 공격시 40%의 확률로 2초동안 같은 열에 있는 모든 아군의 치명률과 사속 {PR}% 상승(최대 3회 중첩)",
+    "desc": "스킬 발동 시, 제대에 배속된 RF 1기마다(편제무관) 자신의 치명률과 사속 {AR}%씩 상승. 패시브: 공격시 40% 확률로 2초동안 같은 열에 있는 모든 아군의 치명률과 사속 {PR}% 상승(최대 3회 중첩)",
     "data": [
       {
         "type": "rate",
@@ -1938,7 +1938,7 @@
   },
   {
     "path": "Carcano1938",
-    "desc": "[패시브] 공격 시 {PB}%의 확률로 각인을 {PG}개씩 새긴다. 18개 도달시 다음 공격으로 엘리트 적에게 {DE}%(통상 적에게 {DN}%) 데미지를 입히며 각인 수는 리셋된다.\n[액티브] {AG}개의 각인을 새긴다.",
+    "desc": "[패시브] 공격 시 {PB}% 확률로 각인을 {PG}개씩 새긴다. 18개 도달시 다음 공격으로 엘리트 적에게 {DE}%(통상 적에게 {DN}%) 데미지를 입히며 각인 수는 리셋된다.\n[액티브] {AG}개의 각인을 새긴다.",
     "data": [
       {
         "type": "probability",
@@ -1984,7 +1984,7 @@
       {
         "type": "enemy_recvDmg",
         "key": "RD",
-        "label": "적 받는피해량 증가"
+        "label": "받는 데미지 증가량"
       },
       {
         "type": "duration",
@@ -2146,7 +2146,7 @@
     "name": "양자 백트랙"
   },
   {
-    "path": "",
+    "path": "AimAttackSpecificTarge",
     "desc": "1초간 조준한 후에 가장 가까운 적에게 {DM}% 데미지를 입힌다. 회피 가능하며 사격 후 {RD}초간 재장전 필요",
     "data": [
       {
@@ -2174,7 +2174,7 @@
     "name": "임계점 사격"
   },
   {
-    "path": "",
+    "path": "dodgeBuffSelf",
     "desc": "자신의 사속이 {AR}%, 명중이 {HT}% 만큼 감소하는 대신 이동속도가 {MS}%, 회피가 {DG}% 만큼 증가한다.",
     "data": [
       {
@@ -2217,7 +2217,7 @@
     "name": "초승달의 춤꾼"
   },
   {
-    "path": "",
+    "path": "comboBuffSelf",
     "desc": "패시브: {DL}초 마다 적에게 표식을 1개씩 부여한다. 액티브: 매 공격시 표식이 있는 적에게 1회의 추가 공격을 하고 표식을 1개 지운다. 지속시간이 끝나거나 표식이 전부 없어질 때까지 지속된다.",
     "data": [
       {
@@ -2311,7 +2311,7 @@
     "name": "백랑의 눈"
   },
   {
-    "path": "",
+    "path": "nightpowBuffSelf",
     "desc": "자신의 화력이 {PW}%, 치명타율이 {CR}% 증가한다.",
     "data": [
       {
@@ -2374,7 +2374,7 @@
     "name": "여명의 기세"
   },
   {
-    "path": "",
+    "path": "comboBuffSelf",
     "desc": "지속시간 동안 소사모드로 전환하여 매 공격이 목표를 바꾸고 자신의 화력이 {PW}%, 명중이 {HT}% 증가하고 이동속도가 {MS}% 감소하며 사격중 장탄수를 {BL}발 추가한다",
     "data": [
       {
@@ -2448,5 +2448,945 @@
     ],
     "id": 81,
     "name": "사냥의 기본"
+  },
+  {
+    "path": "VariableBuff",
+    "desc": "버프 진형 내에 있는 HG/SMG의 회피를 {DG}%, RF/AR의 화력을 {PW}%, MG/SG의 명중을 {HT}% 만큼 증가시킨다.",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "HG/SMG 회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "RF/AR 화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "MG/SG 명중증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 82,
+    "name": "전장의 철학관"
+  },
+  {
+    "path": "CBJMS",
+    "desc": "스킬을 사용할때마다 다른 효과를 지닌 탄환으로 교체한다. 아음속탄(기본): 회피가 {DG}% 상승, HP탄: 화력이 {PW}% 상승, 일반탄: 명중이 {HT}% 상승",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "아음속탄 회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "HP탄 화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "일반탄 명중증가"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 83,
+    "name": "마인드 체인"
+  },
+  {
+    "path": "powBuffShield",
+    "desc": "자신의 앞 칸에 아군 인형이 존재시, 해당 인형에게 {SD}의 보호막을 부여하고 회피를 {DG}% 상승시킨다. 아군인형이 존재하지 않으면 자신의 화력을 {PW}%, 사속을 {AR}% 상승시킨다.",
+    "data": [
+      {
+        "type": "shield",
+        "key": "SD",
+        "label": "보호막"
+      },
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "회피증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 84,
+    "name": "데인저 스카우트"
+  },
+  {
+    "path": "AimAttackSpecificTarge",
+    "desc": "연막탄을 투척한 후, 멀리 있는 적부터 가까이 있는 적까지 차례대로 조준하여 7번 사격해 각각 {DM}%의 데미지를 준다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      }
+    ],
+    "id": 85,
+    "name": "역경의 명사수"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "화력전개 발동시 추가로 {DR}초 동안 자신의 사속 {AR}% 상승",
+    "data": [
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 86,
+    "name": "싸늘한 투지"
+  },
+  {
+    "path": "M4_Nightmare",
+    "desc": "화력전개T가 켜져있는 동안 목표에게 설한의 쐐기를 남긴다. 아군 유닛 수가 3기 이하일 때, 사속이 70% 하락하지만 데미지가 {DM}% 증가되고 2.5범위 내의 적에게 쐐기를 남기며 100% 데미지를 입힌다(화력전개는 계속 유효).",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      }
+    ],
+    "id": 87,
+    "name": "설한의 쐐기"
+  },
+  {
+    "path": "AR15_Shot",
+    "desc": "고속사격T 발동시, 주무장과 부무장으로 동시 공격을 행한다. 부무장은 기본 평타의 {DM}%의 대미지를 주며, 설한의 쐐기의 영향을 받고 있는 적에게는 그 두 배의 대미지를 준다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      }
+    ],
+    "id": 88,
+    "name": "죄와 벌"
+  },
+  {
+    "path": "rateBuffSelf",
+    "desc": "전투 시작시 3칸의 전지를 보유하며 전지 1칸당 사속이 {AR}%, 화력이 {DM}% 상승한다. 전지는 몇 초마다 1칸씩 소모되며 회피기동 사용시 다시 충전된다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 89,
+    "name": "광란의 스파크"
+  },
+  {
+    "path": "dodgeBuffSelf",
+    "desc": "섬광탄에 적의 명중을 {HT}% 감소시키는 효과가 추가된다. 이 효과는 섬광탄에 면역인 적에도 적용된다.",
+    "data": [
+      {
+        "type": "enemy_hit",
+        "key": "HT",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 90,
+    "name": "침묵의 섬광"
+  },
+  {
+    "path": "powBuff",
+    "desc": "매 7회 공격시 {DR}초 동안 아군 전체의 화력과 명중이 {PW}% 상승.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 91,
+    "name": "칠색의 개선가"
+  },
+  {
+    "path": "rateBuff",
+    "desc": "격발차단 발동시 {DR}초 동안 버프진형 내의 아군의 사속 {AR}% 상승.",
+    "data": [
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 92,
+    "name": "파도의 외침"
+  },
+  {
+    "path": "MosinNagant",
+    "desc": "일반 공격으로 적 처치시 3초간 자신의 화력 {PW}% 상승(중첩 불가) / 저격 개시로 적 처치시 5초간 자신의 사속 {AR}% 상승",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 93,
+    "name": "하얀 사신"
+  },
+  {
+    "path": "M1918",
+    "desc": "재장전 시간이 {RD}초로 감소하고 탄창 교체 후 첫 3회 공격의 화력이 {PW}% 상승한다. (초탄부터 적용)",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "reload",
+        "key": "RD",
+        "label": "재장전 시간"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      }
+    ],
+    "id": 94,
+    "name": "전장의 마술사"
+  },
+  {
+    "path": "Clear",
+    "desc": "일반 공격을 멈추고 5회 연주 / 1회 연주마다 무작위의 동료의 화력과 명중 {PW}% 상승 (전용장비 착용시 {EQ}%) / 1회까지 효과 중첩 가능.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "increase",
+        "key": "EQ",
+        "label": "장비착용시 수치"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 95,
+    "name": "칠전팔기!"
+  },
+  {
+    "path": "Fail",
+    "desc": "일반 공격을 멈추고 5회 연주 / 1회 연주마다 무작위 적 3명의 사속과 명중 {AR}% 하락 (전용장비 착용시 {EQ}%) / 2회까지 효과 중첩 가능.",
+    "data": [
+      {
+        "type": "enemy_hit",
+        "key": "HT",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "enemy_rate",
+        "key": "AR",
+        "label": "적 사속감소"
+      },
+      {
+        "type": "increase",
+        "key": "EQ",
+        "label": "장비착용시 수치"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 96,
+    "name": "느긋하게~"
+  },
+  {
+    "path": "fighting",
+    "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1001,
+    "name": "전투효율"
+  },
+  {
+    "path": "crit",
+    "desc": "다음 전투에서 제대의 모든 인형의 명중을 {HT}%, 치명타 확률을 {CR}% 증가시킨다. (중첩 불가능)",
+    "data": [
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "crit",
+        "key": "CR",
+        "label": "치명율증가"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1002,
+    "name": "살의분출"
+  },
+  {
+    "path": "armor",
+    "desc": "다음 전투에서 제대의 산탄총의 장갑을 {AM}% 증가시킨다.",
+    "data": [
+      {
+        "type": "armor",
+        "key": "AM",
+        "label": "장갑증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1003,
+    "name": "진압강화"
+  },
+  {
+    "path": "shield",
+    "desc": "다음 전투에서 제대의 모든 기관단총에게 {SD} 데미지를 흡수하는 방어막을 생성한다.",
+    "data": [
+      {
+        "type": "shield",
+        "key": "SD",
+        "label": "장갑증가"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1004,
+    "name": "에너지 쉴드"
+  },
+  {
+    "path": "defense",
+    "desc": "1턴 동안 제대가 받는 데미지를 {RD}% 감소시킨다.",
+    "data": [
+      {
+        "type": "reduce_damage",
+        "key": "RD",
+        "label": "데미지 감소율"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1005,
+    "name": "임시방호"
+  },
+  {
+    "path": "target",
+    "desc": "다음 전투에서 적의 공격을 끌어당기는 체력 {HP}의 표적을 설치한다.",
+    "data": [
+      {
+        "type": "health",
+        "key": "HP",
+        "label": "표적 체력"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1006,
+    "name": "도발표적"
+  },
+  {
+    "path": "sniper",
+    "desc": "다음 전투에서 가장 체력이 많은 적을 조준하여 {DM} 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "데미지"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1007,
+    "name": "저격명령"
+  },
+  {
+    "path": "bombard",
+    "desc": "다음 전투에서 박격포를 발사하여 2.5범위의 적들에게 {DM} 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1008,
+    "name": "포격명령"
+  },
+  {
+    "path": "air_attack",
+    "desc": "다음 전투 진입 시 공습지원을 호출하여 적 전체에 {DM} 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1009,
+    "name": "공습발령"
+  },
+  {
+    "path": "reinforce",
+    "desc": "제대 중 체력이 가장 적은 전술인형의 편제를 1기 증원, 1턴 동안 모든 인형의 회피를 20초 동안 {DG}% 증가시킨다.",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "회피 증가치"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1010,
+    "name": "증원호출"
+  },
+  {
+    "path": "airborne",
+    "desc": "제대를 {MV}칸 내의 헬리포트로 이동시킬 수 있지만 이동 후 2턴간 화력, 명중, 회피, 장갑, 치명타 확률이 {DC}% 감소한다.",
+    "data": [
+      {
+        "type": "decrease",
+        "key": "DC",
+        "label": "능력치 감소치"
+      },
+      {
+        "type": "move",
+        "key": "MV",
+        "label": "이동가능 칸수"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1011,
+    "name": "공수낙하"
+  },
+  {
+    "path": "Landmines",
+    "desc": "적이 없는 인접거점에 2턴간 유지되는 지뢰를 매설한다. 적이 밟을 시 현재 체력의 {DM}% 데미지를 준다. (보스 무효)",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "데미지"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1012,
+    "name": "지뢰매설"
+  },
+  {
+    "path": "position",
+    "desc": "터렛을 설치하여 다음 턴에 2범위 내의 {TN}명의 적에게 발사하여 현재 체력의 {DM}% 데미지를 준다. (보스 무효)",
+    "data": [
+      {
+        "type": "target",
+        "key": "TN",
+        "label": "타겟 수"
+      },
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1013,
+    "name": "터렛설치"
+  },
+  {
+    "path": "fortress",
+    "desc": "현재 거점에 고정요새를 건설. 3턴간 요새에서 전투 시 화력, 명중, 회피, 장갑, 치명타 확률이 {ST}% 증가.",
+    "data": [
+      {
+        "type": "stat",
+        "key": "ST",
+        "label": "능력 증가치"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1014,
+    "name": "요새구축"
+  },
+  {
+    "path": "command",
+    "desc": "다음 전투에서 제대의 경험치 획득량이 {EP}% 증가한다. (경험특훈에서 사용불가)",
+    "data": [
+      {
+        "type": "experience",
+        "key": "EP",
+        "label": "능력 증가치"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1015,
+    "name": "초월경험"
+  },
+  {
+    "path": "rescue",
+    "desc": "다음 전투에서 제대가 희귀 인형을 발견할 확률이 {DP} 증가한다.",
+    "data": [
+      {
+        "type": "drop",
+        "key": "DP",
+        "label": "드랍 증가"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1016,
+    "name": "효율수색"
+  },
+  {
+    "path": "illumine",
+    "desc": "야간작전시 모든 인형의 명중을 20초 동안 {HT}% 증가 시키며, 2턴동안 시야를 {VE}칸 늘려 준다.",
+    "data": [
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "view",
+        "key": "VE",
+        "label": "시야 확장"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1017,
+    "name": "야간조명"
+  },
+  {
+    "path": "golden",
+    "desc": "다음 전투에서 요정이 반짝반짝 빛납니다.",
+    "data": [
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1018,
+    "name": "황금율법"
+  },
+  {
+    "path": "cook",
+    "desc": "다음 전투에서 30초동안, 화력상승/사속상승/명중상승/회피상승/화력감소 중 랜덤한 효과를 아군제대에 부여합니다.",
+    "data": [
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1019,
+    "name": "식사추천!"
+  },
+  {
+    "path": "Sakura",
+    "desc": "붉은 기둥이 적 위치에 생성되어 2초 동안 0.5초마다 {DM} 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1020,
+    "name": "비옥환세"
+  },
+  {
+    "path": "Kaguya",
+    "desc": "자신 주위 범위 2구역에 야타의 거울을 설치하고 레이저를 발사하여 구역 내의 무작위 3기의 적에게 현재 체력의 {DM}% 데미지를 입힌다.(보스 무효)",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1021,
+    "name": "야타의 휘광"
+  },
+  {
+    "path": "Chloe",
+    "desc": "다음 전투에서 적의 공격을 끌어당기는 체력이 {HP}인 인형을 2개 설치한다. 인형은 2초마다 모든 적에게 {DM} 데미지를 입힌다.",
+    "data": [
+      {
+        "type": "health",
+        "key": "HP",
+        "label": "인형 체력"
+      },
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "공격력"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1022,
+    "name": "통곡의 인형"
+  },
+  {
+    "path": "IWantU",
+    "desc": "적이 없는 특별한 지점에 꽃잎을 흩뿌려 두 턴동안 해당 지점에 있는 아군의 화력, 명중, 회피, 장갑, 치명타율이 {IC}% 상승한다.",
+    "data": [
+      {
+        "type": "increase",
+        "key": "IC",
+        "label": "증가율"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1023,
+    "name": "I Want You"
+  },
+  {
+    "path": "LadyMadeSTAR",
+    "desc": "다음 전역에서 20초간 아군 제대의 전체화력을 {PW}% 상승시키고, 적군의 명중을 {AR}% 감소시킨다.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "hit",
+        "key": "AR",
+        "label": "적 명중감소"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1024,
+    "name": "Ladymade Star"
+  },
+  {
+    "path": "OblivioN",
+    "desc": "전투에서 30초간, 붉은색 칸 내 아군의 화력과 명중이 {RI}% 증가하고 회피와 방어가 {RD}% 감소한다. 노란색 칸 내 아군의 회피와 방어가 {YI}% 상승하고 화력과 명중이 {YD}% 감소한다.",
+    "data": [
+      {
+        "type": "red_increase",
+        "key": "RI",
+        "label": "붉은색 증가"
+      },
+      {
+        "type": "red_decrease",
+        "key": "RD",
+        "label": "붉은색 감소"
+      },
+      {
+        "type": "yellow_increase",
+        "key": "YI",
+        "label": "노란색 증가"
+      },
+      {
+        "type": "yellow_decrease",
+        "key": "YD",
+        "label": "노란색 증가"
+      },
+      {
+        "type": "commandpoint",
+        "key": "CP",
+        "label": "지령 소모치"
+      }
+    ],
+    "id": 1025,
+    "name": "OBLIVION"
   }
 ]
