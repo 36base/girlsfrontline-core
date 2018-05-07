@@ -1555,6 +1555,36 @@
     }
   }
 }, {
+  "name": "Glory Day",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [1009],
+  "stats": {
+    "nightView": {
+      "min": 100,
+      "max": 100,
+      "upgrade": 0
+    },
+    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
+  }
+}, {
+  "name": "Black Cat",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 3120,
+  "fitGuns": [1010],
+  "stats": {
+    "nightView": {
+      "min": 100,
+      "max": 100,
+      "upgrade": 0
+    },
+    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
+  }
+}, {
   "name": "무한 탄약통",
   "rank": 5,
   "category": "doll",
