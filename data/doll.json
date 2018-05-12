@@ -8850,6 +8850,7 @@
       "IC": 6
     }
   },
+  "krName": "클리어",
   "grow": 140,
   "effect": {
     "effectType": "all",
@@ -8886,6 +8887,7 @@
       "IC": 6
     }
   },
+  "krName": "페일",
   "grow": 140,
   "effect": {
     "effectType": "all",
