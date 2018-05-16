@@ -8453,6 +8453,7 @@
     "armorPiercing": 10,
     "crit": 40
   },
+  "krName": "SM-1",
   "grow": 115,
   "effect": {
     "effectType": "hg",
@@ -8477,7 +8478,6 @@
     "armorPiercing": 10,
     "crit": 5
   },
-  "krName": "SM-1",
   "grow": 98,
   "effect": {
     "effectType": "ar",
