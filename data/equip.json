@@ -1052,7 +1052,7 @@
   "name": "EOT XPS3",
   "rank": 5,
   "category": "accessory",
-  "type": "scope",
+  "type": "holo",
   "buildTime": 3120,
   "fitGuns": [65],
   "stats": {
@@ -1114,7 +1114,7 @@
   "name": "CT 4X20",
   "rank": 5,
   "category": "accessory",
-  "type": "scope",
+  "type": "reddot",
   "buildTime": 3120,
   "fitGuns": [75],
   "stats": {
@@ -1233,7 +1233,7 @@
   "name": "XM261 탄약",
   "rank": 5,
   "category": "ammo",
-  "type": "hpBullet",
+  "type": "apBullet",
   "buildTime": 3420,
   "fitGuns": [36],
   "stats": {
@@ -1500,7 +1500,7 @@
 }, {
   "name": "남겨진 무기상자",
   "rank": 5,
-  "category": "accessory",
+  "category": "doll",
   "type": "special",
   "buildTime": 3120,
   "fitGuns": [55],
@@ -1614,7 +1614,7 @@
   "category": "doll",
   "type": "suit",
   "buildTime": 3120,
-  "fitGuns": [51],
+  "fitGuns": [42],
   "stats": {
     "critDmg": {
       "min": 11,
