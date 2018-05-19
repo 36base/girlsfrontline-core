@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-core",
-  "version": "1.0.1-alpha2",
+  "version": "1.0.2-alpha3",
   "description": "GirlsFrontline API",
   "main": "./dist/index.js",
   "repository": "https://github.com/CirnoV/girlsfrontline-core",
