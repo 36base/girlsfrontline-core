@@ -1053,7 +1053,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "holo",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [65],
   "stats": {
     "pow": {
