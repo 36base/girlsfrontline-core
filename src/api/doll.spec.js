@@ -75,8 +75,8 @@ describe('`getDoll()`', () => {
         {key: 'CD', label: '쿨다운', type: 'cooldown'},
         {key: 'IC', label: '초반 쿨타임', type: 'startcd'},
       ],
-      dataPool: {AR: 40, CD: 16, CR: 25, DR: 10, HT: 50, IC: 4, PW: 65},
-      desc: '자신의 명중이 50%, 사속이 40% 증가한다.',
+      dataPool: {AR: 50, CD: 16, CR: 25, DR: 10, HT: 40, IC: 4, PW: 65},
+      desc: '자신의 명중이 40%, 사속이 50% 증가한다.',
     });
     expect(cz2000.getSkill({night: false})).toMatchObject({
       data: [
