@@ -8441,8 +8441,14 @@
 }, {
   "id": 217,
   "name": "HEZISM1",
-  "type": "rf",
   "rank": 3,
+  "type": "rf",
+  "illust": "KIncora",
+  "voice": "",
+  "buildTime": 0,
+  "drop": ["2018년 4월 출석보상"],
+  "skins": [],
+  "nick": ["짭사오"],
   "stats": {
     "hp": 92,
     "pow": 90,
@@ -8453,8 +8459,6 @@
     "armorPiercing": 10,
     "crit": 40
   },
-  "krName": "SM-1",
-  "grow": 115,
   "effect": {
     "effectType": "hg",
     "effectCenter": 5,
@@ -8472,12 +8476,20 @@
       "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
       "IC": 5
     }
-  }
+  },
+  "krName": "SM-1",
+  "grow": 115
 }, {
   "id": 218,
   "name": "T77",
-  "type": "smg",
   "rank": 3,
+  "type": "smg",
+  "illust": "",
+  "voice": "",
+  "buildTime": 0,
+  "drop": ["2018년 5월 출석보상"],
+  "skins": [],
+  "nick": [],
   "stats": {
     "hp": 105,
     "pow": 98,
@@ -8488,7 +8500,6 @@
     "armorPiercing": 10,
     "crit": 5
   },
-  "grow": 98,
   "effect": {
     "effectType": "ar",
     "effectCenter": 5,
@@ -8506,7 +8517,9 @@
       "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
       "IC": 5
     }
-  }
+  },
+  "krName": "T77",
+  "grow": 98
 }, {
   "id": 1001,
   "name": "BB_Noel",
@@ -8837,8 +8850,14 @@
 }, {
   "id": 1009,
   "name": "CLEAR",
-  "type": "hg",
   "rank": 5,
+  "type": "hg",
+  "illust": "水熊",
+  "voice": "",
+  "buildTime": 0,
+  "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
+  "skins": [],
+  "nick": [],
   "stats": {
     "hp": 100,
     "pow": 100,
@@ -8848,6 +8867,15 @@
     "rate": 106,
     "armorPiercing": 10,
     "crit": 20
+  },
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [1, 2, 4, 7, 8],
+    "gridEffect": {
+      "rate": 15,
+      "hit": 25
+    }
   },
   "skill": {
     "id": 95,
@@ -8861,21 +8889,18 @@
     }
   },
   "krName": "클리어",
-  "grow": 140,
-  "effect": {
-    "effectType": "all",
-    "effectCenter": 5,
-    "effectPos": [1, 2, 4, 7, 8],
-    "gridEffect": {
-      "rate": 15,
-      "hit": 25
-    }
-  }
+  "grow": 140
 }, {
   "id": 1010,
   "name": "FAIL",
-  "type": "hg",
   "rank": 5,
+  "type": "hg",
+  "illust": "水熊",
+  "voice": "",
+  "buildTime": 0,
+  "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
+  "skins": [],
+  "nick": [],
   "stats": {
     "hp": 100,
     "pow": 100,
@@ -8885,6 +8910,15 @@
     "rate": 106,
     "armorPiercing": 10,
     "crit": 20
+  },
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [2, 3, 6, 8, 9],
+    "gridEffect": {
+      "pow": 15,
+      "hit": 25
+    }
   },
   "skill": {
     "id": 96,
@@ -8898,16 +8932,7 @@
     }
   },
   "krName": "페일",
-  "grow": 140,
-  "effect": {
-    "effectType": "all",
-    "effectCenter": 5,
-    "effectPos": [2, 3, 6, 8, 9],
-    "gridEffect": {
-      "pow": 15,
-      "hit": 25
-    }
-  }
+  "grow": 140
 }, {
   "id": 20002,
   "name": "M1911Mod",
