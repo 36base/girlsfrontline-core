@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-core",
-  "version": "1.0.2-alpha3",
+  "version": "1.0.3-alpha4",
   "description": "GirlsFrontline API",
   "main": "./dist/index.js",
   "repository": "https://github.com/CirnoV/girlsfrontline-core",
@@ -8,18 +8,20 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf dist && babel src --presets=stage-1 --out-dir dist --ignore **/*.spec.js",
+    "build": "rimraf dist && babel src --out-dir dist --ignore **/*.spec.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-jest": "^22.2.2",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-minify": "^0.3.0",
+    "babel-preset-minify": "^0.4.3",
     "babel-preset-stage-1": "^6.24.1",
     "eslint": "^4.18.0",
     "eslint-config-prev": "^6.10.0",
