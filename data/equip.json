@@ -1505,7 +1505,7 @@
   "buildTime": 0,
   "fitGuns": [55],
   "stats": {
-    "power": {
+    "pow": {
       "min": 2,
       "max": 3,
       "upgrade": 6
@@ -1566,9 +1566,9 @@
       "min": 100,
       "max": 100,
       "upgrade": 0
-    },
-    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
-  }
+    }
+  },
+  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
 }, {
   "name": "Black Cat",
   "rank": 5,
@@ -1581,9 +1581,9 @@
       "min": 100,
       "max": 100,
       "upgrade": 0
-    },
-    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
-  }
+    }
+  },
+  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
 }, {
   "name": "무한 탄약통",
   "rank": 5,
@@ -1597,7 +1597,7 @@
       "max": 20,
       "upgrade": 5
     },
-    "power": {
+    "pow": {
       "min": -25,
       "max": -25,
       "upgrade": 0
