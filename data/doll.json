@@ -3408,6 +3408,28 @@
   "krName": "TAR-21",
   "grow": 115
 }, {
+  "id": 73,
+  "name": "AUG",
+  "type": "ar",
+  "rank": 5,
+  "stats": {
+    "hp": 110,
+    "pow": 118,
+    "hit": 132,
+    "dodge": 105,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 30
+  },
+  "grow": 125,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [2, 3, 6, 8, 9],
+    "gridEffect": {"pow": 12, "hit": 20}
+  }
+}, {
   "id": 74,
   "name": "SIG510",
   "rank": 2,
@@ -9075,6 +9097,28 @@
   },
   "krName": "T77",
   "grow": 98
+}, {
+  "id": 220,
+  "name": "MP443",
+  "type": "hg",
+  "rank": 3,
+  "stats": {
+    "hp": 105,
+    "pow": 120,
+    "hit": 105,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 120,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [2, 3, 6, 8, 9],
+    "gridEffect": {"pow": 10, "dodge": 10}
+  }
 }, {
   "id": 1001,
   "name": "BB_Noel",
