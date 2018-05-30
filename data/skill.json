@@ -2827,7 +2827,7 @@
         "type": "hit",
         "key": "HT",
         "label": "명중감소"
-      }
+      },
       {
         "type": "duration",
         "key": "DR",
