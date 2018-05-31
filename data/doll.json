@@ -3495,7 +3495,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -3565,7 +3566,8 @@
     "speed": 100,
     "rate": 100,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -3598,7 +3600,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -3639,7 +3642,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -3715,7 +3719,8 @@
     "speed": 100,
     "rate": 95,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -3777,7 +3782,8 @@
     "speed": 100,
     "rate": 90,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -3815,7 +3821,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -3854,7 +3861,8 @@
     "speed": 100,
     "rate": 110,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -3893,7 +3901,8 @@
     "speed": 100,
     "rate": 80,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 11
   },
   "effect": {
     "effectType": "sg",
@@ -3953,7 +3962,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -3992,7 +4002,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -4031,7 +4042,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -4102,7 +4114,8 @@
     "speed": 100,
     "rate": 95,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -4938,7 +4951,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 11
   },
   "effect": {
     "effectType": "sg",
@@ -5001,7 +5015,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -5055,7 +5070,8 @@
     "speed": 100,
     "rate": 120,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -5096,7 +5112,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -5442,7 +5459,8 @@
     "speed": 100,
     "rate": 110,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -5593,7 +5611,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -6536,7 +6555,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -6615,7 +6635,8 @@
     "speed": 100,
     "rate": 80,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6654,7 +6675,8 @@
     "speed": 100,
     "rate": 100,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6693,7 +6715,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6732,7 +6755,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6771,7 +6795,8 @@
     "speed": 100,
     "rate": 120,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6810,7 +6835,8 @@
     "speed": 100,
     "rate": 110,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 3
   },
   "effect": {
     "effectType": "mg",
@@ -6850,7 +6876,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -6890,7 +6917,8 @@
     "speed": 100,
     "rate": 95,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 3
   },
   "effect": {
     "effectType": "mg",
@@ -6929,7 +6957,8 @@
     "speed": 100,
     "rate": 110,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -6968,7 +6997,8 @@
     "speed": 100,
     "rate": 135,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -7008,7 +7038,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 3
   },
   "effect": {
     "effectType": "mg",
@@ -7047,7 +7078,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -7358,7 +7390,8 @@
     "speed": 100,
     "rate": 120,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -7822,7 +7855,8 @@
     "speed": 100,
     "rate": 130,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
@@ -7940,7 +7974,8 @@
     "speed": 100,
     "rate": 130,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 4
   },
   "effect": {
     "effectType": "mg",
@@ -7979,7 +8014,8 @@
     "speed": 100,
     "rate": 140,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -8019,7 +8055,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -8220,7 +8257,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 9
   },
   "effect": {
     "effectType": "sg",
@@ -8382,7 +8420,8 @@
     "speed": 100,
     "rate": 115,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -8735,7 +8774,8 @@
     "speed": 100,
     "rate": 125,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 10
   },
   "effect": {
     "effectType": "sg",
@@ -9185,7 +9225,8 @@
     "speed": 100,
     "rate": 110,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -9425,7 +9466,8 @@
     "speed": 100,
     "rate": 108,
     "armorPiercing": 10,
-    "crit": 40
+    "crit": 40,
+    "bullet": 5
   },
   "effect": {
     "effectType": "mg",
@@ -9756,7 +9798,8 @@
     "speed": 100,
     "rate": 105,
     "armorPiercing": 10,
-    "crit": 5
+    "crit": 5,
+    "bullet": 8
   },
   "effect": {
     "effectType": "sg",
