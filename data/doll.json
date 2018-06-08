@@ -21,7 +21,7 @@
     "6-1E",
     "8-1E"
   ],
-  "skins": ["별똥별의 소원"],
+  "skins": ["별똥별의 소원", "기적의 여왕"],
   "nick": ["콜라"],
   "stats": {
     "hp": 120,
@@ -4258,7 +4258,7 @@
   "voice": "Ito Asuka",
   "buildTime": 4200,
   "drop": ["1-6,1-2e부터 모든 지역"],
-  "skins": [],
+  "skins": ["상자 속 고양이"],
   "nick": ["아이디따블류다냐", "아디따"],
   "stats": {
     "hp": 85,
@@ -4421,7 +4421,7 @@
   "voice": "Ayaka Itatani",
   "buildTime": 4200,
   "drop": [],
-  "skins": ["주말 경비원", "변신! 테디베어!"],
+  "skins": ["주말 경비원", "변신! 테디베어!", "별이 빛나는 밤의 무도회"],
   "nick": ["곰"],
   "stats": {
     "hp": 130,
@@ -4632,7 +4632,7 @@
     "8-1e",
     "8-3e"
   ],
-  "skins": ["내가 좀 늦었지?"],
+  "skins": ["내가 좀 늦었지?", "세계의 노래"],
   "nick": ["움뀨"],
   "stats": {
     "hp": 100,
@@ -4709,7 +4709,7 @@
   "voice": "Tomomi Mineuchi",
   "buildTime": 8100,
   "drop": ["6-6", "6-3E"],
-  "skins": ["이번만이야"],
+  "skins": ["이번만이야", "다이아몬드의 꽃"],
   "nick": ["움사오", "4577"],
   "stats": {
     "hp": 105,
@@ -5174,7 +5174,7 @@
   "voice": "Asami Imai",
   "buildTime": 3600,
   "drop": [],
-  "skins": ["영국 연인", "그림자의 왕"],
+  "skins": ["영국 연인", "그림자의 왕", "해 질 무렵의 위기"],
   "nick": ["박하나", "장군님"],
   "stats": {
     "hp": 120,
@@ -5832,8 +5832,8 @@
   "voice": "Nozomi Yamamoto",
   "buildTime": 0,
   "drop": ["저체온증 1-2", "저체온증 1-4", "저체온증 3-4"],
-  "skins": [],
-  "nick": [],
+  "skins": ["백야의 별 이야기"],
+  "nick": ["에보"],
   "stats": {
     "hp": 110,
     "pow": 90,
@@ -5933,7 +5933,7 @@
     "8-2",
     "8-4"
   ],
-  "skins": [],
+  "skins": ["현황의 봉황"],
   "nick": [],
   "stats": {
     "hp": 90,
@@ -6048,8 +6048,8 @@
   "voice": "Serizawa Yuu",
   "buildTime": 0,
   "drop": ["특별구출작전G 4-6", "특별구출작전G 4-4E"],
-  "skins": [],
-  "nick": [],
+  "skins": ["개구리 공주"],
+  "nick": ["비존"],
   "stats": {
     "hp": 100,
     "pow": 95,
@@ -6278,7 +6278,7 @@
   "voice": "Akane Fujita",
   "buildTime": 0,
   "drop": [],
-  "skins": ["크루즈의 여왕님", "꿈꿔왔던 미소"],
+  "skins": ["크루즈의 여왕님", "꿈꿔왔던 미소", "행복한 세상의 담비"],
   "nick": ["HOXY", "파세"],
   "stats": {
     "hp": 95,
@@ -7532,7 +7532,7 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["딥다이브 1-4"],
-  "skins": ["세 마리의 까마귀"],
+  "skins": ["세 마리의 까마귀", "추운 겨울을 넘어"],
   "nick": [],
   "stats": {
     "hp": 108,
@@ -7610,7 +7610,7 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["딥다이브 2-4"],
-  "skins": ["비목단"],
+  "skins": ["비목단", "베스트 오퍼"],
   "nick": ["도시락"],
   "stats": {
     "hp": 93,
@@ -8204,8 +8204,8 @@
   "voice": "",
   "buildTime": 13920,
   "drop": [],
-  "skins": [],
-  "nick": ["셋째돼지"],
+  "skins": ["동방의 공주"],
+  "nick": ["셋째돼지", "케이투", "게이둘"],
   "stats": {
     "hp": 115,
     "pow": 115,
@@ -8287,7 +8287,7 @@
   "voice": "",
   "buildTime": 14700,
   "drop": [],
-  "skins": ["총성을 울리는 설녀"],
+  "skins": ["총성을 울리는 설녀", "화이트 퀸"],
   "nick": ["자스"],
   "stats": {
     "hp": 110,
@@ -8328,7 +8328,7 @@
   "voice": "",
   "buildTime": 16680,
   "drop": [],
-  "skins": [],
+  "skins": ["용감한 재봉사"],
   "nick": ["딸기카노"],
   "stats": {
     "hp": 90,
@@ -8369,7 +8369,7 @@
   "voice": "",
   "buildTime": 16920,
   "drop": [],
-  "skins": [],
+  "skins": ["세노키오"],
   "nick": ["포도카노"],
   "stats": {
     "hp": 82,
@@ -8528,7 +8528,7 @@
   "voice": "",
   "buildTime": 0,
   "drop": [],
-  "skins": [],
+  "skins": ["레이븐 네버모어"],
   "nick": [],
   "stats": {
     "hp": 130,
@@ -8920,7 +8920,7 @@
   "voice": "",
   "buildTime": 3180,
   "drop": [],
-  "skins": [],
+  "skins": ["둥근 달빛"],
   "nick": ["케파"],
   "stats": {
     "hp": 100,
@@ -8960,7 +8960,7 @@
   "voice": "",
   "buildTime": 8880,
   "drop": [],
-  "skins": [],
+  "skins": ["거위의 신비한 여행"],
   "nick": ["츤쨩"],
   "stats": {
     "hp": 105,
@@ -9490,8 +9490,8 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
-  "skins": [],
-  "nick": [],
+  "skins": ["포터블 여왕 2세"],
+  "nick": ["흥이"],
   "stats": {
     "hp": 100,
     "pow": 100,
@@ -9530,8 +9530,8 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
-  "skins": [],
-  "nick": [],
+  "skins": ["포터블 여왕 3세"],
+  "nick": ["망이"],
   "stats": {
     "hp": 100,
     "pow": 100,
