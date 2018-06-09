@@ -7,22 +7,6 @@
 
 <a name="main"></a>
 
-## IMPORTANT
-
-### 0.5.1 주요 변경점
-- SRS 데이터 추가
-- 요정 데이터 추가
-- 스킬 데이터 추가
-- 인형 데이터 구조 변경 (하단 참조)
-
-```javascript
-// before
-stats.coolDown
-
-//after
-stats.cooldown
-```
-
 ## Install
 ```bash
 $ yarn add girlsfrontline-core
