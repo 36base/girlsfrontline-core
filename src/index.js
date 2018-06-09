@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import dollData from '../data/doll.json';
 import equipData from '../data/equip.json';
 import fairyData from '../data/fairy.json';

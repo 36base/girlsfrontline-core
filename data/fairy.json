@@ -3,12 +3,7 @@
   "category": "battle",
   "krName": "용사요정",
   "name": "fighting",
-  "stats": {
-    "pow": 160,
-    "hit": 160,
-    "dodge": 100,
-    "armor": 100
-  },
+  "stats": {"pow": 160, "hit": 160, "dodge": 100, "armor": 100},
   "skill": {
     "id": 1001,
     "dataPool": {
@@ -24,12 +19,7 @@
   "category": "battle",
   "krName": "격노요정",
   "name": "crit",
-  "stats": {
-    "pow": 100,
-    "dodge": 100,
-    "armor": 100,
-    "critDmg": 199
-  },
+  "stats": {"pow": 100, "dodge": 100, "armor": 100, "critDmg": 199},
   "skill": {
     "id": 1002,
     "dataPool": {
@@ -45,11 +35,7 @@
   "category": "battle",
   "krName": "방패요정",
   "name": "armor",
-  "stats": {
-    "pow": 145,
-    "armor": 242,
-    "critDmg": 101
-  },
+  "stats": {"pow": 145, "armor": 242, "critDmg": 101},
   "skill": {
     "id": 1003,
     "dataPool": {
@@ -65,17 +51,10 @@
   "category": "battle",
   "krName": "수호요정",
   "name": "shield",
-  "stats": {
-    "pow": 130,
-    "hit": 120,
-    "dodge": 200
-  },
+  "stats": {"pow": 130, "hit": 120, "dodge": 200},
   "skill": {
     "id": 1004,
-    "dataPool": {
-      "SD": [40, 50, 60, 70, 80, 90, 100, 110, 130, 150],
-      "CP": 3
-    }
+    "dataPool": {"SD": [40, 50, 60, 70, 80, 90, 100, 110, 130, 150], "CP": 3}
   },
   "grow": 100,
   "buildTime": 11100
@@ -84,11 +63,7 @@
   "category": "strategy",
   "krName": "방어요정",
   "name": "defense",
-  "stats": {
-    "pow": 131,
-    "dodge": 180,
-    "armor": 180
-  },
+  "stats": {"pow": 131, "dodge": 180, "armor": 180},
   "skill": {
     "id": 1005,
     "dataPool": {
@@ -105,13 +80,7 @@
   "category": "battle",
   "krName": "도발요정",
   "name": "target",
-  "stats": {
-    "pow": 101,
-    "hit": 100,
-    "dodge": 60,
-    "armor": 61,
-    "critDmg": 101
-  },
+  "stats": {"pow": 101, "hit": 100, "dodge": 60, "armor": 61, "critDmg": 101},
   "skill": {
     "id": 1006,
     "dataPool": {
@@ -126,12 +95,7 @@
   "category": "battle",
   "krName": "저격요정",
   "name": "sniper",
-  "stats": {
-    "hit": 175,
-    "dodge": 70,
-    "armor": 141,
-    "critDmg": 175
-  },
+  "stats": {"hit": 175, "dodge": 70, "armor": 141, "critDmg": 175},
   "skill": {
     "id": 1006,
     "dataPool": {
@@ -146,11 +110,7 @@
   "category": "battle",
   "krName": "포격요정",
   "name": "bombard",
-  "stats": {
-    "pow": 372,
-    "dodge": 140,
-    "armor": 60
-  },
+  "stats": {"pow": 372, "dodge": 140, "armor": 60},
   "skill": {
     "id": 1008,
     "dataPool": {
@@ -165,12 +125,7 @@
   "category": "battle",
   "krName": "공습요정",
   "name": "air_attack",
-  "stats": {
-    "pow": 159,
-    "hit": 79,
-    "dodge": 79,
-    "armor": 79
-  },
+  "stats": {"pow": 159, "hit": 79, "dodge": 79, "armor": 79},
   "skill": {
     "id": 1009,
     "dataPool": {
@@ -185,19 +140,10 @@
   "category": "strategy",
   "krName": "증원요정",
   "name": "reinforce",
-  "stats": {
-    "pow": 60,
-    "dodge": 175,
-    "armor": 81,
-    "critDmg": 60
-  },
+  "stats": {"pow": 60, "dodge": 175, "armor": 81, "critDmg": 60},
   "skill": {
     "id": 1010,
-    "dataPool": {
-      "DG": [3, 3.5, 4, 4.5, 5, 6, 7, 8, 9, 10],
-      "CD": 1,
-      "CP": 2
-    }
+    "dataPool": {"DG": [3, 3.5, 4, 4.5, 5, 6, 7, 8, 9, 10], "CD": 1, "CP": 2}
   },
   "grow": 150,
   "buildTime": 14400
@@ -206,12 +152,7 @@
   "category": "strategy",
   "krName": "공수요정",
   "name": "airborne",
-  "stats": {
-    "pow": 190,
-    "dodge": 62,
-    "armor": 60,
-    "critDmg": 155
-  },
+  "stats": {"pow": 190, "dodge": 62, "armor": 60, "critDmg": 155},
   "skill": {
     "id": 1011,
     "dataPool": {
@@ -228,11 +169,7 @@
   "category": "strategy",
   "krName": "매설요정",
   "name": "Landmines",
-  "stats": {
-    "pow": 200,
-    "hit": 100,
-    "dodge": 242
-  },
+  "stats": {"pow": 200, "hit": 100, "dodge": 242},
   "skill": {
     "id": 1012,
     "dataPool": {
@@ -248,11 +185,7 @@
   "category": "strategy",
   "krName": "로켓요정",
   "name": "position",
-  "stats": {
-    "hit": 100,
-    "armor": 241,
-    "critDmg": 200
-  },
+  "stats": {"hit": 100, "armor": 241, "critDmg": 200},
   "skill": {
     "id": 1013,
     "dataPool": {
@@ -291,12 +224,7 @@
   "category": "strategy",
   "krName": "지휘요정",
   "name": "command",
-  "stats": {
-    "pow": 285,
-    "dodge": 92,
-    "armor": 85,
-    "critDmg": 201
-  },
+  "stats": {"pow": 285, "dodge": 92, "armor": 85, "critDmg": 201},
   "skill": {
     "id": 1015,
     "dataPool": {
@@ -312,15 +240,22 @@
   "category": "strategy",
   "krName": "수색요정",
   "name": "rescue",
-  "stats": {
-    "pow": 270,
-    "hit": 200,
-    "dodge": 200
-  },
+  "stats": {"pow": 270, "hit": 200, "dodge": 200},
   "skill": {
     "id": 1016,
     "dataPool": {
-      "DP": ["아주 조금", "아주 조금", "조금", "조금", "조금 많이", "조금 많이", "많이", "많이", "아주 많이", "아주 많이"],
+      "DP": [
+        "아주 조금",
+        "아주 조금",
+        "조금",
+        "조금",
+        "조금 많이",
+        "조금 많이",
+        "많이",
+        "많이",
+        "아주 많이",
+        "아주 많이"
+      ],
       "CD": 1,
       "CP": 1
     }
@@ -332,12 +267,7 @@
   "category": "strategy",
   "krName": "조명요정",
   "name": "illumine",
-  "stats": {
-    "hit": 200,
-    "dodge": 87,
-    "armor": 80,
-    "critDmg": 201
-  },
+  "stats": {"hit": 200, "dodge": 87, "armor": 80, "critDmg": 201},
   "skill": {
     "id": 1017,
     "dataPool": {
@@ -354,20 +284,8 @@
   "category": "battle",
   "krName": "황금요정",
   "name": "golden",
-  "stats": {
-    "pow": 60,
-    "hit": 58,
-    "dodge": 58,
-    "armor": 56,
-    "critDmg": 58
-  },
-  "skill": {
-    "id": 1018,
-    "dataPool": {
-      "CD": 0,
-      "CP": 0
-    }
-  },
+  "stats": {"pow": 60, "hit": 58, "dodge": 58, "armor": 56, "critDmg": 58},
+  "skill": {"id": 1018, "dataPool": {"CD": 0, "CP": 0}},
   "grow": 320,
   "buildTime": 0
 }, {
@@ -375,20 +293,8 @@
   "category": "battle",
   "krName": "취사요정",
   "name": "cooking",
-  "stats": {
-    "pow": 35,
-    "hit": 22,
-    "dodge": 113,
-    "armor": 106,
-    "critDmg": 25
-  },
-  "skill": {
-    "id": 1019,
-    "dataPool": {
-      "CD": 0,
-      "CP": 1
-    }
-  },
+  "stats": {"pow": 35, "hit": 22, "dodge": 113, "armor": 106, "critDmg": 25},
+  "skill": {"id": 1019, "dataPool": {"CD": 0, "CP": 1}},
   "grow": 250,
   "buildTime": 0
 }, {
@@ -396,12 +302,7 @@
   "category": "battle",
   "krName": "야에 사쿠라 ",
   "name": "Sakura",
-  "stats": {
-    "pow": 220,
-    "dodge": 75,
-    "armor": 65,
-    "critDmg": 200
-  },
+  "stats": {"pow": 220, "dodge": 75, "armor": 65, "critDmg": 200},
   "skill": {
     "id": 1020,
     "dataPool": {
@@ -417,12 +318,7 @@
   "category": "strategy",
   "krName": "카구야",
   "name": "Kaguya",
-  "stats": {
-    "hit": 173,
-    "dodge": 75,
-    "armor": 180,
-    "critDmg": 195
-  },
+  "stats": {"hit": 173, "dodge": 75, "armor": 180, "critDmg": 195},
   "skill": {
     "id": 1021,
     "dataPool": {
@@ -438,12 +334,7 @@
   "category": "battle",
   "krName": "클로에",
   "name": "Chloe",
-  "stats": {
-    "pow": 145,
-    "hit": 135,
-    "dodge": 199,
-    "armor": 65
-  },
+  "stats": {"pow": 145, "hit": 135, "dodge": 199, "armor": 65},
   "skill": {
     "id": 1022,
     "dataPool": {
@@ -460,16 +351,12 @@
   "category": "strategy",
   "krName": "스이",
   "name": "DJMAXSUEE",
-  "stats": {
-    "dodge": 175,
-    "armor": 170,
-    "critDmg": 150
-  },
+  "stats": {"dodge": 175, "armor": 170, "critDmg": 150},
   "skill": {
     "id": 1023,
     "dataPool": {
       "IC": [8, 9, 10, 11, 12, 13, 14, 16, 18, 20],
-	  "CD": 2,
+      "CD": 2,
       "CP": 3
     }
   },
@@ -480,12 +367,7 @@
   "category": "battle",
   "krName": "세라&니나",
   "name": "DJMAXSEHRA",
-  "stats": {
-    "pow": 100,
-    "hit": 80,
-    "dodge": 125,
-    "critDmg": 100
-  },
+  "stats": {"pow": 100, "hit": 80, "dodge": 125, "critDmg": 100},
   "skill": {
     "id": 1024,
     "dataPool": {

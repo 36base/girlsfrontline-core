@@ -2779,7 +2779,7 @@
       }
     ],
     "id": 95,
-    "name": "칠전팔기!"
+    "name": "조금 더 완벽하게!"
   },
   {
     "path": "Fail",
@@ -2817,7 +2817,35 @@
       }
     ],
     "id": 96,
-    "name": "느긋하게~"
+    "name": "서두르지 마~"
+  },
+  {
+    "path": "augbuff",
+    "desc": "명중이 {HT}% 감소하지만 사속이 150이 되고 난사한다.",
+    "data": [
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중감소"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 97,
+    "name": "장례식의 비"
   },
   {
     "path": "fighting",

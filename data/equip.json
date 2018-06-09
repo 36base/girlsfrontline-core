@@ -55,7 +55,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 3120,
+  "buildTime": 0,
   "stats": {
     "crit": {
       "min": 24,
@@ -228,6 +228,24 @@
     }
   }
 }, {
+  "name": "16Lab MARS",
+  "rank": 5,
+  "category": "accessory",
+  "type": "reddot",
+  "buildTime": 0,
+  "stats": {
+    "hit": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -4,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
   "name": "PEQ-2",
   "rank": 2,
   "category": "accessory",
@@ -284,7 +302,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
-  "buildTime": 3120,
+  "buildTime": 0,
   "stats": {
     "nightView": {
       "min": 100,
@@ -349,7 +367,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "apBullet",
-  "buildTime": 3420,
+  "buildTime": 0,
   "stats": {
     "armorPiercing": {
       "min": 80,
@@ -434,7 +452,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "hpBullet",
-  "buildTime": 3180,
+  "buildTime": 0,
   "stats": {
     "pow": {
       "min": 10,
@@ -524,7 +542,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "sgBullet",
-  "buildTime": 3240,
+  "buildTime": 0,
   "stats": {
     "pow": {
       "min": 10,
@@ -646,7 +664,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "hvBullet",
-  "buildTime": 3120,
+  "buildTime": 0,
   "stats": {
     "pow": {
       "min": 12,
@@ -779,6 +797,24 @@
     }
   }
 }, {
+  "name": "16Lab T4 외골격",
+  "rank": 5,
+  "category": "doll",
+  "type": "skeleton",
+  "buildTime": 0,
+  "stats": {
+    "dodge": {
+      "min": 25,
+      "max": 25,
+      "upgrade": 4
+    },
+    "pow": {
+      "min": -6,
+      "max": -6,
+      "upgrade": 0
+    }
+  }
+}, {
   "name": "Type1 방탄판",
   "rank": 3,
   "category": "doll",
@@ -837,7 +873,7 @@
   "rank": 5,
   "category": "doll",
   "type": "armor",
-  "buildTime": 3060,
+  "buildTime": 0,
   "stats": {
     "armor": {
       "min": 8,
@@ -1035,7 +1071,7 @@
   "rank": 5,
   "category": "doll",
   "type": "suit",
-  "buildTime": 3360,
+  "buildTime": 0,
   "stats": {
     "speed": {
       "min": -3,
@@ -1053,7 +1089,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "holo",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [65],
   "stats": {
     "pow": {
@@ -1077,7 +1113,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [46],
   "stats": {
     "crit": {
@@ -1096,7 +1132,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [39],
   "stats": {
     "hit": {
@@ -1115,7 +1151,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "reddot",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [75],
   "stats": {
     "hit": {
@@ -1139,7 +1175,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 2700,
+  "buildTime": 0,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1158,7 +1194,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 2700,
+  "buildTime": 0,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1177,7 +1213,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "scope",
-  "buildTime": 2700,
+  "buildTime": 0,
   "fitGuns": [58, 66],
   "stats": {
     "crit": {
@@ -1196,7 +1232,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
-  "buildTime": 2940,
+  "buildTime": 0,
   "fitGuns": [118],
   "stats": {
     "pow": {
@@ -1215,7 +1251,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "apBullet",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [36],
   "stats": {
     "rate": {
@@ -1234,7 +1270,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "apBullet",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [36],
   "stats": {
     "pow": {
@@ -1253,7 +1289,7 @@
   "rank": 5,
   "category": "ammo",
   "type": "hvBullet",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [57],
   "stats": {
     "hit": {
@@ -1272,7 +1308,7 @@
   "rank": 5,
   "category": "doll",
   "type": "chip",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [75],
   "stats": {
     "pow": {
@@ -1296,7 +1332,7 @@
   "rank": 5,
   "category": "doll",
   "type": "chip",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [39],
   "stats": {
     "dodge": {
@@ -1320,7 +1356,7 @@
   "rank": 5,
   "category": "doll",
   "type": "chip",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [185],
   "stats": {
     "hit": {
@@ -1344,7 +1380,7 @@
   "rank": 5,
   "category": "doll",
   "type": "chip",
-  "buildTime": 3420,
+  "buildTime": 0,
   "fitGuns": [93],
   "stats": {
     "pow": {
@@ -1368,7 +1404,7 @@
   "rank": 5,
   "category": "doll",
   "type": "armor",
-  "buildTime": 3060,
+  "buildTime": 0,
   "fitGuns": [54],
   "stats": {
     "armor": {
@@ -1397,7 +1433,7 @@
   "rank": 5,
   "category": "doll",
   "type": "skeleton",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [26],
   "stats": {
     "dodge": {
@@ -1416,7 +1452,7 @@
   "rank": 5,
   "category": "doll",
   "type": "skeleton",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [101, 102, 103],
   "stats": {
     "dodge": {
@@ -1435,7 +1471,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "silencer",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [5],
   "stats": {
     "hit": {
@@ -1459,7 +1495,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "silencer",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [94],
   "stats": {
     "dodge": {
@@ -1478,7 +1514,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [91],
   "stats": {
     "hit": {
@@ -1502,10 +1538,10 @@
   "rank": 5,
   "category": "doll",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [55],
   "stats": {
-    "power": {
+    "pow": {
       "min": 2,
       "max": 3,
       "upgrade": 6
@@ -1521,7 +1557,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [57],
   "stats": {
     "hit": {
@@ -1540,7 +1576,7 @@
   "rank": 5,
   "category": "accessory",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [51],
   "stats": {
     "rate": {
@@ -1559,37 +1595,37 @@
   "rank": 5,
   "category": "accessory",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [1009],
   "stats": {
     "nightView": {
       "min": 100,
       "max": 100,
       "upgrade": 0
-    },
-    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
-  }
+    }
+  },
+  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
 }, {
   "name": "Black Cat",
   "rank": 5,
   "category": "accessory",
   "type": "special",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [1010],
   "stats": {
     "nightView": {
       "min": 100,
       "max": 100,
       "upgrade": 0
-    },
-    "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
-  }
+    }
+  },
+  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
 }, {
   "name": "무한 탄약통",
   "rank": 5,
   "category": "doll",
   "type": "ammoBox",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [88],
   "stats": {
     "bullet": {
@@ -1597,7 +1633,7 @@
       "max": 20,
       "upgrade": 5
     },
-    "power": {
+    "pow": {
       "min": -25,
       "max": -25,
       "upgrade": 0
@@ -1613,7 +1649,7 @@
   "rank": 5,
   "category": "doll",
   "type": "suit",
-  "buildTime": 3120,
+  "buildTime": 0,
   "fitGuns": [42],
   "stats": {
     "critDmg": {
@@ -1630,6 +1666,30 @@
       "min": -3,
       "max": -3,
       "upgrade": 0
+    }
+  }
+}, {
+  "name": "FÉLIN 조준경",
+  "rank": 5,
+  "category": "accessory",
+  "type": "scope",
+  "buildTime": 0,
+  "fitGuns": [69],
+  "stats": {
+    "crit": {
+      "min": 17,
+      "max": 27,
+      "upgrade": 10
+    },
+    "pow": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
+    },
+    "hit": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
     }
   }
 }]
