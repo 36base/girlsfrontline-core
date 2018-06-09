@@ -9169,6 +9169,50 @@
     "gridEffect": {"pow": 10, "dodge": 10}
   }
 }, {
+  "id": 221,
+  "name": "GSH18",
+  "type": "hg",
+  "rank": 3,
+  "stats": {
+    "hp": 105,
+    "pow": 130,
+    "hit": 108,
+    "dodge": 130,
+    "speed": 100,
+    "rate": 100,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 105,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [1, 2, 4, 7, 8],
+    "gridEffect": {"pow": 12, "hit": 20}
+  }
+}, {
+  "id": 222,
+  "name": "TAC50",
+  "type": "rf",
+  "rank": 5,
+  "stats": {
+    "hp": 98,
+    "pow": 135,
+    "hit": 115,
+    "dodge": 85,
+    "speed": 100,
+    "rate": 90,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 132,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [3, 6],
+    "gridEffect": {"cooldown": 18}
+  }
+}, {
   "id": 1001,
   "name": "BB_Noel",
   "rank": 5,
