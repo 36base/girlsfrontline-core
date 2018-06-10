@@ -9184,6 +9184,15 @@
     "crit": 20
   },
   "grow": 105,
+  "krName": "GSh-18",
+  "skill": {
+    "id": 98,
+    "dataPool": {
+      "DR": [3, 3.3, 3.5, 3.7, 4.3, 4.7, 5, 5.3, 5.7, 6],
+      "CD": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+      "IC": 6
+    }
+  },
   "effect": {
     "effectType": "all",
     "effectCenter": 5,
@@ -9206,6 +9215,15 @@
     "crit": 40
   },
   "grow": 132,
+  "krName": "TAC-50",
+  "skill": {
+    "id": 99,
+    "dataPool": {
+      "DM": [0, 0, 0, 0, 0, 0, 0, 0, 0, 450],
+      "CD": [0, 0, 0, 0, 0, 0, 0, 0, 0, 16],
+      "IC": 10
+    }
+  },
   "effect": {
     "effectType": "hg",
     "effectCenter": 5,

@@ -2848,6 +2848,52 @@
     "name": "장례식의 비"
   },
   {
+    "path": "comboBuffSelf",
+    "desc": "{DR}초동안 쌍총으로 공격하여 2회의 피해를 입히며 반드시 치명타가 된다",
+    "data": [
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 98,
+    "name": "체인 스트라이크"
+  },
+  {
+    "path": "AimAttackDistanceTarge",
+    "desc": "패시브 : 스킬 쿨타임 종료 후 TAC의 드론이 무작위 적에게 표식(1초마다 대상 변경) 액티브 : 표식된 적에게 크리티컬이 적용되는 저격을 함. 피해량 {DM}%",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "피해량"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 99,
+    "name": "단풍과 반디"
+  },
+  {
     "path": "fighting",
     "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
     "data": [
