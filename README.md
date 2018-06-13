@@ -44,7 +44,8 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 | nick | Array(String) | 별명 목록 |
 | stats | [stats](#doll_stats) | 스탯 |
 | effect | [effect](#doll_effect) | 진형 버프 |
-| [getSkill](#doll_getSkill) | Function ⇒ <code>[skill](#doll_skill)</code> | 스킬 데이터 |
+| [getSkill](#doll_getSkill) | Function ⇒ <code>[skill](#doll_skill)</code> | 스킬 계산 |
+| [getStats](#doll_getStats) | Function ⇒ <code>[skill](#doll_stats)</code> | 스탯 계산 |
 
 <a name="equip"></a>
 ## [equip](#main) 멤버
@@ -127,7 +128,7 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 
 <a name="doll_getSkill"></a>
 ### [getSkill](#main)(options) ⇒ <code>[skill](#doll_skill)</code>
-해당 인형의 계산된 스탯을 반환합니다.
+해당 인형의 계산된 스킬을 반환합니다.
 
 | option | Value Type | Description |
 | --- | --- | --- |
@@ -135,9 +136,26 @@ const battleFairy = fairy.filter(({category}) => category === 'battle');
 | night | bool | 야간전 |
 
 ```javascript
-const {name, desc} = doll.getStats({level: 3, night: false});
+const {name, desc} = doll.getSkill({level: 3, night: false});
 
 console.log(`${name}: ${desc}`);
+```
+
+<a name="doll_getStats"></a>
+### [getStats](#main)(options) ⇒ <code>[stats](#doll_stats)</code>
+해당 인형의 계산된 스탯을 반환합니다.
+
+| option | Value Type | Description |
+| --- | --- | --- |
+| level | Number | 인형 레벨 |
+| favor | Number | 호감도 (0 ~ 200) |
+
+```javascript
+const stats = doll.getStats({level: 90, favor: 100});
+
+Object.entries(stats).forEach(([stat, value]) => {
+  console.log(`${stat} ${value}`);
+})
 ```
 
 <a name="doll_skill"></a>
