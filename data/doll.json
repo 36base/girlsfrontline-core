@@ -3422,7 +3422,6 @@
     "armorPiercing": 10,
     "crit": 30
   },
-  "grow": 125,
   "effect": {
     "effectType": "all",
     "effectCenter": 5,
@@ -3437,7 +3436,9 @@
       "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
       "IC": 4
     }
-  }
+  },
+  "krName": "AUG",
+  "grow": 125
 }, {
   "id": 74,
   "name": "SIG510",
