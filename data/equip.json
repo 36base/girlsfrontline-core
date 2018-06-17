@@ -1269,9 +1269,9 @@
   "name": "XM261 탄약",
   "rank": 5,
   "category": "ammo",
-  "type": "apBullet",
+  "type": "hpBullet",
   "buildTime": 0,
-  "fitGuns": [36],
+  "fitGuns": [2],
   "stats": {
     "pow": {
       "min": 8,
