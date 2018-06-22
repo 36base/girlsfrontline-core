@@ -7100,6 +7100,78 @@
   "krName": "SPAS-12",
   "grow": 90
 }, {
+  "id": 163,
+  "name": "AA12",
+  "type": "sg",
+  "rank": 5,
+  "stats": {
+    "hp": 122,
+    "armor": 122,
+    "pow": 100,
+    "hit": 102,
+    "dodge": 88,
+    "speed": 100,
+    "rate": 150,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 5
+  },
+  "grow": 106,
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 6,
+    "effectPos": [4, 7],
+    "gridEffect": {"pow": 22}
+  }
+}, {
+  "id": 164,
+  "name": "FP6",
+  "type": "sg",
+  "rank": 5,
+  "stats": {
+    "hp": 118,
+    "armor": 130,
+    "pow": 109,
+    "hit": 118,
+    "dodge": 108,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 4
+  },
+  "grow": 96,
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 9,
+    "effectPos": [1, 4, 7],
+    "gridEffect": {"pow": 12, "hit": 10}
+  }
+}, {
+  "id": 165,
+  "name": "M1014",
+  "type": "sg",
+  "rank": 4,
+  "stats": {
+    "hp": 125,
+    "armor": 115,
+    "pow": 105,
+    "hit": 105,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 120,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 4
+  },
+  "grow": 105,
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 3,
+    "effectPos": [1, 7],
+    "gridEffect": {"pow": 20}
+  }
+}, {
   "id": 166,
   "name": "CZ75",
   "rank": 5,
