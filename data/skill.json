@@ -2894,6 +2894,115 @@
     "name": "단풍과 반디"
   },
   {
+    "path": "comboBuffSelf",
+    "desc": "장탄수 {BL}발, 사속 {AR}%, 넉백확률이 {NB}%로 상승, 화력 {PW}%감소.",
+    "data": [
+	  {
+        "type": "bullet",
+        "key": "BL",
+        "label": "탄약증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "knockback",
+        "key": "NB",
+        "label": "넉백확률증가"
+      },
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력감소"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 100,
+    "name": "금당현상"
+  },
+  {
+    "path": "powBuffSelf",
+    "desc": "자신의 화력을 {PW}%, 장갑을 {AM}% 상승시킨다.",
+    "data": [
+      {
+        "type": "pow",
+        "key": "PW",
+        "label": "화력증가"
+      },
+      {
+        "type": "armor",
+        "key": "AM",
+        "label": "장갑증가"
+      },
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 101,
+    "name": "과잉방위"
+  },
+  {
+    "path": "shield",
+    "desc": "자신이 위치한 열에 무작위로 방패를 2개 설치하여, 작은 범위에 {DM}% 피해를 주고 밀어낸다. 방패가 설치된 칸에 있는 아군은 받는 피해가 {RD}% 감소한다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "피해량"
+      },
+      {
+        "type": "reduce_damage",
+        "key": "RD",
+        "label": "데미지 감소율"
+      },
+	  {
+        "type": "duration",
+        "key": "DR",
+        "label": "지속시간"
+      },
+      {
+        "type": "cooldown",
+        "key": "CD",
+        "label": "쿨다운"
+      },
+      {
+        "type": "startcd",
+        "key": "IC",
+        "label": "초반 쿨타임"
+      }
+    ],
+    "id": 102,
+    "name": "로스트 에덴"
+  },
+  {
     "path": "fighting",
     "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
     "data": [
