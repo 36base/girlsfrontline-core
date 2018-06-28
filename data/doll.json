@@ -9342,6 +9342,28 @@
     "gridEffect": {"cooldown": 18}
   }
 }, {
+  "id": 223,
+  "name": "CETME556",
+  "type": "ar",
+  "rank": 3,
+  "stats": {
+    "hp": 100,
+    "pow": 115,
+    "hit": 115,
+    "dodge": 102,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 112,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [3, 6],
+    "gridEffect": {"pow": 15, "hit": 25}
+  }
+}, {
   "id": 1001,
   "name": "BB_Noel",
   "rank": 5,
