@@ -1,5 +1,5 @@
 import equipData from '../../data/equip.json';
-import getEquip from './equip';
+import {getEquip} from './equip';
 
 describe('`getEquip()`', () => {
   test('returns stats object', () => {

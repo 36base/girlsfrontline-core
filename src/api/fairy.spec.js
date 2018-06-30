@@ -1,5 +1,5 @@
 import fairyData from '../../data/fairy.json';
-import getFairy from './fairy';
+import {getFairy} from './fairy';
 
 describe('`getStats()`', () => {
   test('returns default stats', () => {
