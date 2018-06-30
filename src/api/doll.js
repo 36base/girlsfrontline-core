@@ -31,9 +31,7 @@ function getFavorRatio(favor) {
   return 0.15;
 }
 
-export function getStats(doll, {level = 100, favor = 50} = {}) {
-  const {type, stats: baseStats, grow} = doll;
-  
+export function getStats({type, stats: baseStats, grow}, {level = 100, favor = 50} = {}) {
   const {[type]: attribute} = dollAttribute;
   const {normal, after100} = dollGrow;
   
