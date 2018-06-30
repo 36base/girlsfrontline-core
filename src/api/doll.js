@@ -31,7 +31,7 @@ function getFavorRatio(favor) {
   return 0.15;
 }
 
-export function getStats({type, stats: baseStats, grow}, {level = 100, favor = 50} = {}) {
+export function getStats({type, stats: baseStats, grow}, {level = 100, favor = 50, isGrow = true} = {}) {
   const {[type]: attribute} = dollAttribute;
   const {normal, after100} = dollGrow;
   
@@ -49,7 +49,7 @@ export function getStats({type, stats: baseStats, grow}, {level = 100, favor = 5
       : Math.ceil(((basicData[0] * attribute[key]) * baseStats[key]) / 100);
     
     // 강화 스탯 계산
-    stat += growData
+    stat += isGrow === true && growData
       ? Math.ceil(((((growData[1] + ((level - 1) * growData[0])) * attribute[key] * baseStats[key]) * grow) / 100) / 100)
       : 0;
       
