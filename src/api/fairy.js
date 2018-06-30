@@ -1,7 +1,8 @@
 import fairyGrow from '../../data/fairyGrow.json';
 import {getSkillData, getSkill} from './base/skill';
 
-export default function getFairy(fairy) {
+// eslint-disable-next-line import/prefer-default-export
+export function getFairy(fairy) {
   const {skill: skillData} = fairy;
   const skill = getSkillData(skillData);
   

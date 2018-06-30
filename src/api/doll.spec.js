@@ -1,5 +1,5 @@
 import dollData from '../../data/doll.json';
-import getDoll from './doll';
+import {getDoll} from './doll';
 
 describe('`getDoll()`', () => {
   const m1873 = getDoll(dollData[0]);

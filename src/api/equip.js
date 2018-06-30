@@ -1,4 +1,5 @@
-export default function getEquip(equip) {
+// eslint-disable-next-line import/prefer-default-export
+export function getEquip(equip) {
   return {
     ...equip,
     getStats(options = {}) {

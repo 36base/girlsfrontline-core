@@ -2,9 +2,9 @@ import 'babel-polyfill';
 import dollData from '../data/doll.json';
 import equipData from '../data/equip.json';
 import fairyData from '../data/fairy.json';
-import getDoll from './api/doll';
-import getEquip from './api/equip';
-import getFairy from './api/fairy';
+import {getDoll, getStats as getDollStats} from './api/doll';
+import {getEquip} from './api/equip';
+import {getFairy} from './api/fairy';
 
 const dolls = dollData.map((data) => {
   const {id} = data;
@@ -17,4 +17,4 @@ const dolls = dollData.map((data) => {
 const equips = equipData.map((data) => getEquip(data));
 const fairy = fairyData.map((data) => getFairy(data));
 
-module.exports = {dolls, equips, fairy};
+module.exports = {dolls, equips, fairy, getDollStats};
