@@ -18673,6 +18673,33 @@
     }
   }
 }, {
+  "id": 230,
+  "name": "OBR",
+  "type": "rf",
+  "rank": 3,
+  "stats": {
+    "hp": 92,
+    "pow": 108,
+    "hit": 120,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 120,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      9
+    ],
+    "gridEffect": {
+      "cooldown": 12
+    }
+  }
+}, {
   "id": 1001,
   "name": "BB_Noel",
   "rank": 5,
@@ -19514,6 +19541,36 @@
   "krName": "페일",
   "grow": 140
 }, {
+  "id": 20001,
+  "name": "M1873Mod",
+  "type": "hg",
+  "rank": 5,
+  "stats": {
+    "hp": 122,
+    "pow": 125,
+    "hit": 90,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 89,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 130,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "gridEffect": {
+      "pow": 12,
+      "hit": 30
+    }
+  }
+}, {
   "id": 20002,
   "name": "M1911Mod",
   "type": "hg",
@@ -19828,6 +19885,32 @@
   },
   "grow": 130
 }, {
+  "id": 20044,
+  "name": "SV98Mod",
+  "type": "rf",
+  "rank": 4,
+  "stats": {
+    "hp": 95,
+    "pow": 118,
+    "hit": 122,
+    "dodge": 85,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 115,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      3
+    ],
+    "gridEffect": {
+      "cooldown": 15
+    }
+  }
+}, {
   "id": 20051,
   "name": "FN49Mod",
   "type": "rf",
@@ -20106,6 +20189,34 @@
   },
   "grow": 120
 }, {
+  "id": 20063,
+  "name": "G3Mod",
+  "type": "ar",
+  "rank": 4,
+  "stats": {
+    "hp": 100,
+    "pow": 125,
+    "hit": 125,
+    "dodge": 90,
+    "speed": 100,
+    "rate": 95,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 120,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [
+      6,
+      8
+    ],
+    "gridEffect": {
+      "rate": 25,
+      "hit": 55
+    }
+  }
+}, {
   "id": 20075,
   "name": "M1918Mod",
   "type": "mg",
@@ -20205,6 +20316,35 @@
     }
   },
   "grow": 125
+}, {
+  "id": 20089,
+  "name": "BrenMKMod",
+  "type": "mg",
+  "rank": 4,
+  "stats": {
+    "hp": 105,
+    "pow": 115,
+    "hit": 130,
+    "dodge": 110,
+    "speed": 100,
+    "rate": 95,
+    "armorPiercing": 10,
+    "crit": 5,
+    "bullet": 8
+  },
+  "grow": 120,
+  "effect": {
+    "effectType": "sg",
+    "effectCenter": 7,
+    "effectPos": [
+      3,
+      9
+    ],
+    "gridEffect": {
+      "rate": 10,
+      "hit": 15
+    }
+  }
 }, {
   "id": 20091,
   "name": "MP446Mod",
