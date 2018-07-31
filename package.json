@@ -42,5 +42,12 @@
       "eslint --fix",
       "git add"
     ]
-  }
+  },
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "dist/",
+    "umd/",
+    "data/"
+  ]
 }
