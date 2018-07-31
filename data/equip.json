@@ -1692,4 +1692,95 @@
       "upgrade": 10
     }
   }
+}, {
+  "name": "브렌 L4 총열뭉치",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 0,
+  "fitGuns": [89],
+  "stats": {
+    "pow": {
+      "min": 5,
+      "max": 5,
+      "upgrade": 0
+    },
+    "hit": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -4,
+      "max": -1,
+      "upgrade": 0
+    }
+  }
+}, {
+  "name": "G3 개량 총열뭉치",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 0,
+  "fitGuns": [63],
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
+    },
+    "crit": {
+      "min": 17,
+      "max": 24,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "콜트 리볼버 연장총열",
+  "rank": 5,
+  "category": "accessory",
+  "type": "special",
+  "buildTime": 0,
+  "fitGuns": [1],
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 5
+    },
+    "dodge": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 3
+    },
+    "crit": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 10
+    }
+  }
+}, {
+  "name": "디지털 미채 슈트",
+  "rank": 5,
+  "category": "doll",
+  "type": "suit",
+  "buildTime": 0,
+  "fitGuns": [44],
+  "stats": {
+    "pow": {
+      "min": 6,
+      "max": 6,
+      "upgrade": 0
+    },
+    "critDmg": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
+    },
+    "speed": {
+      "min": -3,
+      "max": -3,
+      "upgrade": 0
+    }
+  }
 }]
