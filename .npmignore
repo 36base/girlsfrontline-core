@@ -1,12 +1,11 @@
 src
+umd
+config
 
-.gitattributes
 .editorconfig
 .babelrc
-.eslintrc
 .eslintignore
+.eslintrc
+.gitattributes
 .travis.yml
 
-data/raw
-src/parser
-parser
