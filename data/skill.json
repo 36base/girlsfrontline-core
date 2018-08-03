@@ -3003,6 +3003,116 @@
     "name": "로스트 에덴"
   },
   {
+    "path": "comboBuffSelf",
+    "desc": "재장전할 때마다 장탄수를 1발 추가하고 명중을 {HT}% 상승시킨다, 최대 3회 중첩가능",
+    "data": [
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      }
+    ],
+    "id": 103,
+    "name": "강자의 빈틈"
+  },
+  {
+    "path": "nightdodgeBuffSelf",
+    "desc": "자신의 회피를 {DG}%, 명중을 {HT}% 상승시킨다, 지속 {DR}초.",
+    "data": [
+      {
+        "type": "dodge",
+        "key": "DG",
+        "label": "회피 증가치"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중 증가"
+      },
+      {
+          "type": "duration",
+          "key": "DR",
+          "label": "지속시간"
+        },
+        {
+          "type": "cooldown",
+          "key": "CD",
+          "label": "쿨다운"
+        },
+        {
+          "type": "startcd",
+          "key": "IC",
+          "label": "초반 쿨타임"
+        }
+    ],
+    "id": 104,
+    "name": "탄도예측N"
+  },
+  {
+    "path": "RifleGrenade",
+    "desc": "살상류탄이 현재 체력이 50% 미만인 적에게 {DM}%의 추가피해를 주고, 50% 이상인 적을 {FZ}초 간 기절시킨다.",
+    "data": [
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "피해량"
+      },
+      {
+        "type": "freeze",
+        "key": "FZ",
+        "label": "기절 지속시간"
+      }
+    ],
+    "id": 105,
+    "name": "얼어붙는 용기"
+  },
+  {
+    "path": "rateBuffSelf",
+    "desc": "패시브: 3초 간 이동하지 않을 시, 위장 상태가 되어 자신의 명중을 {HT}%, 사속을 {AR}% 상승시킨다；액티브: 위장 상태에서 스킬 발동 시 저격 피해가 {DM}% 상승하며, 위장 상태를 해제한다.",
+    "data": [
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "damage",
+        "key": "DM",
+        "label": "피해량"
+      }
+    ],
+    "id": 106,
+    "name": "그늘 속 구원자"
+  },
+  {
+    "path": "rateBuff",
+    "desc": "{DR}초마다 아군 전체의 사속을 {AR}%, 명중을 {HT}% 상승시킨다. 최대 3회 중첩 가능",
+    "data": [
+      {
+        "type": "duration",
+        "key": "DR",
+        "label": "발동 간격"
+      },
+      {
+        "type": "rate",
+        "key": "AR",
+        "label": "사속증가"
+      },
+      {
+        "type": "hit",
+        "key": "HT",
+        "label": "명중증가"
+      }
+    ],
+    "id": 107,
+    "name": "듀얼 서바이버"
+  },
+  {
     "path": "fighting",
     "desc": "다음 전투에서 제대의 모든 인형의 화력을 {PW}%, 사속을 {AR}% 증가시킨다. (중첩 불가능)",
     "data": [
