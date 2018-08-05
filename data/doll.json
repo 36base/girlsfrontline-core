@@ -13540,6 +13540,7 @@
   "rank": 5,
   "type": "sg",
   "illust": "Silverwing",
+  "buildTime": 29520,
   "stats": {
     "hp": 122,
     "armor": 122,
@@ -13650,6 +13651,7 @@
   "rank": 5,
   "type": "sg",
   "illust": "nineo",
+  "buildTime": 21960,
   "stats": {
     "hp": 118,
     "armor": 130,
@@ -13738,6 +13740,7 @@
   "rank": 4,
   "type": "sg",
   "illust": "DDAL",
+  "buildTime": 26040,
   "stats": {
     "hp": 125,
     "armor": 115,
