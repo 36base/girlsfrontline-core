@@ -9,7 +9,6 @@
 # production
 /build
 /dist
-/umd
 
 # misc
 .DS_Store
