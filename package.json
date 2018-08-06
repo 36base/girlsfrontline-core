@@ -13,13 +13,15 @@
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "i18next": "^11.5.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-jest": "^22.2.2",
     "babel-loader": "^7.1.5",
     "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-minify": "^0.4.3",
     "babel-preset-stage-1": "^6.24.1",
