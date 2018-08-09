@@ -987,7 +987,7 @@
   },
   {
     "path": "AimAttackCurrentTarge",
-    "desc": "1.5초간 조준 후, 가장 가까운 대상에게 {DM}% 데미지를 입힌다",
+    "desc": "2초간 조준 후, 가장 가까운 대상에게 {DM}% 데미지를 입힌다",
     "data": [
       {
         "type": "damage",
