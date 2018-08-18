@@ -254,6 +254,38 @@
   "krName": "M9",
   "grow": 110
 }, {
+  "id": 4,
+  "name": "Python",
+  "type": "hg",
+  "rank": 5,
+  "stats": {
+    "hp": 105,
+    "pow": 128,
+    "hit": 140,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 85,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 142,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9
+    ],
+    "gridEffect": {
+      "pow": 15,
+      "crit": 10
+    }
+  }
+}, {
   "id": 5,
   "name": "M1895",
   "rank": 2,
@@ -5015,6 +5047,35 @@
   },
   "krName": "AK-47",
   "grow": 110
+}, {
+  "id": 59,
+  "name": "AK74U",
+  "type": "smg",
+  "rank": 5,
+  "stats": {
+    "hp": 110,
+    "pow": 136,
+    "hit": 118,
+    "dodge": 115,
+    "speed": 100,
+    "rate": 108,
+    "armorPiercing": 10,
+    "crit": 5
+  },
+  "grow": 103,
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 5,
+    "effectPos": [
+      1,
+      4,
+      7
+    ],
+    "gridEffect": {
+      "pow": 15,
+      "hit": 25
+    }
+  }
 }, {
   "id": 60,
   "name": "ASVAL",
@@ -18833,6 +18894,90 @@
   },
   "skins": {}
 }, {
+  "id": 225,
+  "name": "Cx4Storm",
+  "type": "smg",
+  "rank": 4,
+  "stats": {
+    "hp": 102,
+    "pow": 128,
+    "hit": 132,
+    "dodge": 118,
+    "speed": 100,
+    "rate": 80,
+    "armorPiercing": 10,
+    "crit": 5
+  },
+  "grow": 112,
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 5,
+    "effectPos": [
+      1,
+      7
+    ],
+    "gridEffect": {
+      "rate": 15,
+      "dodge": 10
+    }
+  }
+}, {
+  "id": 226,
+  "name": "Mk12",
+  "type": "rf",
+  "rank": 4,
+  "stats": {
+    "hp": 92,
+    "pow": 92,
+    "hit": 122,
+    "dodge": 95,
+    "speed": 100,
+    "rate": 135,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 122,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      6
+    ],
+    "gridEffect": {
+      "cooldown": 15
+    }
+  }
+}, {
+  "id": 227,
+  "name": "A91",
+  "type": "ar",
+  "rank": 4,
+  "stats": {
+    "hp": 102,
+    "pow": 118,
+    "hit": 122,
+    "dodge": 92,
+    "speed": 100,
+    "rate": 112,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 115,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 8,
+    "effectPos": [
+      3,
+      6,
+      9
+    ],
+    "gridEffect": {
+      "pow": 10,
+      "dodge": 15
+    }
+  }
+}, {
   "id": 228,
   "name": "Type100",
   "type": "smg",
@@ -18858,6 +19003,36 @@
     "gridEffect": {
       "pow": 12,
       "hit": 35
+    }
+  }
+}, {
+  "id": 229,
+  "name": "M870P",
+  "type": "sg",
+  "rank": 5,
+  "stats": {
+    "hp": 120,
+    "armor": 125,
+    "pow": 112,
+    "hit": 115,
+    "dodge": 105,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 4
+  },
+  "grow": 105,
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 3,
+    "effectPos": [
+      1,
+      4
+    ],
+    "gridEffect": {
+      "pow": 18,
+      "hit": 12
     }
   }
 }, {
@@ -18888,6 +19063,33 @@
     }
   },
   "skins": {}
+}, {
+  "id": 231,
+  "name": "M82A1",
+  "type": "rf",
+  "rank": 5,
+  "stats": {
+    "hp": 100,
+    "pow": 140,
+    "hit": 110,
+    "dodge": 82,
+    "speed": 100,
+    "rate": 96,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 128,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      6
+    ],
+    "gridEffect": {
+      "cooldown": 18
+    }
+  }
 }, {
   "id": 1001,
   "name": "BB_Noel",
@@ -20456,6 +20658,35 @@
   "grow": 115,
   "skins": {}
 }, {
+  "id": 20056,
+  "name": "M4 SOPMOD IIMod",
+  "type": "ar",
+  "rank": 5,
+  "stats": {
+    "hp": 100,
+    "pow": 118,
+    "hit": 125,
+    "dodge": 115,
+    "speed": 100,
+    "rate": 120,
+    "armorPiercing": 10,
+    "crit": 30
+  },
+  "grow": 110,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      6,
+      9
+    ],
+    "gridEffect": {
+      "hit": 50,
+      "dodge": 15
+    }
+  }
+}, {
   "id": 20057,
   "name": "AR15Mod",
   "type": "ar",
@@ -21136,4 +21367,33 @@
   },
   "grow": 105,
   "skins": {}
+}, {
+  "id": 20103,
+  "name": "UMP45Mod",
+  "type": "smg",
+  "rank": 5,
+  "stats": {
+    "hp": 108,
+    "pow": 105,
+    "hit": 110,
+    "dodge": 120,
+    "speed": 100,
+    "rate": 105,
+    "armorPiercing": 10,
+    "crit": 5
+  },
+  "grow": 110,
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 5,
+    "effectPos": [
+      1,
+      4,
+      7
+    ],
+    "gridEffect": {
+      "pow": 20,
+      "crit": 30
+    }
+  }
 }]
