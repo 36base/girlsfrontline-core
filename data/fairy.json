@@ -1,405 +1,614 @@
 [{
   "id": 1,
   "category": "battle",
-  "krName": "용사요정",
-  "name": "fighting",
-  "stats": {"pow": 160, "hit": 160, "dodge": 100, "armor": 100},
-  "skill": {
-    "id": 1001,
-    "dataPool": {
-      "PW": [5, 7, 8, 10, 12, 13, 15, 17, 18, 20],
-      "AR": [5, 6, 6, 7, 7, 8, 8, 9, 9, 10],
-      "CP": 1
-    }
+  "name": "fairy-10000001",
+  "stats": {
+    "pow": 160,
+    "hit": 160,
+    "dodge": 100,
+    "armor": 100
   },
+  "skill": "900110",
   "grow": 100,
-  "buildTime": 16200
+  "buildTime": 16200,
+  "codename": "fighting",
+  "powerup": {
+    "mp": 10,
+    "ammo": 14,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 2,
   "category": "battle",
-  "krName": "격노요정",
-  "name": "crit",
-  "stats": {"pow": 100, "dodge": 100, "armor": 100, "critDmg": 199},
-  "skill": {
-    "id": 1002,
-    "dataPool": {
-      "HT": [10, 14, 19, 23, 28, 32, 37, 41, 46, 50],
-      "CR": [10, 12, 13, 15, 17, 18, 20, 22, 23, 25],
-      "CP": 1
-    }
+  "name": "fairy-10000002",
+  "stats": {
+    "pow": 100,
+    "dodge": 100,
+    "armor": 100,
+    "criticalHarmRate": 199
   },
+  "skill": "900111",
   "grow": 100,
-  "buildTime": 16500
+  "buildTime": 16500,
+  "codename": "crit",
+  "powerup": {
+    "mp": 10,
+    "ammo": 14,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 3,
   "category": "battle",
-  "krName": "방패요정",
-  "name": "armor",
-  "stats": {"pow": 145, "armor": 242, "critDmg": 101},
-  "skill": {
-    "id": 1003,
-    "dataPool": {
-      "AM": [15, 19, 23, 27, 31, 34, 38, 42, 46, 50],
-      "DR": 20,
-      "CP": 3
-    }
+  "name": "fairy-10000003",
+  "stats": {
+    "pow": 145,
+    "armor": 242,
+    "criticalHarmRate": 101
   },
+  "skill": "900103",
   "grow": 100,
-  "buildTime": 10800
+  "buildTime": 10800,
+  "codename": "armor",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 4,
   "category": "battle",
-  "krName": "수호요정",
-  "name": "shield",
-  "stats": {"pow": 130, "hit": 120, "dodge": 200},
-  "skill": {
-    "id": 1004,
-    "dataPool": {"SD": [40, 50, 60, 70, 80, 90, 100, 110, 130, 150], "CP": 3}
+  "name": "fairy-10000004",
+  "stats": {
+    "pow": 130,
+    "hit": 120,
+    "dodge": 200
   },
+  "skill": "900101",
   "grow": 100,
-  "buildTime": 11100
+  "buildTime": 11100,
+  "codename": "shield",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 5,
   "category": "strategy",
-  "krName": "방어요정",
-  "name": "defense",
-  "stats": {"pow": 131, "dodge": 180, "armor": 180},
-  "skill": {
-    "id": 1005,
-    "dataPool": {
-      "RD": [10, 12, 14, 17, 19, 21, 23, 26, 28, 30],
-      "CD": 1,
-      "DR": 20,
-      "CP": 5
-    }
+  "name": "fairy-10000005",
+  "stats": {
+    "pow": 131,
+    "dodge": 180,
+    "armor": 180
   },
+  "skill": "*6",
   "grow": 121,
-  "buildTime": 15000
+  "buildTime": 15000,
+  "codename": "defense",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 6,
   "category": "battle",
-  "krName": "도발요정",
-  "name": "target",
-  "stats": {"pow": 101, "hit": 100, "dodge": 60, "armor": 61, "critDmg": 101},
-  "skill": {
-    "id": 1006,
-    "dataPool": {
-      "HP": [400, 480, 550, 650, 800, 950, 1100, 1250, 1400, 1600],
-      "CP": 3
-    }
+  "name": "fairy-10000006",
+  "stats": {
+    "pow": 101,
+    "hit": 100,
+    "dodge": 60,
+    "armor": 61,
+    "criticalHarmRate": 101
   },
+  "skill": "900104",
   "grow": 130,
-  "buildTime": 11400
+  "buildTime": 11400,
+  "codename": "target",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 7,
   "category": "battle",
-  "krName": "저격요정",
-  "name": "sniper",
-  "stats": {"hit": 175, "dodge": 70, "armor": 141, "critDmg": 175},
-  "skill": {
-    "id": 1007,
-    "dataPool": {
-      "DM": [2500, 4000, 5500, 7000, 8500, 10000, 12500, 15000, 17500, 20000],
-      "CP": 2
-    }
+  "name": "fairy-10000007",
+  "stats": {
+    "hit": 175,
+    "dodge": 70,
+    "armor": 141,
+    "criticalHarmRate": 175
   },
+  "skill": "900102",
   "grow": 100,
-  "buildTime": 12600
+  "buildTime": 12600,
+  "codename": "sniper",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 8,
   "category": "battle",
-  "krName": "포격요정",
-  "name": "bombard",
-  "stats": {"pow": 372, "dodge": 140, "armor": 60},
-  "skill": {
-    "id": 1008,
-    "dataPool": {
-      "DM": [200, 300, 400, 500, 600, 700, 800, 900, 1000, 1200],
-      "CP": 3
-    }
+  "name": "fairy-10000008",
+  "stats": {
+    "pow": 372,
+    "dodge": 140,
+    "armor": 60
   },
+  "skill": "900108",
   "grow": 100,
-  "buildTime": 12900
+  "buildTime": 12900,
+  "codename": "bombard",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 9,
   "category": "battle",
-  "krName": "공습요정",
-  "name": "air_attack",
-  "stats": {"pow": 159, "hit": 79, "dodge": 79, "armor": 79},
-  "skill": {
-    "id": 1009,
-    "dataPool": {
-      "DM": [80, 120, 160, 200, 240, 280, 320, 360, 400, 500],
-      "CP": 3
-    }
+  "name": "fairy-10000009",
+  "stats": {
+    "pow": 159,
+    "hit": 79,
+    "dodge": 79,
+    "armor": 79
   },
+  "skill": "900109",
   "grow": 150,
-  "buildTime": 13200
+  "buildTime": 13200,
+  "codename": "air_attack",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 10,
   "category": "strategy",
-  "krName": "증원요정",
-  "name": "reinforce",
-  "stats": {"pow": 60, "dodge": 175, "armor": 81, "critDmg": 60},
-  "skill": {
-    "id": 1010,
-    "dataPool": {"DG": [3, 3.5, 4, 4.5, 5, 6, 7, 8, 9, 10], "CD": 1, "CP": 2}
+  "name": "fairy-10000010",
+  "stats": {
+    "pow": 60,
+    "dodge": 175,
+    "armor": 81,
+    "criticalHarmRate": 60
   },
+  "skill": "*8",
   "grow": 150,
-  "buildTime": 14400
+  "buildTime": 14400,
+  "codename": "reinforce",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 11,
   "category": "strategy",
-  "krName": "공수요정",
-  "name": "airborne",
-  "stats": {"pow": 190, "dodge": 62, "armor": 60, "critDmg": 155},
-  "skill": {
-    "id": 1011,
-    "dataPool": {
-      "DC": [90, 85, 80, 75, 70, 65, 60, 55, 50, 40],
-      "MV": [3, 3, 3, 4, 4, 5, 5, 6, 6, 0],
-      "CD": 5,
-      "CP": 5
-    }
+  "name": "fairy-10000011",
+  "stats": {
+    "pow": 190,
+    "dodge": 62,
+    "armor": 60,
+    "criticalHarmRate": 155
   },
+  "skill": "*9",
   "grow": 150,
-  "buildTime": 14700
+  "buildTime": 14700,
+  "codename": "airborne",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 12,
   "category": "strategy",
-  "krName": "매설요정",
-  "name": "Landmines",
-  "stats": {"pow": 200, "hit": 100, "dodge": 242},
-  "skill": {
-    "id": 1012,
-    "dataPool": {
-      "DM": [20, 23, 26, 30, 33, 36, 40, 43, 46, 50],
-      "CD": 3,
-      "CP": 5
-    }
+  "name": "fairy-10000012",
+  "stats": {
+    "pow": 200,
+    "hit": 100,
+    "dodge": 242
   },
+  "skill": "*10",
   "grow": 73,
-  "buildTime": 19800
+  "buildTime": 19800,
+  "codename": "Landmines",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 13,
   "category": "strategy",
-  "krName": "로켓요정",
-  "name": "position",
-  "stats": {"hit": 100, "armor": 241, "critDmg": 200},
-  "skill": {
-    "id": 1013,
-    "dataPool": {
-      "TN": [4, 4, 4, 4, 4, 5, 5, 5, 5, 5],
-      "DM": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CD": 3,
-      "CP": 10
-    }
+  "name": "fairy-10000013",
+  "stats": {
+    "hit": 100,
+    "armor": 241,
+    "criticalHarmRate": 200
   },
+  "skill": "*11",
   "grow": 75,
-  "buildTime": 20100
+  "buildTime": 20100,
+  "codename": "position",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 14,
   "category": "strategy",
-  "krName": "공사요정",
-  "name": "fortress",
+  "name": "fairy-10000014",
   "stats": {
     "pow": 120,
     "hit": 120,
     "dodge": 120,
     "armor": 120,
-    "critDmg": 120
+    "criticalHarmRate": 120
   },
-  "skill": {
-    "id": 1014,
-    "dataPool": {
-      "ST": [10, 12, 14, 17, 19, 21, 23, 26, 28, 30],
-      "CD": 3,
-      "CP": 5
-    }
-  },
+  "skill": "*12",
   "grow": 65,
-  "buildTime": 20400
+  "buildTime": 20400,
+  "codename": "fortress",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 15,
   "category": "strategy",
-  "krName": "지휘요정",
-  "name": "command",
-  "stats": {"pow": 285, "dodge": 92, "armor": 85, "critDmg": 201},
-  "skill": {
-    "id": 1015,
-    "dataPool": {
-      "EP": [5, 8, 10, 12, 14, 16, 18, 20, 22, 25],
-      "CD": 1,
-      "CP": 1
-    }
+  "name": "fairy-10000015",
+  "stats": {
+    "pow": 285,
+    "dodge": 92,
+    "armor": 85,
+    "criticalHarmRate": 201
   },
+  "skill": "*13",
   "grow": 70,
-  "buildTime": 18000
+  "buildTime": 18000,
+  "codename": "command",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 16,
   "category": "strategy",
-  "krName": "수색요정",
-  "name": "rescue",
-  "stats": {"pow": 270, "hit": 200, "dodge": 200},
-  "skill": {
-    "id": 1016,
-    "dataPool": {
-      "DP": [
-        "아주 조금",
-        "아주 조금",
-        "조금",
-        "조금",
-        "조금 많이",
-        "조금 많이",
-        "많이",
-        "많이",
-        "아주 많이",
-        "아주 많이"
-      ],
-      "CD": 1,
-      "CP": 1
-    }
+  "name": "fairy-10000016",
+  "stats": {
+    "pow": 270,
+    "hit": 200,
+    "dodge": 200
   },
+  "skill": "*14",
   "grow": 60,
-  "buildTime": 18300
+  "buildTime": 18300,
+  "codename": "rescue",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 17,
   "category": "strategy",
-  "krName": "조명요정",
-  "name": "illumine",
-  "stats": {"hit": 200, "dodge": 87, "armor": 80, "critDmg": 201},
-  "skill": {
-    "id": 1017,
-    "dataPool": {
-      "HT": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "VE": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2],
-      "CD": 5,
-      "CP": 5
-    }
+  "name": "fairy-10000017",
+  "stats": {
+    "hit": 200,
+    "dodge": 87,
+    "armor": 80,
+    "criticalHarmRate": 201
   },
+  "skill": "*15",
   "grow": 80,
-  "buildTime": 18600
+  "buildTime": 18600,
+  "codename": "illumine",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ]
 }, {
   "id": 18,
   "category": "battle",
-  "krName": "황금요정",
-  "name": "golden",
-  "stats": {"pow": 60, "hit": 58, "dodge": 58, "armor": 56, "critDmg": 58},
-  "skill": {"id": 1018, "dataPool": {"CD": 0, "CP": 0}},
+  "name": "fairy-10000018",
+  "stats": {
+    "pow": 60,
+    "hit": 58,
+    "dodge": 58,
+    "armor": 56,
+    "criticalHarmRate": 58
+  },
+  "skill": "900117",
   "grow": 320,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "golden",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }, {
   "id": 19,
   "category": "battle",
-  "krName": "취사요정",
-  "name": "cooking",
-  "stats": {"pow": 35, "hit": 22, "dodge": 113, "armor": 106, "critDmg": 25},
-  "skill": {"id": 1019, "dataPool": {"CD": 0, "CP": 1}},
+  "name": "fairy-10000019",
+  "stats": {
+    "pow": 35,
+    "hit": 22,
+    "dodge": 113,
+    "armor": 106,
+    "criticalHarmRate": 25
+  },
+  "skill": "900151",
   "grow": 250,
-  "buildTime": 0
-}, {
-  "id": 1001,
-  "category": "battle",
-  "krName": "야에 사쿠라 ",
-  "name": "Sakura",
-  "stats": {"pow": 220, "dodge": 75, "armor": 65, "critDmg": 200},
-  "skill": {
-    "id": 1020,
-    "dataPool": {
-      "DM": [20, 30, 40, 50, 60, 70, 80, 90, 100, 120],
-      "CD": 0,
-      "CP": 2
-    }
+  "buildTime": 18600,
+  "codename": "cooking",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
   },
-  "grow": 60,
-  "buildTime": 0
-}, {
-  "id": 1002,
-  "category": "strategy",
-  "krName": "카구야",
-  "name": "Kaguya",
-  "stats": {"hit": 173, "dodge": 75, "armor": 180, "critDmg": 195},
-  "skill": {
-    "id": 1021,
-    "dataPool": {
-      "DM": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CD": 3,
-      "CP": 8
-    }
-  },
-  "grow": 60,
-  "buildTime": 0
-}, {
-  "id": 1003,
-  "category": "battle",
-  "krName": "클로에",
-  "name": "Chloe",
-  "stats": {"pow": 145, "hit": 135, "dodge": 199, "armor": 65},
-  "skill": {
-    "id": 1022,
-    "dataPool": {
-      "HP": [150, 175, 200, 250, 300, 350, 400, 450, 500, 600],
-      "DM": [15, 22, 30, 40, 50, 60, 70, 80, 90, 100],
-      "CD": 0,
-      "CP": 2
-    }
-  },
-  "grow": 60,
-  "buildTime": 0
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }, {
   "id": 1004,
   "category": "strategy",
-  "krName": "스이",
-  "name": "DJMAXSUEE",
-  "stats": {"dodge": 175, "armor": 170, "critDmg": 150},
-  "skill": {
-    "id": 1023,
-    "dataPool": {
-      "IC": [8, 9, 10, 11, 12, 13, 14, 16, 18, 20],
-      "CD": 2,
-      "CP": 3
-    }
+  "name": "fairy-10001004",
+  "stats": {
+    "dodge": 175,
+    "armor": 170,
+    "criticalHarmRate": 150
   },
+  "skill": "*1004",
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXSUEE",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }, {
   "id": 1005,
   "category": "battle",
-  "krName": "세라&니나",
-  "name": "DJMAXSEHRA",
-  "stats": {"pow": 100, "hit": 80, "dodge": 125, "critDmg": 100},
-  "skill": {
-    "id": 1024,
-    "dataPool": {
-      "PW": [5, 7, 8, 10, 12, 13, 15, 17, 18, 20],
-      "AR": [5, 5, 6, 6, 7, 7, 8, 8, 9, 10],
-      "CP": 1
-    }
+  "name": "fairy-10001005",
+  "stats": {
+    "pow": 100,
+    "hit": 80,
+    "dodge": 125,
+    "criticalHarmRate": 100
   },
+  "skill": "900152",
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXSEHRA",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }, {
   "id": 1006,
   "category": "battle",
-  "krName": "프레이야&카밀리아",
-  "name": "DJMAXPREIYA",
+  "name": "fairy-10001006",
   "stats": {
     "pow": 145,
     "hit": 100,
     "dodge": 25,
     "armor": 100,
-    "critDmg": 110
+    "criticalHarmRate": 110
   },
-  "skill": {
-    "id": 1025,
-    "dataPool": {
-      "RI": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "RD": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "YI": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "YD": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CP": 1
-    }
-  },
+  "skill": "900153",
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXPREIYA",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }]
