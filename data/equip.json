@@ -1,183 +1,285 @@
 [{
-  "name": "BM 3-12X40",
+  "id": 1,
+  "codename": "配件_光学瞄准镜_N",
+  "name": "equip-10000001",
+  "description": "equip-20000001",
+  "introduction": "equip-30000001",
   "rank": 2,
   "category": "accessory",
-  "type": "scope",
+  "type": "optical",
+  "company": "BM",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 300,
   "stats": {
-    "crit": {
+    "criticalPercent": {
       "min": 5,
-      "max": 8,
-      "upgrade": 0
+      "max": 8
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "LRA 2-12x50",
+  "id": 2,
+  "codename": "配件_光学瞄准镜_N",
+  "name": "equip-10000002",
+  "description": "equip-20000002",
+  "introduction": "equip-30000002",
   "rank": 3,
   "category": "accessory",
-  "type": "scope",
+  "type": "optical",
+  "company": "BM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1200,
   "stats": {
-    "crit": {
+    "criticalPercent": {
       "min": 9,
       "max": 12,
       "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "PSO-1",
+  "id": 3,
+  "codename": "配件_光学瞄准镜_N",
+  "name": "equip-10000003",
+  "description": "equip-20000003",
+  "introduction": "equip-30000003",
   "rank": 4,
   "category": "accessory",
-  "type": "scope",
+  "type": "optical",
+  "company": "BM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2100,
   "stats": {
-    "crit": {
+    "criticalPercent": {
       "min": 13,
       "max": 16,
       "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "VFL 6-24X56",
+  "id": 4,
+  "codename": "配件_光学瞄准镜_N",
+  "name": "equip-10000004",
+  "description": "equip-20000004",
+  "introduction": "equip-30000004",
   "rank": 5,
   "category": "accessory",
-  "type": "scope",
+  "type": "optical",
+  "company": "BM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2700,
   "stats": {
-    "crit": {
+    "criticalPercent": {
       "min": 17,
       "max": 24,
       "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "16Lab 6-24X56",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "stats": {
-    "crit": {
-      "min": 24,
-      "max": 24,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "EOT 506",
+  "id": 5,
+  "codename": "配件_全息瞄准镜_N",
+  "name": "equip-10000005",
+  "description": "equip-20000005",
+  "introduction": "equip-30000005",
   "rank": 2,
   "category": "accessory",
   "type": "holo",
+  "company": "EOT",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 480,
   "stats": {
-    "hit": {
-      "min": 1,
-      "max": 1,
-      "upgrade": 0
-    },
     "pow": {
       "min": 1,
-      "max": 1,
-      "upgrade": 0
+      "max": 1
+    },
+    "hit": {
+      "min": 1,
+      "max": 1
     },
     "rate": {
       "min": -1,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "EOT 512",
+  "id": 6,
+  "codename": "配件_全息瞄准镜_N",
+  "name": "equip-10000006",
+  "description": "equip-20000006",
+  "introduction": "equip-30000006",
   "rank": 3,
   "category": "accessory",
   "type": "holo",
+  "company": "EOT",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1380,
   "stats": {
-    "hit": {
-      "min": 2,
+    "pow": {
+      "min": 1,
       "max": 2,
       "upgrade": 5
     },
-    "pow": {
-      "min": 1,
+    "hit": {
+      "min": 2,
       "max": 2,
       "upgrade": 5
     },
     "rate": {
       "min": -2,
-      "max": -2,
-      "upgrade": 0
+      "max": -2
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "EOT 516",
+  "id": 7,
+  "codename": "配件_全息瞄准镜_N",
+  "name": "equip-10000007",
+  "description": "equip-20000007",
+  "introduction": "equip-30000007",
   "rank": 4,
   "category": "accessory",
   "type": "holo",
+  "company": "EOT",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2280,
   "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 4
+    },
     "hit": {
       "min": 3,
       "max": 5,
       "upgrade": 4
     },
-    "pow": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 4
-    },
     "rate": {
       "min": -4,
-      "max": -3,
-      "upgrade": 0
+      "max": -3
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "EOT 518",
+  "id": 8,
+  "codename": "配件_全息瞄准镜_N",
+  "name": "equip-10000008",
+  "description": "equip-20000008",
+  "introduction": "equip-30000008",
   "rank": 5,
   "category": "accessory",
   "type": "holo",
+  "company": "EOT",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2880,
   "stats": {
-    "hit": {
-      "min": 6,
-      "max": 10,
-      "upgrade": 4
-    },
     "pow": {
       "min": 4,
       "max": 6,
       "upgrade": 4
     },
+    "hit": {
+      "min": 6,
+      "max": 10,
+      "upgrade": 4
+    },
     "rate": {
       "min": -6,
-      "max": -4,
-      "upgrade": 0
+      "max": -4
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "AMP COMPM2",
+  "id": 9,
+  "codename": "配件_ACOG瞄准镜_N",
+  "name": "equip-10000009",
+  "description": "equip-20000009",
+  "introduction": "equip-30000009",
   "rank": 2,
   "category": "accessory",
   "type": "reddot",
+  "company": "AMP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 600,
   "stats": {
     "hit": {
       "min": 2,
-      "max": 3,
-      "upgrade": 0
+      "max": 3
     },
     "rate": {
       "min": -1,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "AMP COMPM4",
+  "id": 10,
+  "codename": "配件_ACOG瞄准镜_N",
+  "name": "equip-10000010",
+  "description": "equip-20000010",
+  "introduction": "equip-30000010",
   "rank": 3,
   "category": "accessory",
   "type": "reddot",
+  "company": "AMP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1500,
   "stats": {
     "hit": {
@@ -187,15 +289,27 @@
     },
     "rate": {
       "min": -2,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "COG M150",
+  "id": 11,
+  "codename": "配件_ACOG瞄准镜_N",
+  "name": "equip-10000011",
+  "description": "equip-20000011",
+  "introduction": "equip-30000011",
   "rank": 4,
   "category": "accessory",
   "type": "reddot",
+  "company": "AMP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2400,
   "stats": {
     "hit": {
@@ -205,15 +319,27 @@
     },
     "rate": {
       "min": -3,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "ITI MARS",
+  "id": 12,
+  "codename": "配件_ACOG瞄准镜_N",
+  "name": "equip-10000012",
+  "description": "equip-20000012",
+  "introduction": "equip-30000012",
   "rank": 5,
   "category": "accessory",
   "type": "reddot",
+  "company": "AMP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 3000,
   "stats": {
     "hit": {
@@ -223,111 +349,152 @@
     },
     "rate": {
       "min": -4,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "16Lab MARS",
-  "rank": 5,
-  "category": "accessory",
-  "type": "reddot",
-  "buildTime": 0,
-  "stats": {
-    "hit": {
-      "min": 11,
-      "max": 15,
-      "upgrade": 10
-    },
-    "rate": {
-      "min": -4,
-      "max": -1,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "PEQ-2",
+  "id": 13,
+  "codename": "配件_红外夜视仪_N",
+  "name": "equip-10000013",
+  "description": "equip-20000013",
+  "introduction": "equip-30000013",
   "rank": 2,
   "category": "accessory",
   "type": "nightvision",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 540,
   "stats": {
-    "nightView": {
+    "nightview": {
       "min": 51,
-      "max": 55,
-      "upgrade": 0
+      "max": 55
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "PEQ-5",
+  "id": 14,
+  "codename": "配件_红外夜视仪_N",
+  "name": "equip-10000014",
+  "description": "equip-20000014",
+  "introduction": "equip-30000014",
   "rank": 3,
   "category": "accessory",
   "type": "nightvision",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 1440,
   "stats": {
-    "nightView": {
+    "nightview": {
       "min": 61,
-      "max": 70,
-      "upgrade": 0
+      "max": 70
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "PEQ-15",
+  "id": 15,
+  "codename": "配件_红外夜视仪_N",
+  "name": "equip-10000015",
+  "description": "equip-20000015",
+  "introduction": "equip-30000015",
   "rank": 4,
   "category": "accessory",
   "type": "nightvision",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 2340,
   "stats": {
-    "nightView": {
+    "nightview": {
       "min": 76,
-      "max": 85,
-      "upgrade": 0
+      "max": 85
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "PEQ-16A",
+  "id": 16,
+  "codename": "配件_红外夜视仪_N",
+  "name": "equip-10000016",
+  "description": "equip-20000016",
+  "introduction": "equip-30000016",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 2940,
   "stats": {
-    "nightView": {
+    "nightview": {
       "min": 91,
-      "max": 100,
-      "upgrade": 0
+      "max": 100
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "16Lab 적외선지시기",
-  "rank": 5,
-  "category": "accessory",
-  "type": "nightvision",
-  "buildTime": 0,
-  "stats": {
-    "nightView": {
-      "min": 100,
-      "max": 100,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "M61철갑탄",
+  "id": 17,
+  "codename": "弹匣_穿甲弹_N",
+  "name": "equip-10000017",
+  "description": "equip-20000017",
+  "introduction": "equip-30000017",
   "rank": 2,
   "category": "ammo",
-  "type": "apBullet",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 900,
   "stats": {
     "armorPiercing": {
       "min": 25,
-      "max": 35,
-      "upgrade": 0
+      "max": 35
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "M993철갑탄",
+  "id": 18,
+  "codename": "弹匣_穿甲弹_N",
+  "name": "equip-10000018",
+  "description": "equip-20000018",
+  "introduction": "equip-30000018",
   "rank": 3,
   "category": "ammo",
-  "type": "apBullet",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1800,
   "stats": {
     "armorPiercing": {
@@ -335,12 +502,25 @@
       "max": 50,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.5,
+    "mre": 0.3,
+    "part": 0.3
   }
 }, {
-  "name": "Mk169철갑탄",
+  "id": 19,
+  "codename": "弹匣_穿甲弹_N",
+  "name": "equip-10000019",
+  "description": "equip-20000019",
+  "introduction": "equip-30000019",
   "rank": 4,
   "category": "ammo",
-  "type": "apBullet",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2700,
   "stats": {
     "armorPiercing": {
@@ -348,12 +528,25 @@
       "max": 65,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.5,
+    "mre": 0.3,
+    "part": 0.3
   }
 }, {
-  "name": "Mk211고폭철갑탄",
+  "id": 20,
+  "codename": "弹匣_穿甲弹_N",
+  "name": "equip-10000020",
+  "description": "equip-20000020",
+  "introduction": "equip-30000020",
   "rank": 5,
   "category": "ammo",
-  "type": "apBullet",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 3300,
   "stats": {
     "armorPiercing": {
@@ -361,270 +554,50 @@
       "max": 80,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.5,
+    "mre": 0.3,
+    "part": 0.3
   }
 }, {
-  "name": "16Lab 차구경철갑탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "apBullet",
-  "buildTime": 0,
-  "stats": {
-    "armorPiercing": {
-      "min": 80,
-      "max": 80,
-      "upgrade": 5
-    }
-  }
-}, {
-  "name": "ILM HP탄",
+  "id": 29,
+  "codename": "弹匣_高速弹_N",
+  "name": "equip-10000029",
+  "description": "equip-20000029",
+  "introduction": "equip-30000029",
   "rank": 2,
   "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 780,
-  "stats": {
-    "pow": {
-      "min": 1,
-      "max": 1,
-      "upgrade": 0
-    },
-    "armorPiercing": {
-      "min": -1,
-      "max": -1,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "ILM HP탄",
-  "rank": 3,
-  "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 1680,
-  "stats": {
-    "pow": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 7
-    },
-    "armorPiercing": {
-      "min": -3,
-      "max": -2,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "ILM HP탄",
-  "rank": 4,
-  "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 2580,
-  "stats": {
-    "pow": {
-      "min": 4,
-      "max": 6,
-      "upgrade": 5
-    },
-    "armorPiercing": {
-      "min": -6,
-      "max": -4,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "ILM HP탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 3180,
-  "stats": {
-    "pow": {
-      "min": 7,
-      "max": 10,
-      "upgrade": 5
-    },
-    "armorPiercing": {
-      "min": -10,
-      "max": -7,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "16Lab HP탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 0,
-  "stats": {
-    "pow": {
-      "min": 10,
-      "max": 10,
-      "upgrade": 5
-    },
-    "armorPiercing": {
-      "min": -7,
-      "max": -7,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "#1벅 샷",
-  "rank": 2,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 840,
-  "stats": {
-    "pow": {
-      "min": 1,
-      "max": 1,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 3,
-      "max": 4,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "#0벅 샷",
-  "rank": 3,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 1740,
-  "stats": {
-    "pow": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 5,
-      "max": 6,
-      "upgrade": 5
-    }
-  }
-}, {
-  "name": "#00벅 샷",
-  "rank": 4,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 2640,
-  "stats": {
-    "pow": {
-      "min": 4,
-      "max": 6,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 7,
-      "max": 9,
-      "upgrade": 6
-    }
-  }
-}, {
-  "name": "#000벅 샷",
-  "rank": 5,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 3240,
-  "stats": {
-    "pow": {
-      "min": 7,
-      "max": 10,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 10,
-      "max": 15,
-      "upgrade": 5
-    }
-  }
-}, {
-  "name": "16Lab 벅 샷",
-  "rank": 5,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 0,
-  "stats": {
-    "pow": {
-      "min": 10,
-      "max": 10,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 15,
-      "max": 15,
-      "upgrade": 5
-    }
-  }
-}, {
-  "name": "BK 슬러그탄",
-  "rank": 2,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 840,
-  "stats": {
-    "hit": {
-      "min": 1,
-      "max": 2,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "FST 슬러그탄",
-  "rank": 3,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 1740,
-  "stats": {
-    "hit": {
-      "min": 3,
-      "max": 4,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "WAD 슬러그탄",
-  "rank": 4,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 2640,
-  "stats": {
-    "hit": {
-      "min": 5,
-      "max": 7,
-      "upgrade": 9
-    }
-  }
-}, {
-  "name": "SABOT 슬러그탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "sgBullet",
-  "buildTime": 3240,
-  "stats": {
-    "hit": {
-      "min": 8,
-      "max": 12,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "FMJ고속탄",
-  "rank": 2,
-  "category": "ammo",
-  "type": "hvBullet",
+  "type": "hvAmmo",
+  "company": "PMC",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 1080,
   "stats": {
     "pow": {
       "min": 2,
-      "max": 2,
-      "upgrade": 0
+      "max": 2
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "JSP고속탄",
+  "id": 30,
+  "codename": "弹匣_高速弹_N",
+  "name": "equip-10000030",
+  "description": "equip-20000030",
+  "introduction": "equip-30000030",
   "rank": 3,
   "category": "ammo",
-  "type": "hvBullet",
+  "type": "hvAmmo",
+  "company": "PMC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1980,
   "stats": {
     "pow": {
@@ -632,12 +605,25 @@
       "max": 4,
       "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.38,
+    "part": 0.23
   }
 }, {
-  "name": "JHP고속탄",
+  "id": 31,
+  "codename": "弹匣_高速弹_N",
+  "name": "equip-10000031",
+  "description": "equip-20000031",
+  "introduction": "equip-30000031",
   "rank": 4,
   "category": "ammo",
-  "type": "hvBullet",
+  "type": "hvAmmo",
+  "company": "PMC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2880,
   "stats": {
     "pow": {
@@ -645,12 +631,25 @@
       "max": 7,
       "upgrade": 8
     }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.38,
+    "part": 0.23
   }
 }, {
-  "name": "APCR고속탄",
+  "id": 32,
+  "codename": "弹匣_高速弹_N",
+  "name": "equip-10000032",
+  "description": "equip-20000032",
+  "introduction": "equip-30000032",
   "rank": 5,
   "category": "ammo",
-  "type": "hvBullet",
+  "type": "hvAmmo",
+  "company": "PMC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 3480,
   "stats": {
     "pow": {
@@ -658,601 +657,508 @@
       "max": 12,
       "upgrade": 7
     }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.38,
+    "part": 0.23
   }
 }, {
-  "name": "16Lab 고속탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "hvBullet",
-  "buildTime": 0,
-  "stats": {
-    "pow": {
-      "min": 12,
-      "max": 12,
-      "upgrade": 6
-    }
-  }
-}, {
-  "name": "IOP X1외골격",
+  "id": 37,
+  "codename": "人形装备_外骨骼_N",
+  "name": "equip-10000037",
+  "description": "equip-20000037",
+  "introduction": "equip-30000037",
   "rank": 2,
   "category": "doll",
-  "type": "skeleton",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
   "buildTime": 720,
   "stats": {
-    "dodge": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "IOP X2외골격",
-  "rank": 3,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 1620,
-  "stats": {
-    "dodge": {
-      "min": 4,
-      "max": 5,
-      "upgrade": 8
-    }
-  }
-}, {
-  "name": "IOP X3외골격",
-  "rank": 4,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 2520,
-  "stats": {
-    "dodge": {
-      "min": 6,
-      "max": 7,
-      "upgrade": 9
-    }
-  }
-}, {
-  "name": "IOP X4외골격",
-  "rank": 5,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 3120,
-  "stats": {
-    "dodge": {
-      "min": 8,
-      "max": 12,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "IOP T1 외골격",
-  "rank": 2,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 720,
-  "stats": {
-    "dodge": {
-      "min": 6,
-      "max": 8,
-      "upgrade": 0
-    },
     "pow": {
       "min": -2,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
+    },
+    "dodge": {
+      "min": 6,
+      "max": 8
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "IOP T2 외골격",
+  "id": 38,
+  "codename": "人形装备_外骨骼_N",
+  "name": "equip-10000038",
+  "description": "equip-20000038",
+  "introduction": "equip-30000038",
   "rank": 3,
   "category": "doll",
-  "type": "skeleton",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1620,
   "stats": {
+    "pow": {
+      "min": -4,
+      "max": -3
+    },
     "dodge": {
       "min": 10,
       "max": 12,
       "upgrade": 4
-    },
-    "pow": {
-      "min": -4,
-      "max": -3,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.23,
+    "mre": 0.15,
+    "part": 0.38
   }
 }, {
-  "name": "IOP T3 외골격",
+  "id": 39,
+  "codename": "人形装备_外骨骼_N",
+  "name": "equip-10000039",
+  "description": "equip-20000039",
+  "introduction": "equip-30000039",
   "rank": 4,
   "category": "doll",
-  "type": "skeleton",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2520,
   "stats": {
+    "pow": {
+      "min": -6,
+      "max": -5
+    },
     "dodge": {
       "min": 14,
       "max": 16,
       "upgrade": 4
-    },
-    "pow": {
-      "min": -6,
-      "max": -5,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.23,
+    "mre": 0.15,
+    "part": 0.38
   }
 }, {
-  "name": "IOP T4 외골격",
+  "id": 40,
+  "codename": "人形装备_外骨骼_N",
+  "name": "equip-10000040",
+  "description": "equip-20000040",
+  "introduction": "equip-30000040",
   "rank": 5,
   "category": "doll",
-  "type": "skeleton",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 3120,
   "stats": {
+    "pow": {
+      "min": -8,
+      "max": -6
+    },
     "dodge": {
       "min": 20,
       "max": 25,
       "upgrade": 4
-    },
-    "pow": {
-      "min": -8,
-      "max": -6,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.23,
+    "mre": 0.15,
+    "part": 0.38
   }
 }, {
-  "name": "16Lab T4 외골격",
-  "rank": 5,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 0,
-  "stats": {
-    "dodge": {
-      "min": 25,
-      "max": 25,
-      "upgrade": 4
-    },
-    "pow": {
-      "min": -6,
-      "max": -6,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "Type1 방탄판",
+  "id": 42,
+  "codename": "人形装备_防弹插板_N",
+  "name": "equip-10000042",
+  "description": "equip-20000042",
+  "introduction": "equip-30000042",
   "rank": 3,
   "category": "doll",
-  "type": "armor",
+  "type": "armorPlate",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 1560,
   "stats": {
+    "dodge": {
+      "min": -1,
+      "max": -1
+    },
     "armor": {
       "min": 3,
       "max": 3,
       "upgrade": 4
-    },
-    "dodge": {
-      "min": -1,
-      "max": -1,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.23,
+    "ammo": 0.23,
+    "mre": 0.33,
+    "part": 0.33
   }
 }, {
-  "name": "Type2 방탄판",
+  "id": 43,
+  "codename": "人形装备_防弹插板_N",
+  "name": "equip-10000043",
+  "description": "equip-20000043",
+  "introduction": "equip-30000043",
   "rank": 4,
   "category": "doll",
-  "type": "armor",
+  "type": "armorPlate",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 2460,
   "stats": {
+    "dodge": {
+      "min": -1,
+      "max": -1
+    },
     "armor": {
       "min": 4,
       "max": 5,
       "upgrade": 4
-    },
-    "dodge": {
-      "min": -1,
-      "max": -1,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.23,
+    "ammo": 0.23,
+    "mre": 0.33,
+    "part": 0.33
   }
 }, {
-  "name": "Type3 방탄판",
+  "id": 44,
+  "codename": "人形装备_防弹插板_N",
+  "name": "equip-10000044",
+  "description": "equip-20000044",
+  "introduction": "equip-30000044",
   "rank": 5,
   "category": "doll",
-  "type": "armor",
+  "type": "armorPlate",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
   "buildTime": 3060,
   "stats": {
+    "dodge": {
+      "min": -3,
+      "max": -2
+    },
     "armor": {
       "min": 6,
       "max": 8,
       "upgrade": 4
-    },
-    "dodge": {
-      "min": -3,
-      "max": -2,
-      "upgrade": 0
     }
+  },
+  "powerup": {
+    "mp": 0.23,
+    "ammo": 0.23,
+    "mre": 0.33,
+    "part": 0.33
   }
 }, {
-  "name": "16Lab 방탄판",
-  "rank": 5,
-  "category": "doll",
-  "type": "armor",
-  "buildTime": 0,
-  "stats": {
-    "armor": {
-      "min": 8,
-      "max": 8,
-      "upgrade": 4
-    },
-    "dodge": {
-      "min": -2,
-      "max": -2,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "AC1소음기",
-  "rank": 2,
-  "category": "accessory",
-  "type": "silencer",
-  "buildTime": 420,
-  "stats": {
-    "dodge": {
-      "min": 2,
-      "max": 2,
-      "upgrade": 0
-    },
-    "crit": {
-      "min": 4,
-      "max": 5,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "AC2소음기",
-  "rank": 3,
-  "category": "accessory",
-  "type": "silencer",
-  "buildTime": 1320,
-  "stats": {
-    "dodge": {
-      "min": 3,
-      "max": 3,
-      "upgrade": 4
-    },
-    "crit": {
-      "min": 6,
-      "max": 8,
-      "upgrade": 3
-    }
-  }
-}, {
-  "name": "AC3소음기",
-  "rank": 4,
-  "category": "accessory",
-  "type": "silencer",
-  "buildTime": 2220,
-  "stats": {
-    "dodge": {
-      "min": 4,
-      "max": 5,
-      "upgrade": 4
-    },
-    "crit": {
-      "min": 9,
-      "max": 11,
-      "upgrade": 3
-    }
-  }
-}, {
-  "name": "AC4소음기",
-  "rank": 5,
-  "category": "accessory",
-  "type": "silencer",
-  "buildTime": 2820,
-  "stats": {
-    "dodge": {
-      "min": 6,
-      "max": 8,
-      "upgrade": 3
-    },
-    "crit": {
-      "min": 12,
-      "max": 15,
-      "upgrade": 3
-    }
-  }
-}, {
-  "name": "IOP보급형 탄약통",
-  "rank": 4,
-  "category": "doll",
-  "type": "ammoBox",
-  "buildTime": 2820,
-  "stats": {
-    "dodge": {
-      "min": -1,
-      "max": -1,
-      "upgrade": 0
-    },
-    "bullet": {
-      "min": 1,
-      "max": 1,
-      "upgrade": 20
-    }
-  }
-}, {
-  "name": "IOP대용량 탄약통",
-  "rank": 5,
-  "category": "doll",
-  "type": "ammoBox",
-  "buildTime": 3420,
-  "stats": {
-    "dodge": {
-      "min": -3,
-      "max": -2,
-      "upgrade": 0
-    },
-    "bullet": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "낡은 슈트",
-  "rank": 2,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 960,
-  "stats": {
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 3,
-      "max": 4,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "길리슈트",
-  "rank": 3,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 1860,
-  "stats": {
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 5,
-      "max": 7,
-      "upgrade": 9
-    }
-  }
-}, {
-  "name": "도시 미채 슈트",
-  "rank": 4,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 2760,
-  "stats": {
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 8,
-      "max": 10,
-      "upgrade": 8
-    }
-  }
-}, {
-  "name": "열광학 미채 슈트",
-  "rank": 5,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 3360,
-  "stats": {
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 11,
-      "max": 15,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "16Lab 열광학 슈트",
-  "rank": 5,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 0,
-  "stats": {
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
-    },
-    "critDmg": {
-      "min": 15,
-      "max": 15,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "EOT XPS3",
-  "rank": 5,
-  "category": "accessory",
-  "type": "holo",
-  "buildTime": 0,
-  "fitGuns": [65],
-  "stats": {
-    "pow": {
-      "min": 4,
-      "max": 6,
-      "upgrade": 3
-    },
-    "hit": {
-      "min": 6,
-      "max": 10,
-      "upgrade": 4
-    },
-    "crit": {
-      "min": 12,
-      "max": 15,
-      "upgrade": 7
-    }
-  }
-}, {
-  "name": "PM 5-25X56",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [46],
-  "stats": {
-    "crit": {
-      "min": 24,
-      "max": 24,
-      "upgrade": 10
-    },
-    "critDmg": {
-      "min": 10,
-      "max": 10,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "K6-24X56",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [39],
-  "stats": {
-    "hit": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 10
-    },
-    "crit": {
-      "min": 18,
-      "max": 25,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "CT 4X20",
-  "rank": 5,
-  "category": "accessory",
-  "type": "reddot",
-  "buildTime": 0,
-  "fitGuns": [75],
-  "stats": {
-    "hit": {
-      "min": 11,
-      "max": 15,
-      "upgrade": 10
-    },
-    "rate": {
-      "min": -4,
-      "max": -1,
-      "upgrade": 0
-    },
-    "crit": {
-      "min": 3,
-      "max": 5,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "KSTSP",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [58, 66],
-  "stats": {
-    "crit": {
-      "min": 32,
-      "max": 32,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 40,
-      "max": 40,
-      "upgrade": 1
-    }
-  }
-}, {
-  "name": "KST1P8",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [58, 66],
-  "stats": {
-    "crit": {
-      "min": 32,
-      "max": 32,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 25,
-      "max": 25,
-      "upgrade": 2
-    }
-  }
-}, {
-  "name": "KST1P7",
-  "rank": 5,
-  "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [58, 66],
-  "stats": {
-    "crit": {
-      "min": 32,
-      "max": 32,
-      "upgrade": 5
-    },
-    "critDmg": {
-      "min": 10,
-      "max": 10,
-      "upgrade": 5
-    }
-  }
-}, {
-  "name": "PKN03M야간조준경",
+  "id": 49,
+  "codename": "配件_红外夜视仪_S",
+  "name": "equip-10000049",
+  "description": "equip-20000049",
+  "introduction": "equip-30000049",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
-  "buildTime": 0,
-  "fitGuns": [118],
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 3120,
   "stats": {
-    "pow": {
-      "min": 5,
-      "max": 5,
-      "upgrade": 6
-    },
-    "nightView": {
+    "nightview": {
       "min": 100,
-      "max": 100,
-      "upgrade": 0
+      "max": 100
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "사격경기용 철갑탄",
+  "id": 50,
+  "codename": "弹匣_穿甲弹_S",
+  "name": "equip-10000050",
+  "description": "equip-20000050",
+  "introduction": "equip-30000050",
   "rank": 5,
   "category": "ammo",
-  "type": "apBullet",
-  "buildTime": 0,
-  "fitGuns": [36],
+  "type": "apAmmo",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3420,
+  "stats": {
+    "armorPiercing": {
+      "min": 80,
+      "max": 80,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.55,
+    "mre": 0.3,
+    "part": 0.3
+  }
+}, {
+  "id": 51,
+  "codename": "51",
+  "name": "equip-10000051",
+  "description": "equip-20000051",
+  "introduction": "equip-30000051",
+  "rank": 2,
+  "category": "ammo",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 960,
+  "stats": {
+    "pow": {
+      "min": -10,
+      "max": -5
+    },
+    "armorPiercing": {
+      "min": 15,
+      "max": 25
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 52,
+  "codename": "52",
+  "name": "equip-10000052",
+  "description": "equip-20000052",
+  "introduction": "equip-30000052",
+  "rank": 3,
+  "category": "ammo",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 1860,
+  "stats": {
+    "pow": {
+      "min": -20,
+      "max": -10
+    },
+    "armorPiercing": {
+      "min": 35,
+      "max": 50
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 53,
+  "codename": "53",
+  "name": "equip-10000053",
+  "description": "equip-20000053",
+  "introduction": "equip-30000053",
+  "rank": 4,
+  "category": "ammo",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 2760,
+  "stats": {
+    "pow": {
+      "min": -30,
+      "max": -15
+    },
+    "armorPiercing": {
+      "min": 60,
+      "max": 75
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 54,
+  "codename": "54",
+  "name": "equip-10000054",
+  "description": "equip-20000054",
+  "introduction": "equip-30000054",
+  "rank": 5,
+  "category": "ammo",
+  "type": "apAmmo",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 3360,
+  "stats": {
+    "pow": {
+      "min": -40,
+      "max": -25
+    },
+    "armorPiercing": {
+      "min": 85,
+      "max": 100
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 55,
+  "codename": "人形装备_外骨骼_X_N",
+  "name": "equip-10000055",
+  "description": "equip-20000055",
+  "introduction": "equip-30000055",
+  "rank": 2,
+  "category": "doll",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 720,
+  "stats": {
+    "dodge": {
+      "min": 2,
+      "max": 3
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 56,
+  "codename": "人形装备_外骨骼_X_N",
+  "name": "equip-10000056",
+  "description": "equip-20000056",
+  "introduction": "equip-30000056",
+  "rank": 3,
+  "category": "doll",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1620,
+  "stats": {
+    "dodge": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 8
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
+  }
+}, {
+  "id": 57,
+  "codename": "人形装备_外骨骼_X_N",
+  "name": "equip-10000057",
+  "description": "equip-20000057",
+  "introduction": "equip-30000057",
+  "rank": 4,
+  "category": "doll",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2520,
+  "stats": {
+    "dodge": {
+      "min": 6,
+      "max": 7,
+      "upgrade": 9
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
+  }
+}, {
+  "id": 58,
+  "codename": "人形装备_外骨骼_X_N",
+  "name": "equip-10000058",
+  "description": "equip-20000058",
+  "introduction": "equip-30000058",
+  "rank": 5,
+  "category": "doll",
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3120,
+  "stats": {
+    "dodge": {
+      "min": 8,
+      "max": 12,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
+  }
+}, {
+  "id": 59,
+  "codename": "弹匣_穿甲弹_Springfield",
+  "name": "equip-10000059",
+  "description": "equip-20000059",
+  "introduction": "equip-30000059",
+  "rank": 5,
+  "category": "ammo",
+  "type": "apAmmo",
+  "company": "NMS",
+  "fitGuns": [
+    "36"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3420,
   "stats": {
     "rate": {
       "min": 1,
@@ -1264,215 +1170,1687 @@
       "max": 85,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.55,
+    "mre": 0.3,
+    "part": 0.3
   }
 }, {
-  "name": "XM261 탄약",
+  "id": 60,
+  "codename": "弹匣_高速弹_AR15",
+  "name": "equip-10000060",
+  "description": "equip-20000060",
+  "introduction": "equip-30000060",
   "rank": 5,
   "category": "ammo",
-  "type": "hpBullet",
-  "buildTime": 0,
-  "fitGuns": [2],
+  "type": "hvAmmo",
+  "company": "16Lab",
+  "fitGuns": [
+    "57",
+    "20057"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3420,
   "stats": {
-    "pow": {
-      "min": 8,
-      "max": 11,
-      "upgrade": 5
-    },
-    "armorPiercing": {
-      "min": -10,
-      "max": -7,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": ".300BLK고속탄",
-  "rank": 5,
-  "category": "ammo",
-  "type": "hvBullet",
-  "buildTime": 0,
-  "fitGuns": [57],
-  "stats": {
-    "hit": {
-      "min": -5,
-      "max": -1,
-      "upgrade": 0
-    },
     "pow": {
       "min": 12,
       "max": 16,
       "upgrade": 6
+    },
+    "hit": {
+      "min": -5,
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.38,
+    "part": 0.23
   }
 }, {
-  "name": "Titan사격제어칩",
+  "id": 61,
+  "codename": "人形装备_战术核芯片_M1918",
+  "name": "equip-10000061",
+  "description": "equip-20000061",
+  "introduction": "equip-30000061",
   "rank": 5,
   "category": "doll",
   "type": "chip",
-  "buildTime": 0,
-  "fitGuns": [75],
+  "company": "16Lab",
+  "fitGuns": [
+    "75",
+    "20075"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3420,
   "stats": {
     "pow": {
       "min": -4,
-      "max": -2,
-      "upgrade": 0
+      "max": -2
     },
     "rate": {
       "min": -8,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     },
     "bullet": {
       "min": 3,
       "max": 4,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.1,
+    "ammo": 0.1,
+    "mre": 0.1,
+    "part": 0.55
   }
 }, {
-  "name": "Hayha메모리 칩",
+  "id": 62,
+  "codename": "人形装备_外骨骼_MP5",
+  "name": "equip-10000062",
+  "description": "equip-20000062",
+  "introduction": "equip-30000062",
   "rank": 5,
   "category": "doll",
-  "type": "chip",
-  "buildTime": 0,
-  "fitGuns": [39],
+  "type": "exoSkeleton",
+  "company": "16Lab",
+  "fitGuns": [
+    "26"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3120,
+  "stats": {
+    "pow": {
+      "min": -10,
+      "max": -6
+    },
+    "dodge": {
+      "min": 30,
+      "max": 45,
+      "upgrade": 3
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
+  }
+}, {
+  "id": 63,
+  "codename": "配件_消音器_N",
+  "name": "equip-10000063",
+  "description": "equip-20000063",
+  "introduction": "equip-30000063",
+  "rank": 2,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "AC",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 420,
   "stats": {
     "dodge": {
       "min": 2,
-      "max": 4,
+      "max": 2
+    },
+    "criticalPercent": {
+      "min": 4,
+      "max": 5
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 64,
+  "codename": "配件_消音器_N",
+  "name": "equip-10000064",
+  "description": "equip-20000064",
+  "introduction": "equip-30000064",
+  "rank": 3,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "AC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1320,
+  "stats": {
+    "dodge": {
+      "min": 3,
+      "max": 3,
+      "upgrade": 4
+    },
+    "criticalPercent": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 3
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
+  }
+}, {
+  "id": 65,
+  "codename": "配件_消音器_N",
+  "name": "equip-10000065",
+  "description": "equip-20000065",
+  "introduction": "equip-30000065",
+  "rank": 4,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "AC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2220,
+  "stats": {
+    "dodge": {
+      "min": 4,
+      "max": 5,
+      "upgrade": 4
+    },
+    "criticalPercent": {
+      "min": 9,
+      "max": 11,
+      "upgrade": 3
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
+  }
+}, {
+  "id": 66,
+  "codename": "配件_消音器_N",
+  "name": "equip-10000066",
+  "description": "equip-20000066",
+  "introduction": "equip-30000066",
+  "rank": 5,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "AC",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2820,
+  "stats": {
+    "dodge": {
+      "min": 6,
+      "max": 8,
       "upgrade": 3
     },
+    "criticalPercent": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3.5
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
+  }
+}, {
+  "id": 67,
+  "codename": "人形装备_弹链箱_N",
+  "name": "equip-10000067",
+  "description": "equip-20000067",
+  "introduction": "equip-30000067",
+  "rank": 4,
+  "category": "doll",
+  "type": "ammunitionBox",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2820,
+  "stats": {
+    "dodge": {
+      "min": -1,
+      "max": -1
+    },
+    "bullet": {
+      "min": 1,
+      "max": 1,
+      "upgrade": 20
+    }
+  },
+  "powerup": {
+    "mp": 0.1,
+    "ammo": 0.1,
+    "mre": 0.1,
+    "part": 0.55
+  }
+}, {
+  "id": 68,
+  "codename": "人形装备_弹链箱_N",
+  "name": "equip-10000068",
+  "description": "equip-20000068",
+  "introduction": "equip-30000068",
+  "rank": 5,
+  "category": "doll",
+  "type": "ammunitionBox",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3420,
+  "stats": {
+    "dodge": {
+      "min": -3,
+      "max": -2
+    },
+    "bullet": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.1,
+    "ammo": 0.1,
+    "mre": 0.1,
+    "part": 0.55
+  }
+}, {
+  "id": 69,
+  "codename": "弹匣_状态弹_空尖弹_N",
+  "name": "equip-10000069",
+  "description": "equip-20000069",
+  "introduction": "equip-30000069",
+  "rank": 2,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "ILM",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 780,
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 1
+    },
+    "armorPiercing": {
+      "min": -1,
+      "max": -1
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 70,
+  "codename": "弹匣_状态弹_空尖弹_N",
+  "name": "equip-10000070",
+  "description": "equip-20000070",
+  "introduction": "equip-30000070",
+  "rank": 3,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "ILM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1680,
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    },
+    "armorPiercing": {
+      "min": -3,
+      "max": -2
+    }
+  },
+  "powerup": {
+    "mp": 0.48,
+    "ammo": 0.48,
+    "mre": 0.08,
+    "part": 0.25
+  }
+}, {
+  "id": 71,
+  "codename": "弹匣_状态弹_空尖弹_N",
+  "name": "equip-10000071",
+  "description": "equip-20000071",
+  "introduction": "equip-30000071",
+  "rank": 4,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "ILM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2580,
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -6,
+      "max": -4
+    }
+  },
+  "powerup": {
+    "mp": 0.48,
+    "ammo": 0.48,
+    "mre": 0.08,
+    "part": 0.25
+  }
+}, {
+  "id": 72,
+  "codename": "弹匣_状态弹_空尖弹_N",
+  "name": "equip-10000072",
+  "description": "equip-20000072",
+  "introduction": "equip-30000072",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "ILM",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3180,
+  "stats": {
+    "pow": {
+      "min": 7,
+      "max": 10,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -10,
+      "max": -7
+    }
+  },
+  "powerup": {
+    "mp": 0.48,
+    "ammo": 0.48,
+    "mre": 0.08,
+    "part": 0.25
+  }
+}, {
+  "id": 73,
+  "codename": "弹匣_霰弹_鹿弹_N",
+  "name": "equip-10000073",
+  "description": "equip-20000073",
+  "introduction": "equip-30000073",
+  "rank": 2,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 840,
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 1
+    },
+    "criticalHarmRate": {
+      "min": 3,
+      "max": 4
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 74,
+  "codename": "弹匣_霰弹_鹿弹_N",
+  "name": "equip-10000074",
+  "description": "equip-20000074",
+  "introduction": "equip-30000074",
+  "rank": 3,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1740,
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 5
+    },
+    "criticalHarmRate": {
+      "min": 5,
+      "max": 6,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.53,
+    "mre": 0.08,
+    "part": 0.45
+  }
+}, {
+  "id": 75,
+  "codename": "弹匣_霰弹_鹿弹_N",
+  "name": "equip-10000075",
+  "description": "equip-20000075",
+  "introduction": "equip-30000075",
+  "rank": 4,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2640,
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 5
+    },
+    "criticalHarmRate": {
+      "min": 7,
+      "max": 9,
+      "upgrade": 6
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.53,
+    "mre": 0.08,
+    "part": 0.45
+  }
+}, {
+  "id": 76,
+  "codename": "弹匣_霰弹_鹿弹_N",
+  "name": "equip-10000076",
+  "description": "equip-20000076",
+  "introduction": "equip-30000076",
+  "rank": 5,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3240,
+  "stats": {
+    "pow": {
+      "min": 7,
+      "max": 10,
+      "upgrade": 5
+    },
+    "criticalHarmRate": {
+      "min": 10,
+      "max": 15,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.53,
+    "mre": 0.08,
+    "part": 0.45
+  }
+}, {
+  "id": 77,
+  "codename": "弹匣_霰弹_独头弹_N",
+  "name": "equip-10000077",
+  "description": "equip-20000077",
+  "introduction": "equip-30000077",
+  "rank": 2,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 840,
+  "stats": {
+    "hit": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 78,
+  "codename": "弹匣_霰弹_独头弹_N",
+  "name": "equip-10000078",
+  "description": "equip-20000078",
+  "introduction": "equip-30000078",
+  "rank": 3,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1740,
+  "stats": {
+    "hit": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.39,
+    "mre": 0.08,
+    "part": 0.48
+  }
+}, {
+  "id": 79,
+  "codename": "弹匣_霰弹_独头弹_N",
+  "name": "equip-10000079",
+  "description": "equip-20000079",
+  "introduction": "equip-30000079",
+  "rank": 4,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2640,
+  "stats": {
+    "hit": {
+      "min": 5,
+      "max": 7,
+      "upgrade": 9
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.39,
+    "mre": 0.08,
+    "part": 0.48
+  }
+}, {
+  "id": 80,
+  "codename": "弹匣_霰弹_独头弹_N",
+  "name": "equip-10000080",
+  "description": "equip-20000080",
+  "introduction": "equip-30000080",
+  "rank": 5,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3240,
+  "stats": {
+    "hit": {
+      "min": 8,
+      "max": 12,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.39,
+    "mre": 0.08,
+    "part": 0.48
+  }
+}, {
+  "id": 81,
+  "codename": "人形装备_防弹插板_S",
+  "name": "equip-10000081",
+  "description": "equip-20000081",
+  "introduction": "equip-30000081",
+  "rank": 5,
+  "category": "doll",
+  "type": "armorPlate",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3060,
+  "stats": {
+    "dodge": {
+      "min": -2,
+      "max": -2
+    },
+    "armor": {
+      "min": 8,
+      "max": 8,
+      "upgrade": 4
+    }
+  },
+  "powerup": {
+    "mp": 0.23,
+    "ammo": 0.23,
+    "mre": 0.33,
+    "part": 0.33
+  }
+}, {
+  "id": 82,
+  "codename": "弹匣_霰弹_鹿弹_S",
+  "name": "equip-10000082",
+  "description": "equip-20000082",
+  "introduction": "equip-30000082",
+  "rank": 5,
+  "category": "ammo",
+  "type": "shotgunShell",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3240,
+  "stats": {
+    "pow": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    },
+    "criticalHarmRate": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.08,
+    "ammo": 0.53,
+    "mre": 0.08,
+    "part": 0.45
+  }
+}, {
+  "id": 83,
+  "codename": "配件_光学瞄准镜_AK",
+  "name": "equip-10000083",
+  "description": "equip-20000083",
+  "introduction": "equip-30000083",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "KST",
+  "fitGuns": [
+    "58",
+    "66"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 2700,
+  "stats": {
+    "criticalHarmRate": {
+      "min": 40,
+      "max": 40,
+      "upgrade": 1
+    },
+    "criticalPercent": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 84,
+  "codename": "配件_光学瞄准镜_AK",
+  "name": "equip-10000084",
+  "description": "equip-20000084",
+  "introduction": "equip-30000084",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "KST",
+  "fitGuns": [
+    "58",
+    "66"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 2700,
+  "stats": {
+    "criticalHarmRate": {
+      "min": 25,
+      "max": 25,
+      "upgrade": 2
+    },
+    "criticalPercent": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 85,
+  "codename": "配件_光学瞄准镜_AK",
+  "name": "equip-10000085",
+  "description": "equip-20000085",
+  "introduction": "equip-30000085",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "KST",
+  "fitGuns": [
+    "58",
+    "66"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 2700,
+  "stats": {
+    "criticalHarmRate": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    },
+    "criticalPercent": {
+      "min": 32,
+      "max": 32,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 86,
+  "codename": "人形装备_战术核芯片_莫辛纳甘",
+  "name": "equip-10000086",
+  "description": "equip-20000086",
+  "introduction": "equip-30000086",
+  "rank": 5,
+  "category": "doll",
+  "type": "chip",
+  "company": "16Lab",
+  "fitGuns": [
+    "39",
+    "20039"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3420,
+  "stats": {
     "pow": {
       "min": 18,
       "max": 25,
       "upgrade": 2
     },
-    "critDmg": {
+    "dodge": {
+      "min": 2,
+      "max": 4,
+      "upgrade": 3
+    },
+    "criticalHarmRate": {
       "min": 15,
       "max": 20,
       "upgrade": 5
     }
+  },
+  "powerup": {
+    "mp": 0.6,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
   }
 }, {
-  "name": "전술용 메모리 칩",
-  "rank": 5,
+  "id": 87,
+  "codename": "人形装备_伪装披风_N1",
+  "name": "equip-10000087",
+  "description": "equip-20000087",
+  "introduction": "equip-30000087",
+  "rank": 2,
   "category": "doll",
-  "type": "chip",
-  "buildTime": 0,
-  "fitGuns": [185],
+  "type": "cloak",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 0,
+  "buildTime": 960,
   "stats": {
-    "hit": {
-      "min": -5,
-      "max": -3,
-      "upgrade": 0
+    "speed": {
+      "min": -3,
+      "max": -3
     },
-    "pow": {
+    "criticalHarmRate": {
       "min": 3,
-      "max": 5,
-      "upgrade": 6
-    },
-    "bullet": {
-      "min": 3,
-      "max": 4,
-      "upgrade": 5
+      "max": 4
     }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
   }
 }, {
-  "name": "강화 카트리지",
-  "rank": 5,
+  "id": 88,
+  "codename": "人形装备_伪装披风_N1",
+  "name": "equip-10000088",
+  "description": "equip-20000088",
+  "introduction": "equip-30000088",
+  "rank": 3,
   "category": "doll",
-  "type": "chip",
-  "buildTime": 0,
-  "fitGuns": [93],
+  "type": "cloak",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 1860,
   "stats": {
-    "pow": {
-      "min": -10,
-      "max": -6,
-      "upgrade": 0
+    "speed": {
+      "min": -3,
+      "max": -3
     },
-    "hit": {
-      "min": 1,
-      "max": 2,
-      "upgrade": 5
-    },
-    "dodge": {
-      "min": 21,
-      "max": 26,
-      "upgrade": 4
+    "criticalHarmRate": {
+      "min": 5,
+      "max": 7,
+      "upgrade": 9
     }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
   }
 }, {
-  "name": "특수 전술기동장갑",
+  "id": 89,
+  "codename": "人形装备_伪装披风_N2",
+  "name": "equip-10000089",
+  "description": "equip-20000089",
+  "introduction": "equip-30000089",
+  "rank": 4,
+  "category": "doll",
+  "type": "cloak",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 2760,
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3
+    },
+    "criticalHarmRate": {
+      "min": 8,
+      "max": 10,
+      "upgrade": 8
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
+  }
+}, {
+  "id": 90,
+  "codename": "人形装备_伪装披风_N3",
+  "name": "equip-10000090",
+  "description": "equip-20000090",
+  "introduction": "equip-30000090",
   "rank": 5,
   "category": "doll",
-  "type": "armor",
-  "buildTime": 0,
-  "fitGuns": [54],
+  "type": "cloak",
+  "company": "IOP",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3360,
   "stats": {
-    "armor": {
-      "min": 15,
+    "speed": {
+      "min": -3,
+      "max": -3
+    },
+    "criticalHarmRate": {
+      "min": 11,
       "max": 15,
-      "upgrade": 3
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
+  }
+}, {
+  "id": 91,
+  "codename": "人形装备_防弹插板_M16A1",
+  "name": "equip-10000091",
+  "description": "equip-20000091",
+  "introduction": "equip-30000091",
+  "rank": 5,
+  "category": "doll",
+  "type": "armorPlate",
+  "company": "SF",
+  "fitGuns": [
+    "54"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3060,
+  "stats": {
+    "hit": {
+      "min": -20,
+      "max": -20
     },
     "dodge": {
       "min": 8,
       "max": 8,
       "upgrade": 3
     },
-    "hit": {
-      "min": -20,
-      "max": -20,
-      "upgrade": 0
-    },
     "rate": {
       "min": -10,
-      "max": -10,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "GSG UX외골격",
-  "rank": 5,
-  "category": "doll",
-  "type": "skeleton",
-  "buildTime": 0,
-  "fitGuns": [26],
-  "stats": {
-    "dodge": {
-      "min": 30,
-      "max": 45,
-      "upgrade": 3
+      "max": -10
     },
-    "pow": {
-      "min": -10,
-      "max": -6,
-      "upgrade": 0
+    "armor": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 3.5
     }
+  },
+  "powerup": {
+    "mp": 0.23,
+    "ammo": 0.23,
+    "mre": 0.33,
+    "part": 0.33
   }
 }, {
-  "name": "UMP UX외골격",
+  "id": 92,
+  "codename": "人形装备_外骨骼_UMP",
+  "name": "equip-10000092",
+  "description": "equip-20000092",
+  "introduction": "equip-30000092",
   "rank": 5,
   "category": "doll",
-  "type": "skeleton",
-  "buildTime": 0,
-  "fitGuns": [101, 102, 103],
+  "type": "exoSkeleton",
+  "company": "IOP",
+  "fitGuns": [
+    "101",
+    "102",
+    "103",
+    "20103"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3120,
   "stats": {
     "dodge": {
       "min": 20,
       "max": 25,
       "upgrade": 4
     },
-    "critDmg": {
+    "criticalHarmRate": {
       "min": 11,
       "max": 15,
       "upgrade": 7
     }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.23,
+    "mre": 0.15,
+    "part": 0.38
   }
 }, {
-  "name": "나강 리볼버용 소음기",
+  "id": 93,
+  "codename": "配件_红外夜视仪_9A91",
+  "name": "equip-10000093",
+  "description": "equip-20000093",
+  "introduction": "equip-30000093",
   "rank": 5,
   "category": "accessory",
-  "type": "silencer",
-  "buildTime": 0,
-  "fitGuns": [5],
+  "type": "nightvision",
+  "company": "IDB",
+  "fitGuns": [
+    "118"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 2940,
+  "stats": {
+    "pow": {
+      "min": 5,
+      "max": 5,
+      "upgrade": 6
+    },
+    "nightview": {
+      "min": 100,
+      "max": 100
+    }
+  },
+  "powerup": {
+    "mp": 0.33,
+    "ammo": 0.22,
+    "mre": 0.5,
+    "part": 0.18
+  }
+}, {
+  "id": 94,
+  "codename": "人形装备_战术核芯片_阿梅利",
+  "name": "equip-10000094",
+  "description": "equip-20000094",
+  "introduction": "equip-30000094",
+  "rank": 5,
+  "category": "doll",
+  "type": "chip",
+  "company": "16Lab",
+  "fitGuns": [
+    "185"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3420,
+  "stats": {
+    "pow": {
+      "min": 3,
+      "max": 5,
+      "upgrade": 6
+    },
+    "hit": {
+      "min": -5,
+      "max": -3
+    },
+    "bullet": {
+      "min": 3,
+      "max": 4,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.1,
+    "ammo": 0.1,
+    "mre": 0.1,
+    "part": 0.55
+  }
+}, {
+  "id": 95,
+  "codename": "弹匣_状态弹_空尖弹_S",
+  "name": "equip-10000095",
+  "description": "equip-20000095",
+  "introduction": "equip-30000095",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3180,
+  "stats": {
+    "pow": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 5
+    },
+    "armorPiercing": {
+      "min": -7,
+      "max": -7
+    }
+  },
+  "powerup": {
+    "mp": 0.48,
+    "ammo": 0.48,
+    "mre": 0.08,
+    "part": 0.25
+  }
+}, {
+  "id": 96,
+  "codename": "人形装备_伪装披风_N3_S",
+  "name": "equip-10000096",
+  "description": "equip-20000096",
+  "introduction": "equip-30000096",
+  "rank": 5,
+  "category": "doll",
+  "type": "cloak",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3360,
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3
+    },
+    "criticalHarmRate": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
+  }
+}, {
+  "id": 99,
+  "codename": "人形装备_特殊_M4A1",
+  "name": "equip-10000099",
+  "description": "equip-20000099",
+  "introduction": "equip-30000099",
+  "rank": 5,
+  "category": "doll",
+  "type": "medal",
+  "company": "16Lab",
+  "fitGuns": [
+    "20055",
+    "55"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    },
+    "armor": {
+      "min": 9,
+      "max": 12,
+      "upgrade": 2.5
+    }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.6,
+    "part": 0.15
+  }
+}, {
+  "id": 100,
+  "codename": "配件_特殊_AR15",
+  "name": "equip-10000100",
+  "description": "equip-20000100",
+  "introduction": "equip-30000100",
+  "rank": 5,
+  "category": "accessory",
+  "type": "spPart",
+  "company": "16Lab",
+  "fitGuns": [
+    "20057",
+    "57"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "hit": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 7
+    },
+    "criticalHarmRate": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 3.5
+    }
+  },
+  "powerup": {
+    "mp": 0.5,
+    "ammo": 0.25,
+    "mre": 0.55,
+    "part": 0.15
+  }
+}, {
+  "id": 101,
+  "codename": "弹匣_空尖弹_M1911",
+  "name": "equip-10000101",
+  "description": "equip-20000101",
+  "introduction": "equip-30000101",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hpAmmo",
+  "company": "AAI",
+  "fitGuns": [
+    "20002",
+    "2"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 8,
+      "max": 11,
+      "upgrade": 5.5
+    },
+    "armorPiercing": {
+      "min": -10,
+      "max": -7
+    }
+  },
+  "powerup": {
+    "mp": 0.48,
+    "ammo": 0.48,
+    "mre": 0.08,
+    "part": 0.25
+  }
+}, {
+  "id": 102,
+  "codename": "人形装备_战术核芯片_IDW",
+  "name": "equip-10000102",
+  "description": "equip-20000102",
+  "introduction": "equip-30000102",
+  "rank": 5,
+  "category": "doll",
+  "type": "chip",
+  "company": "NTD",
+  "fitGuns": [
+    "20093",
+    "93"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": -10,
+      "max": -6
+    },
+    "dodge": {
+      "min": 21,
+      "max": 26,
+      "upgrade": 4.5
+    },
+    "rate": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
+  }
+}, {
+  "id": 103,
+  "codename": "配件_消音器_64式",
+  "name": "equip-10000103",
+  "description": "equip-20000103",
+  "introduction": "equip-30000103",
+  "rank": 5,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "NRC",
+  "fitGuns": [
+    "20094",
+    "94"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "dodge": {
+      "min": 8,
+      "max": 11,
+      "upgrade": 4
+    },
+    "criticalPercent": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3.5
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.25,
+    "mre": 0.25,
+    "part": 0.23
+  }
+}, {
+  "id": 104,
+  "codename": "配件_特殊_FN49",
+  "name": "equip-10000104",
+  "description": "equip-20000104",
+  "introduction": "equip-30000104",
+  "rank": 5,
+  "category": "accessory",
+  "type": "spPart",
+  "company": "FNH",
+  "fitGuns": [
+    "20051",
+    "51"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "rate": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
+    },
+    "criticalPercent": {
+      "min": 17,
+      "max": 24,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.4,
+    "ammo": 0.2,
+    "mre": 0.6,
+    "part": 0.18
+  }
+}, {
+  "id": 105,
+  "codename": "配件_光学瞄准镜_Kar98k",
+  "name": "equip-10000105",
+  "description": "equip-20000105",
+  "introduction": "equip-30000105",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "S&B",
+  "fitGuns": [
+    "46"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "criticalHarmRate": {
+      "min": 10,
+      "max": 10,
+      "upgrade": 10
+    },
+    "criticalPercent": {
+      "min": 24,
+      "max": 24,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 106,
+  "codename": "配件_全息瞄准镜_HK416",
+  "name": "equip-10000106",
+  "description": "equip-20000106",
+  "introduction": "equip-30000106",
+  "rank": 5,
+  "category": "accessory",
+  "type": "holo",
+  "company": "16Lab",
+  "fitGuns": [
+    "65"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 4,
+      "max": 6,
+      "upgrade": 4
+    },
+    "hit": {
+      "min": 6,
+      "max": 10,
+      "upgrade": 4
+    },
+    "criticalPercent": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 107,
+  "codename": "人形装备_弹链箱_MG3",
+  "name": "equip-10000107",
+  "description": "equip-20000107",
+  "introduction": "equip-30000107",
+  "rank": 5,
+  "category": "doll",
+  "type": "ammunitionBox",
+  "company": "16Lab",
+  "fitGuns": [
+    "88"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": -25,
+      "max": -25
+    },
+    "hit": {
+      "min": -10,
+      "max": -10
+    },
+    "dodge": {
+      "min": -2,
+      "max": -2
+    },
+    "bullet": {
+      "min": 20,
+      "max": 20,
+      "upgrade": 5
+    }
+  },
+  "powerup": {
+    "mp": 0.1,
+    "ammo": 0.1,
+    "mre": 0.1,
+    "part": 0.55
+  }
+}, {
+  "id": 108,
+  "codename": "人形装备_伪装披风_PTRD",
+  "name": "equip-10000108",
+  "description": "equip-20000108",
+  "introduction": "equip-30000108",
+  "rank": 5,
+  "category": "doll",
+  "type": "cloak",
+  "company": "16Lab",
+  "fitGuns": [
+    "42"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "speed": {
+      "min": -3,
+      "max": -3
+    },
+    "rate": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 10
+    },
+    "criticalHarmRate": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
+  }
+}, {
+  "id": 109,
+  "codename": "配件_光学瞄准镜_S",
+  "name": "equip-10000109",
+  "description": "equip-20000109",
+  "introduction": "equip-30000109",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "criticalPercent": {
+      "min": 24,
+      "max": 24,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 110,
+  "codename": "弹匣_高速弹_S",
+  "name": "equip-10000110",
+  "description": "equip-20000110",
+  "introduction": "equip-30000110",
+  "rank": 5,
+  "category": "ammo",
+  "type": "hvAmmo",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 12,
+      "max": 12,
+      "upgrade": 7
+    }
+  },
+  "powerup": {
+    "mp": 0.15,
+    "ammo": 0.6,
+    "mre": 0.38,
+    "part": 0.23
+  }
+}, {
+  "id": 111,
+  "codename": "配件_光学瞄准镜_莫辛纳甘",
+  "name": "equip-10000111",
+  "description": "equip-20000111",
+  "introduction": "equip-30000111",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "KSH",
+  "fitGuns": [
+    "20039",
+    "39"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "hit": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 10
+    },
+    "criticalPercent": {
+      "min": 18,
+      "max": 25,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 112,
+  "codename": "配件_ACOG瞄准镜_M1918",
+  "name": "equip-10000112",
+  "description": "equip-20000112",
+  "introduction": "equip-30000112",
+  "rank": 5,
+  "category": "accessory",
+  "type": "reddot",
+  "company": "CT",
+  "fitGuns": [
+    "20075",
+    "75"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "hit": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -4,
+      "max": -1
+    },
+    "criticalPercent": {
+      "min": 3,
+      "max": 5,
+      "upgrade": 10
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 113,
+  "codename": "配件_消音器_纳甘左轮",
+  "name": "equip-10000113",
+  "description": "equip-20000113",
+  "introduction": "equip-30000113",
+  "rank": 5,
+  "category": "accessory",
+  "type": "suppressor",
+  "company": "NS",
+  "fitGuns": [
+    "20005",
+    "5"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "hit": {
       "min": 1,
@@ -1480,42 +2858,39 @@
       "upgrade": 10
     },
     "dodge": {
-      "min": 0,
-      "max": 14,
+      "min": 7,
+      "max": 10,
       "upgrade": 4
     },
-    "crit": {
+    "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3
+      "upgrade": 3.5
     }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
   }
 }, {
-  "name": "64식용 소음기",
+  "id": 114,
+  "codename": "配件_特殊_MP446",
+  "name": "equip-10000114",
+  "description": "equip-20000114",
+  "introduction": "equip-30000114",
   "rank": 5,
   "category": "accessory",
-  "type": "silencer",
-  "buildTime": 0,
-  "fitGuns": [94],
-  "stats": {
-    "dodge": {
-      "min": 8,
-      "max": 11,
-      "upgrade": 4
-    },
-    "crit": {
-      "min": 12,
-      "max": 15,
-      "upgrade": 3
-    }
-  }
-}, {
-  "name": "MP446C 경기용 총신",
-  "rank": 5,
-  "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [91],
+  "type": "spPart",
+  "company": "IMP",
+  "fitGuns": [
+    "20091",
+    "91"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "hit": {
       "min": 3,
@@ -1525,162 +2900,132 @@
     "dodge": {
       "min": 6,
       "max": 8,
-      "upgrade": 2
+      "upgrade": 3
     },
-    "crit": {
+    "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3
+      "upgrade": 3.5
     }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
   }
 }, {
-  "name": "남겨진 무기상자",
+  "id": 115,
+  "codename": "人形装备_伪装披风_SV98",
+  "name": "equip-10000115",
+  "description": "equip-20000115",
+  "introduction": "equip-30000115",
   "rank": 5,
   "category": "doll",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [55],
+  "type": "cloak",
+  "company": "FSB",
+  "fitGuns": [
+    "20044",
+    "44"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 6
-    },
-    "armor": {
-      "min": 9,
-      "max": 12,
-      "upgrade": 2
-    }
-  }
-}, {
-  "name": "경량화 레일 킷",
-  "rank": 5,
-  "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [57],
-  "stats": {
-    "hit": {
-      "min": 4,
-      "max": 6,
-      "upgrade": 6
-    },
-    "critDmg": {
-      "min": 11,
-      "max": 15,
-      "upgrade": 3
-    }
-  }
-}, {
-  "name": "조정간 트리거셋",
-  "rank": 5,
-  "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [51],
-  "stats": {
-    "rate": {
-      "min": 2,
-      "max": 3,
-      "upgrade": 6
-    },
-    "crit": {
-      "min": 17,
-      "max": 24,
-      "upgrade": 10
-    }
-  }
-}, {
-  "name": "Glory Day",
-  "rank": 5,
-  "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [1009],
-  "stats": {
-    "nightView": {
-      "min": 100,
-      "max": 100,
-      "upgrade": 0
-    }
-  },
-  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 30%에서 40%로 상승)"
-}, {
-  "name": "Black Cat",
-  "rank": 5,
-  "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [1010],
-  "stats": {
-    "nightView": {
-      "min": 100,
-      "max": 100,
-      "upgrade": 0
-    }
-  },
-  "specialFeatures": "스킬 효과 상승 (스킬 레벨 10 기준 12%에서 15%로 상승)"
-}, {
-  "name": "무한 탄약통",
-  "rank": 5,
-  "category": "doll",
-  "type": "ammoBox",
-  "buildTime": 0,
-  "fitGuns": [88],
-  "stats": {
-    "bullet": {
-      "min": 20,
-      "max": 20,
-      "upgrade": 5
-    },
-    "pow": {
-      "min": -25,
-      "max": -25,
-      "upgrade": 0
-    },
-    "dodge": {
-      "min": -2,
-      "max": -2,
-      "upgrade": 0
-    }
-  }
-}, {
-  "name": "두꺼운 푸른 슈트",
-  "rank": 5,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 0,
-  "fitGuns": [42],
-  "stats": {
-    "critDmg": {
-      "min": 11,
-      "max": 15,
-      "upgrade": 7
-    },
-    "rate": {
-      "min": 1,
-      "max": 2,
       "upgrade": 10
     },
     "speed": {
       "min": -3,
-      "max": -3,
-      "upgrade": 0
+      "max": -3
+    },
+    "criticalHarmRate": {
+      "min": 11,
+      "max": 15,
+      "upgrade": 7
     }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.16,
+    "mre": 0.6,
+    "part": 0.16
   }
 }, {
-  "name": "FÉLIN 조준경",
+  "id": 117,
+  "codename": "配件_特殊_clear",
+  "name": "equip-10000117",
+  "description": "equip-20000117",
+  "introduction": "equip-30000117",
   "rank": 5,
   "category": "accessory",
-  "type": "scope",
-  "buildTime": 0,
-  "fitGuns": [69],
+  "type": "nightvision",
+  "company": "DJMAX",
+  "fitGuns": [
+    "1009"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 0,
+  "buildTime": 3600,
   "stats": {
-    "crit": {
-      "min": 17,
-      "max": 27,
-      "upgrade": 10
-    },
+    "nightview": {
+      "min": 100,
+      "max": 100
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 118,
+  "codename": "配件_特殊_fail",
+  "name": "equip-10000118",
+  "description": "equip-20000118",
+  "introduction": "equip-30000118",
+  "rank": 5,
+  "category": "accessory",
+  "type": "nightvision",
+  "company": "DJMAX",
+  "fitGuns": [
+    "1010"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 0,
+  "buildTime": 3600,
+  "stats": {
+    "nightview": {
+      "min": 100,
+      "max": 100
+    }
+  },
+  "powerup": {
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 0
+  }
+}, {
+  "id": 119,
+  "codename": "配件_光学瞄准镜_FAMAS",
+  "name": "equip-10000119",
+  "description": "equip-20000119",
+  "introduction": "equip-30000119",
+  "rank": 5,
+  "category": "accessory",
+  "type": "optical",
+  "company": "SED",
+  "fitGuns": [
+    "69"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
     "pow": {
       "min": 1,
       "max": 2,
@@ -1690,20 +3035,141 @@
       "min": 1,
       "max": 2,
       "upgrade": 10
+    },
+    "criticalPercent": {
+      "min": 17,
+      "max": 24,
+      "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "브렌 L4 총열뭉치",
+  "id": 120,
+  "codename": "配件_ACOG瞄准镜_S",
+  "name": "equip-10000120",
+  "description": "equip-20000120",
+  "introduction": "equip-30000120",
   "rank": 5,
   "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [89],
+  "type": "reddot",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "hit": {
+      "min": 15,
+      "max": 15,
+      "upgrade": 10
+    },
+    "rate": {
+      "min": -1,
+      "max": -1
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 121,
+  "codename": "人形装备_外骨骼_S",
+  "name": "equip-10000121",
+  "description": "equip-20000121",
+  "introduction": "equip-30000121",
+  "rank": 5,
+  "category": "doll",
+  "type": "exoSkeleton",
+  "company": "16Lab",
+  "exclusiveRate": 1,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "pow": {
-      "min": 5,
-      "max": 5,
-      "upgrade": 0
+      "min": -6,
+      "max": -6
+    },
+    "dodge": {
+      "min": 25,
+      "max": 25,
+      "upgrade": 4
+    }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.23,
+    "mre": 0.15,
+    "part": 0.38
+  }
+}, {
+  "id": 122,
+  "codename": "配件_特殊_柯尔特左轮",
+  "name": "equip-10000122",
+  "description": "equip-20000122",
+  "introduction": "equip-30000122",
+  "rank": 5,
+  "category": "accessory",
+  "type": "spPart",
+  "company": "CT",
+  "fitGuns": [
+    "20001",
+    "1"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 2820,
+  "stats": {
+    "pow": {
+      "min": 1,
+      "max": 2,
+      "upgrade": 5
+    },
+    "dodge": {
+      "min": 6,
+      "max": 8,
+      "upgrade": 3
+    },
+    "criticalPercent": {
+      "min": 12,
+      "max": 15,
+      "upgrade": 3.5
+    }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
+  }
+}, {
+  "id": 123,
+  "codename": "配件_特殊_布伦",
+  "name": "equip-10000123",
+  "description": "equip-20000123",
+  "introduction": "equip-30000123",
+  "rank": 5,
+  "category": "accessory",
+  "type": "spPart",
+  "company": "LA",
+  "fitGuns": [
+    "20089",
+    "89"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 2,
+      "max": 3,
+      "upgrade": 7
     },
     "hit": {
       "min": 11,
@@ -1712,75 +3178,161 @@
     },
     "rate": {
       "min": -4,
-      "max": -1,
-      "upgrade": 0
+      "max": -1
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "G3 개량 총열뭉치",
+  "id": 124,
+  "codename": "配件_特殊_G3",
+  "name": "equip-10000124",
+  "description": "equip-20000124",
+  "introduction": "equip-30000124",
   "rank": 5,
   "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [63],
+  "type": "spPart",
+  "company": "PTR",
+  "fitGuns": [
+    "20063",
+    "63"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "pow": {
       "min": 1,
       "max": 2,
       "upgrade": 10
     },
-    "crit": {
+    "criticalPercent": {
       "min": 17,
       "max": 24,
       "upgrade": 10
     }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
   }
 }, {
-  "name": "콜트 리볼버 연장총열",
+  "id": 125,
+  "codename": "配件_特殊_UMP45",
+  "name": "equip-10000125",
+  "description": "equip-20000125",
+  "introduction": "equip-30000125",
   "rank": 5,
   "category": "accessory",
-  "type": "special",
-  "buildTime": 0,
-  "fitGuns": [1],
+  "type": "spPart",
+  "company": "???",
+  "fitGuns": [
+    "20103",
+    "103"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
-    "pow": {
-      "min": 1,
-      "max": 2,
+    "dodge": {
+      "min": 7,
+      "max": 10,
       "upgrade": 5
     },
-    "dodge": {
-      "min": 6,
-      "max": 8,
-      "upgrade": 3
-    },
-    "crit": {
-      "min": 12,
-      "max": 15,
-      "upgrade": 10
+    "criticalPercent": {
+      "min": 15,
+      "max": 18,
+      "upgrade": 4
     }
+  },
+  "powerup": {
+    "mp": 0.55,
+    "ammo": 0.23,
+    "mre": 0.23,
+    "part": 0.23
   }
 }, {
-  "name": "디지털 미채 슈트",
+  "id": 126,
+  "codename": "配件_特殊_M4SOPMODII",
+  "name": "equip-10000126",
+  "description": "equip-20000126",
+  "introduction": "equip-30000126",
   "rank": 5,
-  "category": "doll",
-  "type": "suit",
-  "buildTime": 0,
-  "fitGuns": [44],
+  "category": "accessory",
+  "type": "spPart",
+  "company": "???",
+  "fitGuns": [
+    "20056",
+    "56"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
   "stats": {
     "pow": {
       "min": 6,
-      "max": 6,
-      "upgrade": 0
+      "max": 9,
+      "upgrade": 3.5
     },
-    "critDmg": {
-      "min": 11,
-      "max": 15,
+    "hit": {
+      "min": 6,
+      "max": 10,
+      "upgrade": 4
+    },
+    "rate": {
+      "min": -4,
+      "max": -2
+    }
+  },
+  "powerup": {
+    "mp": 0.45,
+    "ammo": 0.15,
+    "mre": 0.3,
+    "part": 0.15
+  }
+}, {
+  "id": 127,
+  "codename": "人形装备_特殊_G41",
+  "name": "equip-10000127",
+  "description": "equip-20000127",
+  "introduction": "equip-30000127",
+  "rank": 5,
+  "category": "doll",
+  "type": "medal",
+  "company": "MS",
+  "fitGuns": [
+    "62"
+  ],
+  "exclusiveRate": 3,
+  "maxLevel": 10,
+  "buildTime": 3600,
+  "stats": {
+    "pow": {
+      "min": 3,
+      "max": 3,
       "upgrade": 7
     },
-    "speed": {
-      "min": -3,
-      "max": -3,
-      "upgrade": 0
+    "hit": {
+      "min": 3,
+      "max": 3,
+      "upgrade": 7
+    },
+    "dodge": {
+      "min": 12,
+      "max": 12,
+      "upgrade": 7
     }
+  },
+  "powerup": {
+    "mp": 0.3,
+    "ammo": 0.25,
+    "mre": 0.12,
+    "part": 0.38
   }
 }]
