@@ -1,14 +1,13 @@
 {
   "presets": [
-    ["env", {
-      "useBuiltIns": true
-    }],
-    "stage-1",
-    ["minify", { 
-      "mangle": false 
-    }] 
+    "@babel/env",
+    "@babel/typescript"
   ],
   "plugins": [
-    "transform-runtime"
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread"
+  ],
+  "ignore": [
+    "src/typings.d.ts"
   ]
 }

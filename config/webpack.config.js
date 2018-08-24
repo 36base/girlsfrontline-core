@@ -3,7 +3,6 @@ const paths = require('./paths');
 module.exports = {
   mode: 'production',
   entry: [
-    'babel-polyfill',
     paths.appIndexJs,
   ],
   output: {
@@ -12,14 +11,12 @@ module.exports = {
     library: 'gfcore',
     libraryTarget: 'umd',
   },
-  module: {
-    rules: [{
-      test: /\.(js|jsx|mjs)$/,
-      include: paths.appSrc,
-      loader: require.resolve('babel-loader'),
-      options: {
-        compact: true,
-      },
-    }],
+  resolve: {
+    extensions: [".ts", ".tsx", ".js"]
   },
+  module: {
+    rules: [
+      { test: /\.tsx?$/, loader: "ts-loader" }
+    ]
+  }
 };
