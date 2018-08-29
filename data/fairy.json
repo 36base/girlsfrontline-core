@@ -1,14 +1,60 @@
 [{
   "id": 1,
   "category": "battle",
-  "name": "fairy-10000001",
   "stats": {
     "pow": 160,
     "hit": 160,
     "dodge": 100,
     "armor": 100
   },
-  "skill": "900110",
+  "skill": {
+    "id": "900110",
+    "codeName": "fighting",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 16200,
   "codename": "fighting",
@@ -29,14 +75,60 @@
 }, {
   "id": 2,
   "category": "battle",
-  "name": "fairy-10000002",
   "stats": {
     "pow": 100,
     "dodge": 100,
     "armor": 100,
     "criticalHarmRate": 199
   },
-  "skill": "900111",
+  "skill": {
+    "id": "900111",
+    "codeName": "crit",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 16500,
   "codename": "crit",
@@ -57,13 +149,59 @@
 }, {
   "id": 3,
   "category": "battle",
-  "name": "fairy-10000003",
   "stats": {
     "pow": 145,
     "armor": 242,
     "criticalHarmRate": 101
   },
-  "skill": "900103",
+  "skill": {
+    "id": "900103",
+    "codeName": "armor",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 10800,
   "codename": "armor",
@@ -84,13 +222,59 @@
 }, {
   "id": 4,
   "category": "battle",
-  "name": "fairy-10000004",
   "stats": {
     "pow": 130,
     "hit": 120,
     "dodge": 200
   },
-  "skill": "900101",
+  "skill": {
+    "id": "900101",
+    "codeName": "shield",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 11100,
   "codename": "shield",
@@ -111,13 +295,59 @@
 }, {
   "id": 5,
   "category": "strategy",
-  "name": "fairy-10000005",
   "stats": {
     "pow": 131,
     "dodge": 180,
     "armor": 180
   },
-  "skill": "*6",
+  "skill": {
+    "id": "*6",
+    "codeName": "defense",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ]
+  },
   "grow": 121,
   "buildTime": 15000,
   "codename": "defense",
@@ -138,7 +368,6 @@
 }, {
   "id": 6,
   "category": "battle",
-  "name": "fairy-10000006",
   "stats": {
     "pow": 101,
     "hit": 100,
@@ -146,7 +375,54 @@
     "armor": 61,
     "criticalHarmRate": 101
   },
-  "skill": "900104",
+  "skill": {
+    "id": "900104",
+    "codeName": "target",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 130,
   "buildTime": 11400,
   "codename": "target",
@@ -167,14 +443,60 @@
 }, {
   "id": 7,
   "category": "battle",
-  "name": "fairy-10000007",
   "stats": {
     "hit": 175,
     "dodge": 70,
     "armor": 141,
     "criticalHarmRate": 175
   },
-  "skill": "900102",
+  "skill": {
+    "id": "900102",
+    "codeName": "sniper",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 12600,
   "codename": "sniper",
@@ -195,13 +517,59 @@
 }, {
   "id": 8,
   "category": "battle",
-  "name": "fairy-10000008",
   "stats": {
     "pow": 372,
     "dodge": 140,
     "armor": 60
   },
-  "skill": "900108",
+  "skill": {
+    "id": "900108",
+    "codeName": "bombard",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 12900,
   "codename": "bombard",
@@ -222,14 +590,60 @@
 }, {
   "id": 9,
   "category": "battle",
-  "name": "fairy-10000009",
   "stats": {
     "pow": 159,
     "hit": 79,
     "dodge": 79,
     "armor": 79
   },
-  "skill": "900109",
+  "skill": {
+    "id": "900109",
+    "codeName": "air_attack",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 150,
   "buildTime": 13200,
   "codename": "air_attack",
@@ -250,14 +664,60 @@
 }, {
   "id": 10,
   "category": "strategy",
-  "name": "fairy-10000010",
   "stats": {
     "pow": 60,
     "dodge": 175,
     "armor": 81,
     "criticalHarmRate": 60
   },
-  "skill": "*8",
+  "skill": {
+    "id": "*8",
+    "codeName": "reinforce",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ]
+  },
   "grow": 150,
   "buildTime": 14400,
   "codename": "reinforce",
@@ -278,14 +738,60 @@
 }, {
   "id": 11,
   "category": "strategy",
-  "name": "fairy-10000011",
   "stats": {
     "pow": 190,
     "dodge": 62,
     "armor": 60,
     "criticalHarmRate": 155
   },
-  "skill": "*9",
+  "skill": {
+    "id": "*9",
+    "codeName": "airborne",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 5
+      },
+      {
+        "level": 2,
+        "cooldown": 5
+      },
+      {
+        "level": 3,
+        "cooldown": 5
+      },
+      {
+        "level": 4,
+        "cooldown": 5
+      },
+      {
+        "level": 5,
+        "cooldown": 5
+      },
+      {
+        "level": 6,
+        "cooldown": 5
+      },
+      {
+        "level": 7,
+        "cooldown": 5
+      },
+      {
+        "level": 8,
+        "cooldown": 5
+      },
+      {
+        "level": 9,
+        "cooldown": 5
+      },
+      {
+        "level": 10,
+        "cooldown": 5
+      }
+    ]
+  },
   "grow": 150,
   "buildTime": 14700,
   "codename": "airborne",
@@ -306,13 +812,59 @@
 }, {
   "id": 12,
   "category": "strategy",
-  "name": "fairy-10000012",
   "stats": {
     "pow": 200,
     "hit": 100,
     "dodge": 242
   },
-  "skill": "*10",
+  "skill": {
+    "id": "*10",
+    "codeName": "Landmines",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ]
+  },
   "grow": 73,
   "buildTime": 19800,
   "codename": "Landmines",
@@ -333,13 +885,59 @@
 }, {
   "id": 13,
   "category": "strategy",
-  "name": "fairy-10000013",
   "stats": {
     "hit": 100,
     "armor": 241,
     "criticalHarmRate": 200
   },
-  "skill": "*11",
+  "skill": {
+    "id": "*11",
+    "codeName": "position",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ]
+  },
   "grow": 75,
   "buildTime": 20100,
   "codename": "position",
@@ -360,7 +958,6 @@
 }, {
   "id": 14,
   "category": "strategy",
-  "name": "fairy-10000014",
   "stats": {
     "pow": 120,
     "hit": 120,
@@ -368,7 +965,54 @@
     "armor": 120,
     "criticalHarmRate": 120
   },
-  "skill": "*12",
+  "skill": {
+    "id": "*12",
+    "codeName": "fortress",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ]
+  },
   "grow": 65,
   "buildTime": 20400,
   "codename": "fortress",
@@ -389,14 +1033,60 @@
 }, {
   "id": 15,
   "category": "strategy",
-  "name": "fairy-10000015",
   "stats": {
     "pow": 285,
     "dodge": 92,
     "armor": 85,
     "criticalHarmRate": 201
   },
-  "skill": "*13",
+  "skill": {
+    "id": "*13",
+    "codeName": "command",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ]
+  },
   "grow": 70,
   "buildTime": 18000,
   "codename": "command",
@@ -417,13 +1107,59 @@
 }, {
   "id": 16,
   "category": "strategy",
-  "name": "fairy-10000016",
   "stats": {
     "pow": 270,
     "hit": 200,
     "dodge": 200
   },
-  "skill": "*14",
+  "skill": {
+    "id": "*14",
+    "codeName": "rescue",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ]
+  },
   "grow": 60,
   "buildTime": 18300,
   "codename": "rescue",
@@ -444,14 +1180,60 @@
 }, {
   "id": 17,
   "category": "strategy",
-  "name": "fairy-10000017",
   "stats": {
     "hit": 200,
     "dodge": 87,
     "armor": 80,
     "criticalHarmRate": 201
   },
-  "skill": "*15",
+  "skill": {
+    "id": "*15",
+    "codeName": "illumine",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 2
+      },
+      {
+        "level": 2,
+        "cooldown": 5
+      },
+      {
+        "level": 3,
+        "cooldown": 5
+      },
+      {
+        "level": 4,
+        "cooldown": 5
+      },
+      {
+        "level": 5,
+        "cooldown": 5
+      },
+      {
+        "level": 6,
+        "cooldown": 5
+      },
+      {
+        "level": 7,
+        "cooldown": 5
+      },
+      {
+        "level": 8,
+        "cooldown": 5
+      },
+      {
+        "level": 9,
+        "cooldown": 5
+      },
+      {
+        "level": 10,
+        "cooldown": 5
+      }
+    ]
+  },
   "grow": 80,
   "buildTime": 18600,
   "codename": "illumine",
@@ -472,7 +1254,6 @@
 }, {
   "id": 18,
   "category": "battle",
-  "name": "fairy-10000018",
   "stats": {
     "pow": 60,
     "hit": 58,
@@ -480,7 +1261,54 @@
     "armor": 56,
     "criticalHarmRate": 58
   },
-  "skill": "900117",
+  "skill": {
+    "id": "900117",
+    "codeName": "golden",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 320,
   "buildTime": 18600,
   "codename": "golden",
@@ -501,7 +1329,6 @@
 }, {
   "id": 19,
   "category": "battle",
-  "name": "fairy-10000019",
   "stats": {
     "pow": 35,
     "hit": 22,
@@ -509,7 +1336,54 @@
     "armor": 106,
     "criticalHarmRate": 25
   },
-  "skill": "900151",
+  "skill": {
+    "id": "900151",
+    "codeName": "golden",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 250,
   "buildTime": 18600,
   "codename": "cooking",
@@ -528,15 +1402,135 @@
     550
   ]
 }, {
+  "id": 20,
+  "category": "battle",
+  "codename": "petard",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 115,
+    "hit": 82,
+    "dodge": 44,
+    "armor": 40
+  },
+  "grow": 250,
+  "skill": {
+    "id": "900117",
+    "codeName": "golden",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
+}, {
   "id": 1004,
   "category": "strategy",
-  "name": "fairy-10001004",
   "stats": {
     "dodge": 175,
     "armor": 170,
     "criticalHarmRate": 150
   },
-  "skill": "*1004",
+  "skill": {
+    "id": "*1004",
+    "codeName": "IWantU",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 2
+      },
+      {
+        "level": 2,
+        "cooldown": 2
+      },
+      {
+        "level": 3,
+        "cooldown": 2
+      },
+      {
+        "level": 4,
+        "cooldown": 2
+      },
+      {
+        "level": 5,
+        "cooldown": 2
+      },
+      {
+        "level": 6,
+        "cooldown": 2
+      },
+      {
+        "level": 7,
+        "cooldown": 2
+      },
+      {
+        "level": 8,
+        "cooldown": 2
+      },
+      {
+        "level": 9,
+        "cooldown": 2
+      },
+      {
+        "level": 10,
+        "cooldown": 2
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 18600,
   "codename": "DJMAXSUEE",
@@ -557,14 +1551,60 @@
 }, {
   "id": 1005,
   "category": "battle",
-  "name": "fairy-10001005",
   "stats": {
     "pow": 100,
     "hit": 80,
     "dodge": 125,
     "criticalHarmRate": 100
   },
-  "skill": "900152",
+  "skill": {
+    "id": "900152",
+    "codeName": "LadyMadeSTAR",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 18600,
   "codename": "DJMAXSEHRA",
@@ -585,7 +1625,6 @@
 }, {
   "id": 1006,
   "category": "battle",
-  "name": "fairy-10001006",
   "stats": {
     "pow": 145,
     "hit": 100,
@@ -593,7 +1632,54 @@
     "armor": 100,
     "criticalHarmRate": 110
   },
-  "skill": "900153",
+  "skill": {
+    "id": "900153",
+    "codeName": "OblivioN",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 0
+      },
+      {
+        "level": 2,
+        "cooldown": 0
+      },
+      {
+        "level": 3,
+        "cooldown": 0
+      },
+      {
+        "level": 4,
+        "cooldown": 0
+      },
+      {
+        "level": 5,
+        "cooldown": 0
+      },
+      {
+        "level": 6,
+        "cooldown": 0
+      },
+      {
+        "level": 7,
+        "cooldown": 0
+      },
+      {
+        "level": 8,
+        "cooldown": 0
+      },
+      {
+        "level": 9,
+        "cooldown": 0
+      },
+      {
+        "level": 10,
+        "cooldown": 0
+      }
+    ]
+  },
   "grow": 100,
   "buildTime": 18600,
   "codename": "DJMAXPREIYA",

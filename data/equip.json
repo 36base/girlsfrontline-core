@@ -1,9 +1,6 @@
 [{
   "id": 1,
   "codename": "配件_光学瞄准镜_N",
-  "name": "equip-10000001",
-  "description": "equip-20000001",
-  "introduction": "equip-30000001",
   "rank": 2,
   "category": "accessory",
   "type": "optical",
@@ -26,9 +23,6 @@
 }, {
   "id": 2,
   "codename": "配件_光学瞄准镜_N",
-  "name": "equip-10000002",
-  "description": "equip-20000002",
-  "introduction": "equip-30000002",
   "rank": 3,
   "category": "accessory",
   "type": "optical",
@@ -52,9 +46,6 @@
 }, {
   "id": 3,
   "codename": "配件_光学瞄准镜_N",
-  "name": "equip-10000003",
-  "description": "equip-20000003",
-  "introduction": "equip-30000003",
   "rank": 4,
   "category": "accessory",
   "type": "optical",
@@ -78,9 +69,6 @@
 }, {
   "id": 4,
   "codename": "配件_光学瞄准镜_N",
-  "name": "equip-10000004",
-  "description": "equip-20000004",
-  "introduction": "equip-30000004",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -104,9 +92,6 @@
 }, {
   "id": 5,
   "codename": "配件_全息瞄准镜_N",
-  "name": "equip-10000005",
-  "description": "equip-20000005",
-  "introduction": "equip-30000005",
   "rank": 2,
   "category": "accessory",
   "type": "holo",
@@ -137,9 +122,6 @@
 }, {
   "id": 6,
   "codename": "配件_全息瞄准镜_N",
-  "name": "equip-10000006",
-  "description": "equip-20000006",
-  "introduction": "equip-30000006",
   "rank": 3,
   "category": "accessory",
   "type": "holo",
@@ -172,9 +154,6 @@
 }, {
   "id": 7,
   "codename": "配件_全息瞄准镜_N",
-  "name": "equip-10000007",
-  "description": "equip-20000007",
-  "introduction": "equip-30000007",
   "rank": 4,
   "category": "accessory",
   "type": "holo",
@@ -207,9 +186,6 @@
 }, {
   "id": 8,
   "codename": "配件_全息瞄准镜_N",
-  "name": "equip-10000008",
-  "description": "equip-20000008",
-  "introduction": "equip-30000008",
   "rank": 5,
   "category": "accessory",
   "type": "holo",
@@ -242,9 +218,6 @@
 }, {
   "id": 9,
   "codename": "配件_ACOG瞄准镜_N",
-  "name": "equip-10000009",
-  "description": "equip-20000009",
-  "introduction": "equip-30000009",
   "rank": 2,
   "category": "accessory",
   "type": "reddot",
@@ -271,9 +244,6 @@
 }, {
   "id": 10,
   "codename": "配件_ACOG瞄准镜_N",
-  "name": "equip-10000010",
-  "description": "equip-20000010",
-  "introduction": "equip-30000010",
   "rank": 3,
   "category": "accessory",
   "type": "reddot",
@@ -301,9 +271,6 @@
 }, {
   "id": 11,
   "codename": "配件_ACOG瞄准镜_N",
-  "name": "equip-10000011",
-  "description": "equip-20000011",
-  "introduction": "equip-30000011",
   "rank": 4,
   "category": "accessory",
   "type": "reddot",
@@ -331,9 +298,6 @@
 }, {
   "id": 12,
   "codename": "配件_ACOG瞄准镜_N",
-  "name": "equip-10000012",
-  "description": "equip-20000012",
-  "introduction": "equip-30000012",
   "rank": 5,
   "category": "accessory",
   "type": "reddot",
@@ -361,9 +325,6 @@
 }, {
   "id": 13,
   "codename": "配件_红外夜视仪_N",
-  "name": "equip-10000013",
-  "description": "equip-20000013",
-  "introduction": "equip-30000013",
   "rank": 2,
   "category": "accessory",
   "type": "nightvision",
@@ -386,9 +347,6 @@
 }, {
   "id": 14,
   "codename": "配件_红外夜视仪_N",
-  "name": "equip-10000014",
-  "description": "equip-20000014",
-  "introduction": "equip-30000014",
   "rank": 3,
   "category": "accessory",
   "type": "nightvision",
@@ -411,9 +369,6 @@
 }, {
   "id": 15,
   "codename": "配件_红外夜视仪_N",
-  "name": "equip-10000015",
-  "description": "equip-20000015",
-  "introduction": "equip-30000015",
   "rank": 4,
   "category": "accessory",
   "type": "nightvision",
@@ -436,9 +391,6 @@
 }, {
   "id": 16,
   "codename": "配件_红外夜视仪_N",
-  "name": "equip-10000016",
-  "description": "equip-20000016",
-  "introduction": "equip-30000016",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
@@ -461,9 +413,6 @@
 }, {
   "id": 17,
   "codename": "弹匣_穿甲弹_N",
-  "name": "equip-10000017",
-  "description": "equip-20000017",
-  "introduction": "equip-30000017",
   "rank": 2,
   "category": "ammo",
   "type": "apAmmo",
@@ -486,9 +435,6 @@
 }, {
   "id": 18,
   "codename": "弹匣_穿甲弹_N",
-  "name": "equip-10000018",
-  "description": "equip-20000018",
-  "introduction": "equip-30000018",
   "rank": 3,
   "category": "ammo",
   "type": "apAmmo",
@@ -512,9 +458,6 @@
 }, {
   "id": 19,
   "codename": "弹匣_穿甲弹_N",
-  "name": "equip-10000019",
-  "description": "equip-20000019",
-  "introduction": "equip-30000019",
   "rank": 4,
   "category": "ammo",
   "type": "apAmmo",
@@ -538,9 +481,6 @@
 }, {
   "id": 20,
   "codename": "弹匣_穿甲弹_N",
-  "name": "equip-10000020",
-  "description": "equip-20000020",
-  "introduction": "equip-30000020",
   "rank": 5,
   "category": "ammo",
   "type": "apAmmo",
@@ -564,9 +504,6 @@
 }, {
   "id": 29,
   "codename": "弹匣_高速弹_N",
-  "name": "equip-10000029",
-  "description": "equip-20000029",
-  "introduction": "equip-30000029",
   "rank": 2,
   "category": "ammo",
   "type": "hvAmmo",
@@ -589,9 +526,6 @@
 }, {
   "id": 30,
   "codename": "弹匣_高速弹_N",
-  "name": "equip-10000030",
-  "description": "equip-20000030",
-  "introduction": "equip-30000030",
   "rank": 3,
   "category": "ammo",
   "type": "hvAmmo",
@@ -615,9 +549,6 @@
 }, {
   "id": 31,
   "codename": "弹匣_高速弹_N",
-  "name": "equip-10000031",
-  "description": "equip-20000031",
-  "introduction": "equip-30000031",
   "rank": 4,
   "category": "ammo",
   "type": "hvAmmo",
@@ -641,9 +572,6 @@
 }, {
   "id": 32,
   "codename": "弹匣_高速弹_N",
-  "name": "equip-10000032",
-  "description": "equip-20000032",
-  "introduction": "equip-30000032",
   "rank": 5,
   "category": "ammo",
   "type": "hvAmmo",
@@ -667,9 +595,6 @@
 }, {
   "id": 37,
   "codename": "人形装备_外骨骼_N",
-  "name": "equip-10000037",
-  "description": "equip-20000037",
-  "introduction": "equip-30000037",
   "rank": 2,
   "category": "doll",
   "type": "exoSkeleton",
@@ -696,9 +621,6 @@
 }, {
   "id": 38,
   "codename": "人形装备_外骨骼_N",
-  "name": "equip-10000038",
-  "description": "equip-20000038",
-  "introduction": "equip-30000038",
   "rank": 3,
   "category": "doll",
   "type": "exoSkeleton",
@@ -726,9 +648,6 @@
 }, {
   "id": 39,
   "codename": "人形装备_外骨骼_N",
-  "name": "equip-10000039",
-  "description": "equip-20000039",
-  "introduction": "equip-30000039",
   "rank": 4,
   "category": "doll",
   "type": "exoSkeleton",
@@ -756,9 +675,6 @@
 }, {
   "id": 40,
   "codename": "人形装备_外骨骼_N",
-  "name": "equip-10000040",
-  "description": "equip-20000040",
-  "introduction": "equip-30000040",
   "rank": 5,
   "category": "doll",
   "type": "exoSkeleton",
@@ -786,9 +702,6 @@
 }, {
   "id": 42,
   "codename": "人形装备_防弹插板_N",
-  "name": "equip-10000042",
-  "description": "equip-20000042",
-  "introduction": "equip-30000042",
   "rank": 3,
   "category": "doll",
   "type": "armorPlate",
@@ -816,9 +729,6 @@
 }, {
   "id": 43,
   "codename": "人形装备_防弹插板_N",
-  "name": "equip-10000043",
-  "description": "equip-20000043",
-  "introduction": "equip-30000043",
   "rank": 4,
   "category": "doll",
   "type": "armorPlate",
@@ -846,9 +756,6 @@
 }, {
   "id": 44,
   "codename": "人形装备_防弹插板_N",
-  "name": "equip-10000044",
-  "description": "equip-20000044",
-  "introduction": "equip-30000044",
   "rank": 5,
   "category": "doll",
   "type": "armorPlate",
@@ -876,9 +783,6 @@
 }, {
   "id": 49,
   "codename": "配件_红外夜视仪_S",
-  "name": "equip-10000049",
-  "description": "equip-20000049",
-  "introduction": "equip-30000049",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
@@ -901,9 +805,6 @@
 }, {
   "id": 50,
   "codename": "弹匣_穿甲弹_S",
-  "name": "equip-10000050",
-  "description": "equip-20000050",
-  "introduction": "equip-30000050",
   "rank": 5,
   "category": "ammo",
   "type": "apAmmo",
@@ -927,9 +828,6 @@
 }, {
   "id": 51,
   "codename": "51",
-  "name": "equip-10000051",
-  "description": "equip-20000051",
-  "introduction": "equip-30000051",
   "rank": 2,
   "category": "ammo",
   "type": "apAmmo",
@@ -956,9 +854,6 @@
 }, {
   "id": 52,
   "codename": "52",
-  "name": "equip-10000052",
-  "description": "equip-20000052",
-  "introduction": "equip-30000052",
   "rank": 3,
   "category": "ammo",
   "type": "apAmmo",
@@ -985,9 +880,6 @@
 }, {
   "id": 53,
   "codename": "53",
-  "name": "equip-10000053",
-  "description": "equip-20000053",
-  "introduction": "equip-30000053",
   "rank": 4,
   "category": "ammo",
   "type": "apAmmo",
@@ -1014,9 +906,6 @@
 }, {
   "id": 54,
   "codename": "54",
-  "name": "equip-10000054",
-  "description": "equip-20000054",
-  "introduction": "equip-30000054",
   "rank": 5,
   "category": "ammo",
   "type": "apAmmo",
@@ -1043,9 +932,6 @@
 }, {
   "id": 55,
   "codename": "人形装备_外骨骼_X_N",
-  "name": "equip-10000055",
-  "description": "equip-20000055",
-  "introduction": "equip-30000055",
   "rank": 2,
   "category": "doll",
   "type": "exoSkeleton",
@@ -1068,9 +954,6 @@
 }, {
   "id": 56,
   "codename": "人形装备_外骨骼_X_N",
-  "name": "equip-10000056",
-  "description": "equip-20000056",
-  "introduction": "equip-30000056",
   "rank": 3,
   "category": "doll",
   "type": "exoSkeleton",
@@ -1094,9 +977,6 @@
 }, {
   "id": 57,
   "codename": "人形装备_外骨骼_X_N",
-  "name": "equip-10000057",
-  "description": "equip-20000057",
-  "introduction": "equip-30000057",
   "rank": 4,
   "category": "doll",
   "type": "exoSkeleton",
@@ -1120,9 +1000,6 @@
 }, {
   "id": 58,
   "codename": "人形装备_外骨骼_X_N",
-  "name": "equip-10000058",
-  "description": "equip-20000058",
-  "introduction": "equip-30000058",
   "rank": 5,
   "category": "doll",
   "type": "exoSkeleton",
@@ -1146,9 +1023,6 @@
 }, {
   "id": 59,
   "codename": "弹匣_穿甲弹_Springfield",
-  "name": "equip-10000059",
-  "description": "equip-20000059",
-  "introduction": "equip-30000059",
   "rank": 5,
   "category": "ammo",
   "type": "apAmmo",
@@ -1180,9 +1054,6 @@
 }, {
   "id": 60,
   "codename": "弹匣_高速弹_AR15",
-  "name": "equip-10000060",
-  "description": "equip-20000060",
-  "introduction": "equip-30000060",
   "rank": 5,
   "category": "ammo",
   "type": "hvAmmo",
@@ -1214,9 +1085,6 @@
 }, {
   "id": 61,
   "codename": "人形装备_战术核芯片_M1918",
-  "name": "equip-10000061",
-  "description": "equip-20000061",
-  "introduction": "equip-30000061",
   "rank": 5,
   "category": "doll",
   "type": "chip",
@@ -1252,9 +1120,6 @@
 }, {
   "id": 62,
   "codename": "人形装备_外骨骼_MP5",
-  "name": "equip-10000062",
-  "description": "equip-20000062",
-  "introduction": "equip-30000062",
   "rank": 5,
   "category": "doll",
   "type": "exoSkeleton",
@@ -1285,9 +1150,6 @@
 }, {
   "id": 63,
   "codename": "配件_消音器_N",
-  "name": "equip-10000063",
-  "description": "equip-20000063",
-  "introduction": "equip-30000063",
   "rank": 2,
   "category": "accessory",
   "type": "suppressor",
@@ -1314,9 +1176,6 @@
 }, {
   "id": 64,
   "codename": "配件_消音器_N",
-  "name": "equip-10000064",
-  "description": "equip-20000064",
-  "introduction": "equip-30000064",
   "rank": 3,
   "category": "accessory",
   "type": "suppressor",
@@ -1345,9 +1204,6 @@
 }, {
   "id": 65,
   "codename": "配件_消音器_N",
-  "name": "equip-10000065",
-  "description": "equip-20000065",
-  "introduction": "equip-30000065",
   "rank": 4,
   "category": "accessory",
   "type": "suppressor",
@@ -1376,9 +1232,6 @@
 }, {
   "id": 66,
   "codename": "配件_消音器_N",
-  "name": "equip-10000066",
-  "description": "equip-20000066",
-  "introduction": "equip-30000066",
   "rank": 5,
   "category": "accessory",
   "type": "suppressor",
@@ -1407,9 +1260,6 @@
 }, {
   "id": 67,
   "codename": "人形装备_弹链箱_N",
-  "name": "equip-10000067",
-  "description": "equip-20000067",
-  "introduction": "equip-30000067",
   "rank": 4,
   "category": "doll",
   "type": "ammunitionBox",
@@ -1437,9 +1287,6 @@
 }, {
   "id": 68,
   "codename": "人形装备_弹链箱_N",
-  "name": "equip-10000068",
-  "description": "equip-20000068",
-  "introduction": "equip-30000068",
   "rank": 5,
   "category": "doll",
   "type": "ammunitionBox",
@@ -1467,9 +1314,6 @@
 }, {
   "id": 69,
   "codename": "弹匣_状态弹_空尖弹_N",
-  "name": "equip-10000069",
-  "description": "equip-20000069",
-  "introduction": "equip-30000069",
   "rank": 2,
   "category": "ammo",
   "type": "hpAmmo",
@@ -1496,9 +1340,6 @@
 }, {
   "id": 70,
   "codename": "弹匣_状态弹_空尖弹_N",
-  "name": "equip-10000070",
-  "description": "equip-20000070",
-  "introduction": "equip-30000070",
   "rank": 3,
   "category": "ammo",
   "type": "hpAmmo",
@@ -1526,9 +1367,6 @@
 }, {
   "id": 71,
   "codename": "弹匣_状态弹_空尖弹_N",
-  "name": "equip-10000071",
-  "description": "equip-20000071",
-  "introduction": "equip-30000071",
   "rank": 4,
   "category": "ammo",
   "type": "hpAmmo",
@@ -1556,9 +1394,6 @@
 }, {
   "id": 72,
   "codename": "弹匣_状态弹_空尖弹_N",
-  "name": "equip-10000072",
-  "description": "equip-20000072",
-  "introduction": "equip-30000072",
   "rank": 5,
   "category": "ammo",
   "type": "hpAmmo",
@@ -1586,9 +1421,6 @@
 }, {
   "id": 73,
   "codename": "弹匣_霰弹_鹿弹_N",
-  "name": "equip-10000073",
-  "description": "equip-20000073",
-  "introduction": "equip-30000073",
   "rank": 2,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1615,9 +1447,6 @@
 }, {
   "id": 74,
   "codename": "弹匣_霰弹_鹿弹_N",
-  "name": "equip-10000074",
-  "description": "equip-20000074",
-  "introduction": "equip-30000074",
   "rank": 3,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1646,9 +1475,6 @@
 }, {
   "id": 75,
   "codename": "弹匣_霰弹_鹿弹_N",
-  "name": "equip-10000075",
-  "description": "equip-20000075",
-  "introduction": "equip-30000075",
   "rank": 4,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1677,9 +1503,6 @@
 }, {
   "id": 76,
   "codename": "弹匣_霰弹_鹿弹_N",
-  "name": "equip-10000076",
-  "description": "equip-20000076",
-  "introduction": "equip-30000076",
   "rank": 5,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1708,9 +1531,6 @@
 }, {
   "id": 77,
   "codename": "弹匣_霰弹_独头弹_N",
-  "name": "equip-10000077",
-  "description": "equip-20000077",
-  "introduction": "equip-30000077",
   "rank": 2,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1733,9 +1553,6 @@
 }, {
   "id": 78,
   "codename": "弹匣_霰弹_独头弹_N",
-  "name": "equip-10000078",
-  "description": "equip-20000078",
-  "introduction": "equip-30000078",
   "rank": 3,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1759,9 +1576,6 @@
 }, {
   "id": 79,
   "codename": "弹匣_霰弹_独头弹_N",
-  "name": "equip-10000079",
-  "description": "equip-20000079",
-  "introduction": "equip-30000079",
   "rank": 4,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1785,9 +1599,6 @@
 }, {
   "id": 80,
   "codename": "弹匣_霰弹_独头弹_N",
-  "name": "equip-10000080",
-  "description": "equip-20000080",
-  "introduction": "equip-30000080",
   "rank": 5,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1811,9 +1622,6 @@
 }, {
   "id": 81,
   "codename": "人形装备_防弹插板_S",
-  "name": "equip-10000081",
-  "description": "equip-20000081",
-  "introduction": "equip-30000081",
   "rank": 5,
   "category": "doll",
   "type": "armorPlate",
@@ -1841,9 +1649,6 @@
 }, {
   "id": 82,
   "codename": "弹匣_霰弹_鹿弹_S",
-  "name": "equip-10000082",
-  "description": "equip-20000082",
-  "introduction": "equip-30000082",
   "rank": 5,
   "category": "ammo",
   "type": "shotgunShell",
@@ -1872,9 +1677,6 @@
 }, {
   "id": 83,
   "codename": "配件_光学瞄准镜_AK",
-  "name": "equip-10000083",
-  "description": "equip-20000083",
-  "introduction": "equip-30000083",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -1907,9 +1709,6 @@
 }, {
   "id": 84,
   "codename": "配件_光学瞄准镜_AK",
-  "name": "equip-10000084",
-  "description": "equip-20000084",
-  "introduction": "equip-30000084",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -1942,9 +1741,6 @@
 }, {
   "id": 85,
   "codename": "配件_光学瞄准镜_AK",
-  "name": "equip-10000085",
-  "description": "equip-20000085",
-  "introduction": "equip-30000085",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -1977,9 +1773,6 @@
 }, {
   "id": 86,
   "codename": "人形装备_战术核芯片_莫辛纳甘",
-  "name": "equip-10000086",
-  "description": "equip-20000086",
-  "introduction": "equip-30000086",
   "rank": 5,
   "category": "doll",
   "type": "chip",
@@ -2017,9 +1810,6 @@
 }, {
   "id": 87,
   "codename": "人形装备_伪装披风_N1",
-  "name": "equip-10000087",
-  "description": "equip-20000087",
-  "introduction": "equip-30000087",
   "rank": 2,
   "category": "doll",
   "type": "cloak",
@@ -2046,9 +1836,6 @@
 }, {
   "id": 88,
   "codename": "人形装备_伪装披风_N1",
-  "name": "equip-10000088",
-  "description": "equip-20000088",
-  "introduction": "equip-30000088",
   "rank": 3,
   "category": "doll",
   "type": "cloak",
@@ -2076,9 +1863,6 @@
 }, {
   "id": 89,
   "codename": "人形装备_伪装披风_N2",
-  "name": "equip-10000089",
-  "description": "equip-20000089",
-  "introduction": "equip-30000089",
   "rank": 4,
   "category": "doll",
   "type": "cloak",
@@ -2106,9 +1890,6 @@
 }, {
   "id": 90,
   "codename": "人形装备_伪装披风_N3",
-  "name": "equip-10000090",
-  "description": "equip-20000090",
-  "introduction": "equip-30000090",
   "rank": 5,
   "category": "doll",
   "type": "cloak",
@@ -2136,9 +1917,6 @@
 }, {
   "id": 91,
   "codename": "人形装备_防弹插板_M16A1",
-  "name": "equip-10000091",
-  "description": "equip-20000091",
-  "introduction": "equip-30000091",
   "rank": 5,
   "category": "doll",
   "type": "armorPlate",
@@ -2178,9 +1956,6 @@
 }, {
   "id": 92,
   "codename": "人形装备_外骨骼_UMP",
-  "name": "equip-10000092",
-  "description": "equip-20000092",
-  "introduction": "equip-30000092",
   "rank": 5,
   "category": "doll",
   "type": "exoSkeleton",
@@ -2215,9 +1990,6 @@
 }, {
   "id": 93,
   "codename": "配件_红外夜视仪_9A91",
-  "name": "equip-10000093",
-  "description": "equip-20000093",
-  "introduction": "equip-30000093",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
@@ -2248,9 +2020,6 @@
 }, {
   "id": 94,
   "codename": "人形装备_战术核芯片_阿梅利",
-  "name": "equip-10000094",
-  "description": "equip-20000094",
-  "introduction": "equip-30000094",
   "rank": 5,
   "category": "doll",
   "type": "chip",
@@ -2286,9 +2055,6 @@
 }, {
   "id": 95,
   "codename": "弹匣_状态弹_空尖弹_S",
-  "name": "equip-10000095",
-  "description": "equip-20000095",
-  "introduction": "equip-30000095",
   "rank": 5,
   "category": "ammo",
   "type": "hpAmmo",
@@ -2316,9 +2082,6 @@
 }, {
   "id": 96,
   "codename": "人形装备_伪装披风_N3_S",
-  "name": "equip-10000096",
-  "description": "equip-20000096",
-  "introduction": "equip-30000096",
   "rank": 5,
   "category": "doll",
   "type": "cloak",
@@ -2346,9 +2109,6 @@
 }, {
   "id": 99,
   "codename": "人形装备_特殊_M4A1",
-  "name": "equip-10000099",
-  "description": "equip-20000099",
-  "introduction": "equip-30000099",
   "rank": 5,
   "category": "doll",
   "type": "medal",
@@ -2381,9 +2141,6 @@
 }, {
   "id": 100,
   "codename": "配件_特殊_AR15",
-  "name": "equip-10000100",
-  "description": "equip-20000100",
-  "introduction": "equip-30000100",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -2416,9 +2173,6 @@
 }, {
   "id": 101,
   "codename": "弹匣_空尖弹_M1911",
-  "name": "equip-10000101",
-  "description": "equip-20000101",
-  "introduction": "equip-30000101",
   "rank": 5,
   "category": "ammo",
   "type": "hpAmmo",
@@ -2450,9 +2204,6 @@
 }, {
   "id": 102,
   "codename": "人形装备_战术核芯片_IDW",
-  "name": "equip-10000102",
-  "description": "equip-20000102",
-  "introduction": "equip-30000102",
   "rank": 5,
   "category": "doll",
   "type": "chip",
@@ -2489,9 +2240,6 @@
 }, {
   "id": 103,
   "codename": "配件_消音器_64式",
-  "name": "equip-10000103",
-  "description": "equip-20000103",
-  "introduction": "equip-30000103",
   "rank": 5,
   "category": "accessory",
   "type": "suppressor",
@@ -2524,9 +2272,6 @@
 }, {
   "id": 104,
   "codename": "配件_特殊_FN49",
-  "name": "equip-10000104",
-  "description": "equip-20000104",
-  "introduction": "equip-30000104",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -2559,9 +2304,6 @@
 }, {
   "id": 105,
   "codename": "配件_光学瞄准镜_Kar98k",
-  "name": "equip-10000105",
-  "description": "equip-20000105",
-  "introduction": "equip-30000105",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -2593,9 +2335,6 @@
 }, {
   "id": 106,
   "codename": "配件_全息瞄准镜_HK416",
-  "name": "equip-10000106",
-  "description": "equip-20000106",
-  "introduction": "equip-30000106",
   "rank": 5,
   "category": "accessory",
   "type": "holo",
@@ -2632,9 +2371,6 @@
 }, {
   "id": 107,
   "codename": "人形装备_弹链箱_MG3",
-  "name": "equip-10000107",
-  "description": "equip-20000107",
-  "introduction": "equip-30000107",
   "rank": 5,
   "category": "doll",
   "type": "ammunitionBox",
@@ -2673,9 +2409,6 @@
 }, {
   "id": 108,
   "codename": "人形装备_伪装披风_PTRD",
-  "name": "equip-10000108",
-  "description": "equip-20000108",
-  "introduction": "equip-30000108",
   "rank": 5,
   "category": "doll",
   "type": "cloak",
@@ -2711,9 +2444,6 @@
 }, {
   "id": 109,
   "codename": "配件_光学瞄准镜_S",
-  "name": "equip-10000109",
-  "description": "equip-20000109",
-  "introduction": "equip-30000109",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -2737,9 +2467,6 @@
 }, {
   "id": 110,
   "codename": "弹匣_高速弹_S",
-  "name": "equip-10000110",
-  "description": "equip-20000110",
-  "introduction": "equip-30000110",
   "rank": 5,
   "category": "ammo",
   "type": "hvAmmo",
@@ -2763,9 +2490,6 @@
 }, {
   "id": 111,
   "codename": "配件_光学瞄准镜_莫辛纳甘",
-  "name": "equip-10000111",
-  "description": "equip-20000111",
-  "introduction": "equip-30000111",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -2798,9 +2522,6 @@
 }, {
   "id": 112,
   "codename": "配件_ACOG瞄准镜_M1918",
-  "name": "equip-10000112",
-  "description": "equip-20000112",
-  "introduction": "equip-30000112",
   "rank": 5,
   "category": "accessory",
   "type": "reddot",
@@ -2837,9 +2558,6 @@
 }, {
   "id": 113,
   "codename": "配件_消音器_纳甘左轮",
-  "name": "equip-10000113",
-  "description": "equip-20000113",
-  "introduction": "equip-30000113",
   "rank": 5,
   "category": "accessory",
   "type": "suppressor",
@@ -2877,9 +2595,6 @@
 }, {
   "id": 114,
   "codename": "配件_特殊_MP446",
-  "name": "equip-10000114",
-  "description": "equip-20000114",
-  "introduction": "equip-30000114",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -2917,9 +2632,6 @@
 }, {
   "id": 115,
   "codename": "人形装备_伪装披风_SV98",
-  "name": "equip-10000115",
-  "description": "equip-20000115",
-  "introduction": "equip-30000115",
   "rank": 5,
   "category": "doll",
   "type": "cloak",
@@ -2956,9 +2668,6 @@
 }, {
   "id": 117,
   "codename": "配件_特殊_clear",
-  "name": "equip-10000117",
-  "description": "equip-20000117",
-  "introduction": "equip-30000117",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
@@ -2984,9 +2693,6 @@
 }, {
   "id": 118,
   "codename": "配件_特殊_fail",
-  "name": "equip-10000118",
-  "description": "equip-20000118",
-  "introduction": "equip-30000118",
   "rank": 5,
   "category": "accessory",
   "type": "nightvision",
@@ -3012,9 +2718,6 @@
 }, {
   "id": 119,
   "codename": "配件_光学瞄准镜_FAMAS",
-  "name": "equip-10000119",
-  "description": "equip-20000119",
-  "introduction": "equip-30000119",
   "rank": 5,
   "category": "accessory",
   "type": "optical",
@@ -3051,9 +2754,6 @@
 }, {
   "id": 120,
   "codename": "配件_ACOG瞄准镜_S",
-  "name": "equip-10000120",
-  "description": "equip-20000120",
-  "introduction": "equip-30000120",
   "rank": 5,
   "category": "accessory",
   "type": "reddot",
@@ -3081,9 +2781,6 @@
 }, {
   "id": 121,
   "codename": "人形装备_外骨骼_S",
-  "name": "equip-10000121",
-  "description": "equip-20000121",
-  "introduction": "equip-30000121",
   "rank": 5,
   "category": "doll",
   "type": "exoSkeleton",
@@ -3111,9 +2808,6 @@
 }, {
   "id": 122,
   "codename": "配件_特殊_柯尔特左轮",
-  "name": "equip-10000122",
-  "description": "equip-20000122",
-  "introduction": "equip-30000122",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -3151,9 +2845,6 @@
 }, {
   "id": 123,
   "codename": "配件_特殊_布伦",
-  "name": "equip-10000123",
-  "description": "equip-20000123",
-  "introduction": "equip-30000123",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -3190,9 +2881,6 @@
 }, {
   "id": 124,
   "codename": "配件_特殊_G3",
-  "name": "equip-10000124",
-  "description": "equip-20000124",
-  "introduction": "equip-30000124",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -3225,9 +2913,6 @@
 }, {
   "id": 125,
   "codename": "配件_特殊_UMP45",
-  "name": "equip-10000125",
-  "description": "equip-20000125",
-  "introduction": "equip-30000125",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -3260,9 +2945,6 @@
 }, {
   "id": 126,
   "codename": "配件_特殊_M4SOPMODII",
-  "name": "equip-10000126",
-  "description": "equip-20000126",
-  "introduction": "equip-30000126",
   "rank": 5,
   "category": "accessory",
   "type": "spPart",
@@ -3299,9 +2981,6 @@
 }, {
   "id": 127,
   "codename": "人形装备_特殊_G41",
-  "name": "equip-10000127",
-  "description": "equip-20000127",
-  "introduction": "equip-30000127",
   "rank": 5,
   "category": "doll",
   "type": "medal",

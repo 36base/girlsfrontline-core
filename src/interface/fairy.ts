@@ -1,11 +1,10 @@
-import { IPowerup, IStats } from './base';
+import { IPowerup, ISkill, IStats } from './base';
 
 export interface IFairy {
   id: number;
   category: string;
-  name: string;
   stats: IStats;
-  skill: string;
+  skill: ISkill;
   grow: number;
   buildTime: number;
   codename: string;

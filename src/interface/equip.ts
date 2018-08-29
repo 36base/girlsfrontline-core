@@ -13,9 +13,6 @@ interface IEquipStats extends IBaseStats {
 export interface IEquip {
   id: number;
   codename: string;
-  name: string;
-  description: string;
-  introduction: string;
   rank: number;
   category: string;
   type: string;

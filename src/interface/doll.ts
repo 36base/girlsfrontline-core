@@ -1,8 +1,4 @@
-import { IBaseStats, IStats } from './base';
-
-export interface ISkill {
-  
-}
+import { IBaseStats, ISkill, IStats } from './base';
 
 export interface IDollAttribute {
   [key:string]: IStats;
@@ -36,19 +32,16 @@ export interface IMindupdate {
 
 export interface IDoll {
   id: number;
-  name: string;
   rank: number;
   type: string;
-  illust: string;
-  voice: string;
-  buildTime?: number;
+  buildTime: number;
   skins: number[];
   stats: IStats;
   effect: IEffect;
   grow: number;
   codename: string;
-  skill1: string;
-  skill2?: string;
+  skill1: ISkill;
+  skill2?: ISkill;
   mindupdate: IMindupdate[];
   obtain: number[];
   equip1: string[];

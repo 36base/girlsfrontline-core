@@ -28,3 +28,16 @@ export interface IPowerup {
   mre: number;
   part: number;
 }
+
+export interface ISkill {
+  id: string;
+  codeName: string;
+  cooldownType: string;
+  initialCooldown: number;
+  dataPool: IDataPool[];
+}
+
+export interface IDataPool {
+  level: number;
+  cooldown: number;
+}
