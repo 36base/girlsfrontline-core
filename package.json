@@ -20,12 +20,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/cli": "^7.0.0-rc.2",
-    "@babel/core": "^7.0.0-rc.2",
-    "@babel/plugin-proposal-class-properties": "^7.0.0-rc.2",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.2",
-    "@babel/preset-env": "^7.0.0-rc.2",
-    "@babel/preset-typescript": "^7.0.0-rc.2"
+    "@types/i18next": "^8.4.5",
+    "i18next": "^11.6.0"
   },
   "devDependencies": {
     "@types/jest": "^23.3.1",
