@@ -1,7 +1,3 @@
-export interface ILocale {
-  [key:string]: string;
-}
-
 export interface IBaseStats {
   [key:string]: any|undefined;
   hp?: any;
