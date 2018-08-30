@@ -1,4 +1,4 @@
-import { IBaseStats, ISkill, IStats } from './base';
+import { IBaseStats, ISkillJson, IStats } from './base';
 
 export interface IDollAttribute {
   [key:string]: IStats;
@@ -19,10 +19,10 @@ export interface IDollGrow {
 }
 
 export interface IEffect {
-  effectType: string;
-  effectCenter: number;
-  effectPos: number[];
-  gridEffect: IStats;
+  readonly effectType: string;
+  readonly effectCenter: number;
+  readonly effectPos: number[];
+  readonly gridEffect: IStats;
 }
 
 export interface IMindupdate {
@@ -40,8 +40,8 @@ export interface IDoll {
   effect: IEffect;
   grow: number;
   codename: string;
-  skill1: ISkill;
-  skill2?: ISkill;
+  skill1: ISkillJson;
+  skill2?: ISkillJson;
   mindupdate: IMindupdate[];
   obtain: number[];
   equip1: string[];

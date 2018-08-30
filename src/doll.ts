@@ -1,81 +1,12 @@
 /* tslint:disable variable-name */
 import dollAttributeJson from '../data/dollAttribute.json';
 import dollGrowJson from '../data/dollGrow.json';
-import { IDoll, IDollAttribute, IDollGrow, IEffect, ILocale, IMindupdate, IStats } from './interface';
+import { getEffect, getStats } from './api/doll';
+import { getSkill } from './api/skill';
+import i18next from './i18next';
+import { IDoll, IEffect, IMindupdate, ISkill, ISkillJson, IStats } from './interface';
 
-export function getFavorRatio(favor:number) {
-  if (favor < 10) {
-    return -0.05;
-  }
-  if (favor < 90) {
-    return 0;
-  }
-  if (favor < 140) {
-    return 0.05;
-  }
-  if (favor < 190) {
-    return 0.1;
-  }
-
-  return 0.15;
-}
-
-export function getStats(
-  dollType:string, baseStats:IStats, growRatio:number,
-  { level = 100, favor = 50, growth = true } = {},
-):IStats {
-  const { [dollType]: attributeData } = dollAttributeJson as IDollAttribute;
-  const { normal, after100 } = dollGrowJson as IDollGrow;
-
-  let basicStats = normal.basic;
-  let growStats = normal.grow;
-  if (level > 100) {
-    basicStats = { ...basicStats, ...after100.basic };
-    growStats = { ...growStats, ...after100.grow };
-  }
-
-  const stats = baseStats;
-  Object.entries(attributeData).forEach(([key, attribute = 0]) => {
-    const stat = baseStats[key] || 0;
-    const { [key]: basicData = [0, 0] } = basicStats;
-    const { [key]: growData = [0, 0] } = growStats;
-
-    // 기본 스탯 계산
-    let newStat = basicData.length > 1
-      ? Math.ceil((basicData[0] + ((level - 1) * basicData[1])) * attribute * stat / 100)
-      : Math.ceil(basicData[0] * attribute * stat / 100);
-
-    // 강화 스탯 계산
-    newStat += growth === true && growData
-      ? Math.ceil((growData[1] + ((level - 1) * growData[0])) * attribute * stat * growRatio / 100 / 100)
-      : 0;
-
-    // 호감도 스탯 계산(화력, 명중, 회피 한정)
-    newStat += key === 'pow' || key === 'hit' || key === 'dodge'
-      ? Math.sign(getFavorRatio(favor)) * Math.ceil(Math.abs(newStat * getFavorRatio(favor)))
-      : 0;
-
-    stats[key] = newStat;
-  });
-
-  return stats;
-}
-
-export function getEffect(dollType:string, dummyLink:number, effect:IEffect) {
-  if(dollType === 'hg') {
-    const newEffect = {...effect};
-    const {gridEffect} = newEffect;
-
-    Object.entries(gridEffect).forEach(([key, value]) => {
-      newEffect.gridEffect[key] = Math.floor((value as number) * (1 + (0.25 * dummyLink)));
-    });
-    return newEffect;
-  }
-  return effect;
-}
-
-export class Doll{
-  public static locale:ILocale;
+export default class Doll{
   public readonly id: number;
   public readonly name: string;
   public readonly rank: number;
@@ -103,27 +34,78 @@ export class Doll{
   get effect(): IEffect {
     return getEffect(this.type, this._dummyLink, this._effect);
   }
-  private readonly _skill1: string;
-  get skill1(): string {
-    return '';
+  private readonly _skill1: ISkillJson;
+  get skill1(): ISkill {
+    return getSkill(this._skill1, { level: this._skillLevel });
   }
-  private readonly _skill2?: string;
+  private readonly _skill2?: ISkillJson;
+  get skill2(): ISkill|null {
+    if (this._skill2) {
+      return getSkill(this._skill2, { level: this._skillLevel });
+    }
+    return null;
+  }
 
   private _level:number = 100;
+  get level(): number {
+    return this._level;
+  }
+  set level(level:number) {
+    if (level < 1) {
+      throw Error('`level` must be greater than 0');
+    }
+    if (level > 120) {
+      throw Error('`level` must be less than 121');
+    }
+    this._level = level;
+  }
   private _favor:number = 50;
+  get favor(): number {
+    return this._favor;
+  }
+  set favor(favor:number) {
+    if (favor < 1) {
+      throw Error('`favor` must be greater than 0');
+    }
+    this._favor = favor;
+  }
   private _dummyLink:number = 5;
+  get dummyLink(): number {
+    return this._dummyLink;
+  }
+  set dummyLink(dummyLink:number) {
+    if (dummyLink < 1) {
+      throw Error('`dummyLink` must be greater than 0');
+    }
+    if (dummyLink > 5) {
+      throw Error('`dummyLink` must be less than 6');
+    }
+    this._dummyLink = dummyLink;
+  }
   private _skillLevel: number = 10;
+  get skillLevel(): number {
+    return this._skillLevel;
+  }
+  set skillLevel(skillLevel:number) {
+    if (skillLevel < 1) {
+      throw Error('`skillLevel` must be greater than 0');
+    }
+    if (skillLevel > 10) {
+      throw Error('`skillLevel` must be less than 11');
+    }
+    this._skillLevel = skillLevel;
+  }
 
   constructor(dollJson:IDoll) {
-    const { id, name, rank, type, illust, voice,
+    const { id, rank, type,
       buildTime, skins, stats, effect, grow, codename,
       skill1, skill2, mindupdate, obtain, equip1, equip2, equip3 } = dollJson;
+    if (id > 20000) {
+      this._level = 120;
+    }
     this.id = id;
-    this.name = name;
     this.rank = rank;
     this.type = type;
-    this.illust = illust;
-    this.voice = voice;
     this.buildTime = buildTime;
     this.skins = skins;
     this._stats = stats;
@@ -137,5 +119,12 @@ export class Doll{
     this.equip1 = equip1;
     this.equip2 = equip2;
     this.equip3 = equip3;
+
+    const prefix = 'gun-';
+    const padId = String(id).padStart(7, '0');
+    this.name = i18next.t(`${prefix}1${padId}`);
+    const [illust, voice] = i18next.t(`${prefix}4${padId}`).split(',');
+    this.illust = illust || '';
+    this.voice = voice || '';
   }
 }

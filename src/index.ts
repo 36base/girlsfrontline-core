@@ -1,14 +1,14 @@
 import dollJson from '../data/doll.json';
 import equipJson from '../data/equip.json';
 import fairyJson from '../data/fairy.json';
-import { Doll, getStats as getDollStats } from './doll';
+import Doll from './doll';
 import { IDoll, IEquip, IFairy } from './interface';
 // import { getEquip } from './api/equip';
 // import { getFairy } from './api/fairy';
 
 const dollData = dollJson as IDoll[];
-const equipData = equipJson as IEquip[];
-const fairyData = fairyJson as IFairy[];
+// const equipData = equipJson as IEquip[];
+// const fairyData = fairyJson as IFairy[];
 
 interface ICore {
   dolls:Doll[];
@@ -27,10 +27,10 @@ function init(locale:string):ICore {
   // const equips = equipData.map(data => getEquip(data));
   // const fairy = fairyData.map(data => getFairy(data));
 
-  return {dolls};
+  return { dolls };
 }
 
-// const gfcore = { dolls, equips, fairy, getDollStats };
+const gfcore = { init };
 
-// export { dolls, equips, fairy, getDollStats };
-// export default gfcore;
+export { init };
+export default gfcore;

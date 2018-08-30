@@ -25,11 +25,25 @@ export interface IPowerup {
   part: number;
 }
 
-export interface ISkill {
+interface IBaseSkill {
   id: string;
-  codeName: string;
+  codename: string;
   cooldownType: string;
   initialCooldown: number;
+}
+
+export interface ISkill extends IBaseSkill {
+  name: string;
+  description: string;
+  cooldown: number;
+  detail: ISkillDetail;
+}
+
+export interface ISkillDetail {
+  [key:string]: string;
+}
+
+export interface ISkillJson extends IBaseSkill {
   dataPool: IDataPool[];
 }
 
