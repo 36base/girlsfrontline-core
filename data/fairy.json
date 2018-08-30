@@ -9,51 +9,10 @@
   },
   "skill": {
     "id": "900110",
-    "codeName": "fighting",
+    "codename": "fighting",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 16200,
@@ -83,51 +42,10 @@
   },
   "skill": {
     "id": "900111",
-    "codeName": "crit",
+    "codename": "crit",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 16500,
@@ -156,51 +74,10 @@
   },
   "skill": {
     "id": "900103",
-    "codeName": "armor",
+    "codename": "armor",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 10800,
@@ -229,51 +106,10 @@
   },
   "skill": {
     "id": "900101",
-    "codeName": "shield",
+    "codename": "shield",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 11100,
@@ -302,7 +138,7 @@
   },
   "skill": {
     "id": "*6",
-    "codeName": "defense",
+    "codename": "defense",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -377,51 +213,10 @@
   },
   "skill": {
     "id": "900104",
-    "codeName": "target",
+    "codename": "target",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 130,
   "buildTime": 11400,
@@ -451,51 +246,10 @@
   },
   "skill": {
     "id": "900102",
-    "codeName": "sniper",
+    "codename": "sniper",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 12600,
@@ -524,51 +278,10 @@
   },
   "skill": {
     "id": "900108",
-    "codeName": "bombard",
+    "codename": "bombard",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 12900,
@@ -598,51 +311,10 @@
   },
   "skill": {
     "id": "900109",
-    "codeName": "air_attack",
+    "codename": "air_attack",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 150,
   "buildTime": 13200,
@@ -672,7 +344,7 @@
   },
   "skill": {
     "id": "*8",
-    "codeName": "reinforce",
+    "codename": "reinforce",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -746,7 +418,7 @@
   },
   "skill": {
     "id": "*9",
-    "codeName": "airborne",
+    "codename": "airborne",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -819,7 +491,7 @@
   },
   "skill": {
     "id": "*10",
-    "codeName": "Landmines",
+    "codename": "Landmines",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -892,7 +564,7 @@
   },
   "skill": {
     "id": "*11",
-    "codeName": "position",
+    "codename": "position",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -967,7 +639,7 @@
   },
   "skill": {
     "id": "*12",
-    "codeName": "fortress",
+    "codename": "fortress",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -1041,7 +713,7 @@
   },
   "skill": {
     "id": "*13",
-    "codeName": "command",
+    "codename": "command",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -1114,7 +786,7 @@
   },
   "skill": {
     "id": "*14",
-    "codeName": "rescue",
+    "codename": "rescue",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -1188,7 +860,7 @@
   },
   "skill": {
     "id": "*15",
-    "codeName": "illumine",
+    "codename": "illumine",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -1263,51 +935,10 @@
   },
   "skill": {
     "id": "900117",
-    "codeName": "golden",
+    "codename": "golden",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 320,
   "buildTime": 18600,
@@ -1338,51 +969,10 @@
   },
   "skill": {
     "id": "900151",
-    "codeName": "golden",
+    "codename": "golden",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 250,
   "buildTime": 18600,
@@ -1415,51 +1005,10 @@
   "grow": 250,
   "skill": {
     "id": "900117",
-    "codeName": "golden",
+    "codename": "golden",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "powerup": {
     "mp": 10,
@@ -1485,7 +1034,7 @@
   },
   "skill": {
     "id": "*1004",
-    "codeName": "IWantU",
+    "codename": "IWantU",
     "cooldownType": "turn",
     "initialCooldown": 0,
     "dataPool": [
@@ -1559,51 +1108,10 @@
   },
   "skill": {
     "id": "900152",
-    "codeName": "LadyMadeSTAR",
+    "codename": "LadyMadeSTAR",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 18600,
@@ -1634,51 +1142,10 @@
   },
   "skill": {
     "id": "900153",
-    "codeName": "OblivioN",
+    "codename": "OblivioN",
     "cooldownType": "second",
     "initialCooldown": 1,
-    "dataPool": [
-      {
-        "level": 1,
-        "cooldown": 0
-      },
-      {
-        "level": 2,
-        "cooldown": 0
-      },
-      {
-        "level": 3,
-        "cooldown": 0
-      },
-      {
-        "level": 4,
-        "cooldown": 0
-      },
-      {
-        "level": 5,
-        "cooldown": 0
-      },
-      {
-        "level": 6,
-        "cooldown": 0
-      },
-      {
-        "level": 7,
-        "cooldown": 0
-      },
-      {
-        "level": 8,
-        "cooldown": 0
-      },
-      {
-        "level": 9,
-        "cooldown": 0
-      },
-      {
-        "level": 10,
-        "cooldown": 0
-      }
-    ]
+    "dataPool": []
   },
   "grow": 100,
   "buildTime": 18600,
