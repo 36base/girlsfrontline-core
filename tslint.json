@@ -10,7 +10,8 @@
         "semicolon": [true, "always"],
         "max-line-length": [true, 120],
         "object-literal-sort-keys": false,
-        "no-unused-variable": true
+        "no-unused-variable": true,
+        "import-name": false
     },
     "rulesDirectory": []
 }
