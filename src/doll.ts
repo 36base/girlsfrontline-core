@@ -1,4 +1,3 @@
-/* tslint:disable variable-name */
 import dollAttributeJson from '../data/dollAttribute.json';
 import dollGrowJson from '../data/dollGrow.json';
 import { getEffect, getStats } from './api/doll';
