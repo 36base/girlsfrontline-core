@@ -1,5 +1,6 @@
 import dollAttributeJson from '../../data/dollAttribute.json';
 import dollGrowJson from '../../data/dollGrow.json';
+import i18next from '../i18next';
 import { IDollAttribute, IDollGrow, IEffect, IStats } from '../interface';
 
 export function getFavorRatio(favor:number) {
@@ -75,4 +76,9 @@ export function getStats(
   });
 
   return stats;
+}
+
+export function getDollResource(resourceId:number, dollId:string|number) {
+  const padId = String(dollId).padStart(7, '0');
+  return i18next.t(`gun-${resourceId}${padId}`);
 }

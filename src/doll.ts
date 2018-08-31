@@ -1,17 +1,11 @@
-import dollAttributeJson from '../data/dollAttribute.json';
-import dollGrowJson from '../data/dollGrow.json';
-import { getEffect, getStats } from './api/doll';
+import { getDollResource, getEffect, getStats } from './api/doll';
 import { getSkill } from './api/skill';
-import i18next from './i18next';
 import { IDoll, IEffect, IMindupdate, ISkill, ISkillJson, IStats } from './interface';
 
 export default class Doll{
   public readonly id: number;
-  public readonly name: string;
   public readonly rank: number;
   public readonly type: string;
-  public readonly illust: string;
-  public readonly voice: string;
   public readonly buildTime?: number;
   public readonly skins: number[];
   public readonly grow: number;
@@ -21,6 +15,16 @@ export default class Doll{
   public readonly equip1: string[];
   public readonly equip2: string[];
   public readonly equip3: string[];
+
+  get name():string {
+    return getDollResource(1, this.id);
+  }
+  get illust():string {
+    return getDollResource(4, this.id).split(',')[0];
+  }
+  get voice():string {
+    return getDollResource(4, this.id).split(',')[1];
+  }
 
   private readonly _stats: IStats;
   get stats(): IStats {
@@ -118,12 +122,5 @@ export default class Doll{
     this.equip1 = equip1;
     this.equip2 = equip2;
     this.equip3 = equip3;
-
-    const prefix = 'gun-';
-    const padId = String(id).padStart(7, '0');
-    this.name = i18next.t(`${prefix}1${padId}`);
-    const [illust, voice] = i18next.t(`${prefix}4${padId}`).split(',');
-    this.illust = illust || '';
-    this.voice = voice || '';
   }
 }
