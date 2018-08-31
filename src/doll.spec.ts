@@ -7,8 +7,17 @@ const dollData = dollJson as IDoll[];
 
 describe('`CLEAR` Doll class', () => {
   const CLEAR = new Doll(dollData.find(({ codename }) => codename === 'CLEAR') as IDoll);
-  test('returns Doll class of CLEAR', () => {
+  test('returns Doll class of `CLEAR`', () => {
     expect(CLEAR).toBeTruthy();
+  });
+  test('returns name', () => {
+    expect(CLEAR.name).toBe('클리어');
+  });
+  test('returns illustrator', () => {
+    expect(CLEAR.illust).toBe('水熊');
+  });
+  test('returns voice actor', () => {
+    expect(CLEAR.voice).toBe('');
   });
   test('set level to 70', () => {
     CLEAR.level = 70;
