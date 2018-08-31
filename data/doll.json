@@ -79,7 +79,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -189,7 +190,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -204,8 +206,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "mindupdate": [
     {
@@ -299,7 +300,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -314,8 +316,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 4,
@@ -395,7 +396,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     211
@@ -490,7 +492,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -505,8 +508,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "mindupdate": [
     {
@@ -602,7 +604,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -617,8 +620,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 7,
@@ -698,7 +700,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -712,8 +715,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 8,
@@ -795,7 +797,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -810,8 +813,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 9,
@@ -893,7 +895,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -908,8 +911,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 10,
@@ -989,7 +991,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1004,8 +1007,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 11,
@@ -1084,7 +1086,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1099,8 +1102,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 12,
@@ -1179,7 +1181,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1194,8 +1197,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 13,
@@ -1279,7 +1281,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1294,8 +1297,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 14,
@@ -1375,7 +1377,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1390,8 +1393,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 15,
@@ -1472,7 +1474,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     8,
@@ -1487,8 +1490,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 16,
@@ -1568,7 +1570,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1576,8 +1579,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -1664,7 +1666,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1672,8 +1675,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -1761,7 +1763,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1770,8 +1773,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -1859,7 +1861,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     10,
@@ -1867,8 +1870,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -1957,7 +1959,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -1966,8 +1969,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2057,7 +2059,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2065,8 +2068,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2154,7 +2156,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2163,8 +2166,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2252,7 +2254,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2260,8 +2263,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2349,7 +2351,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2357,8 +2360,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2448,7 +2450,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2456,8 +2459,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2549,7 +2551,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2558,8 +2561,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2648,7 +2650,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2657,8 +2660,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2749,7 +2751,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     203
@@ -2847,7 +2850,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2856,8 +2860,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -2945,7 +2948,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -2953,8 +2957,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -3043,7 +3046,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3052,8 +3056,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -3143,7 +3146,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3151,8 +3155,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -3240,7 +3243,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3335,7 +3339,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     18,
@@ -3433,7 +3438,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3530,7 +3536,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3627,7 +3634,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     14,
@@ -3722,7 +3730,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3830,7 +3839,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -3924,7 +3934,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4019,7 +4030,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4116,7 +4128,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4212,7 +4225,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4321,7 +4335,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4415,7 +4430,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4513,7 +4529,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4608,7 +4625,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     101
@@ -4705,7 +4723,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4799,7 +4818,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -4907,7 +4927,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -5004,7 +5025,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -5102,7 +5124,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     6
@@ -5199,7 +5222,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     6
@@ -5310,7 +5334,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     6
@@ -5427,7 +5452,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     6
@@ -5541,7 +5567,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -5560,8 +5587,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 59,
@@ -5638,7 +5664,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     212
@@ -5734,7 +5761,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -5753,8 +5781,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 61,
@@ -5831,7 +5858,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -5850,8 +5878,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 62,
@@ -5931,7 +5958,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6030,7 +6058,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6146,7 +6175,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6164,8 +6194,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 65,
@@ -6243,7 +6272,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6262,8 +6292,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 66,
@@ -6343,7 +6372,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6362,8 +6392,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 68,
@@ -6440,7 +6469,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6458,8 +6488,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 69,
@@ -6536,7 +6565,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6555,8 +6585,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 70,
@@ -6635,7 +6664,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6654,8 +6684,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 71,
@@ -6732,7 +6761,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6750,8 +6780,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 72,
@@ -6830,7 +6859,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -6849,8 +6879,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 73,
@@ -6930,7 +6959,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     207
@@ -7026,7 +7056,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7044,8 +7075,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 75,
@@ -7127,7 +7157,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7194,7 +7225,8 @@
     "codename": "comboBuffSelf",
     "cooldownType": "turn",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7290,7 +7322,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7388,7 +7421,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     16,
@@ -7485,7 +7519,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7582,7 +7617,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7676,7 +7712,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7770,7 +7807,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     102
@@ -7824,7 +7862,8 @@
     "codename": "comboBuffSelf",
     "cooldownType": "turn",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -7918,7 +7957,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8012,7 +8052,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8109,7 +8150,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8205,7 +8247,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8318,7 +8361,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8333,8 +8377,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 91,
@@ -8417,7 +8460,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8433,8 +8477,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "mindupdate": [
     {
@@ -8524,7 +8567,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8532,8 +8576,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -8623,7 +8666,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8631,8 +8675,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -8735,7 +8778,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8743,8 +8787,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -8846,7 +8889,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -8948,7 +8992,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -8962,8 +9007,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 97,
@@ -9047,7 +9091,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -9061,8 +9106,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 98,
@@ -9144,7 +9188,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -9158,8 +9203,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 99,
@@ -9241,7 +9285,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9256,8 +9301,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 100,
@@ -9342,7 +9386,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9357,8 +9402,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 101,
@@ -9440,7 +9484,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9449,8 +9494,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -9539,7 +9583,8 @@
         "level": 10,
         "cooldown": 666
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -9638,7 +9683,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9753,7 +9799,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9761,8 +9808,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -9850,7 +9896,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9869,8 +9916,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 106,
@@ -9952,7 +9998,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -9970,8 +10017,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 107,
@@ -10048,7 +10094,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10066,8 +10113,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 108,
@@ -10145,7 +10191,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     12,
@@ -10163,8 +10210,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 109,
@@ -10205,7 +10251,8 @@
     "codename": "comboBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10300,7 +10347,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10393,7 +10441,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10449,7 +10498,8 @@
     "codename": "comboBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10544,7 +10594,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -10558,8 +10609,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 114,
@@ -10644,7 +10694,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -10658,8 +10709,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 115,
@@ -10740,7 +10790,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -10748,8 +10799,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -10837,15 +10887,15 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -10932,7 +10982,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -11028,7 +11079,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11047,8 +11099,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 119,
@@ -11129,7 +11180,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     202,
@@ -11147,8 +11199,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 120,
@@ -11225,7 +11276,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -11242,8 +11294,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 121,
@@ -11321,7 +11372,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11417,7 +11469,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11435,8 +11488,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 123,
@@ -11515,7 +11567,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -11529,8 +11582,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 124,
@@ -11608,7 +11660,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1711,
@@ -11706,7 +11759,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11807,7 +11861,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11822,8 +11877,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 127,
@@ -11902,7 +11956,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -11910,8 +11965,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -12000,7 +12054,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12097,7 +12152,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12115,8 +12171,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 130,
@@ -12195,7 +12250,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12213,8 +12269,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 131,
@@ -12292,15 +12347,15 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     103
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -12393,7 +12448,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1710,
@@ -12408,8 +12464,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 133,
@@ -12488,7 +12543,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12506,8 +12562,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 134,
@@ -12584,7 +12639,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     103
@@ -12601,8 +12657,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 135,
@@ -12683,7 +12738,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12692,8 +12748,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -12781,15 +12836,15 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -12877,7 +12932,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -12885,8 +12941,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -12974,7 +13029,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     105
@@ -12992,8 +13048,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 139,
@@ -13073,7 +13128,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -13088,8 +13144,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 140,
@@ -13169,7 +13224,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     20,
@@ -13184,8 +13240,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 141,
@@ -13263,7 +13318,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -13278,8 +13334,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 142,
@@ -13363,7 +13418,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -13377,8 +13433,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 143,
@@ -13459,15 +13514,15 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     6
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -13555,15 +13610,15 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     105
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -13652,7 +13707,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2,
@@ -13749,7 +13805,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2,
@@ -13842,7 +13899,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     105
@@ -13937,7 +13995,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -14035,7 +14094,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -14129,7 +14189,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -14137,8 +14198,7 @@
   ],
   "equip1": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ],
   "equip2": [
     "hpAmmo"
@@ -14227,7 +14287,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     104
@@ -14322,7 +14383,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14419,7 +14481,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14514,7 +14577,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14611,7 +14675,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14708,7 +14773,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14803,7 +14869,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14898,7 +14965,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -14995,7 +15063,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15091,7 +15160,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15187,7 +15257,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     7
@@ -15284,7 +15355,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15381,7 +15453,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15478,7 +15551,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15573,7 +15647,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -15671,7 +15746,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -15685,8 +15761,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 167,
@@ -15765,7 +15840,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1801,
@@ -15780,8 +15856,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 168,
@@ -15863,7 +15938,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -15877,8 +15953,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 169,
@@ -15955,7 +16030,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     22,
@@ -16050,7 +16126,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     105
@@ -16067,8 +16144,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 171,
@@ -16145,7 +16221,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -16163,8 +16240,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 172,
@@ -16245,7 +16321,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -16263,8 +16340,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 173,
@@ -16306,7 +16382,8 @@
     "codename": "comboBuffSelf",
     "cooldownType": "turn",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -16400,7 +16477,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     105
@@ -16496,7 +16574,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -16513,8 +16592,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 176,
@@ -16592,7 +16670,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -16688,7 +16767,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -16783,7 +16863,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2,
@@ -16881,7 +16962,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     25
@@ -16976,7 +17058,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2,
@@ -17071,7 +17154,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -17089,8 +17173,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 182,
@@ -17166,7 +17249,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     0
@@ -17269,7 +17353,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -17284,8 +17369,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 184,
@@ -17362,7 +17446,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -17462,7 +17547,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -17557,7 +17643,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1709
@@ -17571,8 +17658,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 187,
@@ -17650,7 +17736,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     27,
@@ -17668,8 +17755,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 188,
@@ -17752,7 +17838,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -17847,7 +17934,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -17942,7 +18030,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     2
@@ -18037,7 +18126,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1710
@@ -18133,7 +18223,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     301
@@ -18227,7 +18318,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1711
@@ -18324,7 +18416,8 @@
         "level": 10,
         "cooldown": 3
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -18342,8 +18435,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 195,
@@ -18422,7 +18514,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1712
@@ -18518,7 +18611,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -18536,8 +18630,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 197,
@@ -18616,7 +18709,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -18712,7 +18806,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -18808,7 +18903,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -18901,7 +18997,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     29,
@@ -18997,7 +19094,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1801
@@ -19093,7 +19191,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     203
@@ -19185,7 +19284,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     204
@@ -19279,7 +19379,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     205
@@ -19376,7 +19477,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -19475,7 +19577,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -19570,7 +19673,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     204
@@ -19666,7 +19770,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     204
@@ -19758,7 +19863,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1803
@@ -19855,7 +19961,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1802
@@ -19946,7 +20053,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     310
@@ -20046,7 +20154,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1
@@ -20141,7 +20250,8 @@
         "level": 10,
         "cooldown": 1
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -20238,7 +20348,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -20333,7 +20444,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1,
@@ -20428,7 +20540,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1804
@@ -20522,7 +20635,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1805
@@ -20620,7 +20734,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1806
@@ -20714,7 +20829,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     208
@@ -20805,7 +20921,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     209
@@ -20899,7 +21016,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1807
@@ -20994,7 +21112,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     210
@@ -21088,7 +21207,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     212
@@ -21182,7 +21302,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     211
@@ -21277,7 +21398,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     211
@@ -21373,7 +21495,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     311
@@ -21469,7 +21592,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     211
@@ -21563,7 +21687,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1808
@@ -21655,7 +21780,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     213
@@ -21677,97 +21803,98 @@
   "skins": []
 }, {
   "id": 232,
-  "codename": "KGP9",
-  "type": "smg",
+  "codename": "MP448",
+  "type": "hg",
   "rank": 3,
-  "buildTime": 7200,
+  "buildTime": 2700,
   "stats": {
-    "hp": 102,
-    "pow": 95,
+    "hp": 96,
+    "pow": 90,
     "hit": 118,
-    "dodge": 120,
+    "dodge": 128,
     "speed": 100,
-    "rate": 120,
+    "rate": 110,
     "armorPiercing": 10,
-    "criticalPercent": 5
+    "criticalPercent": 20
   },
-  "grow": 102,
+  "grow": 125,
   "effect": {
-    "effectType": "ar",
+    "effectType": "all",
     "effectCenter": 5,
     "effectPos": [
       1,
-      4
+      2,
+      4,
+      7,
+      8
     ],
     "gridEffect": {
-      "pow": 8,
-      "rate": 8
+      "pow": 6,
+      "rate": 10
     }
   },
   "skill1": {
-    "id": "101903",
-    "codename": "powBuffSelf",
+    "id": "101401",
+    "codename": "dodgeDebuff",
     "cooldownType": "second",
     "initialCooldown": 6,
     "dataPool": [
       {
         "level": 1,
-        "cooldown": 10
+        "cooldown": 15
       },
       {
         "level": 2,
-        "cooldown": 9.8
+        "cooldown": 14.7
       },
       {
         "level": 3,
-        "cooldown": 9.6
+        "cooldown": 14.3
       },
       {
         "level": 4,
-        "cooldown": 9.3
+        "cooldown": 14
       },
       {
         "level": 5,
-        "cooldown": 9.1
+        "cooldown": 13.7
       },
       {
         "level": 6,
-        "cooldown": 8.9
+        "cooldown": 13.3
       },
       {
         "level": 7,
-        "cooldown": 8.7
+        "cooldown": 13
       },
       {
         "level": 8,
-        "cooldown": 8.4
+        "cooldown": 12.7
       },
       {
         "level": 9,
-        "cooldown": 8.2
+        "cooldown": 12.3
       },
       {
         "level": 10,
-        "cooldown": 8
+        "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     1809
   ],
   "equip1": [
-    "chip",
-    "exoSkeleton"
+    "nightvision",
+    "suppressor"
   ],
   "equip2": [
     "hpAmmo"
   ],
   "equip3": [
-    "optical",
-    "holo",
-    "reddot",
-    "nightvision",
-    "suppressor"
+    "chip",
+    "exoSkeleton"
   ],
   "skins": []
 }, {
@@ -21852,7 +21979,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     305,
@@ -21867,8 +21995,7 @@
   ],
   "equip3": [
     "chip",
-    "exoSkeleton",
-    "medal"
+    "exoSkeleton"
   ]
 }, {
   "id": 1002,
@@ -21951,7 +22078,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     303
@@ -22049,7 +22177,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     309
@@ -22140,7 +22269,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     307
@@ -22235,7 +22365,8 @@
         "level": 10,
         "cooldown": 1
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     307
@@ -22331,7 +22462,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     306
@@ -22422,7 +22554,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     308
@@ -22480,7 +22613,8 @@
     "codename": "Seele",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     306
@@ -22579,7 +22713,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     206
@@ -22676,7 +22811,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     306
@@ -22726,7 +22862,8 @@
     "codename": "rateBuff",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "skins": [
     5010
@@ -22778,7 +22915,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -22829,7 +22967,8 @@
     "codename": "AimAttackSpecificTarge",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 120,
   "skins": [
@@ -22882,7 +23021,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -22931,7 +23071,8 @@
     "codename": "powBuff",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 130,
   "skins": [
@@ -22984,7 +23125,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23030,7 +23172,8 @@
     "codename": "MosinNagant",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 130,
   "skins": [
@@ -23083,7 +23226,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23132,7 +23276,8 @@
     "codename": "rateBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "skins": [
     5011
@@ -23184,7 +23329,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23233,7 +23379,8 @@
     "codename": "powBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 115,
   "skins": [
@@ -23286,7 +23433,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23340,7 +23488,8 @@
     "codename": "M4_Nightmare",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 115,
   "skins": [
@@ -23393,7 +23542,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23489,14 +23639,16 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "skill2": {
     "id": "801602",
     "codename": "SplitGrenade",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23556,7 +23708,8 @@
     "codename": "AR15_Shot",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 120,
   "skins": [
@@ -23609,7 +23762,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23666,7 +23820,8 @@
     "codename": "RifleGrenade",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "skins": [
     5012
@@ -23718,7 +23873,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23770,7 +23926,8 @@
     "codename": "M1918",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 125,
   "skins": [
@@ -23823,7 +23980,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -23915,7 +24073,8 @@
         "level": 10,
         "cooldown": 0.16666666666666666
       }
-    ]
+    ],
+    "consumption": 0
   },
   "skins": [
     5013
@@ -23967,7 +24126,8 @@
         "level": 10,
         "cooldown": 18
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -24019,7 +24179,8 @@
     "codename": "rateBuff",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 120,
   "skins": [
@@ -24072,7 +24233,8 @@
         "level": 10,
         "cooldown": 12
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -24122,7 +24284,8 @@
     "codename": "rateBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 130,
   "skins": [
@@ -24175,7 +24338,8 @@
         "level": 10,
         "cooldown": 8
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -24224,7 +24388,8 @@
     "codename": "dodgeBuffSelf",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "grow": 105,
   "skins": [
@@ -24277,7 +24442,8 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "obtain": [
     35
@@ -24372,14 +24538,16 @@
         "level": 10,
         "cooldown": 16
       }
-    ]
+    ],
+    "consumption": 0
   },
   "skill2": {
     "id": "801804",
     "codename": "ShortCircuit",
     "cooldownType": "second",
     "initialCooldown": 0,
-    "dataPool": []
+    "dataPool": [],
+    "consumption": 0
   },
   "obtain": [
     35

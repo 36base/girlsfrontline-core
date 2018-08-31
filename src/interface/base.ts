@@ -30,6 +30,7 @@ interface IBaseSkill {
   codename: string;
   cooldownType: string;
   initialCooldown: number;
+  consumption: number;
 }
 
 export interface ISkill extends IBaseSkill {

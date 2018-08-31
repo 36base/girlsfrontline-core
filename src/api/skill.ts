@@ -7,7 +7,7 @@ export enum SkillType {
 }
 
 export function getSkill(skill:ISkillJson, { level = 10 } = {}):ISkill {
-  const { id, codename, cooldownType, initialCooldown, dataPool } = skill;
+  const { id, codename, cooldownType, initialCooldown, dataPool, consumption } = skill;
   const name:string = getSkillResource(1, id, level);
   const description:string = getSkillResource(2, id, level);
   const detail:ISkillDetail = {};
@@ -26,6 +26,7 @@ export function getSkill(skill:ISkillJson, { level = 10 } = {}):ISkill {
     initialCooldown,
     cooldown,
     detail,
+    consumption,
   };
 }
 
