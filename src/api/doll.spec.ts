@@ -32,8 +32,8 @@ describe('`getEffect()`', () => {
   });
   test('returns effect of BB_Noel when dummyLink is 3', () => {
     const { type, effect } = BB_Noel;
-    const gridEffect:IStats = {};
-    Object.entries(effect.gridEffect).map(([key, value]) => {
+    const gridEffect = { ...effect.gridEffect };
+    Object.entries(gridEffect).map(([key, value]) => {
       gridEffect[key] = Math.floor(Number(value) * 1.5);
     });
     expect(getEffect(type, 3, effect)).toMatchObject({
@@ -43,8 +43,8 @@ describe('`getEffect()`', () => {
   });
   test('returns effect of BB_Noel when dummyLink is 5', () => {
     const { type, effect } = BB_Noel;
-    const gridEffect:IStats = {};
-    Object.entries(effect.gridEffect).map(([key, value]) => {
+    const gridEffect = { ...effect.gridEffect };
+    Object.entries(gridEffect).map(([key, value]) => {
       gridEffect[key] = Math.floor(Number(value) * 2);
     });
     expect(getEffect(type, 5, effect)).toMatchObject({

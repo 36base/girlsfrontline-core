@@ -21,8 +21,8 @@ export function getFavorRatio(favor:number) {
 
 export function getEffect(dollType:string, dummyLink:number, effect:IEffect) {
   if (dollType === 'hg') {
-    const gridEffect:IStats = {};
-    Object.entries(effect.gridEffect).forEach(([key, value]) => {
+    const gridEffect = { ...effect.gridEffect };
+    Object.entries(gridEffect).forEach(([key, value]) => {
       gridEffect[key] = Math.floor(Number(value) * (1 + (0.25 * (dummyLink - 1))));
     });
     return { ...effect, gridEffect: { ...gridEffect } };
