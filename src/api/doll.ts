@@ -20,7 +20,7 @@ export function getFavorRatio(favor:number) {
   return 0.15;
 }
 
-export function getEffect(dollType:string, dummyLink:number, effect:IEffect) {
+export function getDollEffect(dollType:string, dummyLink:number, effect:IEffect) {
   if (dollType === 'hg') {
     const gridEffect = { ...effect.gridEffect };
     Object.entries(gridEffect).forEach(([key, value]) => {
@@ -31,7 +31,7 @@ export function getEffect(dollType:string, dummyLink:number, effect:IEffect) {
   return effect;
 }
 
-export function getStats(
+export function getDollStats(
   dollType:string, baseStats:IStats, growRatio:number,
   { level = 100, dummyLink = 5, favor = 50, growth = true } = {},
 ):IStats {

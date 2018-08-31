@@ -1,7 +1,7 @@
 /* tslint:disable variable-name */
 import dollJson from '../../data/doll.json';
 import { IDoll, IStats } from '../interface';
-import { getEffect, getFavorRatio, getStats } from './doll';
+import { getDollEffect, getDollStats, getFavorRatio } from './doll';
 
 const dollData = dollJson as IDoll[];
 
@@ -23,12 +23,12 @@ describe('`getFavorRatio()`', () => {
   });
 });
 
-describe('`getEffect()`', () => {
+describe('`getDollEffect()`', () => {
   const GG_elfeldt = dollData.find(({ codename }) => codename === 'GG_elfeldt') as IDoll;
   const BB_Noel = dollData.find(({ codename }) => codename === 'BB_Noel') as IDoll;
   test('returns effect of GG_elfeldt', () => {
     const { type, effect } = GG_elfeldt;
-    expect(getEffect(type, 5, effect)).toMatchObject(effect);
+    expect(getDollEffect(type, 5, effect)).toMatchObject(effect);
   });
   test('returns effect of BB_Noel when dummyLink is 3', () => {
     const { type, effect } = BB_Noel;
@@ -36,7 +36,7 @@ describe('`getEffect()`', () => {
     Object.entries(gridEffect).map(([key, value]) => {
       gridEffect[key] = Math.floor(Number(value) * 1.5);
     });
-    expect(getEffect(type, 3, effect)).toMatchObject({
+    expect(getDollEffect(type, 3, effect)).toMatchObject({
       ...effect,
       gridEffect,
     });
@@ -47,19 +47,19 @@ describe('`getEffect()`', () => {
     Object.entries(gridEffect).map(([key, value]) => {
       gridEffect[key] = Math.floor(Number(value) * 2);
     });
-    expect(getEffect(type, 5, effect)).toMatchObject({
+    expect(getDollEffect(type, 5, effect)).toMatchObject({
       ...effect,
       gridEffect,
     });
   });
 });
 
-describe('`getStats()`', () => {
+describe('`getDollStats()`', () => {
   const Type100 = dollData.find(({ codename }) => codename === 'Type100') as IDoll;
   const M4A1Mod = dollData.find(({ codename }) => codename === 'M4A1Mod') as IDoll;
   test('returns stats of Type100', () => {
     const { type, stats, grow } = Type100;
-    expect(getStats(type, stats, grow)).toMatchObject({
+    expect(getDollStats(type, stats, grow)).toMatchObject({
       hp: 1060,
       pow: 29,
       hit: 14,
@@ -69,7 +69,7 @@ describe('`getStats()`', () => {
   });
   test('returns stats of Type100 when not using capsule', () => {
     const { type, stats, grow } = Type100;
-    expect(getStats(type, stats, grow, { growth: false })).toMatchObject({
+    expect(getDollStats(type, stats, grow, { growth: false })).toMatchObject({
       hp: 1060,
       pow: 11,
       hit: 2,
@@ -79,7 +79,7 @@ describe('`getStats()`', () => {
   });
   test('returns stats of Type100 when dummyLink is 1', () => {
     const { type, stats, grow } = Type100;
-    expect(getStats(type, stats, grow, { dummyLink: 1 })).toMatchObject({
+    expect(getDollStats(type, stats, grow, { dummyLink: 1 })).toMatchObject({
       hp: 212,
       pow: 29,
       hit: 14,
@@ -89,7 +89,7 @@ describe('`getStats()`', () => {
   });
   test('returns stats of M4A1Mod', () => {
     const { type, stats, grow } = M4A1Mod;
-    expect(getStats(type, stats, grow, { level: 120 })).toMatchObject({
+    expect(getDollStats(type, stats, grow, { level: 120 })).toMatchObject({
       hp: 565,
       pow: 50,
       hit: 50,
@@ -99,7 +99,7 @@ describe('`getStats()`', () => {
   });
   test('returns stats of M4A1Mod when favor is 200', () => {
     const { type, stats, grow } = M4A1Mod;
-    expect(getStats(type, stats, grow, { level: 120, favor: 200 })).toMatchObject({
+    expect(getDollStats(type, stats, grow, { level: 120, favor: 200 })).toMatchObject({
       hp: 565,
       pow: 58,
       hit: 58,
@@ -114,7 +114,7 @@ describe('`getStats()`', () => {
       bar: 2,
     };
     const grow = 300;
-    expect(getStats(type, stats, grow)).toMatchObject({
+    expect(getDollStats(type, stats, grow)).toMatchObject({
       foo: 1,
       bar: 2,
     });

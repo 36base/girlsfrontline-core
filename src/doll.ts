@@ -1,4 +1,4 @@
-import { getDollResource, getEffect, getStats } from './api/doll';
+import { getDollEffect, getDollResource, getDollStats } from './api/doll';
 import { getSkill } from './api/skill';
 import { IDoll, IEffect, IMindupdate, ISkill, ISkillJson, IStats } from './interface';
 
@@ -28,14 +28,14 @@ export default class Doll{
 
   private readonly _stats: IStats;
   get stats(): IStats {
-    return getStats(
+    return getDollStats(
       this.type, this._stats, this.grow,
       { level: this._level, favor: this._favor },
     );
   }
   private readonly _effect: IEffect;
   get effect(): IEffect {
-    return getEffect(this.type, this._dummyLink, this._effect);
+    return getDollEffect(this.type, this._dummyLink, this._effect);
   }
   private readonly _skill1: ISkillJson;
   get skill1(): ISkill {
