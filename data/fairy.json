@@ -1164,4 +1164,144 @@
     350,
     550
   ]
+}, {
+  "id": 1001,
+  "category": "battle",
+  "codename": "Sakura",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 220,
+    "dodge": 75,
+    "armor": 65,
+    "criticalHarmRate": 200
+  },
+  "grow": 60,
+  "skill": {
+    "id": "900118",
+    "codename": "Sakura",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": []
+  },
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
+}, {
+  "id": 1002,
+  "category": "strategy",
+  "codename": "Kaguya",
+  "buildTime": 18600,
+  "stats": {
+    "hit": 173,
+    "dodge": 75,
+    "armor": 180,
+    "criticalHarmRate": 195
+  },
+  "grow": 60,
+  "skill": {
+    "id": "*1002",
+    "codename": "Kaguya",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ]
+  },
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
+}, {
+  "id": 1003,
+  "category": "battle",
+  "codename": "Chloe",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 145,
+    "hit": 135,
+    "dodge": 199,
+    "armor": 65
+  },
+  "grow": 60,
+  "skill": {
+    "id": "900119",
+    "codename": "Chloe",
+    "cooldownType": "second",
+    "initialCooldown": 2,
+    "dataPool": []
+  },
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }]

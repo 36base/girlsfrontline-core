@@ -20,7 +20,7 @@ function init(locale:string):ICore {
 
     // 개조 인형 데이터일때
     return id > 20000
-      ? new Doll({ ...dollData.find(({ id: baseId }) => baseId === (id - 20000)), ...data })
+      ? new Doll({ ...dollData.find(({ id: dollId }) => dollId === (id - 20000)), ...data })
       : new Doll(data);
   });
   // TODO: TODO
