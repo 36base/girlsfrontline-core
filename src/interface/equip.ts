@@ -1,13 +1,13 @@
 import { IBaseStats, IPowerup } from './base';
 
-interface IEquipStatDetail {
+export interface IEquipStatDetail {
   min: number;
   max: number;
   upgrade?: number;
 }
 
-interface IEquipStats extends IBaseStats {
-  [key:string]: IEquipStatDetail|undefined;
+export interface IEquipStats extends IBaseStats {
+  [key:string]: IEquipStatDetail;
 }
 
 export interface IEquip {
@@ -22,5 +22,5 @@ export interface IEquip {
   buildTime: number;
   stats: IEquipStats;
   powerup: IPowerup;
-  fitGuns: string[];
+  fitGuns: number[];
 }

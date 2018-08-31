@@ -2,6 +2,7 @@ import dollJson from '../data/doll.json';
 import equipJson from '../data/equip.json';
 import fairyJson from '../data/fairy.json';
 import Doll from './doll';
+// import Equip from './equip';
 import { IDoll, IEquip, IFairy } from './interface';
 // import { getEquip } from './api/equip';
 // import { getFairy } from './api/fairy';
@@ -23,8 +24,8 @@ function init(locale:string):ICore {
       ? new Doll({ ...dollData.find(({ id: dollId }) => dollId === (id - 20000)), ...data })
       : new Doll(data);
   });
+  // const equips = equipData.map(data => new Equip(data));
   // TODO: TODO
-  // const equips = equipData.map(data => getEquip(data));
   // const fairy = fairyData.map(data => getFairy(data));
 
   return { dolls };
