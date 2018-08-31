@@ -34,7 +34,7 @@
     "criticalPercent": {
       "min": 9,
       "max": 12,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -57,7 +57,7 @@
     "criticalPercent": {
       "min": 13,
       "max": 16,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -80,7 +80,7 @@
     "criticalPercent": {
       "min": 17,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -133,12 +133,12 @@
     "pow": {
       "min": 1,
       "max": 2,
-      "upgrade": 5
+      "upgrade": 500
     },
     "hit": {
       "min": 2,
       "max": 2,
-      "upgrade": 5
+      "upgrade": 500
     },
     "rate": {
       "min": -2,
@@ -165,12 +165,12 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 4
+      "upgrade": 400
     },
     "hit": {
       "min": 3,
       "max": 5,
-      "upgrade": 4
+      "upgrade": 400
     },
     "rate": {
       "min": -4,
@@ -197,12 +197,12 @@
     "pow": {
       "min": 4,
       "max": 6,
-      "upgrade": 4
+      "upgrade": 400
     },
     "hit": {
       "min": 6,
       "max": 10,
-      "upgrade": 4
+      "upgrade": 400
     },
     "rate": {
       "min": -6,
@@ -255,7 +255,7 @@
     "hit": {
       "min": 4,
       "max": 6,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -2,
@@ -282,7 +282,7 @@
     "hit": {
       "min": 7,
       "max": 10,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -3,
@@ -309,7 +309,7 @@
     "hit": {
       "min": 11,
       "max": 15,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -4,
@@ -446,7 +446,7 @@
     "armorPiercing": {
       "min": 40,
       "max": 50,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -469,7 +469,7 @@
     "armorPiercing": {
       "min": 55,
       "max": 65,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -492,7 +492,7 @@
     "armorPiercing": {
       "min": 70,
       "max": 80,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -537,7 +537,7 @@
     "pow": {
       "min": 3,
       "max": 4,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -560,7 +560,7 @@
     "pow": {
       "min": 5,
       "max": 7,
-      "upgrade": 8
+      "upgrade": 800
     }
   },
   "powerup": {
@@ -583,7 +583,7 @@
     "pow": {
       "min": 8,
       "max": 12,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -636,7 +636,7 @@
     "dodge": {
       "min": 10,
       "max": 12,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -663,7 +663,7 @@
     "dodge": {
       "min": 14,
       "max": 16,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -690,7 +690,7 @@
     "dodge": {
       "min": 20,
       "max": 25,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -717,7 +717,7 @@
     "armor": {
       "min": 3,
       "max": 3,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -744,7 +744,7 @@
     "armor": {
       "min": 4,
       "max": 5,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -771,7 +771,7 @@
     "armor": {
       "min": 6,
       "max": 8,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -816,7 +816,7 @@
     "armorPiercing": {
       "min": 80,
       "max": 80,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -965,7 +965,7 @@
     "dodge": {
       "min": 4,
       "max": 5,
-      "upgrade": 8
+      "upgrade": 800
     }
   },
   "powerup": {
@@ -988,7 +988,7 @@
     "dodge": {
       "min": 6,
       "max": 7,
-      "upgrade": 9
+      "upgrade": 900
     }
   },
   "powerup": {
@@ -1011,7 +1011,7 @@
     "dodge": {
       "min": 8,
       "max": 12,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -1028,7 +1028,7 @@
   "type": "apAmmo",
   "company": "NMS",
   "fitGuns": [
-    "36"
+    36
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1037,12 +1037,12 @@
     "rate": {
       "min": 1,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     },
     "armorPiercing": {
       "min": 75,
       "max": 85,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1059,8 +1059,8 @@
   "type": "hvAmmo",
   "company": "16Lab",
   "fitGuns": [
-    "57",
-    "20057"
+    57,
+    20057
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1069,7 +1069,7 @@
     "pow": {
       "min": 12,
       "max": 16,
-      "upgrade": 6
+      "upgrade": 600
     },
     "hit": {
       "min": -5,
@@ -1090,8 +1090,8 @@
   "type": "chip",
   "company": "16Lab",
   "fitGuns": [
-    "75",
-    "20075"
+    75,
+    20075
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1108,7 +1108,7 @@
     "bullet": {
       "min": 3,
       "max": 4,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1125,7 +1125,7 @@
   "type": "exoSkeleton",
   "company": "16Lab",
   "fitGuns": [
-    "26"
+    26
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1138,7 +1138,7 @@
     "dodge": {
       "min": 30,
       "max": 45,
-      "upgrade": 3
+      "upgrade": 300
     }
   },
   "powerup": {
@@ -1187,12 +1187,12 @@
     "dodge": {
       "min": 3,
       "max": 3,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalPercent": {
       "min": 6,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     }
   },
   "powerup": {
@@ -1215,12 +1215,12 @@
     "dodge": {
       "min": 4,
       "max": 5,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalPercent": {
       "min": 9,
       "max": 11,
-      "upgrade": 3
+      "upgrade": 300
     }
   },
   "powerup": {
@@ -1243,12 +1243,12 @@
     "dodge": {
       "min": 6,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -1275,7 +1275,7 @@
     "bullet": {
       "min": 1,
       "max": 1,
-      "upgrade": 20
+      "upgrade": 2000
     }
   },
   "powerup": {
@@ -1302,7 +1302,7 @@
     "bullet": {
       "min": 2,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -1351,7 +1351,7 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "armorPiercing": {
       "min": -3,
@@ -1378,7 +1378,7 @@
     "pow": {
       "min": 4,
       "max": 6,
-      "upgrade": 5
+      "upgrade": 500
     },
     "armorPiercing": {
       "min": -6,
@@ -1405,7 +1405,7 @@
     "pow": {
       "min": 7,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "armorPiercing": {
       "min": -10,
@@ -1458,12 +1458,12 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalHarmRate": {
       "min": 5,
       "max": 6,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1486,12 +1486,12 @@
     "pow": {
       "min": 4,
       "max": 6,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalHarmRate": {
       "min": 7,
       "max": 9,
-      "upgrade": 6
+      "upgrade": 600
     }
   },
   "powerup": {
@@ -1514,12 +1514,12 @@
     "pow": {
       "min": 7,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalHarmRate": {
       "min": 10,
       "max": 15,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1564,7 +1564,7 @@
     "hit": {
       "min": 3,
       "max": 4,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -1587,7 +1587,7 @@
     "hit": {
       "min": 5,
       "max": 7,
-      "upgrade": 9
+      "upgrade": 900
     }
   },
   "powerup": {
@@ -1610,7 +1610,7 @@
     "hit": {
       "min": 8,
       "max": 12,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -1637,7 +1637,7 @@
     "armor": {
       "min": 8,
       "max": 8,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -1660,12 +1660,12 @@
     "pow": {
       "min": 10,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalHarmRate": {
       "min": 15,
       "max": 15,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1682,8 +1682,8 @@
   "type": "optical",
   "company": "KST",
   "fitGuns": [
-    "58",
-    "66"
+    58,
+    66
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1692,12 +1692,12 @@
     "criticalHarmRate": {
       "min": 40,
       "max": 40,
-      "upgrade": 1
+      "upgrade": 100
     },
     "criticalPercent": {
       "min": 32,
       "max": 32,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1714,8 +1714,8 @@
   "type": "optical",
   "company": "KST",
   "fitGuns": [
-    "58",
-    "66"
+    58,
+    66
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1724,12 +1724,12 @@
     "criticalHarmRate": {
       "min": 25,
       "max": 25,
-      "upgrade": 2
+      "upgrade": 200
     },
     "criticalPercent": {
       "min": 32,
       "max": 32,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1746,8 +1746,8 @@
   "type": "optical",
   "company": "KST",
   "fitGuns": [
-    "58",
-    "66"
+    58,
+    66
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1756,12 +1756,12 @@
     "criticalHarmRate": {
       "min": 10,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalPercent": {
       "min": 32,
       "max": 32,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1778,8 +1778,8 @@
   "type": "chip",
   "company": "16Lab",
   "fitGuns": [
-    "39",
-    "20039"
+    39,
+    20039
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1788,17 +1788,17 @@
     "pow": {
       "min": 18,
       "max": 25,
-      "upgrade": 2
+      "upgrade": 200
     },
     "dodge": {
       "min": 2,
       "max": 4,
-      "upgrade": 3
+      "upgrade": 300
     },
     "criticalHarmRate": {
       "min": 15,
       "max": 20,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -1851,7 +1851,7 @@
     "criticalHarmRate": {
       "min": 5,
       "max": 7,
-      "upgrade": 9
+      "upgrade": 900
     }
   },
   "powerup": {
@@ -1878,7 +1878,7 @@
     "criticalHarmRate": {
       "min": 8,
       "max": 10,
-      "upgrade": 8
+      "upgrade": 800
     }
   },
   "powerup": {
@@ -1905,7 +1905,7 @@
     "criticalHarmRate": {
       "min": 11,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -1922,7 +1922,7 @@
   "type": "armorPlate",
   "company": "SF",
   "fitGuns": [
-    "54"
+    54
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1935,7 +1935,7 @@
     "dodge": {
       "min": 8,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     },
     "rate": {
       "min": -10,
@@ -1944,7 +1944,7 @@
     "armor": {
       "min": 15,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -1961,10 +1961,10 @@
   "type": "exoSkeleton",
   "company": "IOP",
   "fitGuns": [
-    "101",
-    "102",
-    "103",
-    "20103"
+    101,
+    102,
+    103,
+    20103
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -1973,12 +1973,12 @@
     "dodge": {
       "min": 20,
       "max": 25,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalHarmRate": {
       "min": 11,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -1995,7 +1995,7 @@
   "type": "nightvision",
   "company": "IDB",
   "fitGuns": [
-    "118"
+    118
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2004,7 +2004,7 @@
     "pow": {
       "min": 5,
       "max": 5,
-      "upgrade": 6
+      "upgrade": 600
     },
     "nightview": {
       "min": 100,
@@ -2025,7 +2025,7 @@
   "type": "chip",
   "company": "16Lab",
   "fitGuns": [
-    "185"
+    185
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2034,7 +2034,7 @@
     "pow": {
       "min": 3,
       "max": 5,
-      "upgrade": 6
+      "upgrade": 600
     },
     "hit": {
       "min": -5,
@@ -2043,7 +2043,7 @@
     "bullet": {
       "min": 3,
       "max": 4,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -2066,7 +2066,7 @@
     "pow": {
       "min": 10,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "armorPiercing": {
       "min": -7,
@@ -2097,7 +2097,7 @@
     "criticalHarmRate": {
       "min": 15,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -2114,8 +2114,8 @@
   "type": "medal",
   "company": "16Lab",
   "fitGuns": [
-    "20055",
-    "55"
+    20055,
+    55
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2124,12 +2124,12 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "armor": {
       "min": 9,
       "max": 12,
-      "upgrade": 2.5
+      "upgrade": 250
     }
   },
   "powerup": {
@@ -2146,8 +2146,8 @@
   "type": "spPart",
   "company": "16Lab",
   "fitGuns": [
-    "20057",
-    "57"
+    20057,
+    57
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2156,12 +2156,12 @@
     "hit": {
       "min": 4,
       "max": 6,
-      "upgrade": 7
+      "upgrade": 700
     },
     "criticalHarmRate": {
       "min": 11,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -2178,8 +2178,8 @@
   "type": "hpAmmo",
   "company": "AAI",
   "fitGuns": [
-    "20002",
-    "2"
+    20002,
+    2
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2188,7 +2188,7 @@
     "pow": {
       "min": 8,
       "max": 11,
-      "upgrade": 5.5
+      "upgrade": 550
     },
     "armorPiercing": {
       "min": -10,
@@ -2209,8 +2209,8 @@
   "type": "chip",
   "company": "NTD",
   "fitGuns": [
-    "20093",
-    "93"
+    20093,
+    93
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2223,12 +2223,12 @@
     "dodge": {
       "min": 21,
       "max": 26,
-      "upgrade": 4.5
+      "upgrade": 450
     },
     "rate": {
       "min": 1,
       "max": 2,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -2245,8 +2245,8 @@
   "type": "suppressor",
   "company": "NRC",
   "fitGuns": [
-    "20094",
-    "94"
+    20094,
+    94
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2255,12 +2255,12 @@
     "dodge": {
       "min": 8,
       "max": 11,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -2277,8 +2277,8 @@
   "type": "spPart",
   "company": "FNH",
   "fitGuns": [
-    "20051",
-    "51"
+    20051,
+    51
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2287,12 +2287,12 @@
     "rate": {
       "min": 2,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "criticalPercent": {
       "min": 17,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2309,7 +2309,7 @@
   "type": "optical",
   "company": "S&B",
   "fitGuns": [
-    "46"
+    46
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2318,12 +2318,12 @@
     "criticalHarmRate": {
       "min": 10,
       "max": 10,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "criticalPercent": {
       "min": 24,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2340,7 +2340,7 @@
   "type": "holo",
   "company": "16Lab",
   "fitGuns": [
-    "65"
+    65
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2349,17 +2349,17 @@
     "pow": {
       "min": 4,
       "max": 6,
-      "upgrade": 4
+      "upgrade": 400
     },
     "hit": {
       "min": 6,
       "max": 10,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -2376,7 +2376,7 @@
   "type": "ammunitionBox",
   "company": "16Lab",
   "fitGuns": [
-    "88"
+    88
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2397,7 +2397,7 @@
     "bullet": {
       "min": 20,
       "max": 20,
-      "upgrade": 5
+      "upgrade": 500
     }
   },
   "powerup": {
@@ -2414,7 +2414,7 @@
   "type": "cloak",
   "company": "16Lab",
   "fitGuns": [
-    "42"
+    42
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2427,12 +2427,12 @@
     "rate": {
       "min": 1,
       "max": 2,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "criticalHarmRate": {
       "min": 11,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -2455,7 +2455,7 @@
     "criticalPercent": {
       "min": 24,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2478,7 +2478,7 @@
     "pow": {
       "min": 12,
       "max": 12,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -2495,8 +2495,8 @@
   "type": "optical",
   "company": "KSH",
   "fitGuns": [
-    "20039",
-    "39"
+    20039,
+    39
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2505,12 +2505,12 @@
     "hit": {
       "min": 2,
       "max": 3,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "criticalPercent": {
       "min": 18,
       "max": 25,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2527,8 +2527,8 @@
   "type": "reddot",
   "company": "CT",
   "fitGuns": [
-    "20075",
-    "75"
+    20075,
+    75
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2537,7 +2537,7 @@
     "hit": {
       "min": 11,
       "max": 15,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -4,
@@ -2546,7 +2546,7 @@
     "criticalPercent": {
       "min": 3,
       "max": 5,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2563,8 +2563,8 @@
   "type": "suppressor",
   "company": "NS",
   "fitGuns": [
-    "20005",
-    "5"
+    20005,
+    5
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2573,17 +2573,17 @@
     "hit": {
       "min": 1,
       "max": 2,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "dodge": {
       "min": 7,
       "max": 10,
-      "upgrade": 4
+      "upgrade": 400
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -2600,8 +2600,8 @@
   "type": "spPart",
   "company": "IMP",
   "fitGuns": [
-    "20091",
-    "91"
+    20091,
+    91
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2610,17 +2610,17 @@
     "hit": {
       "min": 3,
       "max": 4,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "dodge": {
       "min": 6,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -2637,8 +2637,8 @@
   "type": "cloak",
   "company": "FSB",
   "fitGuns": [
-    "20044",
-    "44"
+    20044,
+    44
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2647,7 +2647,7 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "speed": {
       "min": -3,
@@ -2656,7 +2656,7 @@
     "criticalHarmRate": {
       "min": 11,
       "max": 15,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
@@ -2673,7 +2673,7 @@
   "type": "nightvision",
   "company": "DJMAX",
   "fitGuns": [
-    "1009"
+    1009
   ],
   "exclusiveRate": 3,
   "maxLevel": 0,
@@ -2698,7 +2698,7 @@
   "type": "nightvision",
   "company": "DJMAX",
   "fitGuns": [
-    "1010"
+    1010
   ],
   "exclusiveRate": 3,
   "maxLevel": 0,
@@ -2723,7 +2723,7 @@
   "type": "optical",
   "company": "SED",
   "fitGuns": [
-    "69"
+    69
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2732,17 +2732,17 @@
     "pow": {
       "min": 1,
       "max": 2,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "hit": {
       "min": 1,
       "max": 2,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "criticalPercent": {
       "min": 17,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2765,7 +2765,7 @@
     "hit": {
       "min": 15,
       "max": 15,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -1,
@@ -2796,7 +2796,7 @@
     "dodge": {
       "min": 25,
       "max": 25,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -2813,8 +2813,8 @@
   "type": "spPart",
   "company": "CT",
   "fitGuns": [
-    "20001",
-    "1"
+    20001,
+    1
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2823,17 +2823,17 @@
     "pow": {
       "min": 1,
       "max": 2,
-      "upgrade": 5
+      "upgrade": 500
     },
     "dodge": {
       "min": 6,
       "max": 8,
-      "upgrade": 3
+      "upgrade": 300
     },
     "criticalPercent": {
       "min": 12,
       "max": 15,
-      "upgrade": 3.5
+      "upgrade": 350
     }
   },
   "powerup": {
@@ -2850,8 +2850,8 @@
   "type": "spPart",
   "company": "LA",
   "fitGuns": [
-    "20089",
-    "89"
+    20089,
+    89
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2860,12 +2860,12 @@
     "pow": {
       "min": 2,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "hit": {
       "min": 11,
       "max": 15,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "rate": {
       "min": -4,
@@ -2886,8 +2886,8 @@
   "type": "spPart",
   "company": "PTR",
   "fitGuns": [
-    "20063",
-    "63"
+    20063,
+    63
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2896,12 +2896,12 @@
     "pow": {
       "min": 1,
       "max": 2,
-      "upgrade": 10
+      "upgrade": 1000
     },
     "criticalPercent": {
       "min": 17,
       "max": 24,
-      "upgrade": 10
+      "upgrade": 1000
     }
   },
   "powerup": {
@@ -2918,8 +2918,8 @@
   "type": "spPart",
   "company": "???",
   "fitGuns": [
-    "20103",
-    "103"
+    20103,
+    103
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2928,12 +2928,12 @@
     "dodge": {
       "min": 7,
       "max": 10,
-      "upgrade": 5
+      "upgrade": 500
     },
     "criticalPercent": {
       "min": 15,
       "max": 18,
-      "upgrade": 4
+      "upgrade": 400
     }
   },
   "powerup": {
@@ -2950,8 +2950,8 @@
   "type": "spPart",
   "company": "???",
   "fitGuns": [
-    "20056",
-    "56"
+    20056,
+    56
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2960,12 +2960,12 @@
     "pow": {
       "min": 6,
       "max": 9,
-      "upgrade": 3.5
+      "upgrade": 350
     },
     "hit": {
       "min": 6,
       "max": 10,
-      "upgrade": 4
+      "upgrade": 400
     },
     "rate": {
       "min": -4,
@@ -2986,7 +2986,7 @@
   "type": "medal",
   "company": "MS",
   "fitGuns": [
-    "62"
+    62
   ],
   "exclusiveRate": 3,
   "maxLevel": 10,
@@ -2995,17 +2995,17 @@
     "pow": {
       "min": 3,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "hit": {
       "min": 3,
       "max": 3,
-      "upgrade": 7
+      "upgrade": 700
     },
     "dodge": {
       "min": 12,
       "max": 12,
-      "upgrade": 7
+      "upgrade": 700
     }
   },
   "powerup": {
