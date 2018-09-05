@@ -18,11 +18,17 @@ export interface IDollGrow {
   normal: IDollGrowRates;
 }
 
+export interface ISkin {
+  id: number;
+  name: string;
+  description: string;
+}
+
 export interface IEffect {
-  readonly effectType: string;
-  readonly effectCenter: number;
-  readonly effectPos: number[];
-  readonly gridEffect: IStats;
+  effectType: string;
+  effectCenter: number;
+  effectPos: number[];
+  gridEffect: IStats;
 }
 
 export interface IMindupdate {

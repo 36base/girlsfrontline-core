@@ -19,6 +19,12 @@ describe('`CLEAR` Doll class', () => {
   test('returns voice actor', () => {
     expect(CLEAR.voice).toBe('');
   });
+  test('returns skin', () => {
+    expect(CLEAR.skins).toMatchObject([{
+      id: 509,
+      name: '포터블 여왕 2세',
+    }]);
+  });
   test('set level to 70', () => {
     CLEAR.level = 70;
     expect(CLEAR.level).toBe(70);
