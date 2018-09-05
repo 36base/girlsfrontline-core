@@ -14,7 +14,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf build && tsc",
+    "build": "rimraf build && tsc -p ./tsconfig.build.json",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
