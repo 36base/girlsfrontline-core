@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-core",
-  "version": "1.0.10-alpha11",
+  "version": "2.0.0-alpha12",
   "description": "GirlsFrontline Library",
   "main": "./build/lib/index.js",
   "types": "./build/lib/index.d.ts",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf build && node ./scripts/build && tsc -p ./tsconfig.build.json",
+    "build": "rimraf build && node ./scripts/build && tsc -p ./tsconfig.build.json && webpack --config ./config/webpack.config.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
@@ -31,11 +31,13 @@
     "lint-staged": "^6.1.1",
     "rimraf": "^2.6.2",
     "ts-jest": "^23.1.4",
-    "ts-loader": "^4.5.0",
+    "ts-loader": "^5.1.0",
     "tslint": "^5.11.0",
     "tslint-config-airbnb": "^5.10.0",
     "tslint-config-prettier": "^1.15.0",
-    "typescript": "^3.0.1"
+    "typescript": "^3.0.1",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
   },
   "jest": {
     "roots": [

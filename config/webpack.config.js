@@ -12,11 +12,11 @@ module.exports = {
     libraryTarget: 'umd',
   },
   resolve: {
-    extensions: [".ts", ".tsx", ".js"]
+    extensions: [".ts", ".tsx", ".js"],
   },
   module: {
     rules: [
-      { test: /\.tsx?$/, loader: "ts-loader" }
+      { test: /\.tsx?$/, loader: "ts-loader", options: { transpileOnly: true } }
     ]
   }
 };
