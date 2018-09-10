@@ -2,8 +2,8 @@
   "name": "girlsfrontline-core",
   "version": "1.0.10-alpha11",
   "description": "GirlsFrontline Library",
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "main": "./build/lib/index.js",
+  "types": "./build/lib/index.d.ts",
   "repository": "https://github.com/36base/girlsfrontline-core",
   "homepage": "https://girlsfrontline.kr",
   "bugs": {
@@ -14,17 +14,18 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf build && tsc -p ./tsconfig.build.json",
+    "build": "rimraf build && node ./scripts/build && tsc -p ./tsconfig.build.json",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
   },
   "dependencies": {
-    "@types/i18next": "^8.4.5",
     "i18next": "^11.6.0"
   },
   "devDependencies": {
+    "@types/i18next": "^8.4.5",
     "@types/jest": "^23.3.1",
+    "fs-extra": "^7.0.0",
     "husky": "^0.14.3",
     "jest": "^22.3.0",
     "lint-staged": "^6.1.1",
@@ -62,7 +63,6 @@
   "files": [
     "LICENSE.md",
     "README.md",
-    "build/",
-    "data/"
+    "build/"
   ]
 }
