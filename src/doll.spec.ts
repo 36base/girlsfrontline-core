@@ -25,6 +25,11 @@ describe('`CLEAR` Doll class', () => {
       name: '포터블 여왕 2세',
     }]);
   });
+  test('returns obatin', () => {
+    expect(CLEAR.obtain).toMatchObject([
+      { description: '기간한정 이벤트【Glory Day】2-3클리어 보상', id: 206 },
+    ]);
+  });
   test('set level to 70', () => {
     CLEAR.level = 70;
     expect(CLEAR.level).toBe(70);
@@ -123,5 +128,18 @@ describe('`M4A1Mod` Doll class', () => {
       initialCooldown: 0,
       name: '설한의 쐐기',
     });
+  });
+});
+
+describe('`M1A1` Doll class', () => {
+  const M1A1 = new Doll(dollData.find(({ codename }) => codename === 'M1A1') as IDoll);
+  test('returns Doll class of M1A1', () => {
+    expect(M1A1).toBeTruthy();
+  });
+  test('returns obatin', () => {
+    expect(M1A1.obtain).toMatchObject([
+      { description: '【일반6-6】또는【긴급6-4】에서', id: 18 },
+      { description: '보스전 S 승리 OR 전역 S 클리어로 획득 가능', id: 19 },
+    ]);
   });
 });

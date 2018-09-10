@@ -1,7 +1,7 @@
 import { getSkinResource, SkinType } from './api/base';
-import { getDollEffect, getDollResource, getDollSkins, getDollStats } from './api/doll';
+import { getDollEffect, getDollObtain, getDollResource, getDollSkins, getDollStats } from './api/doll';
 import { getSkill } from './api/skill';
-import { IDoll, IEffect, IMindupdate, ISkill, ISkillJson, ISkin, IStats } from './interface';
+import { IDoll, IEffect, IMindupdate, IObtain, ISkill, ISkillJson, ISkin, IStats } from './interface';
 
 export default class Doll{
   public readonly id: number;
@@ -11,7 +11,6 @@ export default class Doll{
   public readonly grow: number;
   public readonly codename: string;
   public readonly mindupdate: IMindupdate[];
-  public readonly obtain: number[];
   public readonly equip1: string[];
   public readonly equip2: string[];
   public readonly equip3: string[];
@@ -48,8 +47,10 @@ export default class Doll{
     }
     return null;
   }
-
-  // }
+  private readonly _obtain: number[];
+  get obtain():IObtain[] {
+    return getDollObtain(this._obtain);
+  }
   private readonly _skins: number[];
   get skins():ISkin[] {
     return getDollSkins(this._skins);
@@ -123,7 +124,7 @@ export default class Doll{
     this._skill1 = skill1;
     this._skill2 = skill2;
     this.mindupdate = mindupdate;
-    this.obtain = obtain;
+    this._obtain = obtain;
     this._skins = skins;
     this.equip1 = equip1;
     this.equip2 = equip2;

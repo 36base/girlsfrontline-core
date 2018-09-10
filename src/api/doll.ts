@@ -1,10 +1,10 @@
 import dollAttributeJson from '../../data/dollAttribute.json';
 import dollGrowJson from '../../data/dollGrow.json';
 import i18next from '../i18next';
-import { IDollAttribute, IDollGrow, IEffect, ISkin, IStats } from '../interface';
+import { IDollAttribute, IDollGrow, IEffect, IObtain, ISkin, IStats } from '../interface';
 import { getSkinResource, SkinType } from './base';
 
-export function getDollSkins(skins: number[]) {
+export function getDollSkins(skins: number[]):ISkin[] {
   return skins.map((skinId) => {
     const resources = getSkinResource(SkinType.Doll, 1, skinId).split('-').map(str => str.trim());
     const name = resources[resources.length - 1];
@@ -14,6 +14,20 @@ export function getDollSkins(skins: number[]) {
       name,
     };
   }) as ISkin[];
+}
+
+export function getDollObtain(obtain: number[]):IObtain[] {
+  return obtain.map((id) => {
+    // 텍스트 후처리
+    let description = getDollResource(1, id, { prefix: 'gun_obtain' }).trim();
+    if (description.startsWith('-')) {
+      description = description.substr(1);
+    }
+    return {
+      id,
+      description,
+    };
+  }) as IObtain[];
 }
 
 export function getFavorRatio(favor:number) {
@@ -91,7 +105,7 @@ export function getDollStats(
   return stats;
 }
 
-export function getDollResource(resourceId:number, dollId:string|number) {
+export function getDollResource(resourceId:number, dollId:string|number, { prefix = 'gun' } = {}):string {
   const padId = String(dollId).padStart(7, '0');
-  return i18next.t(`gun-${resourceId}${padId}`);
+  return i18next.t(`${prefix}-${resourceId}${padId}`);
 }

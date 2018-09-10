@@ -24,6 +24,11 @@ export interface ISkin {
   description: string;
 }
 
+export interface IObtain {
+  id: number;
+  description: string;
+}
+
 export interface IEffect {
   effectType: string;
   effectCenter: number;
