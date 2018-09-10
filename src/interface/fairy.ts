@@ -1,5 +1,6 @@
 import fairyGrowJson from '../../data/fairyGrow.json';
 import { IPowerup, ISkillJson, IStats } from './base';
+import { ISkin } from './doll';
 
 export interface IFairyGrow {
   [key:string]: number[];
@@ -9,6 +10,15 @@ export interface IFairyGrow {
   hit: [number, number];
   pow: [number, number];
   proportion: [number, number, number, number, number];
+}
+
+export interface IFairySkinJson {
+  id: number;
+  codename: string;
+}
+
+export interface IFairySkin extends ISkin {
+  codename: string;
 }
 
 export interface IFairy {
@@ -22,5 +32,5 @@ export interface IFairy {
   powerup: IPowerup;
   retireExp: number;
   qualityExp: number[];
-  skins: number[];
+  skins: IFairySkinJson[];
 }

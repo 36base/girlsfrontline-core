@@ -19,6 +19,13 @@ describe('`Sakura` Fairy class', () => {
   test('returns description', () => {
     expect(Sakura.description).toBe('다수의 적에게 대미지를 입힐 수 있고, 전투 중 대량의 불 기둥을 만들어 닿은 적들에게 피해를 입힙니다');
   });
+  test('returns skins', () => {
+    expect(Sakura.skins).toMatchObject([
+      { codename: 'Sakura_1', description: '1단계 기본 외형', id: 55, name: '야에 사쿠라' },
+      { codename: 'Sakura_2', description: '2단계 기본 외형', id: 56, name: '야에 사쿠라' },
+      { codename: 'Sakura_3', description: '3단계 기본 외형', id: 57, name: '야에 사쿠라' },
+    ]);
+  });
   test('set level to 70', () => {
     Sakura.level = 70;
     expect(Sakura.level).toBe(70);

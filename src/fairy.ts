@@ -1,6 +1,6 @@
-import { getFairyResource, getFairyStats } from './api/fairy';
+import { getFairyResource, getFairySkins, getFairyStats } from './api/fairy';
 import { getSkill } from './api/skill';
-import { IFairy, IPowerup, ISkill, ISkillJson, IStats } from './interface';
+import { IFairy, IFairySkin, IFairySkinJson, IPowerup, ISkill, ISkillJson, IStats } from './interface';
 
 export default class Fairy {
   public readonly id: number;
@@ -22,7 +22,6 @@ export default class Fairy {
     return getFairyResource(3, this.id);
   }
 
-  private readonly _skins: number[];
   private readonly _skill: ISkillJson;
   get skill():ISkill {
     return getSkill(this._skill, { level: this._skillLevel });
@@ -33,6 +32,10 @@ export default class Fairy {
       level: this._level,
       qualityLevel: this._qualityLevel,
     });
+  }
+  private readonly _skins: IFairySkinJson[];
+  get skins():IFairySkin[] {
+    return getFairySkins(this._skins);
   }
 
   private _level = 100;
