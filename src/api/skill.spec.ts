@@ -16,8 +16,8 @@ describe('`getSkill()`', () => {
     expect(skill1).toMatchObject({
       name: '일제사격',
       description: '아군 전체 화력을 22% 상승시킨다. 지속시간 8초',
-      cooldown: 12,
-      cooldownType: 'second',
+      cooldown: 360,
+      cooldownType: 'frame',
       detail: {
         '쿨타임': '12초',
         '화력 상승치': '22%',
@@ -32,8 +32,8 @@ describe('`getSkill()`', () => {
     expect(skill1).toMatchObject({
       name: '일제사격',
       description: '아군 전체 화력을 18% 상승시킨다. 지속시간 7초',
-      cooldown: 13,
-      cooldownType: 'second',
+      cooldown: 390,
+      cooldownType: 'frame',
       detail: {
         '쿨타임': '13초',
         '화력 상승치': '18%',

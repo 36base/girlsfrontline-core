@@ -61,11 +61,11 @@ describe('`Sakura` Fairy class', () => {
     expect(Sakura.skill).toMatchObject({
       codename: 'Sakura',
       cooldown: 0,
-      cooldownType: 'second',
+      cooldownType: 'frame',
       description: '다음 전투에서 비옥환이 적이 있는 곳에 넓은 범위의 불기둥을 만들어, 닿는 적에게 2초 동안 0.5초마다 80씩의 피해를 입힌다.',
       detail:{ '불기둥 대미지': '80' },
       id: '900118',
-      initialCooldown: 1,
+      initialCooldown: 30,
       name: '비옥환세',
     });
   });

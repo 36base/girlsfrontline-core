@@ -22,4 +22,5 @@ export interface IFairy {
   powerup: IPowerup;
   retireExp: number;
   qualityExp: number[];
+  skins: number[];
 }

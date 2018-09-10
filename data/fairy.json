@@ -10,8 +10,8 @@
   "skill": {
     "id": "900110",
     "codename": "fighting",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 1
   },
@@ -31,6 +31,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 1,
+      "codename": "fighting_1"
+    },
+    {
+      "id": 2,
+      "codename": "fighting_2"
+    },
+    {
+      "id": 3,
+      "codename": "fighting_3"
+    }
   ]
 }, {
   "id": 2,
@@ -44,8 +58,8 @@
   "skill": {
     "id": "900111",
     "codename": "crit",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 1
   },
@@ -65,6 +79,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 4,
+      "codename": "crit_1"
+    },
+    {
+      "id": 5,
+      "codename": "crit_2"
+    },
+    {
+      "id": 6,
+      "codename": "crit_3"
+    }
   ]
 }, {
   "id": 3,
@@ -77,8 +105,8 @@
   "skill": {
     "id": "900103",
     "codename": "armor",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -98,6 +126,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 7,
+      "codename": "armor_1"
+    },
+    {
+      "id": 8,
+      "codename": "armor_2"
+    },
+    {
+      "id": 9,
+      "codename": "armor_3"
+    }
   ]
 }, {
   "id": 4,
@@ -110,8 +152,8 @@
   "skill": {
     "id": "900101",
     "codename": "shield",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -131,6 +173,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 10,
+      "codename": "shield_1"
+    },
+    {
+      "id": 11,
+      "codename": "shield_2"
+    },
+    {
+      "id": 12,
+      "codename": "shield_3"
+    }
   ]
 }, {
   "id": 5,
@@ -205,6 +261,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 13,
+      "codename": "defense_1"
+    },
+    {
+      "id": 14,
+      "codename": "defense_2"
+    },
+    {
+      "id": 15,
+      "codename": "defense_3"
+    }
   ]
 }, {
   "id": 6,
@@ -219,8 +289,8 @@
   "skill": {
     "id": "900104",
     "codename": "target",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -240,6 +310,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 16,
+      "codename": "target_1"
+    },
+    {
+      "id": 17,
+      "codename": "target_2"
+    },
+    {
+      "id": 18,
+      "codename": "target_3"
+    }
   ]
 }, {
   "id": 7,
@@ -253,8 +337,8 @@
   "skill": {
     "id": "900102",
     "codename": "sniper",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 2
   },
@@ -274,6 +358,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 19,
+      "codename": "sniper_1"
+    },
+    {
+      "id": 20,
+      "codename": "sniper_2"
+    },
+    {
+      "id": 21,
+      "codename": "sniper_3"
+    }
   ]
 }, {
   "id": 8,
@@ -286,8 +384,8 @@
   "skill": {
     "id": "900108",
     "codename": "bombard",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -307,6 +405,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 22,
+      "codename": "bombard_1"
+    },
+    {
+      "id": 23,
+      "codename": "bombard_2"
+    },
+    {
+      "id": 24,
+      "codename": "bombard_3"
+    }
   ]
 }, {
   "id": 9,
@@ -320,8 +432,8 @@
   "skill": {
     "id": "900109",
     "codename": "air_attack",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -341,6 +453,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 25,
+      "codename": "air_attack_1"
+    },
+    {
+      "id": 26,
+      "codename": "air_attack_2"
+    },
+    {
+      "id": 27,
+      "codename": "air_attack_3"
+    }
   ]
 }, {
   "id": 10,
@@ -416,6 +542,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 28,
+      "codename": "reinforce_1"
+    },
+    {
+      "id": 29,
+      "codename": "reinforce_2"
+    },
+    {
+      "id": 30,
+      "codename": "reinforce_3"
+    }
   ]
 }, {
   "id": 11,
@@ -491,6 +631,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 31,
+      "codename": "airborne_1"
+    },
+    {
+      "id": 32,
+      "codename": "airborne_2"
+    },
+    {
+      "id": 33,
+      "codename": "airborne_3"
+    }
   ]
 }, {
   "id": 12,
@@ -565,6 +719,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 34,
+      "codename": "Landmines_1"
+    },
+    {
+      "id": 35,
+      "codename": "Landmines_2"
+    },
+    {
+      "id": 36,
+      "codename": "Landmines_3"
+    }
   ]
 }, {
   "id": 13,
@@ -639,6 +807,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 37,
+      "codename": "position_1"
+    },
+    {
+      "id": 38,
+      "codename": "position_2"
+    },
+    {
+      "id": 39,
+      "codename": "position_3"
+    }
   ]
 }, {
   "id": 14,
@@ -715,6 +897,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 40,
+      "codename": "fortress_1"
+    },
+    {
+      "id": 41,
+      "codename": "fortress_2"
+    },
+    {
+      "id": 42,
+      "codename": "fortress_3"
+    }
   ]
 }, {
   "id": 15,
@@ -790,6 +986,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 43,
+      "codename": "command_1"
+    },
+    {
+      "id": 44,
+      "codename": "command_2"
+    },
+    {
+      "id": 45,
+      "codename": "command_3"
+    }
   ]
 }, {
   "id": 16,
@@ -864,6 +1074,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 46,
+      "codename": "rescue_1"
+    },
+    {
+      "id": 47,
+      "codename": "rescue_2"
+    },
+    {
+      "id": 48,
+      "codename": "rescue_3"
+    }
   ]
 }, {
   "id": 17,
@@ -939,6 +1163,20 @@
     500,
     1500,
     3000
+  ],
+  "skins": [
+    {
+      "id": 49,
+      "codename": "illumine_1"
+    },
+    {
+      "id": 50,
+      "codename": "illumine_2"
+    },
+    {
+      "id": 51,
+      "codename": "illumine_3"
+    }
   ]
 }, {
   "id": 18,
@@ -953,8 +1191,8 @@
   "skill": {
     "id": "900117",
     "codename": "golden",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 0
   },
@@ -974,6 +1212,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 52,
+      "codename": "golden_1"
+    },
+    {
+      "id": 53,
+      "codename": "golden_2"
+    },
+    {
+      "id": 54,
+      "codename": "golden_3"
+    }
   ]
 }, {
   "id": 19,
@@ -988,8 +1240,8 @@
   "skill": {
     "id": "900151",
     "codename": "golden",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 1
   },
@@ -1009,6 +1261,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 64,
+      "codename": "cooking_1"
+    },
+    {
+      "id": 65,
+      "codename": "cooking_2"
+    },
+    {
+      "id": 66,
+      "codename": "cooking_3"
+    }
   ]
 }, {
   "id": 20,
@@ -1117,6 +1383,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 67,
+      "codename": "DJMAXSUEE_1"
+    },
+    {
+      "id": 68,
+      "codename": "DJMAXSUEE_2"
+    },
+    {
+      "id": 69,
+      "codename": "DJMAXSUEE_3"
+    }
   ]
 }, {
   "id": 1005,
@@ -1130,8 +1410,8 @@
   "skill": {
     "id": "900152",
     "codename": "LadyMadeSTAR",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 1
   },
@@ -1151,6 +1431,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 70,
+      "codename": "DJMAXSEHRA_1"
+    },
+    {
+      "id": 71,
+      "codename": "DJMAXSEHRA_2"
+    },
+    {
+      "id": 72,
+      "codename": "DJMAXSEHRA_3"
+    }
   ]
 }, {
   "id": 1006,
@@ -1165,8 +1459,8 @@
   "skill": {
     "id": "900153",
     "codename": "OblivioN",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 1
   },
@@ -1186,6 +1480,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 73,
+      "codename": "DJMAXPREIYA_1"
+    },
+    {
+      "id": 74,
+      "codename": "DJMAXPREIYA_2"
+    },
+    {
+      "id": 75,
+      "codename": "DJMAXPREIYA_3"
+    }
   ]
 }, {
   "id": 1001,
@@ -1202,8 +1510,8 @@
   "skill": {
     "id": "900118",
     "codename": "Sakura",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
     "consumption": 3
   },
@@ -1220,6 +1528,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 55,
+      "codename": "Sakura_1"
+    },
+    {
+      "id": 56,
+      "codename": "Sakura_2"
+    },
+    {
+      "id": 57,
+      "codename": "Sakura_3"
+    }
   ]
 }, {
   "id": 1002,
@@ -1295,6 +1617,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 58,
+      "codename": "Kaguya_1"
+    },
+    {
+      "id": 59,
+      "codename": "Kaguya_2"
+    },
+    {
+      "id": 60,
+      "codename": "Kaguya_3"
+    }
   ]
 }, {
   "id": 1003,
@@ -1311,8 +1647,8 @@
   "skill": {
     "id": "900119",
     "codename": "Chloe",
-    "cooldownType": "second",
-    "initialCooldown": 2,
+    "cooldownType": "frame",
+    "initialCooldown": 60,
     "dataPool": [],
     "consumption": 2
   },
@@ -1329,5 +1665,19 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 61,
+      "codename": "Chloe_1"
+    },
+    {
+      "id": 62,
+      "codename": "Chloe_2"
+    },
+    {
+      "id": 63,
+      "codename": "Chloe_3"
+    }
   ]
 }]

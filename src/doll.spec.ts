@@ -85,8 +85,8 @@ describe('`CLEAR` Doll class', () => {
   test('returns skill1 when skillLevel=7', () => {
     expect(CLEAR.skill1).toMatchObject({
       codename: 'Clear',
-      cooldown: 8.7,
-      cooldownType: 'second',
+      cooldown: 261,
+      cooldownType: 'frame',
       description: '공격을 멈추고 다섯 차례 연주한다, 매 연주는 무작위 아군 하나의 화력과 명중을 25%(Glory Light 장착시 33%) 상승시킨다, 중첩 불가, 연주당 지속시간 각 3초.',
       detail: {
         '명중 상승치': '25%',
@@ -95,7 +95,7 @@ describe('`CLEAR` Doll class', () => {
         '화력 상승치': '25%',
       },
       id: '109401',
-      initialCooldown: 6,
+      initialCooldown: 180,
       name: '"조금 더 완벽하게!"',
     });
   });
@@ -113,7 +113,7 @@ describe('`M4A1Mod` Doll class', () => {
     expect(M4A1Mod.skill2).toMatchObject({
       codename: 'M4_Nightmare',
       cooldown: 0,
-      cooldownType: 'second',
+      cooldownType: 'frame',
       description: '화력전개 발동 시, 지속시간 동안 타깃에게 설한의 쐐기를 부여한다. 전투 중 자신을 포함한 아군이 3기 이하일 경우, 공격속도가 70% 감소하는 대신, 사격 시, 타깃' +
       '에게 공격력의 600%의 대미지를 입히며 2.5범위의 적들에게 쐐기를 부여하고 공격력의 100%의 대미지를 입힌다.',
       detail: {

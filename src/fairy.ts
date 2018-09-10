@@ -22,6 +22,7 @@ export default class Fairy {
     return getFairyResource(3, this.id);
   }
 
+  private readonly _skins: number[];
   private readonly _skill: ISkillJson;
   get skill():ISkill {
     return getSkill(this._skill, { level: this._skillLevel });
@@ -77,7 +78,7 @@ export default class Fairy {
   constructor(fairyJson:IFairy) {
     const fairyData = { ...fairyJson };
     const { id, category, stats, skill, grow, buildTime,
-       codename, powerup, retireExp, qualityExp } = fairyData;
+       codename, powerup, retireExp, qualityExp, skins } = fairyData;
     this.id = id;
     this.category = category;
     this._skill = skill;
@@ -88,5 +89,6 @@ export default class Fairy {
     this.powerup = powerup;
     this.retireExp = retireExp;
     this.qualityExp = qualityExp;
+    this._skins = skins;
   }
 }
