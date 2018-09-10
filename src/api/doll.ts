@@ -1,7 +1,20 @@
 import dollAttributeJson from '../../data/dollAttribute.json';
 import dollGrowJson from '../../data/dollGrow.json';
 import i18next from '../i18next';
-import { IDollAttribute, IDollGrow, IEffect, IStats } from '../interface';
+import { IDollAttribute, IDollGrow, IEffect, ISkin, IStats } from '../interface';
+import { getSkinResource, SkinType } from './base';
+
+export function getDollSkins(skins: number[]) {
+  return skins.map((skinId) => {
+    const resources = getSkinResource(SkinType.Doll, 1, skinId).split('-').map(str => str.trim());
+    const name = resources[resources.length - 1];
+    return {
+      id: skinId,
+      // tslint:disable-next-line:object-shorthand-properties-first
+      name,
+    };
+  }) as ISkin[];
+}
 
 export function getFavorRatio(favor:number) {
   if (favor < 10) {

@@ -1,5 +1,5 @@
 import { getSkinResource, SkinType } from './api/base';
-import { getDollEffect, getDollResource, getDollStats } from './api/doll';
+import { getDollEffect, getDollResource, getDollSkins, getDollStats } from './api/doll';
 import { getSkill } from './api/skill';
 import { IDoll, IEffect, IMindupdate, ISkill, ISkillJson, ISkin, IStats } from './interface';
 
@@ -52,15 +52,7 @@ export default class Doll{
   // }
   private readonly _skins: number[];
   get skins():ISkin[] {
-    return this._skins.map((skinId) => {
-      const resources = getSkinResource(SkinType.Doll, 1, skinId).split('-').map(str => str.trim());
-      const name = resources[resources.length - 1];
-      return {
-        id: skinId,
-        // tslint:disable-next-line:object-shorthand-properties-first
-        name,
-      };
-    }) as ISkin[];
+    return getDollSkins(this._skins);
   }
 
   private _level:number = 100;
