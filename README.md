@@ -9,7 +9,7 @@
 
 ## Install
 ```bash
-$ yarn add girlsfrontline-core
+$ yarn add girlsfrontline-core@1.0.10-alpha11
 ```
 
 ## Example
