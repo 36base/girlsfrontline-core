@@ -23,4 +23,4 @@ const dolls = dollData.map((data) => {
 const equips = equipData.map(data => new Equip(data));
 const fairies = fairyData.map(data => new Fairy(data));
 
-module.exports = { i18next, dolls, equips, fairies, api };
+module.exports = { i18next, dolls, equips, fairies, ...api };
