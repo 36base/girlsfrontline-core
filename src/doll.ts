@@ -7,7 +7,7 @@ export default class Doll{
   public readonly id: number;
   public readonly rank: number;
   public readonly type: string;
-  public readonly buildTime?: number;
+  public readonly buildTime: number;
   public readonly grow: number;
   public readonly codename: string;
   public readonly mindupdate: IMindupdate[];
