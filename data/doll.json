@@ -21898,6 +21898,586 @@
   ],
   "skins": []
 }, {
+  "id": 233,
+  "codename": "Px4Storm",
+  "type": "hg",
+  "rank": 5,
+  "buildTime": 3840,
+  "stats": {
+    "hp": 102,
+    "pow": 118,
+    "hit": 128,
+    "dodge": 115,
+    "speed": 100,
+    "rate": 102,
+    "armorPiercing": 10,
+    "criticalPercent": 20
+  },
+  "grow": 132,
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 8,
+    "effectPos": [
+      1,
+      4,
+      5,
+      7
+    ],
+    "gridEffect": {
+      "pow": 12,
+      "hit": 30
+    }
+  },
+  "skill1": {
+    "id": "110066",
+    "codename": "px4",
+    "cooldownType": "frame",
+    "initialCooldown": 180,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 450
+      },
+      {
+        "level": 2,
+        "cooldown": 441
+      },
+      {
+        "level": 3,
+        "cooldown": 429
+      },
+      {
+        "level": 4,
+        "cooldown": 420
+      },
+      {
+        "level": 5,
+        "cooldown": 411
+      },
+      {
+        "level": 6,
+        "cooldown": 399
+      },
+      {
+        "level": 7,
+        "cooldown": 390
+      },
+      {
+        "level": 8,
+        "cooldown": 381
+      },
+      {
+        "level": 9,
+        "cooldown": 369
+      },
+      {
+        "level": 10,
+        "cooldown": 360
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1
+  ],
+  "equip1": [
+    "nightvision",
+    "suppressor"
+  ],
+  "equip2": [
+    "hpAmmo"
+  ],
+  "equip3": [
+    "chip",
+    "exoSkeleton"
+  ],
+  "skins": []
+}, {
+  "id": 234,
+  "codename": "JS9mm",
+  "type": "smg",
+  "rank": 5,
+  "buildTime": 8280,
+  "stats": {
+    "hp": 102,
+    "pow": 95,
+    "hit": 112,
+    "dodge": 128,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "criticalPercent": 5
+  },
+  "grow": 122,
+  "effect": {
+    "effectType": "ar",
+    "effectCenter": 8,
+    "effectPos": [
+      1,
+      4,
+      7
+    ],
+    "gridEffect": {
+      "rate": 18,
+      "criticalPercent": 30
+    }
+  },
+  "skill1": {
+    "id": "110054",
+    "codename": "dodgeBuffSelf",
+    "cooldownType": "frame",
+    "initialCooldown": 180,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 450
+      },
+      {
+        "level": 2,
+        "cooldown": 441
+      },
+      {
+        "level": 3,
+        "cooldown": 429
+      },
+      {
+        "level": 4,
+        "cooldown": 420
+      },
+      {
+        "level": 5,
+        "cooldown": 411
+      },
+      {
+        "level": 6,
+        "cooldown": 399
+      },
+      {
+        "level": 7,
+        "cooldown": 390
+      },
+      {
+        "level": 8,
+        "cooldown": 381
+      },
+      {
+        "level": 9,
+        "cooldown": 369
+      },
+      {
+        "level": 10,
+        "cooldown": 360
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    214
+  ],
+  "equip1": [
+    "chip",
+    "exoSkeleton"
+  ],
+  "equip2": [
+    "hpAmmo"
+  ],
+  "equip3": [
+    "optical",
+    "holo",
+    "reddot",
+    "nightvision",
+    "suppressor"
+  ],
+  "skins": []
+}, {
+  "id": 235,
+  "codename": "FNSPR",
+  "type": "rf",
+  "rank": 4,
+  "buildTime": 15300,
+  "stats": {
+    "hp": 98,
+    "pow": 115,
+    "hit": 118,
+    "dodge": 85,
+    "speed": 100,
+    "rate": 98,
+    "armorPiercing": 10,
+    "criticalPercent": 40
+  },
+  "grow": 128,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      9
+    ],
+    "gridEffect": {
+      "cooldown": 15
+    }
+  },
+  "skill1": {
+    "id": "110062",
+    "codename": "AimAttackCurrentTarge",
+    "cooldownType": "frame",
+    "initialCooldown": 240,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 600
+      },
+      {
+        "level": 2,
+        "cooldown": 588
+      },
+      {
+        "level": 3,
+        "cooldown": 573
+      },
+      {
+        "level": 4,
+        "cooldown": 561
+      },
+      {
+        "level": 5,
+        "cooldown": 546
+      },
+      {
+        "level": 6,
+        "cooldown": 534
+      },
+      {
+        "level": 7,
+        "cooldown": 519
+      },
+      {
+        "level": 8,
+        "cooldown": 507
+      },
+      {
+        "level": 9,
+        "cooldown": 492
+      },
+      {
+        "level": 10,
+        "cooldown": 480
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1,
+    2
+  ],
+  "equip1": [
+    "apAmmo"
+  ],
+  "equip2": [
+    "optical",
+    "holo",
+    "reddot",
+    "suppressor"
+  ],
+  "equip3": [
+    "chip",
+    "cloak"
+  ],
+  "skins": []
+}, {
+  "id": 236,
+  "codename": "K11",
+  "type": "ar",
+  "rank": 5,
+  "buildTime": 15060,
+  "stats": {
+    "hp": 122,
+    "pow": 112,
+    "hit": 122,
+    "dodge": 82,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "criticalPercent": 20
+  },
+  "grow": 128,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      6,
+      9
+    ],
+    "gridEffect": {
+      "pow": 20,
+      "dodge": 15
+    }
+  },
+  "skill1": {
+    "id": "110067",
+    "codename": "K11Grenade",
+    "cooldownType": "frame",
+    "initialCooldown": 180,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 600
+      },
+      {
+        "level": 2,
+        "cooldown": 588
+      },
+      {
+        "level": 3,
+        "cooldown": 573
+      },
+      {
+        "level": 4,
+        "cooldown": 561
+      },
+      {
+        "level": 5,
+        "cooldown": 546
+      },
+      {
+        "level": 6,
+        "cooldown": 534
+      },
+      {
+        "level": 7,
+        "cooldown": 519
+      },
+      {
+        "level": 8,
+        "cooldown": 507
+      },
+      {
+        "level": 9,
+        "cooldown": 492
+      },
+      {
+        "level": 10,
+        "cooldown": 480
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1,
+    2
+  ],
+  "equip1": [
+    "optical",
+    "holo",
+    "reddot",
+    "nightvision",
+    "suppressor"
+  ],
+  "equip2": [
+    "hvAmmo"
+  ],
+  "equip3": [
+    "chip",
+    "exoSkeleton"
+  ],
+  "skins": []
+}, {
+  "id": 237,
+  "codename": "SAR21",
+  "type": "ar",
+  "rank": 4,
+  "buildTime": 12300,
+  "stats": {
+    "hp": 105,
+    "pow": 108,
+    "hit": 130,
+    "dodge": 105,
+    "speed": 100,
+    "rate": 125,
+    "armorPiercing": 10,
+    "criticalPercent": 20
+  },
+  "grow": 100,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [
+      3,
+      6,
+      9
+    ],
+    "gridEffect": {
+      "pow": 20,
+      "hit": 55
+    }
+  },
+  "skill1": {
+    "id": "110052",
+    "codename": "AugBuff",
+    "cooldownType": "frame",
+    "initialCooldown": 120,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 600
+      },
+      {
+        "level": 2,
+        "cooldown": 588
+      },
+      {
+        "level": 3,
+        "cooldown": 573
+      },
+      {
+        "level": 4,
+        "cooldown": 561
+      },
+      {
+        "level": 5,
+        "cooldown": 546
+      },
+      {
+        "level": 6,
+        "cooldown": 534
+      },
+      {
+        "level": 7,
+        "cooldown": 519
+      },
+      {
+        "level": 8,
+        "cooldown": 506
+      },
+      {
+        "level": 9,
+        "cooldown": 491
+      },
+      {
+        "level": 10,
+        "cooldown": 480
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1,
+    2
+  ],
+  "equip1": [
+    "optical",
+    "holo",
+    "reddot",
+    "nightvision",
+    "suppressor"
+  ],
+  "equip2": [
+    "hvAmmo"
+  ],
+  "equip3": [
+    "chip",
+    "exoSkeleton"
+  ],
+  "skins": []
+}, {
+  "id": 238,
+  "codename": "Type88",
+  "type": "mg",
+  "rank": 5,
+  "buildTime": 23280,
+  "stats": {
+    "hp": 100,
+    "pow": 100,
+    "hit": 122,
+    "dodge": 130,
+    "speed": 100,
+    "rate": 115,
+    "armorPiercing": 10,
+    "criticalPercent": 5,
+    "bullet": 10
+  },
+  "grow": 130,
+  "effect": {
+    "effectType": "sg",
+    "effectCenter": 1,
+    "effectPos": [
+      3,
+      6,
+      9
+    ],
+    "gridEffect": {
+      "hit": 10,
+      "armor": 15
+    }
+  },
+  "skill1": {
+    "id": "110059",
+    "codename": "powBuffSelf",
+    "cooldownType": "frame",
+    "initialCooldown": 240,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 540
+      },
+      {
+        "level": 2,
+        "cooldown": 540
+      },
+      {
+        "level": 3,
+        "cooldown": 540
+      },
+      {
+        "level": 4,
+        "cooldown": 540
+      },
+      {
+        "level": 5,
+        "cooldown": 540
+      },
+      {
+        "level": 6,
+        "cooldown": 540
+      },
+      {
+        "level": 7,
+        "cooldown": 540
+      },
+      {
+        "level": 8,
+        "cooldown": 540
+      },
+      {
+        "level": 9,
+        "cooldown": 540
+      },
+      {
+        "level": 10,
+        "cooldown": 540
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1,
+    2
+  ],
+  "equip1": [
+    "apAmmo"
+  ],
+  "equip2": [
+    "optical",
+    "holo",
+    "reddot"
+  ],
+  "equip3": [
+    "chip",
+    "ammunitionBox"
+  ],
+  "skins": []
+}, {
   "id": 1001,
   "rank": 7,
   "type": "hg",
