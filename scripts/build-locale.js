@@ -5,13 +5,12 @@ module.exports = function (appLocales, appBuildLocales) {
   const locales = fs.readdirSync(appLocales);
   locales.forEach((locale) => {
     const localePath = path.join(appLocales, locale);
-    const outputPath = path.join(appBuildLocales, locale);
+    const outputPath = path.join(appBuildLocales, `${locale}.json`);
     let resources = {};
     fs.readdirSync(localePath).forEach((filename) => {
       const filePath = path.join(localePath, filename);
       resources = {...resources, ...fs.readJsonSync(filePath)};
     });
-    fs.ensureDirSync(outputPath);
-    return fs.writeFileSync(path.join(outputPath, 'translation.json'), JSON.stringify(resources));
+    return fs.writeFileSync(outputPath, JSON.stringify(resources));
   });
 };
