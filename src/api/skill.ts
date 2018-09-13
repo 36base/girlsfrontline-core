@@ -11,10 +11,13 @@ export function getSkill(skill:ISkillJson, { level = 10 } = {}):ISkill {
   const name:string = getSkillResource(1, id, level);
   const description:string = getSkillResource(2, id, level);
   const detail:ISkillDetail = {};
-  getSkillResource(3, id, level).split(',').forEach((details) => {
-    const [key, value] = details.split(':');
-    detail[key.trim()] = value.trim();
-  });
+  const detailStr = getSkillResource(3, id, level).split(',');
+  if (detailStr.length > 0) {
+    detailStr.forEach((details) => {
+      const [key, value] = details.split(':');
+      detail[key.trim()] = value.trim();
+    });
+  }
   const { cooldown } = dataPool.find(({ level: poolLevel }) => poolLevel === level) || { cooldown: 0 };
 
   return {
