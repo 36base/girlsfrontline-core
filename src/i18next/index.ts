@@ -8,7 +8,7 @@ export function init(options:InitOptions = {}):Promise<{}> {
       load: 'currentOnly',
       whitelist: ['ko-KR', 'ja-JP', 'en-US', 'zh-CN'],
       backend: {
-        loadpath: 'https://unpkg.com/girlsfrontline-core@latest/build/i18n/{{lng}}.json',
+        loadPath: 'https://unpkg.com/girlsfrontline-core@latest/build/i18n/{{lng}}.json',
         crossDomain: true,
       },
       ...options,
