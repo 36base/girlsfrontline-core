@@ -7,7 +7,7 @@ module.exports = {
   ],
   output: {
     filename: 'gfcore.min.js',
-    path: paths.appBuild,
+    path: paths.appBuildUmd,
     library: 'gfcore',
     libraryTarget: 'umd',
   },

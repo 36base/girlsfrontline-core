@@ -8,6 +8,10 @@ const resolveApp = (relativePath) => path.resolve(appDirectory, relativePath);
 
 // config after eject: we're in ./config/
 module.exports = {
-  appBuild: resolveApp('build/umd'),
+  appData: resolveApp('data'),
+  appLocales: resolveApp('i18n'),
+  appBuildData: resolveApp('build/data'),
+  appBuildLocales: resolveApp('build/i18n'),
+  appBuildUmd: resolveApp('build/umd'),
   appIndexJs: resolveApp('src/index.ts'),
 };

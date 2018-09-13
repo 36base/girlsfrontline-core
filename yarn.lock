@@ -33,6 +33,10 @@
     reflect-metadata "^0.1.12"
     tslib "^1.8.1"
 
+"@types/i18next-xhr-backend@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@types/i18next-xhr-backend/-/i18next-xhr-backend-1.4.1.tgz#9da90a5e3086014d09c612b05e11a77170d30277"
+
 "@types/i18next@^8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@types/i18next/-/i18next-8.4.5.tgz#d6c0cb594258815219c70006e9f5cd65ad6d797f"
@@ -2071,6 +2075,10 @@ husky@^0.14.3:
     is-ci "^1.0.10"
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
+
+i18next-xhr-backend@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/i18next-xhr-backend/-/i18next-xhr-backend-1.5.1.tgz#50282610780c6a696d880dfa7f4ac1d01e8c3ad5"
 
 i18next@^11.6.0:
   version "11.6.0"

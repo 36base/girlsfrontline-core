@@ -1,12 +1,25 @@
-import i18next from 'i18next';
-import koKR from './ko-KR';
+import i18next, { InitOptions } from 'i18next';
+import XHR from 'i18next-xhr-backend';
 
-const resources:i18next.Resource = { 'ko-KR': koKR };
-const defaultLocale:string = 'ko-KR';
-
-i18next.init({
-  resources,
-  fallbackLng: defaultLocale,
-});
+export function init(options:InitOptions = {}):Promise<{}> {
+  return new Promise((resolve, reject) => {
+    i18next.use(XHR).init({
+      fallbackLng: 'ko-KR',
+      load: 'currentOnly',
+      whitelist: ['ko-KR', 'ja-JP', 'en-US', 'zh-CN'],
+      backend: {
+        loadpath: 'https://unpkg.com/girlsfrontline-core@latest/build/i18n/{{lng}}.json',
+        crossDomain: true,
+      },
+      ...options,
+    // tslint:disable-next-line:align
+    }, (err) => {
+      if (err) {
+        reject(err);
+      }
+      resolve();
+    });
+  });
+}
 
 export default i18next;
