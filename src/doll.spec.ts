@@ -47,8 +47,8 @@ describe('`CLEAR` Doll class', () => {
     CLEAR.favor = 200;
     expect(CLEAR.favor).toBe(200);
   });
-  test('throws error when set favor to 0', () => {
-    expect(() => CLEAR.favor = 0).toThrow('`favor` must be greater than 0');
+  test('throws error when set favor to -1', () => {
+    expect(() => CLEAR.favor = -1).toThrow('`favor` must be greater than -1');
   });
   test('set dummyLink to 3', () => {
     CLEAR.dummyLink = 3;
@@ -113,6 +113,7 @@ describe('`CLEAR` Doll class', () => {
 });
 
 describe('`M4A1Mod` Doll class', () => {
+  // tslint:disable-next-line:variable-name
   const M4A1Mod = new Doll(dollData.find(({ codename }) => codename === 'M4A1Mod') as IDoll);
   test('returns Doll class of M4A1Mod', () => {
     expect(M4A1Mod).toBeTruthy();

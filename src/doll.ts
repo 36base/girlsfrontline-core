@@ -74,8 +74,8 @@ export default class Doll{
     return this._favor;
   }
   set favor(favor:number) {
-    if (favor < 1) {
-      throw Error('`favor` must be greater than 0');
+    if (favor < 0) {
+      throw Error('`favor` must be greater than -1');
     }
     this._favor = favor;
   }
