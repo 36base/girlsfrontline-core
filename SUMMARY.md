@@ -1,5 +1,6 @@
 # Table of contents
 
-* [GirlsFrontline API](README.md)
-* [LICENSE](license.md)
+* [README](README.md)
+* [API Reference](docs.md)
+* [license](license.md)
 

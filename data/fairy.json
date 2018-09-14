@@ -1,405 +1,1683 @@
 [{
   "id": 1,
   "category": "battle",
-  "krName": "용사요정",
-  "name": "fighting",
-  "stats": {"pow": 160, "hit": 160, "dodge": 100, "armor": 100},
+  "stats": {
+    "pow": 160,
+    "hit": 160,
+    "dodge": 100,
+    "armor": 100
+  },
   "skill": {
-    "id": 1001,
-    "dataPool": {
-      "PW": [5, 7, 8, 10, 12, 13, 15, 17, 18, 20],
-      "AR": [5, 6, 6, 7, 7, 8, 8, 9, 9, 10],
-      "CP": 1
-    }
+    "id": "900110",
+    "codename": "fighting",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 1
   },
   "grow": 100,
-  "buildTime": 16200
+  "buildTime": 16200,
+  "codename": "fighting",
+  "powerup": {
+    "mp": 10,
+    "ammo": 14,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 1,
+      "codename": "fighting_1"
+    },
+    {
+      "id": 2,
+      "codename": "fighting_2"
+    },
+    {
+      "id": 3,
+      "codename": "fighting_3"
+    }
+  ]
 }, {
   "id": 2,
   "category": "battle",
-  "krName": "격노요정",
-  "name": "crit",
-  "stats": {"pow": 100, "dodge": 100, "armor": 100, "critDmg": 199},
+  "stats": {
+    "pow": 100,
+    "dodge": 100,
+    "armor": 100,
+    "criticalHarmRate": 199
+  },
   "skill": {
-    "id": 1002,
-    "dataPool": {
-      "HT": [10, 14, 19, 23, 28, 32, 37, 41, 46, 50],
-      "CR": [10, 12, 13, 15, 17, 18, 20, 22, 23, 25],
-      "CP": 1
-    }
+    "id": "900111",
+    "codename": "crit",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 1
   },
   "grow": 100,
-  "buildTime": 16500
+  "buildTime": 16500,
+  "codename": "crit",
+  "powerup": {
+    "mp": 10,
+    "ammo": 14,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 4,
+      "codename": "crit_1"
+    },
+    {
+      "id": 5,
+      "codename": "crit_2"
+    },
+    {
+      "id": 6,
+      "codename": "crit_3"
+    }
+  ]
 }, {
   "id": 3,
   "category": "battle",
-  "krName": "방패요정",
-  "name": "armor",
-  "stats": {"pow": 145, "armor": 242, "critDmg": 101},
+  "stats": {
+    "pow": 145,
+    "armor": 242,
+    "criticalHarmRate": 101
+  },
   "skill": {
-    "id": 1003,
-    "dataPool": {
-      "AM": [15, 19, 23, 27, 31, 34, 38, 42, 46, 50],
-      "DR": 20,
-      "CP": 3
-    }
+    "id": "900103",
+    "codename": "armor",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
   },
   "grow": 100,
-  "buildTime": 10800
+  "buildTime": 10800,
+  "codename": "armor",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 7,
+      "codename": "armor_1"
+    },
+    {
+      "id": 8,
+      "codename": "armor_2"
+    },
+    {
+      "id": 9,
+      "codename": "armor_3"
+    }
+  ]
 }, {
   "id": 4,
   "category": "battle",
-  "krName": "수호요정",
-  "name": "shield",
-  "stats": {"pow": 130, "hit": 120, "dodge": 200},
+  "stats": {
+    "pow": 130,
+    "hit": 120,
+    "dodge": 200
+  },
   "skill": {
-    "id": 1004,
-    "dataPool": {"SD": [40, 50, 60, 70, 80, 90, 100, 110, 130, 150], "CP": 3}
+    "id": "900101",
+    "codename": "shield",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
   },
   "grow": 100,
-  "buildTime": 11100
+  "buildTime": 11100,
+  "codename": "shield",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 10,
+      "codename": "shield_1"
+    },
+    {
+      "id": 11,
+      "codename": "shield_2"
+    },
+    {
+      "id": 12,
+      "codename": "shield_3"
+    }
+  ]
 }, {
   "id": 5,
   "category": "strategy",
-  "krName": "방어요정",
-  "name": "defense",
-  "stats": {"pow": 131, "dodge": 180, "armor": 180},
+  "stats": {
+    "pow": 131,
+    "dodge": 180,
+    "armor": 180
+  },
   "skill": {
-    "id": 1005,
-    "dataPool": {
-      "RD": [10, 12, 14, 17, 19, 21, 23, 26, 28, 30],
-      "CD": 1,
-      "DR": 20,
-      "CP": 5
-    }
+    "id": "*6",
+    "codename": "defense",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ],
+    "consumption": 5
   },
   "grow": 121,
-  "buildTime": 15000
+  "buildTime": 15000,
+  "codename": "defense",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 13,
+      "codename": "defense_1"
+    },
+    {
+      "id": 14,
+      "codename": "defense_2"
+    },
+    {
+      "id": 15,
+      "codename": "defense_3"
+    }
+  ]
 }, {
   "id": 6,
   "category": "battle",
-  "krName": "도발요정",
-  "name": "target",
-  "stats": {"pow": 101, "hit": 100, "dodge": 60, "armor": 61, "critDmg": 101},
+  "stats": {
+    "pow": 101,
+    "hit": 100,
+    "dodge": 60,
+    "armor": 61,
+    "criticalHarmRate": 101
+  },
   "skill": {
-    "id": 1006,
-    "dataPool": {
-      "HP": [400, 480, 550, 650, 800, 950, 1100, 1250, 1400, 1600],
-      "CP": 3
-    }
+    "id": "900104",
+    "codename": "target",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
   },
   "grow": 130,
-  "buildTime": 11400
+  "buildTime": 11400,
+  "codename": "target",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 16,
+      "codename": "target_1"
+    },
+    {
+      "id": 17,
+      "codename": "target_2"
+    },
+    {
+      "id": 18,
+      "codename": "target_3"
+    }
+  ]
 }, {
   "id": 7,
   "category": "battle",
-  "krName": "저격요정",
-  "name": "sniper",
-  "stats": {"hit": 175, "dodge": 70, "armor": 141, "critDmg": 175},
+  "stats": {
+    "hit": 175,
+    "dodge": 70,
+    "armor": 141,
+    "criticalHarmRate": 175
+  },
   "skill": {
-    "id": 1007,
-    "dataPool": {
-      "DM": [2500, 4000, 5500, 7000, 8500, 10000, 12500, 15000, 17500, 20000],
-      "CP": 2
-    }
+    "id": "900102",
+    "codename": "sniper",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 2
   },
   "grow": 100,
-  "buildTime": 12600
+  "buildTime": 12600,
+  "codename": "sniper",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 19,
+      "codename": "sniper_1"
+    },
+    {
+      "id": 20,
+      "codename": "sniper_2"
+    },
+    {
+      "id": 21,
+      "codename": "sniper_3"
+    }
+  ]
 }, {
   "id": 8,
   "category": "battle",
-  "krName": "포격요정",
-  "name": "bombard",
-  "stats": {"pow": 372, "dodge": 140, "armor": 60},
+  "stats": {
+    "pow": 372,
+    "dodge": 140,
+    "armor": 60
+  },
   "skill": {
-    "id": 1008,
-    "dataPool": {
-      "DM": [200, 300, 400, 500, 600, 700, 800, 900, 1000, 1200],
-      "CP": 3
-    }
+    "id": "900108",
+    "codename": "bombard",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
   },
   "grow": 100,
-  "buildTime": 12900
+  "buildTime": 12900,
+  "codename": "bombard",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 22,
+      "codename": "bombard_1"
+    },
+    {
+      "id": 23,
+      "codename": "bombard_2"
+    },
+    {
+      "id": 24,
+      "codename": "bombard_3"
+    }
+  ]
 }, {
   "id": 9,
   "category": "battle",
-  "krName": "공습요정",
-  "name": "air_attack",
-  "stats": {"pow": 159, "hit": 79, "dodge": 79, "armor": 79},
+  "stats": {
+    "pow": 159,
+    "hit": 79,
+    "dodge": 79,
+    "armor": 79
+  },
   "skill": {
-    "id": 1009,
-    "dataPool": {
-      "DM": [80, 120, 160, 200, 240, 280, 320, 360, 400, 500],
-      "CP": 3
-    }
+    "id": "900109",
+    "codename": "air_attack",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
   },
   "grow": 150,
-  "buildTime": 13200
+  "buildTime": 13200,
+  "codename": "air_attack",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 25,
+      "codename": "air_attack_1"
+    },
+    {
+      "id": 26,
+      "codename": "air_attack_2"
+    },
+    {
+      "id": 27,
+      "codename": "air_attack_3"
+    }
+  ]
 }, {
   "id": 10,
   "category": "strategy",
-  "krName": "증원요정",
-  "name": "reinforce",
-  "stats": {"pow": 60, "dodge": 175, "armor": 81, "critDmg": 60},
+  "stats": {
+    "pow": 60,
+    "dodge": 175,
+    "armor": 81,
+    "criticalHarmRate": 60
+  },
   "skill": {
-    "id": 1010,
-    "dataPool": {"DG": [3, 3.5, 4, 4.5, 5, 6, 7, 8, 9, 10], "CD": 1, "CP": 2}
+    "id": "*8",
+    "codename": "reinforce",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ],
+    "consumption": 2
   },
   "grow": 150,
-  "buildTime": 14400
+  "buildTime": 14400,
+  "codename": "reinforce",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 28,
+      "codename": "reinforce_1"
+    },
+    {
+      "id": 29,
+      "codename": "reinforce_2"
+    },
+    {
+      "id": 30,
+      "codename": "reinforce_3"
+    }
+  ]
 }, {
   "id": 11,
   "category": "strategy",
-  "krName": "공수요정",
-  "name": "airborne",
-  "stats": {"pow": 190, "dodge": 62, "armor": 60, "critDmg": 155},
+  "stats": {
+    "pow": 190,
+    "dodge": 62,
+    "armor": 60,
+    "criticalHarmRate": 155
+  },
   "skill": {
-    "id": 1011,
-    "dataPool": {
-      "DC": [90, 85, 80, 75, 70, 65, 60, 55, 50, 40],
-      "MV": [3, 3, 3, 4, 4, 5, 5, 6, 6, 0],
-      "CD": 5,
-      "CP": 5
-    }
+    "id": "*9",
+    "codename": "airborne",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 5
+      },
+      {
+        "level": 2,
+        "cooldown": 5
+      },
+      {
+        "level": 3,
+        "cooldown": 5
+      },
+      {
+        "level": 4,
+        "cooldown": 5
+      },
+      {
+        "level": 5,
+        "cooldown": 5
+      },
+      {
+        "level": 6,
+        "cooldown": 5
+      },
+      {
+        "level": 7,
+        "cooldown": 5
+      },
+      {
+        "level": 8,
+        "cooldown": 5
+      },
+      {
+        "level": 9,
+        "cooldown": 5
+      },
+      {
+        "level": 10,
+        "cooldown": 5
+      }
+    ],
+    "consumption": 5
   },
   "grow": 150,
-  "buildTime": 14700
+  "buildTime": 14700,
+  "codename": "airborne",
+  "powerup": {
+    "mp": 14,
+    "ammo": 3,
+    "mre": 10,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 31,
+      "codename": "airborne_1"
+    },
+    {
+      "id": 32,
+      "codename": "airborne_2"
+    },
+    {
+      "id": 33,
+      "codename": "airborne_3"
+    }
+  ]
 }, {
   "id": 12,
   "category": "strategy",
-  "krName": "매설요정",
-  "name": "Landmines",
-  "stats": {"pow": 200, "hit": 100, "dodge": 242},
+  "stats": {
+    "pow": 200,
+    "hit": 100,
+    "dodge": 242
+  },
   "skill": {
-    "id": 1012,
-    "dataPool": {
-      "DM": [20, 23, 26, 30, 33, 36, 40, 43, 46, 50],
-      "CD": 3,
-      "CP": 5
-    }
+    "id": "*10",
+    "codename": "Landmines",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ],
+    "consumption": 5
   },
   "grow": 73,
-  "buildTime": 19800
+  "buildTime": 19800,
+  "codename": "Landmines",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 34,
+      "codename": "Landmines_1"
+    },
+    {
+      "id": 35,
+      "codename": "Landmines_2"
+    },
+    {
+      "id": 36,
+      "codename": "Landmines_3"
+    }
+  ]
 }, {
   "id": 13,
   "category": "strategy",
-  "krName": "로켓요정",
-  "name": "position",
-  "stats": {"hit": 100, "armor": 241, "critDmg": 200},
+  "stats": {
+    "hit": 100,
+    "armor": 241,
+    "criticalHarmRate": 200
+  },
   "skill": {
-    "id": 1013,
-    "dataPool": {
-      "TN": [4, 4, 4, 4, 4, 5, 5, 5, 5, 5],
-      "DM": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CD": 3,
-      "CP": 10
-    }
+    "id": "*11",
+    "codename": "position",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ],
+    "consumption": 10
   },
   "grow": 75,
-  "buildTime": 20100
+  "buildTime": 20100,
+  "codename": "position",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 37,
+      "codename": "position_1"
+    },
+    {
+      "id": 38,
+      "codename": "position_2"
+    },
+    {
+      "id": 39,
+      "codename": "position_3"
+    }
+  ]
 }, {
   "id": 14,
   "category": "strategy",
-  "krName": "공사요정",
-  "name": "fortress",
   "stats": {
     "pow": 120,
     "hit": 120,
     "dodge": 120,
     "armor": 120,
-    "critDmg": 120
+    "criticalHarmRate": 120
   },
   "skill": {
-    "id": 1014,
-    "dataPool": {
-      "ST": [10, 12, 14, 17, 19, 21, 23, 26, 28, 30],
-      "CD": 3,
-      "CP": 5
-    }
+    "id": "*12",
+    "codename": "fortress",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ],
+    "consumption": 5
   },
   "grow": 65,
-  "buildTime": 20400
+  "buildTime": 20400,
+  "codename": "fortress",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 40,
+      "codename": "fortress_1"
+    },
+    {
+      "id": 41,
+      "codename": "fortress_2"
+    },
+    {
+      "id": 42,
+      "codename": "fortress_3"
+    }
+  ]
 }, {
   "id": 15,
   "category": "strategy",
-  "krName": "지휘요정",
-  "name": "command",
-  "stats": {"pow": 285, "dodge": 92, "armor": 85, "critDmg": 201},
+  "stats": {
+    "pow": 285,
+    "dodge": 92,
+    "armor": 85,
+    "criticalHarmRate": 201
+  },
   "skill": {
-    "id": 1015,
-    "dataPool": {
-      "EP": [5, 8, 10, 12, 14, 16, 18, 20, 22, 25],
-      "CD": 1,
-      "CP": 1
-    }
+    "id": "*13",
+    "codename": "command",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ],
+    "consumption": 1
   },
   "grow": 70,
-  "buildTime": 18000
+  "buildTime": 18000,
+  "codename": "command",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 43,
+      "codename": "command_1"
+    },
+    {
+      "id": 44,
+      "codename": "command_2"
+    },
+    {
+      "id": 45,
+      "codename": "command_3"
+    }
+  ]
 }, {
   "id": 16,
   "category": "strategy",
-  "krName": "수색요정",
-  "name": "rescue",
-  "stats": {"pow": 270, "hit": 200, "dodge": 200},
+  "stats": {
+    "pow": 270,
+    "hit": 200,
+    "dodge": 200
+  },
   "skill": {
-    "id": 1016,
-    "dataPool": {
-      "DP": [
-        "아주 조금",
-        "아주 조금",
-        "조금",
-        "조금",
-        "조금 많이",
-        "조금 많이",
-        "많이",
-        "많이",
-        "아주 많이",
-        "아주 많이"
-      ],
-      "CD": 1,
-      "CP": 1
-    }
+    "id": "*14",
+    "codename": "rescue",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 1
+      },
+      {
+        "level": 2,
+        "cooldown": 1
+      },
+      {
+        "level": 3,
+        "cooldown": 1
+      },
+      {
+        "level": 4,
+        "cooldown": 1
+      },
+      {
+        "level": 5,
+        "cooldown": 1
+      },
+      {
+        "level": 6,
+        "cooldown": 1
+      },
+      {
+        "level": 7,
+        "cooldown": 1
+      },
+      {
+        "level": 8,
+        "cooldown": 1
+      },
+      {
+        "level": 9,
+        "cooldown": 1
+      },
+      {
+        "level": 10,
+        "cooldown": 1
+      }
+    ],
+    "consumption": 1
   },
   "grow": 60,
-  "buildTime": 18300
+  "buildTime": 18300,
+  "codename": "rescue",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 46,
+      "codename": "rescue_1"
+    },
+    {
+      "id": 47,
+      "codename": "rescue_2"
+    },
+    {
+      "id": 48,
+      "codename": "rescue_3"
+    }
+  ]
 }, {
   "id": 17,
   "category": "strategy",
-  "krName": "조명요정",
-  "name": "illumine",
-  "stats": {"hit": 200, "dodge": 87, "armor": 80, "critDmg": 201},
+  "stats": {
+    "hit": 200,
+    "dodge": 87,
+    "armor": 80,
+    "criticalHarmRate": 201
+  },
   "skill": {
-    "id": 1017,
-    "dataPool": {
-      "HT": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "VE": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2],
-      "CD": 5,
-      "CP": 5
-    }
+    "id": "*15",
+    "codename": "illumine",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 2
+      },
+      {
+        "level": 2,
+        "cooldown": 5
+      },
+      {
+        "level": 3,
+        "cooldown": 5
+      },
+      {
+        "level": 4,
+        "cooldown": 5
+      },
+      {
+        "level": 5,
+        "cooldown": 5
+      },
+      {
+        "level": 6,
+        "cooldown": 5
+      },
+      {
+        "level": 7,
+        "cooldown": 5
+      },
+      {
+        "level": 8,
+        "cooldown": 5
+      },
+      {
+        "level": 9,
+        "cooldown": 5
+      },
+      {
+        "level": 10,
+        "cooldown": 5
+      }
+    ],
+    "consumption": 5
   },
   "grow": 80,
-  "buildTime": 18600
+  "buildTime": 18600,
+  "codename": "illumine",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    500,
+    1500,
+    3000
+  ],
+  "skins": [
+    {
+      "id": 49,
+      "codename": "illumine_1"
+    },
+    {
+      "id": 50,
+      "codename": "illumine_2"
+    },
+    {
+      "id": 51,
+      "codename": "illumine_3"
+    }
+  ]
 }, {
   "id": 18,
   "category": "battle",
-  "krName": "황금요정",
-  "name": "golden",
-  "stats": {"pow": 60, "hit": 58, "dodge": 58, "armor": 56, "critDmg": 58},
-  "skill": {"id": 1018, "dataPool": {"CD": 0, "CP": 0}},
+  "stats": {
+    "pow": 60,
+    "hit": 58,
+    "dodge": 58,
+    "armor": 56,
+    "criticalHarmRate": 58
+  },
+  "skill": {
+    "id": "900117",
+    "codename": "golden",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 0
+  },
   "grow": 320,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "golden",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 52,
+      "codename": "golden_1"
+    },
+    {
+      "id": 53,
+      "codename": "golden_2"
+    },
+    {
+      "id": 54,
+      "codename": "golden_3"
+    }
+  ]
 }, {
   "id": 19,
   "category": "battle",
-  "krName": "취사요정",
-  "name": "cooking",
-  "stats": {"pow": 35, "hit": 22, "dodge": 113, "armor": 106, "critDmg": 25},
-  "skill": {"id": 1019, "dataPool": {"CD": 0, "CP": 1}},
+  "stats": {
+    "pow": 35,
+    "hit": 22,
+    "dodge": 113,
+    "armor": 106,
+    "criticalHarmRate": 25
+  },
+  "skill": {
+    "id": "900151",
+    "codename": "golden",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 1
+  },
   "grow": 250,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "cooking",
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 64,
+      "codename": "cooking_1"
+    },
+    {
+      "id": 65,
+      "codename": "cooking_2"
+    },
+    {
+      "id": 66,
+      "codename": "cooking_3"
+    }
+  ]
 }, {
-  "id": 1001,
+  "id": 20,
   "category": "battle",
-  "krName": "야에 사쿠라 ",
-  "name": "Sakura",
-  "stats": {"pow": 220, "dodge": 75, "armor": 65, "critDmg": 200},
-  "skill": {
-    "id": 1020,
-    "dataPool": {
-      "DM": [20, 30, 40, 50, 60, 70, 80, 90, 100, 120],
-      "CD": 0,
-      "CP": 2
-    }
+  "codename": "petard",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 115,
+    "hit": 82,
+    "dodge": 44,
+    "armor": 40
   },
-  "grow": 60,
-  "buildTime": 0
-}, {
-  "id": 1002,
-  "category": "strategy",
-  "krName": "카구야",
-  "name": "Kaguya",
-  "stats": {"hit": 173, "dodge": 75, "armor": 180, "critDmg": 195},
+  "grow": 250,
   "skill": {
-    "id": 1021,
-    "dataPool": {
-      "DM": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CD": 3,
-      "CP": 8
-    }
+    "id": "900117",
+    "codename": "golden",
+    "cooldownType": "second",
+    "initialCooldown": 1,
+    "dataPool": [],
+    "consumption": 0
   },
-  "grow": 60,
-  "buildTime": 0
-}, {
-  "id": 1003,
-  "category": "battle",
-  "krName": "클로에",
-  "name": "Chloe",
-  "stats": {"pow": 145, "hit": 135, "dodge": 199, "armor": 65},
-  "skill": {
-    "id": 1022,
-    "dataPool": {
-      "HP": [150, 175, 200, 250, 300, 350, 400, 450, 500, 600],
-      "DM": [15, 22, 30, 40, 50, 60, 70, 80, 90, 100],
-      "CD": 0,
-      "CP": 2
-    }
+  "powerup": {
+    "mp": 10,
+    "ammo": 3,
+    "mre": 14,
+    "part": 3
   },
-  "grow": 60,
-  "buildTime": 0
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ]
 }, {
   "id": 1004,
   "category": "strategy",
-  "krName": "스이",
-  "name": "DJMAXSUEE",
-  "stats": {"dodge": 175, "armor": 170, "critDmg": 150},
+  "stats": {
+    "dodge": 175,
+    "armor": 170,
+    "criticalHarmRate": 150
+  },
   "skill": {
-    "id": 1023,
-    "dataPool": {
-      "IC": [8, 9, 10, 11, 12, 13, 14, 16, 18, 20],
-      "CD": 2,
-      "CP": 3
-    }
+    "id": "*1004",
+    "codename": "IWantU",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 2
+      },
+      {
+        "level": 2,
+        "cooldown": 2
+      },
+      {
+        "level": 3,
+        "cooldown": 2
+      },
+      {
+        "level": 4,
+        "cooldown": 2
+      },
+      {
+        "level": 5,
+        "cooldown": 2
+      },
+      {
+        "level": 6,
+        "cooldown": 2
+      },
+      {
+        "level": 7,
+        "cooldown": 2
+      },
+      {
+        "level": 8,
+        "cooldown": 2
+      },
+      {
+        "level": 9,
+        "cooldown": 2
+      },
+      {
+        "level": 10,
+        "cooldown": 2
+      }
+    ],
+    "consumption": 3
   },
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXSUEE",
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 67,
+      "codename": "DJMAXSUEE_1"
+    },
+    {
+      "id": 68,
+      "codename": "DJMAXSUEE_2"
+    },
+    {
+      "id": 69,
+      "codename": "DJMAXSUEE_3"
+    }
+  ]
 }, {
   "id": 1005,
   "category": "battle",
-  "krName": "세라&니나",
-  "name": "DJMAXSEHRA",
-  "stats": {"pow": 100, "hit": 80, "dodge": 125, "critDmg": 100},
+  "stats": {
+    "pow": 100,
+    "hit": 80,
+    "dodge": 125,
+    "criticalHarmRate": 100
+  },
   "skill": {
-    "id": 1024,
-    "dataPool": {
-      "PW": [5, 7, 8, 10, 12, 13, 15, 17, 18, 20],
-      "AR": [5, 5, 6, 6, 7, 7, 8, 8, 9, 10],
-      "CP": 1
-    }
+    "id": "900152",
+    "codename": "LadyMadeSTAR",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 1
   },
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXSEHRA",
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 70,
+      "codename": "DJMAXSEHRA_1"
+    },
+    {
+      "id": 71,
+      "codename": "DJMAXSEHRA_2"
+    },
+    {
+      "id": 72,
+      "codename": "DJMAXSEHRA_3"
+    }
+  ]
 }, {
   "id": 1006,
   "category": "battle",
-  "krName": "프레이야&카밀리아",
-  "name": "DJMAXPREIYA",
   "stats": {
     "pow": 145,
     "hit": 100,
     "dodge": 25,
     "armor": 100,
-    "critDmg": 110
+    "criticalHarmRate": 110
   },
   "skill": {
-    "id": 1025,
-    "dataPool": {
-      "RI": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "RD": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "YI": [10, 12, 14, 16, 18, 20, 22, 24, 27, 30],
-      "YD": [10, 11, 12, 13, 14, 15, 16, 17, 18, 20],
-      "CP": 1
-    }
+    "id": "900153",
+    "codename": "OblivioN",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 1
   },
   "grow": 100,
-  "buildTime": 0
+  "buildTime": 18600,
+  "codename": "DJMAXPREIYA",
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 73,
+      "codename": "DJMAXPREIYA_1"
+    },
+    {
+      "id": 74,
+      "codename": "DJMAXPREIYA_2"
+    },
+    {
+      "id": 75,
+      "codename": "DJMAXPREIYA_3"
+    }
+  ]
+}, {
+  "id": 1001,
+  "category": "battle",
+  "codename": "Sakura",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 220,
+    "dodge": 75,
+    "armor": 65,
+    "criticalHarmRate": 200
+  },
+  "grow": 60,
+  "skill": {
+    "id": "900118",
+    "codename": "Sakura",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
+    "dataPool": [],
+    "consumption": 3
+  },
+  "powerup": {
+    "mp": 3,
+    "ammo": 14,
+    "mre": 10,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 55,
+      "codename": "Sakura_1"
+    },
+    {
+      "id": 56,
+      "codename": "Sakura_2"
+    },
+    {
+      "id": 57,
+      "codename": "Sakura_3"
+    }
+  ]
+}, {
+  "id": 1002,
+  "category": "strategy",
+  "codename": "Kaguya",
+  "buildTime": 18600,
+  "stats": {
+    "hit": 173,
+    "dodge": 75,
+    "armor": 180,
+    "criticalHarmRate": 195
+  },
+  "grow": 60,
+  "skill": {
+    "id": "*1002",
+    "codename": "Kaguya",
+    "cooldownType": "turn",
+    "initialCooldown": 0,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 3
+      },
+      {
+        "level": 2,
+        "cooldown": 3
+      },
+      {
+        "level": 3,
+        "cooldown": 3
+      },
+      {
+        "level": 4,
+        "cooldown": 3
+      },
+      {
+        "level": 5,
+        "cooldown": 3
+      },
+      {
+        "level": 6,
+        "cooldown": 3
+      },
+      {
+        "level": 7,
+        "cooldown": 3
+      },
+      {
+        "level": 8,
+        "cooldown": 3
+      },
+      {
+        "level": 9,
+        "cooldown": 3
+      },
+      {
+        "level": 10,
+        "cooldown": 3
+      }
+    ],
+    "consumption": 8
+  },
+  "powerup": {
+    "mp": 3,
+    "ammo": 10,
+    "mre": 14,
+    "part": 8
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 58,
+      "codename": "Kaguya_1"
+    },
+    {
+      "id": 59,
+      "codename": "Kaguya_2"
+    },
+    {
+      "id": 60,
+      "codename": "Kaguya_3"
+    }
+  ]
+}, {
+  "id": 1003,
+  "category": "battle",
+  "codename": "Chloe",
+  "buildTime": 18600,
+  "stats": {
+    "pow": 145,
+    "hit": 135,
+    "dodge": 199,
+    "armor": 65
+  },
+  "grow": 60,
+  "skill": {
+    "id": "900119",
+    "codename": "Chloe",
+    "cooldownType": "frame",
+    "initialCooldown": 60,
+    "dataPool": [],
+    "consumption": 2
+  },
+  "powerup": {
+    "mp": 14,
+    "ammo": 10,
+    "mre": 3,
+    "part": 3
+  },
+  "retireExp": 100,
+  "qualityExp": [
+    0,
+    100,
+    200,
+    350,
+    550
+  ],
+  "skins": [
+    {
+      "id": 61,
+      "codename": "Chloe_1"
+    },
+    {
+      "id": 62,
+      "codename": "Chloe_2"
+    },
+    {
+      "id": 63,
+      "codename": "Chloe_3"
+    }
+  ]
 }]

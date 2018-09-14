@@ -1,3 +1,0 @@
-extends: prev
-env:
-  jest: true
