@@ -1,4 +1,4 @@
-# GirlsFrontline Library
+# README
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=master)](https://travis-ci.org/36base/girlsfrontline-core)
 
@@ -6,10 +6,16 @@
 
 ## Install
 
+### Using npm
+
 ```bash
 $ npm install girlsfrontline-core
-or
-$ yarn add girlsfrontline-core
+```
+
+### Using cdn
+
+```markup
+<script crossorigin src="https://unpkg.com/girlsfrontline-core/build/umd/gfcore.min.js"></script>
 ```
 
 ## Example
