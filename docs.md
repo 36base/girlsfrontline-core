@@ -16,7 +16,7 @@
 
 장비 데이터
 
-### Fairies: Fairy\[\]
+### Fairies: [Fairy\[\]](docs.md#fairy)
 
 전술 요정 데이터
 
@@ -78,17 +78,6 @@ console.log(doll.stats);
 ### get effect\(\): IEffect
 
 ```javascript
-doll.dummyLink = 3;
-console.log(doll.effect);
-// {
-//   effectCenter: 5,
-//   effectPos: [1, 2, 4, 7, 8],
-//   effectType: 'all',
-//   gridEffect: {
-//     hit: 37,
-//     rate: 22,
-//   },
-// }
 doll.dummyLink = 5;
 console.log(doll.effect);
 // {
@@ -107,23 +96,6 @@ console.log(doll.effect);
 ### get skill2\(\): ISkill \| null
 
 ```javascript
-doll.skillLevel = 7;
-console.log(doll.skill);
-// {
-//   id: '109401',
-//   codename: 'Clear',
-//   name: '"조금 더 완벽하게!"',
-//   description: '공격을 멈추고 다섯 차례 연주한다, 매 연주는 무작위 아군 하나의 화력과 명중을 25%(Glory Light 장착시 33%) 상승시킨다, 중첩 불가, 연주당 지속시간 각 3초.',
-//   cooldownType: 'frame',
-//   initialCooldown: 180,
-//   cooldown: 261,
-//   detail: {
-//     '쿨타임': '8.7초',
-//     '화력 상승치': '25%',
-//     '명중 상승치': '25%',
-//   },
-//   consumption: 0,
-// }
 doll.skillLevel = 10;
 console.log(doll.skill);
 // {
@@ -315,15 +287,6 @@ console.log(equip.introduction);
 ### get stats\(\): IEquipStats
 
 ```javascript
-equip.level = 0;
-console.log(equip.stats);
-// {
-//   criticalPercent: {
-//     min: 17,
-//     max: 24,
-//   },
-// }
-
 equip.level = 10;
 console.log(equip.stats);
 // {
@@ -413,12 +376,7 @@ console.log(equip.company);
 
 [level](docs.md#get-set-level-number-1)의 최대값
 
-### buildTime: number
-
-```javascript
-equip.buildTime;
-// 1800 => 00:30:00
-```
+### [buildTime](docs.md#buildtime-number): number
 
 ### powerup: IPowerup
 
@@ -447,5 +405,146 @@ console.log(equip.fitGuns);
 //   20103 => UMP45Mod
 // ]
 // or undefined
+```
+
+## Fairy
+
+### get name\(\): string
+
+```javascript
+console.log(fairy.name);
+// 야에 사쿠라 
+```
+
+### get introduce\(\): string
+
+```javascript
+console.log(fairy.introduce);
+// “피어나거라, 이 슬픈 세상이여”
+```
+
+### get description\(\): string
+
+```javascript
+console.log(fairy.description);
+// 다수의 적에게 대미지를 입힐 수 있고, 전투 중 대량의 불 기둥을 만들어 닿은 적들에게 피해를 입힙니다
+```
+
+### get skill\(\): ISkill
+
+```javascript
+fairy.skillLevel = 1;
+console.log(fairy.skill);
+// {
+//   name: '야타의 휘광',
+//   description: '자신 주위 범위 2구역에 야타의 거울을 배치하고 레이저를 발사하여, 구역 내의 무작위 3기의 적에게 현재 체력의 10%의 피해를 입힌다.(보스 무효)',
+//   cooldown: 3,
+//   cooldownType: 'turn',
+//   detail: {
+//     '피해량': '10%',
+//   },
+// }
+```
+
+### get stats\(\): IStats
+
+팀의 능력치 상승량 \(%\)
+
+```javascript
+fairy.qualityLevel = 2;
+fairy.level = 100;
+console.log(fairy.stats);
+// {
+//   pow: 13,
+//   dodge: 12,
+//   armor: 3,
+//   criticalHarmRate: 16,
+// }
+```
+
+### get skins\(\): IFairySkin\[\]
+
+```javascript
+console.log(fairy.skins);
+// [
+//   { id: 55, name: '야에 사쿠라', codename: 'Sakura_1', description: '1단계 기본 외형'},
+//   { id: 56, name: '야에 사쿠라', codename: 'Sakura_2', description: '2단계 기본 외형'},
+//   { id: 57, name: '야에 사쿠라', codename: 'Sakura_3', description: '3단계 기본 외형'},
+// ]
+```
+
+### get/set level\(\): number
+
+기본값: 100
+
+```javascript
+fairy.level = 100;
+console.log(fairy.level);
+// 100
+
+fairy.level = 0;
+// Error: `level` must be greater than 0
+
+fairy.level = 101;
+// Error: `level` must be less than 101
+```
+
+### get/set qualityLevel\(\): number
+
+```text
+fairy.qualityLevel = 5;
+console.log(fairy.qualityLevel);
+// 5
+
+fairy.qualityLevel = 0;
+// Error: `qualityLevel` must be greater than 0
+
+fairy.qualityLevel = 6;
+// Error: `qualityLevel` must be less than 6
+```
+
+| Value | Description |
+| :--- | :--- |
+| 1 | ⭐ |
+| 2 | ⭐⭐ |
+| 3 | ⭐⭐⭐ |
+| 4 | ⭐⭐⭐⭐ |
+| 5 | ⭐⭐⭐⭐⭐ |
+
+### get/set [skillLevel](docs.md#get-set-skilllevel-number)\(\): number
+
+### id: number
+
+### category: string
+
+| Value |
+| :--- |
+| battle |
+| strategy |
+| dummy |
+
+### [grow](docs.md#grow-number): number
+
+### [buildTime](docs.md#buildtime-number): number
+
+### [powerup](docs.md#powerup-ipowerup): IPowerup
+
+### retireExp: number
+
+강화 재료로 사용 시 얻는 경험치
+
+### qualityExp: number\[\]
+
+강화 시 필요한 경험치
+
+```javascript
+console.log(fairy.qualityExp);
+// [
+//   0,
+//   100,
+//   500,
+//   1500,
+//   3000
+// ]
 ```
 
