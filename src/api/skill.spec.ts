@@ -1,10 +1,15 @@
 import dollJson from '../../data/doll.json';
 import fairyJson from '../../data/fairy.json';
+import { init } from '../index';
 import { IDoll, IFairy, ISkill } from '../interface';
 import { getSkill, getSkillResource, SkillType } from './skill';
 
 const dollData = dollJson as IDoll[];
 const fairyData = fairyJson as IFairy[];
+
+beforeAll(() => {
+  return init();
+});
 
 describe('`getSkill()`', () => {
   const M1873 = dollData.find(({ codename }) => codename === 'M1873') as IDoll;

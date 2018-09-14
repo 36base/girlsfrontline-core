@@ -1,8 +1,12 @@
 import equipJson from '../data/equip.json';
 import Equip from './equip';
+import { init } from './index';
 import { IEquip } from './interface';
 
 const equipData = equipJson as IEquip[];
+beforeAll(() => {
+  return init();
+});
 
 describe('`人形装备_防弹插板_M16A1` Equip class', () => {
   const equip = new Equip(equipData.find(({ codename }) => codename === '人形装备_防弹插板_M16A1') as IEquip);

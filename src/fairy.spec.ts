@@ -1,8 +1,12 @@
 import fairyJson from '../data/fairy.json';
 import Fairy from './fairy';
+import { init } from './index';
 import { IFairy } from './interface';
 
 const fairyData = fairyJson as IFairy[];
+beforeAll(() => {
+  return init();
+});
 
 describe('`Sakura` Fairy class', () => {
   // tslint:disable-next-line:variable-name

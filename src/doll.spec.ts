@@ -1,9 +1,12 @@
-/* tslint:disable variable-name */
 import dollJson from '../data/doll.json';
 import Doll from './doll';
+import { init } from './index';
 import { IDoll } from './interface';
 
 const dollData = dollJson as IDoll[];
+beforeAll(() => {
+  return init();
+});
 
 describe('`CLEAR` Doll class', () => {
   const CLEAR = new Doll(dollData.find(({ codename }) => codename === 'CLEAR') as IDoll);

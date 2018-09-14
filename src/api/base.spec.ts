@@ -1,10 +1,11 @@
 import { init } from '../index';
 import { getSkinResource, SkinType } from './base';
 
+beforeAll(() => {
+  return init();
+});
+
 describe('`getSkinResource()`', () => {
-  beforeAll(() => {
-    return init();
-  });
   test('returns doll skin resource', () => {
     expect(getSkinResource(SkinType.Doll, 1, 2105)).toBe('콜트 리볼버 - 기적의 여왕');
   });
