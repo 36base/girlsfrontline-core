@@ -12,7 +12,7 @@
 
 전술 인형 데이터
 
-### equips: Equip\[\]
+### equips: [Equip\[\]](docs.md#equip)
 
 장비 데이터
 
@@ -295,4 +295,157 @@ console.log(doll.mindupdate);
 ### grow: number
 
 스탯 계산용 데이터 \(인형 성장 배율\)
+
+## Equip
+
+### get name\(\): string
+
+```javascript
+console.log(equip.name);
+// 특수 전술기동장갑
+```
+
+### get introduction\(\): string
+
+```javascript
+console.log(equip.introduction);
+// 철혈 공조가 무너지기 전 남겨놓은 장비로, 외골격의 기동장갑이 사용자의 생존능력을 극대화 시켜주지만, 몸과 정신에 심한 부담을 줍니다.
+```
+
+### get stats\(\): IEquipStats
+
+```javascript
+equip.level = 0;
+console.log(equip.stats);
+// {
+//   criticalPercent: {
+//     min: 17,
+//     max: 24,
+//   },
+// }
+
+equip.level = 10;
+console.log(equip.stats);
+// {
+//   criticalPercent: {
+//     min: 34,
+//     max: 48,
+//   },
+// }
+```
+
+### get/set level\(\): number
+
+```javascript
+// equip.maxLevel === 5
+equip.level = equip.maxLevel;
+console.log(equip.level);
+// 5
+
+equip.level = -1;
+// Error: `level` must be greater than -1
+
+equip.level = 6;
+// Error: `level` must be less than 6
+```
+
+### id: number
+
+### codename: string
+
+```javascript
+console.log(equip.codename);
+// 配件_光学瞄准镜_N
+```
+
+### rank: number
+
+| Value | Description |
+| :--- | :--- |
+| 2 | ⭐⭐ |
+| 3 | ⭐⭐⭐ |
+| 4 | ⭐⭐⭐⭐ |
+| 5 | ⭐⭐⭐⭐⭐ |
+
+### category: string
+
+| Value |
+| :--- |
+| accessory |
+| ammo |
+| doll |
+
+### type: string
+
+| Value |
+| :--- |
+| none |
+| optical |
+| holo |
+| reddot |
+| nightvision |
+| apAmmo |
+| hpAmmo |
+| shotgunShell |
+| hvAmmo |
+| chip |
+| exoSkeleton |
+| armorPlate |
+| medal |
+| suppressor |
+| ammunitionBox |
+| cloak |
+| spPart |
+| spClip |
+
+### company: string
+
+```javascript
+console.log(equip.company);
+// EOT
+```
+
+### exclusiveRate: number
+
+경험치 계산용 데이터
+
+### maxLevel: number
+
+[level](docs.md#get-set-level-number-1)의 최대값
+
+### buildTime: number
+
+```javascript
+equip.buildTime;
+// 1800 => 00:30:00
+```
+
+### powerup: IPowerup
+
+장비 강화 비용 계산용 데이터
+
+```javascript
+console.log(equip.powerup);
+// {
+//   "mp": 0.45,
+//   "ammo": 0.15,
+//   "mre": 0.3,
+//   "part": 0.15
+// }
+```
+
+### fitGuns: number\[\] \| undefined
+
+해당 장비를 장착할  있는 인형 목록 \(전용장비 전용\)
+
+```javascript
+console.log(equip.fitGuns);
+// [
+//   101,  => UMP9
+//   102,  => UMP40
+//   103,  => UMP45
+//   20103 => UMP45Mod
+// ]
+// or undefined
+```
 
