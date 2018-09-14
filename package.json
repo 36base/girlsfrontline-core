@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-core",
-  "version": "2.0.5-alpha18",
+  "version": "2.0.6-alpha19",
   "description": "GirlsFrontline Library",
   "main": "./build/lib/index.js",
   "types": "./build/lib/index.d.ts",
