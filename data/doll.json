@@ -21834,7 +21834,7 @@
     }
   },
   "skill1": {
-    "id": "101401",
+    "id": "110051",
     "codename": "dodgeDebuff",
     "cooldownType": "frame",
     "initialCooldown": 180,
