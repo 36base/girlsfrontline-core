@@ -1,4 +1,4 @@
-# LICENSE
+# license
 
 The MIT License \(MIT\)
 
