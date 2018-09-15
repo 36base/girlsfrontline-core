@@ -182,6 +182,8 @@ doll.skillLevel = 11;
 // Error: `skillLevel` must be less than 11
 ```
 
+### get/set skillLevel2\(\): number
+
 ### get/set dummyLink\(\): number
 
 기본값: 5
@@ -394,7 +396,7 @@ console.log(equip.powerup);
 
 ### fitGuns: number\[\] \| undefined
 
-해당 장비를 장착할  있는 인형 목록 \(전용장비 전용\)
+해당 장비를 장착할 있는 인형 목록 \(전용장비 전용\)
 
 ```javascript
 console.log(equip.fitGuns);
@@ -413,7 +415,7 @@ console.log(equip.fitGuns);
 
 ```javascript
 console.log(fairy.name);
-// 야에 사쿠라 
+// 야에 사쿠라
 ```
 
 ### get introduce\(\): string
