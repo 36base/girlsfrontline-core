@@ -15,7 +15,9 @@ export function getSkill(skill:ISkillJson, { level = 10 } = {}):ISkill {
   if (detailStr.length > 0) {
     detailStr.forEach((details) => {
       const [key, value] = details.split(':');
-      detail[key.trim()] = value.trim();
+      if (value) {
+        detail[key.trim()] = value.trim();
+      }
     });
   }
   const { cooldown } = dataPool.find(({ level: poolLevel }) => poolLevel === level) || { cooldown: 0 };
