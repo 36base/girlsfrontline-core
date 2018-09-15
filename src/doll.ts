@@ -43,7 +43,7 @@ export default class Doll{
   private readonly _skill2?: ISkillJson;
   get skill2(): ISkill|null {
     if (this._skill2) {
-      return getSkill(this._skill2, { level: this._skillLevel });
+      return getSkill(this._skill2, { level: this._skillLevel2 });
     }
     return null;
   }
@@ -104,6 +104,19 @@ export default class Doll{
       throw Error('`skillLevel` must be less than 11');
     }
     this._skillLevel = skillLevel;
+  }
+  private _skillLevel2: number = 10;
+  get skillLevel2(): number {
+    return this._skillLevel2;
+  }
+  set skillLevel2(skillLevel2:number) {
+    if (skillLevel2 < 1) {
+      throw Error('`skillLevel2` must be greater than 0');
+    }
+    if (skillLevel2 > 10) {
+      throw Error('`skillLevel2` must be less than 11');
+    }
+    this._skillLevel2 = skillLevel2;
   }
 
   constructor(dollJson:IDoll) {
