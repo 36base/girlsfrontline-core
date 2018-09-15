@@ -416,38 +416,6 @@
   "buildTime": 3180,
   "skins": []
 }, {
-  "id": 4,
-  "name": "Python",
-  "type": "hg",
-  "rank": 5,
-  "stats": {
-    "hp": 105,
-    "pow": 128,
-    "hit": 140,
-    "dodge": 95,
-    "speed": 100,
-    "rate": 85,
-    "armorPiercing": 10,
-    "crit": 40
-  },
-  "grow": 142,
-  "effect": {
-    "effectType": "all",
-    "effectCenter": 5,
-    "effectPos": [
-      1,
-      2,
-      4,
-      6,
-      8,
-      9
-    ],
-    "gridEffect": {
-      "pow": 15,
-      "crit": 10
-    }
-  }
-}, {
   "id": 5,
   "rank": 2,
   "type": "hg",
@@ -5718,35 +5686,6 @@
   ],
   "buildTime": 8280,
   "skins": []
-}, {
-  "id": 59,
-  "name": "AK74U",
-  "type": "smg",
-  "rank": 5,
-  "stats": {
-    "hp": 110,
-    "pow": 136,
-    "hit": 118,
-    "dodge": 115,
-    "speed": 100,
-    "rate": 108,
-    "armorPiercing": 10,
-    "crit": 5
-  },
-  "grow": 103,
-  "effect": {
-    "effectType": "ar",
-    "effectCenter": 5,
-    "effectPos": [
-      1,
-      4,
-      7
-    ],
-    "gridEffect": {
-      "pow": 15,
-      "hit": 25
-    }
-  }
 }, {
   "id": 60,
   "rank": 4,
@@ -24317,35 +24256,6 @@
   "skins": [
     5014
   ]
-}, {
-  "id": 20056,
-  "name": "M4 SOPMOD IIMod",
-  "type": "ar",
-  "rank": 5,
-  "stats": {
-    "hp": 100,
-    "pow": 118,
-    "hit": 125,
-    "dodge": 115,
-    "speed": 100,
-    "rate": 120,
-    "armorPiercing": 10,
-    "crit": 30
-  },
-  "grow": 110,
-  "effect": {
-    "effectType": "smg",
-    "effectCenter": 5,
-    "effectPos": [
-      3,
-      6,
-      9
-    ],
-    "gridEffect": {
-      "hit": 50,
-      "dodge": 15
-    }
-  }
 }, {
   "id": 20057,
   "type": "ar",
