@@ -70,6 +70,16 @@ describe('`CLEAR` Doll class', () => {
   test('throws error when set skillLevel to 11', () => {
     expect(() => CLEAR.skillLevel = 11).toThrow('`skillLevel` must be less than 11');
   });
+  test('set skillLevel2 to 7', () => {
+    CLEAR.skillLevel2 = 7;
+    expect(CLEAR.skillLevel2).toBe(7);
+  });
+  test('throws error when set skillLevel2 to 0', () => {
+    expect(() => CLEAR.skillLevel2 = 0).toThrow('`skillLevel2` must be greater than 0');
+  });
+  test('throws error when set skillLevel2 to 11', () => {
+    expect(() => CLEAR.skillLevel2 = 11).toThrow('`skillLevel2` must be less than 11');
+  });
   test('returns stats when level=70, dummyLink=3, favor=200', () => {
     expect(CLEAR.stats).toMatchObject({
       hp: 280,
