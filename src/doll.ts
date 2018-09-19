@@ -16,7 +16,11 @@ export default class Doll{
   public readonly equip3: string[];
 
   get name():string {
-    return getDollResource(1, this.id);
+    const resource = getDollResource(1, this.id);
+    if (resource.startsWith('gun-1')) {
+      return this.codename;
+    }
+    return resource;
   }
   get illust():string {
     return getDollResource(4, this.id).split(',')[0];

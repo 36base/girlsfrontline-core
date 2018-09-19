@@ -61,10 +61,7 @@ async function run() {
   //   detail: { '불기둥 대미지': '90' },
   //   consumption: 3 }
 }
-
 ```
 
->
-
-
+&gt;
 
