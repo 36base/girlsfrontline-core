@@ -12,14 +12,7 @@ const dollData = dollJson as IDoll[];
 const equipData = equipJson as IEquip[];
 const fairyData = fairyJson as IFairy[];
 
-const dolls = dollData.map((data) => {
-  const { id } = data;
-
-  // 개조 인형 데이터일때
-  return id > 20000
-    ? new Doll({ ...dollData.find(({ id: dollId }) => dollId === (id - 20000)), ...data })
-    : new Doll(data);
-});
+const dolls = dollData.map(data => new Doll(data));
 const equips = equipData.map(data => new Equip(data));
 const fairies = fairyData.map(data => new Fairy(data));
 
