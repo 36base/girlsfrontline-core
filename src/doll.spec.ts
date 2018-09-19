@@ -49,9 +49,6 @@ describe('`CLEAR` Doll class', () => {
   test('throws error when set level to 0', () => {
     expect(() => CLEAR.level = 0).toThrow('`level` must be greater than 0');
   });
-  test('throws error when set level to 121', () => {
-    expect(() => CLEAR.level = 121).toThrow('`level` must be less than 121');
-  });
   test('set favor to 200', () => {
     CLEAR.favor = 200;
     expect(CLEAR.favor).toBe(200);
@@ -65,9 +62,6 @@ describe('`CLEAR` Doll class', () => {
   });
   test('throws error when set dummyLink to 0', () => {
     expect(() => CLEAR.dummyLink = 0).toThrow('`dummyLink` must be greater than 0');
-  });
-  test('throws error when set dummyLink to 6', () => {
-    expect(() => CLEAR.dummyLink = 6).toThrow('`dummyLink` must be less than 6');
   });
   test('set skillLevel to 7', () => {
     CLEAR.skillLevel = 7;

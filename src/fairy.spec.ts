@@ -38,9 +38,6 @@ describe('`DJMAXSEHRA` Fairy class', () => {
   test('throws error when set level to 0', () => {
     expect(() => DJMAXSEHRA.level = 0).toThrow('`level` must be greater than 0');
   });
-  test('throws error when set level to 101', () => {
-    expect(() => DJMAXSEHRA.level = 101).toThrow('`level` must be less than 101');
-  });
   test('set qualityLevel to 3', () => {
     DJMAXSEHRA.qualityLevel = 3;
     expect(DJMAXSEHRA.qualityLevel).toBe(3);

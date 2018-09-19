@@ -4,17 +4,6 @@ import { getSkill } from './api/skill';
 import { IDoll, IEffect, IMindupdate, IObtain, ISkill, ISkillJson, ISkin, IStats } from './interface';
 
 export default class Doll{
-  public readonly id: number;
-  public readonly rank: number;
-  public readonly type: string;
-  public readonly buildTime: number;
-  public readonly grow: number;
-  public readonly codename: string;
-  public readonly mindupdate: IMindupdate[];
-  public readonly equip1: string[];
-  public readonly equip2: string[];
-  public readonly equip3: string[];
-
   get name():string {
     const resource = getDollResource(1, this.id);
     if (resource.startsWith('gun-1')) {
@@ -22,45 +11,45 @@ export default class Doll{
     }
     return resource;
   }
+
   get illust():string {
     return getDollResource(4, this.id).split(',')[0];
   }
+
   get voice():string {
     return getDollResource(4, this.id).split(',')[1];
   }
 
-  private readonly _stats: IStats;
   get stats(): IStats {
     return getDollStats(
       this.type, this._stats, this.grow,
       { level: this._level, favor: this._favor },
     );
   }
-  private readonly _effect: IEffect;
+
   get effect(): IEffect {
     return getDollEffect(this.type, this._dummyLink, this._effect);
   }
-  private readonly _skill1: ISkillJson;
+
   get skill1(): ISkill {
     return getSkill(this._skill1, { level: this._skillLevel });
   }
-  private readonly _skill2?: ISkillJson;
+
   get skill2(): ISkill|null {
     if (this._skill2) {
       return getSkill(this._skill2, { level: this._skillLevel2 });
     }
     return null;
   }
-  private readonly _obtain: number[];
+
   get obtain():IObtain[] {
     return getDollObtain(this._obtain);
   }
-  private readonly _skins: number[];
+
   get skins():ISkin[] {
     return getDollSkins(this._skins);
   }
 
-  private _level:number = 100;
   get level(): number {
     return this._level;
   }
@@ -68,12 +57,9 @@ export default class Doll{
     if (level < 1) {
       throw Error('`level` must be greater than 0');
     }
-    if (level > 120) {
-      throw Error('`level` must be less than 121');
-    }
     this._level = level;
   }
-  private _favor:number = 50;
+
   get favor(): number {
     return this._favor;
   }
@@ -83,7 +69,7 @@ export default class Doll{
     }
     this._favor = favor;
   }
-  private _dummyLink:number = 5;
+
   get dummyLink(): number {
     return this._dummyLink;
   }
@@ -91,12 +77,9 @@ export default class Doll{
     if (dummyLink < 1) {
       throw Error('`dummyLink` must be greater than 0');
     }
-    if (dummyLink > 5) {
-      throw Error('`dummyLink` must be less than 6');
-    }
     this._dummyLink = dummyLink;
   }
-  private _skillLevel: number = 10;
+
   get skillLevel(): number {
     return this._skillLevel;
   }
@@ -109,7 +92,7 @@ export default class Doll{
     }
     this._skillLevel = skillLevel;
   }
-  private _skillLevel2: number = 10;
+
   get skillLevel2(): number {
     return this._skillLevel2;
   }
@@ -122,9 +105,34 @@ export default class Doll{
     }
     this._skillLevel2 = skillLevel2;
   }
+
   public static isMod(id:number):boolean {
     return id > 20000;
   }
+
+  public readonly id: number;
+  public readonly rank: number;
+  public readonly type: string;
+  public readonly buildTime: number;
+  public readonly grow: number;
+  public readonly codename: string;
+  public readonly mindupdate: IMindupdate[];
+  public readonly equip1: string[];
+  public readonly equip2: string[];
+  public readonly equip3: string[];
+
+  private readonly _stats: IStats;
+  private readonly _effect: IEffect;
+  private readonly _skill1: ISkillJson;
+  private readonly _skill2?: ISkillJson;
+  private readonly _obtain: number[];
+  private readonly _skins: number[];
+
+  private _level:number = 100;
+  private _favor:number = 50;
+  private _dummyLink:number = 5;
+  private _skillLevel: number = 10;
+  private _skillLevel2: number = 10;
 
   constructor(dollJson:IDoll) {
     const { id, rank, type,
