@@ -46,9 +46,6 @@ export default class Fairy {
     if (level < 1) {
       throw Error('`level` must be greater than 0');
     }
-    if (level > 100) {
-      throw Error('`level` must be less than 101');
-    }
     this._level = level;
   }
   private _qualityLevel = 5;

@@ -148,9 +148,6 @@ console.log(doll.level);
 
 doll.level = 0;
 // Error: `level` must be greater than 0
-
-doll.level = 121;
-// Error: `level` must be less than 121
 ```
 
 ### get/set favor\(\): number
@@ -195,9 +192,6 @@ console.log(doll.dummyLink);
 
 doll.dummyLink = 0;
 // Error: `dummyLink` must be greater than 0
-
-doll.dummyLink = 6;
-// Error: `dummyLink` must be less than 6
 ```
 
 ### id: number
@@ -486,9 +480,6 @@ console.log(fairy.level);
 
 fairy.level = 0;
 // Error: `level` must be greater than 0
-
-fairy.level = 101;
-// Error: `level` must be less than 101
 ```
 
 ### get/set qualityLevel\(\): number
