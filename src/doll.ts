@@ -122,6 +122,9 @@ export default class Doll{
     }
     this._skillLevel2 = skillLevel2;
   }
+  public static isMod(id:number):boolean {
+    return id > 20000;
+  }
 
   constructor(dollJson:IDoll) {
     const { id, rank, type,

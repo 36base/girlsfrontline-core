@@ -8,6 +8,15 @@ beforeAll(() => {
   return init();
 });
 
+describe('`Doll.isMod()`', () => {
+  test('returns true when id=20099', () => {
+    expect(Doll.isMod(20099)).toBeTruthy();
+  });
+  test('returns false when id=99', () => {
+    expect(Doll.isMod(99)).toBeFalsy();
+  });
+});
+
 describe('`CLEAR` Doll class', () => {
   const CLEAR = new Doll(dollData.find(({ codename }) => codename === 'CLEAR') as IDoll);
   test('returns Doll class of `CLEAR`', () => {
