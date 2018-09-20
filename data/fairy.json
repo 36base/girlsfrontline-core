@@ -1309,6 +1309,20 @@
     200,
     350,
     550
+  ],
+  "skins": [
+    {
+      "id": 76,
+      "codename": "petard_1"
+    },
+    {
+      "id": 77,
+      "codename": "petard_2"
+    },
+    {
+      "id": 78,
+      "codename": "petard_3"
+    }
   ]
 }, {
   "id": 1004,
