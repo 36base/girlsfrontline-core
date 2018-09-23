@@ -158,4 +158,25 @@ export default class Doll{
     this.equip2 = equip2;
     this.equip3 = equip3;
   }
+
+  public toJSON() {
+    return {
+      id: this.id,
+      rank: this.rank,
+      type: this.type,
+      buildTime: this.buildTime,
+      stats: this._stats,
+      effect: this._effect,
+      grow: this.grow,
+      codename: this.codename,
+      skill1: this._skill1,
+      skill2: this._skill2,
+      mindupdate: this.mindupdate,
+      obtain: this._obtain,
+      skins: this._skins,
+      equip1: this.equip1,
+      equip2: this.equip2,
+      equip3: this.equip3,
+    };
+  }
 }
