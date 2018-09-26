@@ -1,12 +1,8 @@
 import equipJson from '../data/equip.json';
 import Equip from './equip';
-import { init } from './index';
 import { IEquip } from './interface';
 
 const equipData = equipJson as IEquip[];
-beforeAll(() => {
-  return init();
-});
 
 describe('`人形装备_防弹插板_M16A1` Equip class', () => {
   const equip = new Equip(equipData.find(({ codename }) => codename === '人形装备_防弹插板_M16A1') as IEquip);
@@ -14,10 +10,10 @@ describe('`人形装备_防弹插板_M16A1` Equip class', () => {
     expect(equip).toBeTruthy();
   });
   test('returns name', () => {
-    expect(equip.name).toBe('특수 전술기동장갑');
+    expect(equip.name).toBe('equip-10000091');
   });
   test('returns introduction', () => {
-    expect(equip.introduction).toBe('철혈 공조가 무너지기 전 남겨놓은 장비로, 외골격의 기동장갑이 사용자의 생존능력을 극대화 시켜주지만, 몸과 정신에 심한 부담을 줍니다.');
+    expect(equip.introduction).toBe('equip-30000091');
   });
   test('returns level', () => {
     expect(equip.level).toBe(equip.maxLevel);

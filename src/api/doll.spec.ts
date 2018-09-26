@@ -1,6 +1,6 @@
 /* tslint:disable variable-name */
 import dollJson from '../../data/doll.json';
-import { IDoll, IStats } from '../interface';
+import { IDoll } from '../interface';
 import { getDollEffect, getDollStats, getFavorRatio } from './doll';
 
 const dollData = dollJson as IDoll[];

@@ -1,5 +1,4 @@
 import fairyGrowJson from '../../data/fairyGrow.json';
-import i18next from '../i18next';
 import { IFairyGrow, IFairySkin, IFairySkinJson, IStats } from '../interface';
 import { getSkinResource, SkinType } from './base';
 
@@ -36,5 +35,5 @@ export function getFairySkins(skins: IFairySkinJson[]):IFairySkin[] {
 
 export function getFairyResource(resourceId:number, fairyId:string|number) {
   const padId = String(fairyId).padStart(7, '0');
-  return i18next.t(`fairy-${resourceId}${padId}`);
+  return `fairy-${resourceId}${padId}`;
 }

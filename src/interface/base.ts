@@ -37,11 +37,7 @@ export interface ISkill extends IBaseSkill {
   name: string;
   description: string;
   cooldown: number;
-  detail: ISkillDetail;
-}
-
-export interface ISkillDetail {
-  [key:string]: string;
+  detail: string;
 }
 
 export interface ISkillJson extends IBaseSkill {

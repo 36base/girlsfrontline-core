@@ -1,12 +1,8 @@
 import dollJson from '../data/doll.json';
 import Doll from './doll';
-import { init } from './index';
 import { IDoll } from './interface';
 
 const dollData = dollJson as IDoll[];
-beforeAll(() => {
-  return init();
-});
 
 describe('`Doll.isMod()`', () => {
   test('returns true when id=20099', () => {
@@ -23,23 +19,23 @@ describe('`CLEAR` Doll class', () => {
     expect(CLEAR).toBeTruthy();
   });
   test('returns name', () => {
-    expect(CLEAR.name).toBe('클리어');
+    expect(CLEAR.name).toBe('gun-10001009');
   });
   test('returns illustrator', () => {
-    expect(CLEAR.illust).toBe('水熊');
+    expect(CLEAR.illust).toBe('gun-40001009');
   });
   test('returns voice actor', () => {
-    expect(CLEAR.voice).toBe('');
+    expect(CLEAR.voice).toBe('gun-40001009');
   });
   test('returns skin', () => {
     expect(CLEAR.skins).toMatchObject([{
       id: 509,
-      name: '포터블 여왕 2세',
+      name: 'skin-10000509',
     }]);
   });
   test('returns obatin', () => {
     expect(CLEAR.obtain).toMatchObject([
-      { description: '기간한정 이벤트【Glory Day】2-3클리어 보상', id: 206 },
+      { description: 'gun_obtain-10000206', id: 206 },
     ]);
   });
   test('set level to 70', () => {
@@ -108,16 +104,11 @@ describe('`CLEAR` Doll class', () => {
       codename: 'Clear',
       cooldown: 261,
       cooldownType: 'frame',
-      description: '공격을 멈추고 다섯 차례 연주한다, 매 연주는 무작위 아군 하나의 화력과 명중을 25%(Glory Light 장착시 33%) 상승시킨다, 중첩 불가, 연주당 지속시간 각 3초.',
-      detail: {
-        '명중 상승치': '25%',
-        // tslint:disable-next-line:object-literal-key-quotes
-        '쿨타임': '8.7초',
-        '화력 상승치': '25%',
-      },
+      description: 'battle_skill_config-210940107',
+      detail: 'battle_skill_config-310940107',
       id: '109401',
       initialCooldown: 180,
-      name: '"조금 더 완벽하게!"',
+      name: 'battle_skill_config-110940107',
     });
   });
   test('skill2 must be null', () => {
@@ -136,14 +127,11 @@ describe('`M4A1Mod` Doll class', () => {
       codename: 'M4_Nightmare',
       cooldown: 0,
       cooldownType: 'frame',
-      description: '화력전개 발동 시, 지속시간 동안 타깃에게 설한의 쐐기를 부여한다. 전투 중 자신을 포함한 아군이 3기 이하일 경우, 공격속도가 70% 감소하는 대신, 사격 시, 타깃' +
-      '에게 공격력의 600%의 대미지를 입히며 2.5범위의 적들에게 쐐기를 부여하고 공격력의 100%의 대미지를 입힌다.',
-      detail: {
-        '포격 대미지': '600%',
-      },
+      description: 'battle_skill_config-280110810',
+      detail: 'battle_skill_config-380110810',
       id: '801108',
       initialCooldown: 0,
-      name: '설한의 쐐기',
+      name: 'battle_skill_config-180110810',
     });
   });
 });
@@ -155,8 +143,8 @@ describe('`M1A1` Doll class', () => {
   });
   test('returns obatin', () => {
     expect(M1A1.obtain).toMatchObject([
-      { description: '【일반6-6】또는【긴급6-4】에서', id: 18 },
-      { description: '보스전 S 승리 OR 전역 S 클리어로 획득 가능', id: 19 },
+      { description: 'gun_obtain-10000018', id: 18 },
+      { description: 'gun_obtain-10000019', id: 19 },
     ]);
   });
 });

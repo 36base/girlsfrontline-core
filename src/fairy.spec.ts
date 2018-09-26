@@ -1,12 +1,8 @@
 import fairyJson from '../data/fairy.json';
 import Fairy from './fairy';
-import { init } from './index';
 import { IFairy } from './interface';
 
 const fairyData = fairyJson as IFairy[];
-beforeAll(() => {
-  return init();
-});
 
 describe('`DJMAXSEHRA` Fairy class', () => {
   // tslint:disable-next-line:variable-name
@@ -15,20 +11,19 @@ describe('`DJMAXSEHRA` Fairy class', () => {
     expect(DJMAXSEHRA).toBeTruthy();
   });
   test('returns name', () => {
-    expect(DJMAXSEHRA.name).toBe('세라&니나');
+    expect(DJMAXSEHRA.name).toBe('fairy-10001005');
   });
   test('returns introduce', () => {
-    expect(DJMAXSEHRA.introduce).toBe('“하얀 우주에서, 반짝반짝 빛나는 저희를 찾아보세요！”');
+    expect(DJMAXSEHRA.introduce).toBe('fairy-20001005');
   });
   test('returns description', () => {
-    expect(DJMAXSEHRA.description).toBe('아군의 화력을 상승시키고 적군의 명중을 감소시키는 능력을 가지고 있습니다, ' +
-    '평소에는 동료들을 응원하거나 상대 팀을 헐뜯습니다(어느 쪽에 고용됐는지에 따라서요).');
+    expect(DJMAXSEHRA.description).toBe('fairy-30001005');
   });
   test('returns skins', () => {
     expect(DJMAXSEHRA.skins).toMatchObject([
-      { codename: 'DJMAXSEHRA_1', description: '1단계 기본 외형', id: 70, name: '세라&니나' },
-      { codename: 'DJMAXSEHRA_2', description: '2단계 기본 외형', id: 71, name: '세라&니나' },
-      { codename: 'DJMAXSEHRA_3', description: '3단계 기본 외형', id: 72, name: '세라&니나' },
+      { codename: 'DJMAXSEHRA_1', description: 'fairy_skin-20000070', id: 70, name: 'fairy_skin-10000070' },
+      { codename: 'DJMAXSEHRA_2', description: 'fairy_skin-20000071', id: 71, name: 'fairy_skin-10000071' },
+      { codename: 'DJMAXSEHRA_3', description: 'fairy_skin-20000072', id: 72, name: 'fairy_skin-10000072' },
     ]);
   });
   test('set level to 70', () => {
@@ -72,11 +67,11 @@ describe('`DJMAXSEHRA` Fairy class', () => {
       consumption: 1,
       cooldown: 0,
       cooldownType: 'frame',
-      description: '다음 전투에서, 본 제대 전체의 화력을 15% 상승시키고 적군 전체의 명중을 8% 감소시킨다. 지속시간 20초',
-      detail: { '명중 감소치': '8%', '화력 상승치': '15%' },
+      description: 'battle_skill_config-290015207',
+      detail: 'battle_skill_config-390015207',
       id: '900152',
       initialCooldown: 30,
-      name: 'LadyMade Star',
+      name: 'battle_skill_config-190015207',
     });
   });
 });
