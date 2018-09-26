@@ -70,13 +70,13 @@ export function getDollStats(
   Object.entries(attributeData).forEach(([key, attr]) => {
     const attribute = attr as number;
     const stat = stats[key] || 0;
-    const { [key]: basicData = [0, 0] } = basicStats;
+    const { [key]: basicData } = basicStats;
     const { [key]: growData } = growStats;
 
     // 기본 스탯 계산
-    let newStat = basicData.length > 1
-      ? Math.ceil((basicData[0] + ((level - 1) * basicData[1])) * attribute * stat / 100)
-      : Math.ceil(basicData[0] * attribute * stat / 100);
+    let newStat = basicData!.length > 1
+      ? Math.ceil((basicData![0] + ((level - 1) * basicData![1])) * attribute * stat / 100)
+      : Math.ceil(basicData![0] * attribute * stat / 100);
 
     // 강화 스탯 계산
     newStat += growth === true && growData
