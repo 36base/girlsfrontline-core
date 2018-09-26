@@ -96,8 +96,7 @@ export default class Doll{
   public readonly equip2: string[];
   public readonly equip3: string[];
   public readonly name: string;
-  public readonly illust: string;
-  public readonly voice: string;
+  public readonly extra: string;
   public readonly obtain: IObtain[];
   public readonly skins: ISkin[];
 
@@ -134,8 +133,7 @@ export default class Doll{
     this.equip2 = equip2;
     this.equip3 = equip3;
     this.name = getDollResource(1, id);
-    this.illust = getDollResource(4, id);
-    this.voice = getDollResource(4, id);
+    this.extra = getDollResource(4, id);
     this.obtain = getDollObtain(obtain);
     this.skins = getDollSkins(skins);
   }

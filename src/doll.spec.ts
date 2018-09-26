@@ -21,11 +21,8 @@ describe('`CLEAR` Doll class', () => {
   test('returns name', () => {
     expect(CLEAR.name).toBe('gun-10001009');
   });
-  test('returns illustrator', () => {
-    expect(CLEAR.illust).toBe('gun-40001009');
-  });
-  test('returns voice actor', () => {
-    expect(CLEAR.voice).toBe('gun-40001009');
+  test('returns extra', () => {
+    expect(CLEAR.extra).toBe('gun-40001009');
   });
   test('returns skin', () => {
     expect(CLEAR.skins).toMatchObject([{
