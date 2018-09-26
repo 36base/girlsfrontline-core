@@ -37,6 +37,7 @@
     "webpack-cli": "^3.1.0"
   },
   "jest": {
+    "verbose": true,
     "testURL": "http://localhost/",
     "roots": [
       "<rootDir>/src"
