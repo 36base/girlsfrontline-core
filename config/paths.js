@@ -12,6 +12,6 @@ module.exports = {
   appLocales: resolveApp('i18n'),
   appBuildData: resolveApp('build/data'),
   appBuildLocales: resolveApp('build/i18n'),
-  appBuildUmd: resolveApp('build/umd'),
+  appBuildUmd: resolveApp('umd'),
   appIndexJs: resolveApp('src/index.ts'),
 };

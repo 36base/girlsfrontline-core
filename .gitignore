@@ -8,6 +8,8 @@
 
 # production
 /build
+/lib
+/umd
 
 # misc
 .DS_Store

@@ -14,9 +14,10 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf build && node ./scripts/build && tsc -p ./tsconfig.build.json && webpack --config ./config/webpack.config.js",
+    "build": "yarn prebuild && node ./scripts/build && tsc -p ./tsconfig.build.json && webpack --config ./config/webpack.config.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged",
+    "prebuild": "rimraf build lib umd",
     "test": "jest"
   },
   "devDependencies": {
@@ -61,6 +62,8 @@
   "files": [
     "LICENSE.md",
     "README.md",
-    "build/"
+    "build/",
+    "lib/",
+    "umd/"
   ]
 }
