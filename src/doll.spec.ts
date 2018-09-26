@@ -114,6 +114,9 @@ describe('`CLEAR` Doll class', () => {
   test('skill2 must be null', () => {
     expect(CLEAR.skill2).toBe(null);
   });
+  test('`toJSON()`', () => {
+    expect(CLEAR.toJSON()).toMatchObject(dollData.find(({ codename }) => codename === 'CLEAR')!);
+  });
 });
 
 describe('`M4A1Mod` Doll class', () => {

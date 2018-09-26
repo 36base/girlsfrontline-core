@@ -49,4 +49,7 @@ describe('`人形装备_防弹插板_M16A1` Equip class', () => {
       },
     });
   });
+  test('`toJSON()`', () => {
+    expect(equip.toJSON()).toMatchObject(equipData.find(({ codename }) => codename === '人形装备_防弹插板_M16A1')!);
+  });
 });

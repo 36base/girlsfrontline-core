@@ -74,4 +74,7 @@ describe('`DJMAXSEHRA` Fairy class', () => {
       name: 'battle_skill_config-190015207',
     });
   });
+  test('`toJSON()`', () => {
+    expect(DJMAXSEHRA.toJSON()).toMatchObject(fairyData.find(({ codename }) => codename === 'DJMAXSEHRA')!);
+  });
 });
