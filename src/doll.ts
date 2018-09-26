@@ -1,23 +1,18 @@
-import { getSkinResource, SkinType } from './api/base';
 import { getDollEffect, getDollObtain, getDollResource, getDollSkins, getDollStats } from './api/doll';
 import { getSkill } from './api/skill';
 import { IDoll, IEffect, IMindupdate, IObtain, ISkill, ISkillJson, ISkin, IStats } from './interface';
 
 export default class Doll{
   get name():string {
-    const resource = getDollResource(1, this.id);
-    if (resource.startsWith('gun-1')) {
-      return this.codename;
-    }
-    return resource;
+    return getDollResource(1, this.id);
   }
 
   get illust():string {
-    return getDollResource(4, this.id).split(',')[0];
+    return getDollResource(4, this.id);
   }
 
   get voice():string {
-    return getDollResource(4, this.id).split(',')[1];
+    return getDollResource(4, this.id);
   }
 
   get stats(): IStats {
@@ -157,5 +152,26 @@ export default class Doll{
     this.equip1 = equip1;
     this.equip2 = equip2;
     this.equip3 = equip3;
+  }
+
+  public toJSON() {
+    return {
+      id: this.id,
+      rank: this.rank,
+      type: this.type,
+      buildTime: this.buildTime,
+      stats: this._stats,
+      effect: this._effect,
+      grow: this.grow,
+      codename: this.codename,
+      skill1: this._skill1,
+      skill2: this._skill2,
+      mindupdate: this.mindupdate,
+      obtain: this._obtain,
+      skins: this._skins,
+      equip1: this.equip1,
+      equip2: this.equip2,
+      equip3: this.equip3,
+    };
   }
 }

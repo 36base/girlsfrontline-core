@@ -91,4 +91,20 @@ export default class Fairy {
     this.qualityExp = qualityExp;
     this._skins = skins;
   }
+
+  public toJSON() {
+    return {
+      id : this.id,
+      category : this.category,
+      skill : this._skill,
+      stats : this._stats,
+      grow : this.grow,
+      buildTime : this.buildTime,
+      codename : this.codename,
+      powerup : this.powerup,
+      retireExp : this.retireExp,
+      qualityExp : this.qualityExp,
+      skins : this._skins,
+    };
+  }
 }

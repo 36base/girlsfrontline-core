@@ -58,4 +58,21 @@ export default class Equip {
     this._level = maxLevel;
     this._stats = stats;
   }
+
+  public toJSON() {
+    return {
+      id: this.id,
+      codename: this.codename,
+      rank: this.rank,
+      category: this.category,
+      type: this.type,
+      company: this.company,
+      exclusiveRate: this.exclusiveRate,
+      buildTime: this.buildTime,
+      powerup: this.powerup,
+      fitGuns: this.fitGuns,
+      maxLevel: this.maxLevel,
+      stats: this._stats,
+    };
+  }
 }

@@ -1,15 +1,10 @@
 import dollJson from '../../data/doll.json';
 import fairyJson from '../../data/fairy.json';
-import { init } from '../index';
 import { IDoll, IFairy, ISkill } from '../interface';
-import { getSkill, getSkillResource, SkillType } from './skill';
+import { getSkill } from './skill';
 
 const dollData = dollJson as IDoll[];
 const fairyData = fairyJson as IFairy[];
-
-beforeAll(() => {
-  return init();
-});
 
 describe('`getSkill()`', () => {
   const M1873 = dollData.find(({ codename }) => codename === 'M1873') as IDoll;
@@ -19,15 +14,11 @@ describe('`getSkill()`', () => {
     const skill1:ISkill = getSkill(M1873.skill1);
     /* tslint:disable object-literal-key-quotes*/
     expect(skill1).toMatchObject({
-      name: '일제사격',
-      description: '아군 전체 화력을 22% 상승시킨다. 지속시간 8초',
+      name: 'battle_skill_config-110050310',
+      description: 'battle_skill_config-210050310',
       cooldown: 360,
       cooldownType: 'frame',
-      detail: {
-        '쿨타임': '12초',
-        '화력 상승치': '22%',
-        '지속시간': '8초',
-      },
+      detail: 'battle_skill_config-310050310',
     });
     /* tslint:enable object-literal-key-quotes*/
   });
@@ -35,15 +26,11 @@ describe('`getSkill()`', () => {
     const skill1:ISkill = getSkill(M1873.skill1, { level: 7 });
     /* tslint:disable object-literal-key-quotes*/
     expect(skill1).toMatchObject({
-      name: '일제사격',
-      description: '아군 전체 화력을 18% 상승시킨다. 지속시간 7초',
+      name: 'battle_skill_config-110050307',
+      description: 'battle_skill_config-210050307',
       cooldown: 390,
       cooldownType: 'frame',
-      detail: {
-        '쿨타임': '13초',
-        '화력 상승치': '18%',
-        '지속시간': '7초',
-      },
+      detail: 'battle_skill_config-310050307',
     });
     /* tslint:enable object-literal-key-quotes*/
   });
@@ -51,13 +38,11 @@ describe('`getSkill()`', () => {
     const skill:ISkill = getSkill(Kaguya.skill);
     /* tslint:disable object-literal-key-quotes*/
     expect(skill).toMatchObject({
-      name: '야타의 휘광',
-      description: '자신 주위 범위 2구역에 야타의 거울을 배치하고 레이저를 발사하여, 구역 내의 무작위 3기의 적에게 현재 체력의 20%의 피해를 입힌다.(보스 무효)',
+      name: 'mission_skill_config-10100210',
+      description: 'mission_skill_config-20100210',
       cooldown: 3,
       cooldownType: 'turn',
-      detail: {
-        '피해량': '20%',
-      },
+      detail: 'mission_skill_config-30100210',
     });
     /* tslint:enable object-literal-key-quotes*/
   });
@@ -65,13 +50,11 @@ describe('`getSkill()`', () => {
     const skill:ISkill = getSkill(Kaguya.skill, { level: 1 });
     /* tslint:disable object-literal-key-quotes*/
     expect(skill).toMatchObject({
-      name: '야타의 휘광',
-      description: '자신 주위 범위 2구역에 야타의 거울을 배치하고 레이저를 발사하여, 구역 내의 무작위 3기의 적에게 현재 체력의 10%의 피해를 입힌다.(보스 무효)',
+      name: 'mission_skill_config-10100201',
+      description: 'mission_skill_config-20100201',
       cooldown: 3,
       cooldownType: 'turn',
-      detail: {
-        '피해량': '10%',
-      },
+      detail: 'mission_skill_config-30100201',
     });
     /* tslint:enable object-literal-key-quotes*/
   });
