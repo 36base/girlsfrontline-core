@@ -3,18 +3,6 @@ import { getSkill } from './api/skill';
 import { IDoll, IEffect, IMindupdate, IObtain, ISkill, ISkillJson, ISkin, IStats } from './interface';
 
 export default class Doll{
-  get name():string {
-    return getDollResource(1, this.id);
-  }
-
-  get illust():string {
-    return getDollResource(4, this.id);
-  }
-
-  get voice():string {
-    return getDollResource(4, this.id);
-  }
-
   get stats(): IStats {
     return getDollStats(
       this.type, this._stats, this.grow,
@@ -35,14 +23,6 @@ export default class Doll{
       return getSkill(this._skill2, { level: this._skillLevel2 });
     }
     return null;
-  }
-
-  get obtain():IObtain[] {
-    return getDollObtain(this._obtain);
-  }
-
-  get skins():ISkin[] {
-    return getDollSkins(this._skins);
   }
 
   get level(): number {
@@ -115,13 +95,15 @@ export default class Doll{
   public readonly equip1: string[];
   public readonly equip2: string[];
   public readonly equip3: string[];
+  public readonly name: string;
+  public readonly extra: string;
+  public readonly obtain: IObtain[];
+  public readonly skins: ISkin[];
 
   private readonly _stats: IStats;
   private readonly _effect: IEffect;
   private readonly _skill1: ISkillJson;
   private readonly _skill2?: ISkillJson;
-  private readonly _obtain: number[];
-  private readonly _skins: number[];
 
   private _level:number = 100;
   private _favor:number = 50;
@@ -147,14 +129,16 @@ export default class Doll{
     this._skill1 = skill1;
     this._skill2 = skill2;
     this.mindupdate = mindupdate;
-    this._obtain = obtain;
-    this._skins = skins;
     this.equip1 = equip1;
     this.equip2 = equip2;
     this.equip3 = equip3;
+    this.name = getDollResource(1, id);
+    this.extra = getDollResource(4, id);
+    this.obtain = getDollObtain(obtain);
+    this.skins = getDollSkins(skins);
   }
 
-  public toJSON() {
+  public toJSON():IDoll {
     return {
       id: this.id,
       rank: this.rank,
@@ -167,8 +151,8 @@ export default class Doll{
       skill1: this._skill1,
       skill2: this._skill2,
       mindupdate: this.mindupdate,
-      obtain: this._obtain,
-      skins: this._skins,
+      obtain: this.obtain.map(({ id }) => id),
+      skins: this.skins.map(({ id }) => id),
       equip1: this.equip1,
       equip2: this.equip2,
       equip3: this.equip3,
