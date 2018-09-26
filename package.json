@@ -14,7 +14,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "yarn prebuild && node ./scripts/build && tsc -p ./tsconfig.build.json && webpack --config ./config/webpack.config.js",
+    "build": "node ./scripts/build && tsc -p ./tsconfig.build.json && webpack --config ./config/webpack.config.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged",
     "prebuild": "rimraf build lib umd",
@@ -37,6 +37,7 @@
     "webpack-cli": "^3.1.0"
   },
   "jest": {
+    "testURL": "http://localhost/",
     "roots": [
       "<rootDir>/src"
     ],
