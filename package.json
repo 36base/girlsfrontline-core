@@ -1,9 +1,9 @@
 {
   "name": "girlsfrontline-core",
-  "version": "2.1.0-beta4",
+  "version": "2.1.1-beta5",
   "description": "GirlsFrontline Library",
-  "main": "./build/lib/index.js",
-  "types": "./build/lib/index.d.ts",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "repository": "https://github.com/36base/girlsfrontline-core",
   "homepage": "https://girlsfrontline.kr",
   "bugs": {
