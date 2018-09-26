@@ -1,4 +1,3 @@
-import i18next from '../i18next';
 import { IEquipStats } from '../interface';
 
 export function getEquipStats(stats:IEquipStats, { level = 0 } = {}):IEquipStats {
@@ -17,5 +16,5 @@ export function getEquipStats(stats:IEquipStats, { level = 0 } = {}):IEquipStats
 
 export function getEquipResource(resourceId:number, equipId:string|number) {
   const padId = String(equipId).padStart(7, '0');
-  return i18next.t(`equip-${resourceId}${padId}`);
+  return `equip-${resourceId}${padId}`;
 }

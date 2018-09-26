@@ -5,7 +5,6 @@ import * as api from './api';
 import Doll from './doll';
 import Equip from './equip';
 import Fairy from './fairy';
-import i18next, { init } from './i18next';
 import { IDoll, IEquip, IFairy } from './interface';
 
 const dollData = dollJson as IDoll[];
@@ -16,6 +15,6 @@ const dolls = dollData.map(data => new Doll(data));
 const equips = equipData.map(data => new Equip(data));
 const fairies = fairyData.map(data => new Fairy(data));
 
-const gfcore = { init, i18next, dolls, equips, fairies, api };
-export { init, i18next, dolls, equips, fairies, api };
+const gfcore = { dolls, equips, fairies, api };
+export { dolls, equips, fairies, api };
 export default gfcore;

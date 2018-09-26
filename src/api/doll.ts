@@ -1,13 +1,11 @@
 import dollAttributeJson from '../../data/dollAttribute.json';
 import dollGrowJson from '../../data/dollGrow.json';
-import i18next from '../i18next';
 import { IDollAttribute, IDollGrow, IEffect, IObtain, ISkin, IStats } from '../interface';
 import { getSkinResource, SkinType } from './base';
 
 export function getDollSkins(skins: number[]):ISkin[] {
   return skins.map((skinId) => {
-    const resources = getSkinResource(SkinType.Doll, 1, skinId).split('-').map(str => str.trim());
-    const name = resources[resources.length - 1];
+    const name = getSkinResource(SkinType.Doll, 1, skinId);
     return {
       id: skinId,
       // tslint:disable-next-line:object-shorthand-properties-first
@@ -18,11 +16,7 @@ export function getDollSkins(skins: number[]):ISkin[] {
 
 export function getDollObtain(obtain: number[]):IObtain[] {
   return obtain.map((id) => {
-    // 텍스트 후처리
-    let description = getDollResource(1, id, { prefix: 'gun_obtain' }).trim();
-    if (description.startsWith('-')) {
-      description = description.substr(1);
-    }
+    const description = getDollResource(1, id, { prefix: 'gun_obtain' });
     return {
       id,
       description,
@@ -76,13 +70,13 @@ export function getDollStats(
   Object.entries(attributeData).forEach(([key, attr]) => {
     const attribute = attr as number;
     const stat = stats[key] || 0;
-    const { [key]: basicData = [0, 0] } = basicStats;
+    const { [key]: basicData } = basicStats;
     const { [key]: growData } = growStats;
 
     // 기본 스탯 계산
-    let newStat = basicData.length > 1
-      ? Math.ceil((basicData[0] + ((level - 1) * basicData[1])) * attribute * stat / 100)
-      : Math.ceil(basicData[0] * attribute * stat / 100);
+    let newStat = basicData!.length > 1
+      ? Math.ceil((basicData![0] + ((level - 1) * basicData![1])) * attribute * stat / 100)
+      : Math.ceil(basicData![0] * attribute * stat / 100);
 
     // 강화 스탯 계산
     newStat += growth === true && growData
@@ -107,5 +101,5 @@ export function getDollStats(
 
 export function getDollResource(resourceId:number, dollId:string|number, { prefix = 'gun' } = {}):string {
   const padId = String(dollId).padStart(7, '0');
-  return i18next.t(`${prefix}-${resourceId}${padId}`);
+  return `${prefix}-${resourceId}${padId}`;
 }

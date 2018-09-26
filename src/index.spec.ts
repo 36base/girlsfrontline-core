@@ -1,13 +1,6 @@
-import { dolls, equips, fairies, i18next, init } from './index';
-
-beforeAll(() => {
-  return init();
-});
+import { dolls, equips, fairies } from './index';
 
 describe('entry point', () => {
-  test('`i18next` should not be undefined', () => {
-    expect(i18next).toBeTruthy();
-  });
   test('`dolls` should not be undefined', () => {
     expect(dolls).toBeTruthy();
   });

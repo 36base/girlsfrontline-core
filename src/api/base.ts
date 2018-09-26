@@ -1,5 +1,3 @@
-import i18next from '../i18next';
-
 export enum SkinType {
   Doll,
   Fairy,
@@ -11,5 +9,5 @@ export function getSkinResource(skinType:SkinType, resourceId:number, skinId:str
   if (skinType === SkinType.Fairy) {
     prefix = `fairy_skin`;
   }
-  return i18next.t(`${prefix}-${resourceId}${padId}`);
+  return `${prefix}-${resourceId}${padId}`;
 }
