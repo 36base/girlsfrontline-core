@@ -13,13 +13,8 @@ export default class Equip {
   public readonly buildTime: number;
   public readonly powerup: IPowerup;
   public readonly fitGuns: number[];
-
-  get name() {
-    return getEquipResource(1, this.id);
-  }
-  get introduction() {
-    return getEquipResource(3, this.id);
-  }
+  public readonly name: string;
+  public readonly introduction: string;
 
   private readonly _stats: IEquipStats;
   get stats():IEquipStats {
@@ -57,9 +52,11 @@ export default class Equip {
     this.maxLevel = maxLevel;
     this._level = maxLevel;
     this._stats = stats;
+    this.name = getEquipResource(1, id);
+    this.introduction = getEquipResource(3, id);
   }
 
-  public toJSON() {
+  public toJSON():IEquip {
     return {
       id: this.id,
       codename: this.codename,

@@ -11,16 +11,10 @@ export default class Fairy {
   public readonly powerup: IPowerup;
   public readonly retireExp: number;
   public readonly qualityExp: number[];
-
-  get name():string {
-    return getFairyResource(1, this.id);
-  }
-  get introduce():string {
-    return getFairyResource(2, this.id);
-  }
-  get description():string {
-    return getFairyResource(3, this.id);
-  }
+  public readonly name: string;
+  public readonly introduce: string;
+  public readonly description: string;
+  public readonly skins: IFairySkin[];
 
   private readonly _skill: ISkillJson;
   get skill():ISkill {
@@ -32,10 +26,6 @@ export default class Fairy {
       level: this._level,
       qualityLevel: this._qualityLevel,
     });
-  }
-  private readonly _skins: IFairySkinJson[];
-  get skins():IFairySkin[] {
-    return getFairySkins(this._skins);
   }
 
   private _level = 100;
@@ -89,10 +79,13 @@ export default class Fairy {
     this.powerup = powerup;
     this.retireExp = retireExp;
     this.qualityExp = qualityExp;
-    this._skins = skins;
+    this.name = getFairyResource(1, id);
+    this.introduce = getFairyResource(2, id);
+    this.description = getFairyResource(3, id);
+    this.skins = getFairySkins(skins);
   }
 
-  public toJSON() {
+  public toJSON():IFairy {
     return {
       id : this.id,
       category : this.category,
@@ -104,7 +97,7 @@ export default class Fairy {
       powerup : this.powerup,
       retireExp : this.retireExp,
       qualityExp : this.qualityExp,
-      skins : this._skins,
+      skins : this.skins.map(({ id, codename }) => ({ id, codename })),
     };
   }
 }
