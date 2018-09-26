@@ -7,7 +7,7 @@ export function getSkinResource(skinType:SkinType, resourceId:number, skinId:str
   const padId = String(skinId).padStart(7, '0');
   let prefix = 'skin';
   if (skinType === SkinType.Fairy) {
-    prefix = `fairy_skin`;
+    prefix = 'fairy_skin';
   }
   return `${prefix}-${resourceId}${padId}`;
 }
