@@ -15,7 +15,7 @@ $ npm install girlsfrontline-core
 ### Using cdn
 
 ```markup
-<script crossorigin src="https://unpkg.com/girlsfrontline-core/build/umd/gfcore.min.js"></script>
+<script crossorigin src="https://unpkg.com/girlsfrontline-core/umd/gfcore.min.js"></script>
 ```
 
 ## Example
