@@ -4,6 +4,8 @@
 
 #### Supported languages: Korean\(ko-KR\), Japanese\(ja-JP\), English\(en-US\), Chinese\(zh-CN\)
 
+[API Reference](docs.md)
+
 ## Install
 
 ### Using npm
