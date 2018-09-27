@@ -294,6 +294,12 @@ console.log(doll.mindupdate);
 
 스탯 계산용 데이터 \(인형 성장 배율\)
 
+### toJSON\(\): IDoll
+
+```javascript
+const clone = new Doll(doll.toJSON());
+```
+
 ## Equip
 
 ### name: string
@@ -431,6 +437,12 @@ console.log(equip.fitGuns);
 //   20103 => UMP45Mod
 // ]
 // or undefined
+```
+
+### toJSON\(\): IEquip
+
+```javascript
+const clone = new Equip(equip.toJSON());
 ```
 
 ## Fairy
@@ -581,5 +593,11 @@ console.log(fairy.qualityExp);
 //   1500,
 //   3000
 // ]
+```
+
+### toJSON\(\): IFairy
+
+```javascript
+const clone = new Fairy(fairy.toJSON());
 ```
 
