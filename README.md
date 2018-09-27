@@ -94,5 +94,3 @@ new Promise((resolve, reject) => {
 });
 ```
 
-&gt;
-
