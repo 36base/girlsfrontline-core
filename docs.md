@@ -2,12 +2,6 @@
 
 ## Exports
 
-### init\(options\): Promise&lt;{}&gt;
-
-라이브러리 내부의 i18next를 초기화 하고 Promise를 반환합니다.
-
-### [i18next](https://github.com/i18next/i18next)
-
 ### dolls: [Doll\[\]](docs.md#doll)
 
 전술 인형 데이터
@@ -16,7 +10,7 @@
 
 장비 데이터
 
-### Fairies: [Fairy\[\]](docs.md#fairy)
+### fairies: [Fairy\[\]](docs.md#fairy)
 
 전술 요정 데이터
 
@@ -27,52 +21,67 @@
 ### ES6+
 
 ```javascript
-import {init} from 'girlsfrontline-core';
+import {dolls, equips, fairies, api} from 'girlsfrontline-core';
 ```
 
 ### ES5 \(CommonJS\)
 
 ```javascript
-var init = require('girlsfrontline-core').init;
+var gfcore = require('girlsfrontline-core');
 ```
 
 ### ES5 \(UMD build\)
 
 ```javascript
-var init = gfcore.init;
+var gfcore = window.gfcore;
 ```
 
 ## Doll
 
-### get name\(\): string
+### name: string
+
+해당 전술인형의 이름
 
 ```javascript
-console.log(doll.name);
-// 콜트 리볼버
+console.log(doll.name)
+// gun-10000001
+console.log(t(doll.name))
+// Colt Revolver
 ```
 
-### get illust\(\): string
+### extra: string
 
-해당 전술인형의 illustrator 반환
+해당 전술인형의 extra 데이터
 
-### get voice\(\): string
+```javascript
+console.log(doll.illust)
+// gun-40000001
+const extra = t(doll.illust).split(',');
+// ['Saru','Aimi Tanaka','']
 
-해당 전술인형의 voice actor 반환
+console.log(extra[0]) // illustrator
+// Saru
+console.log(extra[1]) // voice actor
+// Aimi Tanaka
+```
 
 ### get stats\(\): IStats
+
+해당 전술인형의 현재 스탯
 
 ```javascript
 doll.level = 70;
 doll.dummyLink = 3;
 doll.favor = 200;
 console.log(doll.stats);
-// {
-//   hp: 280,
-//   pow: 29,
-//   hit: 52,
-//   rate: 54,
-//   dodge: 75
-// }
+// { hp: 340,
+//   pow: 34,
+//   hit: 42,
+//   dodge: 65,
+//   speed: 15,
+//   rate: 43,
+//   armorPiercing: 10,
+//   criticalPercent: 20 }
 ```
 
 ### get effect\(\): IEffect
@@ -80,59 +89,66 @@ console.log(doll.stats);
 ```javascript
 doll.dummyLink = 5;
 console.log(doll.effect);
-// {
+// { effectType: 'all',
 //   effectCenter: 5,
-//   effectPos: [1, 2, 4, 7, 8],
-//   effectType: 'all',
-//   gridEffect: {
-//     hit: 50,
-//     rate: 30,
-//   },
-// }
+//   effectPos: [ 2, 4, 6, 8 ],
+//   gridEffect: { pow: 24, hit: 50 } }
+
+doll.dummyLink = 3;
+console.log(doll.effect);
+// { effectType: 'all',
+//   effectCenter: 5,
+//   effectPos: [ 2, 4, 6, 8 ],
+//   gridEffect: { pow: 18, hit: 37 } }
 ```
 
 ### get skill1\(\): ISkill
 
+```javascript
+doll.skillLevel = 7;
+console.log(doll.skill1);
+// { id: '100503',
+//   codename: 'powBuff',
+//   name: 'battle_skill_config-110050307',
+//   description: 'battle_skill_config-210050307',
+//   cooldownType: 'frame',
+//   initialCooldown: 180,
+//   cooldown: 390,
+//   detail: 'battle_skill_config-310050307',
+//   consumption: 0 }
+console.log(t(doll.skill1.detail));
+// Increase all allies' damage by 18% for 7 seconds.
+```
+
 ### get skill2\(\): ISkill \| null
 
 ```javascript
-doll.skillLevel = 10;
-console.log(doll.skill);
-// {
-//   id: '109401',
-//   codename: 'Clear',
-//   name: '"조금 더 완벽하게!"',
-//   description: '공격을 멈추고 다섯 차례 연주한다, 매 연주는 무작위 아군 하나의 화력과 명중을 30%(Glory Light 장착시 40%) 상승시킨다, 중첩 불가, 연주당 지속시간 각 3초.',
-//   cooldownType: 'frame',
-//   initialCooldown: 180,
-//   cooldown: 240,
-//   detail: {
-//     '쿨타임': '8초',
-//     '화력 상승치': '30%',
-//     '명중 상승치': '30%',
-//   },
-//   consumption: 0,
-// }
+doll.skillLevel2 = 10;
+console.log(doll.skill2);
+// null
 ```
 
-### get obtain\(\): IObtain\[\]
+### obtain: IObtain\[\]
 
 ```javascript
 console.log(dolls.obtain);
-// [{ 
-//   id: 206,
-//   description: '기간한정 이벤트【Glory Day】2-3클리어 보상',
-// }]
+// [ { id: 1, description: 'gun_obtain-10000001' },
+//   { id: 3, description: 'gun_obtain-10000003' } ]
+console.log(t(dolls.obtain[0].description));
+console.log(t(dolls.obtain[1].description));
+// -Obtainable from standard production
+// -Obtainable as a drop from normal battles
 ```
 
-### get skins\(\): ISkin\[\]
+### skins: ISkin\[\]
 
 ```javascript
 console.log(doll.skin);
-// [{
-//   id: 509,
-//   name: '포터블 여왕 2세',
-// }]
+// [ { id: 301, name: 'skin-10000301' },
+//   { id: 2105, name: 'skin-10002105' } ]
+console.log(t(dolls.skin[0].name));
+console.log(t(dolls.skin[1].name));
+// Colt Revolver - Wish upon a Star
 ```
 
 ### get/set level\(\): number
@@ -180,6 +196,20 @@ doll.skillLevel = 11;
 ```
 
 ### get/set skillLevel2\(\): number
+
+기본값: 10
+
+```javascript
+doll.skillLevel2 = 8;
+console.log(doll.skillLevel2);
+// 8
+
+doll.skillLevel2 = 0;
+// Error: `skillLevel2` must be greater than 0
+
+doll.skillLevel2 = 11;
+// Error: `skillLevel2` must be less than 11
+```
 
 ### get/set dummyLink\(\): number
 
@@ -258,7 +288,7 @@ console.log(doll.mindupdate);
 
 ### equip3: string\[\]
 
-착용 가능한 장비 type 목록
+착용 가능한 [장비 type](docs.md#type-string-1) 목록
 
 ### grow: number
 
@@ -266,18 +296,22 @@ console.log(doll.mindupdate);
 
 ## Equip
 
-### get name\(\): string
+### name: string
 
 ```javascript
 console.log(equip.name);
-// 특수 전술기동장갑
+// equip-10000092
+console.log(t(equip.name));
+// UMP UX Exoskeleton
 ```
 
-### get introduction\(\): string
+### introduction: string
 
 ```javascript
 console.log(equip.introduction);
-// 철혈 공조가 무너지기 전 남겨놓은 장비로, 외골격의 기동장갑이 사용자의 생존능력을 극대화 시켜주지만, 몸과 정신에 심한 부담을 줍니다.
+// equip-30000092
+console.log(t(equip.introduction));
+// A highly mobile exoskeleton specially calibrated for T-Dolls of the UMP weapons platform by the former Equipment Department. It greatly increases evasive ability while preserving firing accuracy.
 ```
 
 ### get stats\(\): IEquipStats
@@ -285,12 +319,8 @@ console.log(equip.introduction);
 ```javascript
 equip.level = 10;
 console.log(equip.stats);
-// {
-//   criticalPercent: {
-//     min: 34,
-//     max: 48,
-//   },
-// }
+// { dodge: { min: 28, max: 35 },
+//   criticalHarmRate: { min: 18, max: 25 } }
 ```
 
 ### get/set level\(\): number
@@ -314,7 +344,7 @@ equip.level = 6;
 
 ```javascript
 console.log(equip.codename);
-// 配件_光学瞄准镜_N
+// 人形装备_外骨骼_UMP
 ```
 
 ### rank: number
@@ -405,25 +435,31 @@ console.log(equip.fitGuns);
 
 ## Fairy
 
-### get name\(\): string
+### name: string
 
 ```javascript
 console.log(fairy.name);
-// 야에 사쿠라
+// fairy-10000004
+console.log(t(fairy.name));
+// Shield Fairy
 ```
 
-### get introduce\(\): string
+### introduce: string
 
 ```javascript
 console.log(fairy.introduce);
-// “피어나거라, 이 슬픈 세상이여”
+// fairy-20000004
+console.log(t(fairy.introduce));
+// "There's nothing to be afraid of anymore."
 ```
 
-### get description\(\): string
+### description: string
 
 ```javascript
 console.log(fairy.description);
-// 다수의 적에게 대미지를 입힐 수 있고, 전투 중 대량의 불 기둥을 만들어 닿은 적들에게 피해를 입힙니다
+// fairy-30000004
+console.log(t(fairy.description));
+// Puts up a magnetic shield. Can provide shelter against rain, dust, and nuisance in general.
 ```
 
 ### get skill\(\): ISkill
@@ -431,15 +467,17 @@ console.log(fairy.description);
 ```javascript
 fairy.skillLevel = 1;
 console.log(fairy.skill);
-// {
-//   name: '야타의 휘광',
-//   description: '자신 주위 범위 2구역에 야타의 거울을 배치하고 레이저를 발사하여, 구역 내의 무작위 3기의 적에게 현재 체력의 10%의 피해를 입힌다.(보스 무효)',
-//   cooldown: 3,
-//   cooldownType: 'turn',
-//   detail: {
-//     '피해량': '10%',
-//   },
-// }
+// { id: '900101',
+//   codename: 'shield',
+//   name: 'battle_skill_config-190010101',
+//   description: 'battle_skill_config-290010101',
+//   cooldownType: 'frame',
+//   initialCooldown: 30,
+//   cooldown: 0,
+//   detail: 'battle_skill_config-390010101',
+//   consumption: 3 }
+console.log(t(fairy.skill1.detail));
+// Shield Durability: 40
 ```
 
 ### get stats\(\): IStats
@@ -450,23 +488,27 @@ console.log(fairy.skill);
 fairy.qualityLevel = 2;
 fairy.level = 100;
 console.log(fairy.stats);
-// {
-//   pow: 13,
-//   dodge: 12,
-//   armor: 3,
-//   criticalHarmRate: 16,
-// }
+// { pow: 10, hit: 30, dodge: 40 }
 ```
 
-### get skins\(\): IFairySkin\[\]
+### skins: IFairySkin\[\]
 
 ```javascript
 console.log(fairy.skins);
-// [
-//   { id: 55, name: '야에 사쿠라', codename: 'Sakura_1', description: '1단계 기본 외형'},
-//   { id: 56, name: '야에 사쿠라', codename: 'Sakura_2', description: '2단계 기본 외형'},
-//   { id: 57, name: '야에 사쿠라', codename: 'Sakura_3', description: '3단계 기본 외형'},
-// ]
+// [ { id: 10,
+//   codename: 'shield_1',
+//   name: 'fairy_skin-10000010',
+//   description: 'fairy_skin-20000010' },
+// { id: 11,
+//   codename: 'shield_2',
+//   name: 'fairy_skin-10000011',
+//   description: 'fairy_skin-20000011' },
+// { id: 12,
+//   codename: 'shield_3',
+//   name: 'fairy_skin-10000012',
+//   description: 'fairy_skin-20000012' } ]
+console.log(t(fairy.skins[0].description));
+// Tier 1 default skin
 ```
 
 ### get/set level\(\): number

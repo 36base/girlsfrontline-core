@@ -11,7 +11,9 @@
 ```bash
 $ npm install girlsfrontline-core
 ```
+
 with [i18next](https://www.i18next.com/)
+
 ```bash
 $ npm install girlsfrontline-core i18next i18next-xhr-backend
 ```
