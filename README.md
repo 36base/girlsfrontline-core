@@ -1,6 +1,8 @@
 # README
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=master)](https://travis-ci.org/36base/girlsfrontline-core)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=master)](https://travis-ci.org/36base/girlsfrontline-core)
+[![codecov](https://codecov.io/gh/36base/girlsfrontline-core/branch/master/graph/badge.svg)](https://codecov.io/gh/36base/girlsfrontline-core)
 
 #### Supported languages: Korean\(ko-KR\), Japanese\(ja-JP\), English\(en-US\), Chinese\(zh-CN\)
 
