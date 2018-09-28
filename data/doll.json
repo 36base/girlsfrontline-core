@@ -10219,7 +10219,8 @@
   "buildTime": 24300,
   "skins": [
     309,
-    1504
+    1504,
+    2501
   ],
   "stats": {
     "hp": 120,
@@ -11398,7 +11399,8 @@
   "buildTime": 14640,
   "skins": [
     9,
-    1602
+    1602,
+    2502
   ],
   "stats": {
     "hp": 110,
@@ -14215,7 +14217,9 @@
   "rank": 5,
   "type": "sg",
   "buildTime": 29100,
-  "skins": [],
+  "skins": [
+    2503
+  ],
   "stats": {
     "hp": 125,
     "armor": 120,
@@ -14311,7 +14315,9 @@
   "rank": 3,
   "type": "sg",
   "buildTime": 27000,
-  "skins": [],
+  "skins": [
+    2505
+  ],
   "stats": {
     "hp": 115,
     "armor": 115,
@@ -18831,7 +18837,9 @@
   "rank": 4,
   "type": "mg",
   "buildTime": 22500,
-  "skins": [],
+  "skins": [
+    2504
+  ],
   "stats": {
     "hp": 105,
     "pow": 125,
@@ -22475,6 +22483,101 @@
   "equip3": [
     "chip",
     "ammunitionBox"
+  ],
+  "skins": []
+}, {
+  "id": 239,
+  "codename": "Type03",
+  "type": "ar",
+  "rank": 3,
+  "buildTime": 12000,
+  "stats": {
+    "hp": 105,
+    "pow": 120,
+    "hit": 125,
+    "dodge": 102,
+    "speed": 100,
+    "rate": 110,
+    "armorPiercing": 10,
+    "criticalPercent": 20
+  },
+  "grow": 105,
+  "effect": {
+    "effectType": "smg",
+    "effectCenter": 5,
+    "effectPos": [
+      6
+    ],
+    "gridEffect": {
+      "pow": 12,
+      "dodge": 12
+    }
+  },
+  "skill1": {
+    "id": "105903",
+    "codename": "critBuffSelf",
+    "cooldownType": "frame",
+    "initialCooldown": 180,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 300
+      },
+      {
+        "level": 2,
+        "cooldown": 294
+      },
+      {
+        "level": 3,
+        "cooldown": 288
+      },
+      {
+        "level": 4,
+        "cooldown": 279
+      },
+      {
+        "level": 5,
+        "cooldown": 273
+      },
+      {
+        "level": 6,
+        "cooldown": 267
+      },
+      {
+        "level": 7,
+        "cooldown": 261
+      },
+      {
+        "level": 8,
+        "cooldown": 252
+      },
+      {
+        "level": 9,
+        "cooldown": 246
+      },
+      {
+        "level": 10,
+        "cooldown": 240
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1810
+  ],
+  "equip1": [
+    "optical",
+    "holo",
+    "reddot",
+    "nightvision",
+    "suppressor"
+  ],
+  "equip2": [
+    "hvAmmo"
+  ],
+  "equip3": [
+    "chip",
+    "exoSkeleton"
   ],
   "skins": []
 }, {
