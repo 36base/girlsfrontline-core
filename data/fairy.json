@@ -1287,14 +1287,14 @@
     "dodge": 44,
     "armor": 40
   },
-  "grow": 250,
+  "grow": 260,
   "skill": {
-    "id": "900117",
-    "codename": "golden",
-    "cooldownType": "second",
-    "initialCooldown": 1,
+    "id": "900155",
+    "codename": "hanabi",
+    "cooldownType": "frame",
+    "initialCooldown": 30,
     "dataPool": [],
-    "consumption": 0
+    "consumption": 3
   },
   "powerup": {
     "mp": 10,
