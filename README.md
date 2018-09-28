@@ -1,8 +1,6 @@
 # README
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=master)](https://travis-ci.org/36base/girlsfrontline-core)
-[![codecov](https://codecov.io/gh/36base/girlsfrontline-core/branch/master/graph/badge.svg)](https://codecov.io/gh/36base/girlsfrontline-core)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/36base/girlsfrontline-core.svg?branch=master)](https://travis-ci.org/36base/girlsfrontline-core) [![codecov](https://codecov.io/gh/36base/girlsfrontline-core/branch/master/graph/badge.svg)](https://codecov.io/gh/36base/girlsfrontline-core)
 
 #### Supported languages: Korean\(ko-KR\), Japanese\(ja-JP\), English\(en-US\), Chinese\(zh-CN\)
 
@@ -81,7 +79,7 @@ new Promise((resolve, reject) => {
     ns: ['gfcore'],
     whitelist: ['ko-KR', 'ja-JP', 'en-US', 'zh-CN'],
     backend: {
-      loadPath: 'https://unpkg.com/girlsfrontline-core@latest/build/i18n/{{lng}}/{{ns}}.json',
+      loadPath: 'https://unpkg.com/girlsfrontline-core@2.1.5-beta9/build/i18n/{{lng}}/{{ns}}.json',
       crossDomain: true,
     },
   }, (err, t) => {
