@@ -6495,7 +6495,9 @@
   "rank": 4,
   "type": "ar",
   "buildTime": 12600,
-  "skins": [],
+  "skins": [
+    2604
+  ],
   "stats": {
     "hp": 110,
     "pow": 105,
@@ -22038,43 +22040,43 @@
     "dataPool": [
       {
         "level": 1,
-        "cooldown": 450
+        "cooldown": 300
       },
       {
         "level": 2,
-        "cooldown": 441
+        "cooldown": 294
       },
       {
         "level": 3,
-        "cooldown": 429
+        "cooldown": 288
       },
       {
         "level": 4,
-        "cooldown": 420
+        "cooldown": 279
       },
       {
         "level": 5,
-        "cooldown": 411
+        "cooldown": 273
       },
       {
         "level": 6,
-        "cooldown": 399
+        "cooldown": 267
       },
       {
         "level": 7,
-        "cooldown": 390
+        "cooldown": 261
       },
       {
         "level": 8,
-        "cooldown": 381
+        "cooldown": 252
       },
       {
         "level": 9,
-        "cooldown": 369
+        "cooldown": 245
       },
       {
         "level": 10,
-        "cooldown": 360
+        "cooldown": 240
       }
     ],
     "consumption": 0
