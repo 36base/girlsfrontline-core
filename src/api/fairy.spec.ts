@@ -8,6 +8,7 @@ const fairyData = fairyJson as IFairy[];
 describe('`getFairyStats()`', () => {
   // tslint:disable-next-line:variable-name
   const Sakura = (fairyData.find(({ codename }) => codename === 'Sakura') as IFairy);
+  const rescue = (fairyData.find(({ codename }) => codename === 'rescue') as IFairy);
   test('returns stats of `Sakura`', () => {
     const { stats, grow } = Sakura;
     expect(getFairyStats(stats, grow)).toMatchObject({
@@ -33,6 +34,14 @@ describe('`getFairyStats()`', () => {
       dodge: 23,
       armor: 6,
       criticalHarmRate: 30,
+    });
+  });
+  test('returns stats of `rescue` when level = 53 and qualityLevel = 1', () => {
+    const { stats, grow } = rescue;
+    expect(getFairyStats(stats, grow, { level: 53, qualityLevel: 1 })).toMatchObject({
+      pow: 10.4,
+      dodge: 21.200000000000003,
+      hit: 26.400000000000002,
     });
   });
 });
