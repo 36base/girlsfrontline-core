@@ -8177,7 +8177,9 @@
   "rank": 3,
   "type": "mg",
   "buildTime": 19200,
-  "skins": [],
+  "skins": [
+    2605
+  ],
   "stats": {
     "hp": 105,
     "pow": 110,
@@ -16800,7 +16802,9 @@
   "rank": 3,
   "type": "smg",
   "buildTime": 6600,
-  "skins": [],
+  "skins": [
+    2606
+  ],
   "stats": {
     "hp": 120,
     "pow": 95,
@@ -17771,7 +17775,8 @@
   "type": "sg",
   "buildTime": 29400,
   "skins": [
-    1802
+    1802,
+    2601
   ],
   "stats": {
     "hp": 128,
@@ -20287,7 +20292,9 @@
   "rank": 5,
   "type": "ar",
   "buildTime": 13980,
-  "skins": [],
+  "skins": [
+    2603
+  ],
   "stats": {
     "hp": 108,
     "pow": 120,
@@ -20883,7 +20890,9 @@
       "cooldown": 18
     }
   },
-  "skins": [],
+  "skins": [
+    2602
+  ],
   "codename": "TAC50",
   "skill1": {
     "id": "110016",
@@ -22580,6 +22589,155 @@
   "equip3": [
     "chip",
     "exoSkeleton"
+  ],
+  "skins": []
+}, {
+  "id": 240,
+  "codename": "Mk46",
+  "type": "mg",
+  "rank": 4,
+  "buildTime": 22800,
+  "stats": {
+    "hp": 98,
+    "pow": 90,
+    "hit": 125,
+    "dodge": 132,
+    "speed": 100,
+    "rate": 128,
+    "armorPiercing": 10,
+    "criticalPercent": 5,
+    "bullet": 9
+  },
+  "grow": 132,
+  "effect": {
+    "effectType": "sg",
+    "effectCenter": 7,
+    "effectPos": [
+      3,
+      9
+    ],
+    "gridEffect": {
+      "pow": 10,
+      "hit": 10
+    }
+  },
+  "skill1": {
+    "id": "110094",
+    "codename": "undefined",
+    "cooldownType": 0,
+    "initialCooldown": 0,
+    "dataPool": [],
+    "consumption": 0
+  },
+  "obtain": [
+    31,
+    32
+  ],
+  "equip1": [
+    "apAmmo"
+  ],
+  "equip2": [
+    "optical",
+    "holo",
+    "reddot"
+  ],
+  "equip3": [
+    "chip",
+    "ammunitionBox"
+  ],
+  "skins": []
+}, {
+  "id": 241,
+  "codename": "RT20",
+  "type": "rf",
+  "rank": 3,
+  "buildTime": 15600,
+  "stats": {
+    "hp": 102,
+    "pow": 145,
+    "hit": 115,
+    "dodge": 80,
+    "speed": 100,
+    "rate": 80,
+    "armorPiercing": 10,
+    "criticalPercent": 40
+  },
+  "grow": 122,
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [
+      6,
+      9
+    ],
+    "gridEffect": {
+      "cooldown": 12
+    }
+  },
+  "skill1": {
+    "id": "102701",
+    "codename": "AimAttackCurrentTarge",
+    "cooldownType": "frame",
+    "initialCooldown": 450,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 600
+      },
+      {
+        "level": 2,
+        "cooldown": 588
+      },
+      {
+        "level": 3,
+        "cooldown": 573
+      },
+      {
+        "level": 4,
+        "cooldown": 561
+      },
+      {
+        "level": 5,
+        "cooldown": 546
+      },
+      {
+        "level": 6,
+        "cooldown": 534
+      },
+      {
+        "level": 7,
+        "cooldown": 519
+      },
+      {
+        "level": 8,
+        "cooldown": 507
+      },
+      {
+        "level": 9,
+        "cooldown": 492
+      },
+      {
+        "level": 10,
+        "cooldown": 480
+      }
+    ],
+    "consumption": 0
+  },
+  "obtain": [
+    1811
+  ],
+  "equip1": [
+    "apAmmo"
+  ],
+  "equip2": [
+    "optical",
+    "holo",
+    "reddot",
+    "suppressor"
+  ],
+  "equip3": [
+    "chip",
+    "cloak"
   ],
   "skins": []
 }, {
