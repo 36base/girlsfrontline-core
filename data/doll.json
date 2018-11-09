@@ -22623,10 +22623,51 @@
   },
   "skill1": {
     "id": "110094",
-    "codename": "undefined",
-    "cooldownType": 0,
-    "initialCooldown": 0,
-    "dataPool": [],
+    "codename": "powBuffSelf",
+    "cooldownType": "frame",
+    "initialCooldown": 240,
+    "dataPool": [
+      {
+        "level": 1,
+        "cooldown": 540
+      },
+      {
+        "level": 2,
+        "cooldown": 540
+      },
+      {
+        "level": 3,
+        "cooldown": 540
+      },
+      {
+        "level": 4,
+        "cooldown": 540
+      },
+      {
+        "level": 5,
+        "cooldown": 540
+      },
+      {
+        "level": 6,
+        "cooldown": 540
+      },
+      {
+        "level": 7,
+        "cooldown": 540
+      },
+      {
+        "level": 8,
+        "cooldown": 540
+      },
+      {
+        "level": 9,
+        "cooldown": 540
+      },
+      {
+        "level": 10,
+        "cooldown": 540
+      }
+    ],
     "consumption": 0
   },
   "obtain": [
