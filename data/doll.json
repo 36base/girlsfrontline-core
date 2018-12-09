@@ -21755,7 +21755,7 @@
         "hit": 35
       }
     },
-    "buildTime": 8880,
+    "buildTime": 8340,
     "codename": "Type100",
     "skill1": {
       "id": "110029",
@@ -21793,11 +21793,11 @@
         },
         {
           "level": 8,
-          "cooldown": 507
+          "cooldown": 506
         },
         {
           "level": 9,
-          "cooldown": 492
+          "cooldown": 491
         },
         {
           "level": 10,
@@ -21807,7 +21807,8 @@
       "consumption": 0
     },
     "obtain": [
-      311
+      1,
+      2
     ],
     "equip1": [
       "chip",
@@ -23081,6 +23082,395 @@
     "equip3": [
       "chip",
       "cloak"
+    ],
+    "skins": []
+  },
+  {
+    "id": 243,
+    "codename": "Type64-AR",
+    "type": "ar",
+    "rank": 5,
+    "buildTime": 14760,
+    "stats": {
+      "hp": 113,
+      "pow": 132,
+      "hit": 130,
+      "dodge": 90,
+      "speed": 100,
+      "rate": 88,
+      "armorPiercing": 10,
+      "criticalPercent": 20
+    },
+    "grow": 140,
+    "effect": {
+      "effectType": "smg",
+      "effectCenter": 5,
+      "effectPos": [
+        3,
+        6
+      ],
+      "gridEffect": {
+        "pow": 18,
+        "dodge": 18
+      }
+    },
+    "skill1": {
+      "id": "110501",
+      "codename": "64shiki",
+      "cooldownType": "frame",
+      "initialCooldown": 150,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600
+        },
+        {
+          "level": 2,
+          "cooldown": 588
+        },
+        {
+          "level": 3,
+          "cooldown": 573
+        },
+        {
+          "level": 4,
+          "cooldown": 561
+        },
+        {
+          "level": 5,
+          "cooldown": 546
+        },
+        {
+          "level": 6,
+          "cooldown": 534
+        },
+        {
+          "level": 7,
+          "cooldown": 519
+        },
+        {
+          "level": 8,
+          "cooldown": 507
+        },
+        {
+          "level": 9,
+          "cooldown": 492
+        },
+        {
+          "level": 10,
+          "cooldown": 480
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hvAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "skins": []
+  },
+  {
+    "id": 245,
+    "codename": "P90",
+    "type": "smg",
+    "rank": 5,
+    "buildTime": 8940,
+    "stats": {
+      "hp": 108,
+      "pow": 112,
+      "hit": 120,
+      "dodge": 126,
+      "speed": 100,
+      "rate": 115,
+      "armorPiercing": 10,
+      "criticalPercent": 5
+    },
+    "grow": 118,
+    "effect": {
+      "effectType": "ar",
+      "effectCenter": 5,
+      "effectPos": [
+        1,
+        4,
+        7
+      ],
+      "gridEffect": {
+        "pow": 12,
+        "hit": 30
+      }
+    },
+    "skill1": {
+      "id": "110301",
+      "codename": "p90",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 480
+        },
+        {
+          "level": 2,
+          "cooldown": 468
+        },
+        {
+          "level": 3,
+          "cooldown": 453
+        },
+        {
+          "level": 4,
+          "cooldown": 441
+        },
+        {
+          "level": 5,
+          "cooldown": 426
+        },
+        {
+          "level": 6,
+          "cooldown": 414
+        },
+        {
+          "level": 7,
+          "cooldown": 399
+        },
+        {
+          "level": 8,
+          "cooldown": 386
+        },
+        {
+          "level": 9,
+          "cooldown": 371
+        },
+        {
+          "level": 10,
+          "cooldown": 360
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "skins": []
+  },
+  {
+    "id": 247,
+    "codename": "K31",
+    "type": "rf",
+    "rank": 4,
+    "buildTime": 15300,
+    "stats": {
+      "hp": 88,
+      "pow": 115,
+      "hit": 115,
+      "dodge": 108,
+      "speed": 100,
+      "rate": 112,
+      "armorPiercing": 10,
+      "criticalPercent": 40
+    },
+    "grow": 122,
+    "effect": {
+      "effectType": "hg",
+      "effectCenter": 5,
+      "effectPos": [
+        6,
+        9
+      ],
+      "gridEffect": {
+        "cooldown": 15
+      }
+    },
+    "skill1": {
+      "id": "110201",
+      "codename": "K31",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 300
+        },
+        {
+          "level": 2,
+          "cooldown": 294
+        },
+        {
+          "level": 3,
+          "cooldown": 288
+        },
+        {
+          "level": 4,
+          "cooldown": 279
+        },
+        {
+          "level": 5,
+          "cooldown": 273
+        },
+        {
+          "level": 6,
+          "cooldown": 267
+        },
+        {
+          "level": 7,
+          "cooldown": 261
+        },
+        {
+          "level": 8,
+          "cooldown": 252
+        },
+        {
+          "level": 9,
+          "cooldown": 245
+        },
+        {
+          "level": 10,
+          "cooldown": 240
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "apAmmo"
+    ],
+    "equip2": [
+      "optical",
+      "holo",
+      "reddot",
+      "suppressor"
+    ],
+    "equip3": [
+      "chip",
+      "cloak"
+    ],
+    "skins": []
+  },
+  {
+    "id": 248,
+    "codename": "Jericho",
+    "type": "hg",
+    "rank": 4,
+    "buildTime": 2940,
+    "stats": {
+      "hp": 115,
+      "pow": 122,
+      "hit": 112,
+      "dodge": 95,
+      "speed": 100,
+      "rate": 115,
+      "armorPiercing": 10,
+      "criticalPercent": 20
+    },
+    "grow": 106,
+    "effect": {
+      "effectType": "all",
+      "effectCenter": 5,
+      "effectPos": [
+        4,
+        6,
+        7,
+        9
+      ],
+      "gridEffect": {
+        "pow": 12,
+        "hit": 25
+      }
+    },
+    "skill1": {
+      "id": "110401",
+      "codename": "Jericho",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 450
+        },
+        {
+          "level": 2,
+          "cooldown": 441
+        },
+        {
+          "level": 3,
+          "cooldown": 429
+        },
+        {
+          "level": 4,
+          "cooldown": 420
+        },
+        {
+          "level": 5,
+          "cooldown": 411
+        },
+        {
+          "level": 6,
+          "cooldown": 399
+        },
+        {
+          "level": 7,
+          "cooldown": 390
+        },
+        {
+          "level": 8,
+          "cooldown": 381
+        },
+        {
+          "level": 9,
+          "cooldown": 369
+        },
+        {
+          "level": 10,
+          "cooldown": 360
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1
+    ],
+    "equip1": [
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
     ],
     "skins": []
   },
@@ -25762,48 +26152,7 @@
       "codename": "comboBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 5
-        },
-        {
-          "level": 2,
-          "cooldown": 5
-        },
-        {
-          "level": 3,
-          "cooldown": 5
-        },
-        {
-          "level": 4,
-          "cooldown": 5
-        },
-        {
-          "level": 5,
-          "cooldown": 5
-        },
-        {
-          "level": 6,
-          "cooldown": 5
-        },
-        {
-          "level": 7,
-          "cooldown": 5
-        },
-        {
-          "level": 8,
-          "cooldown": 5
-        },
-        {
-          "level": 9,
-          "cooldown": 5
-        },
-        {
-          "level": 10,
-          "cooldown": 5
-        }
-      ],
+      "dataPool": [],
       "consumption": 0
     },
     "skins": [
