@@ -15,7 +15,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -127,7 +127,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -238,7 +238,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -334,7 +334,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 142,
@@ -435,7 +435,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -547,7 +547,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -644,7 +644,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -742,7 +742,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -841,7 +841,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -938,7 +938,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1035,7 +1035,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1131,7 +1131,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1227,7 +1227,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1328,7 +1328,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1425,7 +1425,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -1525,7 +1525,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -1623,7 +1623,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -1720,7 +1720,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -1819,7 +1819,7 @@
       "dodge": 140,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -1920,7 +1920,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2019,7 +2019,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2117,7 +2117,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2216,7 +2216,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2314,7 +2314,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2414,7 +2414,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2507,7 +2507,8 @@
     "skins": [
       3,
       1205,
-      1903
+      1903,
+      3006
     ],
     "stats": {
       "hp": 95,
@@ -2516,7 +2517,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2617,7 +2618,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2717,7 +2718,7 @@
       "dodge": 122,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2817,7 +2818,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -2931,7 +2932,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -3031,7 +3032,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -3131,7 +3132,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -3231,7 +3232,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3327,7 +3328,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3428,7 +3429,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3526,7 +3527,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3640,7 +3641,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3738,7 +3739,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3848,7 +3849,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -3943,7 +3944,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4041,7 +4042,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4139,7 +4140,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4238,7 +4239,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4348,7 +4349,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4444,7 +4445,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4545,7 +4546,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4641,7 +4642,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4740,7 +4741,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4836,7 +4837,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -4947,7 +4948,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -5046,7 +5047,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -5142,7 +5143,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5240,7 +5241,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5355,7 +5356,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5474,7 +5475,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5593,7 +5594,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5689,7 +5690,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 108,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 103,
@@ -5773,14 +5774,18 @@
       "suppressor"
     ],
     "buildTime": 8280,
-    "skins": []
+    "skins": [
+      3002
+    ]
   },
   {
     "id": 60,
     "rank": 4,
     "type": "ar",
     "buildTime": 12600,
-    "skins": [],
+    "skins": [
+      2907
+    ],
     "stats": {
       "hp": 120,
       "pow": 90,
@@ -5788,7 +5793,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5886,7 +5891,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -5986,7 +5991,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6088,7 +6093,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6206,7 +6211,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6320,7 +6325,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6420,7 +6425,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6518,7 +6523,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6617,7 +6622,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6717,7 +6722,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6815,7 +6820,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -6914,7 +6919,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -7010,7 +7015,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 30
     },
     "effect": {
@@ -7112,7 +7117,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -7214,7 +7219,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -7325,7 +7330,7 @@
       "dodge": 75,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -7380,7 +7385,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -7480,7 +7485,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -7580,7 +7585,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -7679,7 +7684,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -7789,7 +7794,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -7885,7 +7890,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -7982,7 +7987,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 11
     },
@@ -8038,7 +8043,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -8134,7 +8139,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -8231,7 +8236,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -8331,7 +8336,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -8444,7 +8449,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -8545,7 +8550,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -8657,7 +8662,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -8755,7 +8760,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -8870,7 +8875,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -8982,7 +8987,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -9081,7 +9086,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -9182,7 +9187,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 135,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -9280,7 +9285,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -9379,7 +9384,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -9478,7 +9483,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -9580,7 +9585,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -9680,7 +9685,7 @@
       "dodge": 122,
       "speed": 100,
       "rate": 108,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -9781,7 +9786,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -9898,7 +9903,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -9997,7 +10002,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -10100,7 +10105,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 108,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -10198,7 +10203,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -10295,7 +10300,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -10397,7 +10402,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 11
     },
@@ -10454,7 +10459,7 @@
       "dodge": 135,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -10550,7 +10555,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -10647,7 +10652,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -10703,7 +10708,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -10802,7 +10807,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -10902,7 +10907,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -11000,7 +11005,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -11097,7 +11102,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -11194,7 +11199,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -11286,7 +11291,8 @@
     "type": "ar",
     "buildTime": 14520,
     "skins": [
-      1203
+      1203,
+      3001
     ],
     "stats": {
       "hp": 100,
@@ -11295,7 +11301,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -11394,7 +11400,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -11490,7 +11496,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -11590,7 +11596,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 145,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -11687,7 +11693,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -11784,7 +11790,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -11881,7 +11887,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -11981,7 +11987,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12082,7 +12088,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -12182,7 +12188,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -12280,7 +12286,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12379,7 +12385,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12478,7 +12484,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -12575,7 +12581,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12675,7 +12681,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12772,7 +12778,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -12870,7 +12876,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -12972,7 +12978,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -13067,7 +13073,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -13167,7 +13173,7 @@
       "dodge": 75,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -13263,7 +13269,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -13360,7 +13366,7 @@
       "dodge": 135,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -13457,7 +13463,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -13557,7 +13563,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -13653,7 +13659,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -13753,7 +13759,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -13852,7 +13858,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -13951,7 +13957,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -14047,7 +14053,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -14134,7 +14140,8 @@
     "type": "rf",
     "buildTime": 17520,
     "skins": [
-      1403
+      1403,
+      3004
     ],
     "stats": {
       "hp": 100,
@@ -14143,7 +14150,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -14241,7 +14248,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -14338,7 +14345,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -14439,7 +14446,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -14538,7 +14545,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -14637,7 +14644,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -14734,7 +14741,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -14833,7 +14840,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -14932,7 +14939,7 @@
       "dodge": 135,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 3
     },
@@ -15029,7 +15036,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -15126,7 +15133,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 3
     },
@@ -15225,7 +15232,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -15322,7 +15329,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 135,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -15420,7 +15427,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 3
     },
@@ -15520,7 +15527,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -15616,7 +15623,7 @@
       "dodge": 88,
       "speed": 100,
       "rate": 150,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -15715,7 +15722,7 @@
       "dodge": 108,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -15816,7 +15823,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -15832,7 +15839,9 @@
       }
     },
     "grow": 105,
-    "skins": [],
+    "skins": [
+      2906
+    ],
     "codename": "M1014",
     "skill1": {
       "id": "110021",
@@ -15906,7 +15915,8 @@
     "type": "hg",
     "buildTime": 3900,
     "skins": [
-      1604
+      1604,
+      3005
     ],
     "stats": {
       "hp": 100,
@@ -15915,7 +15925,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16013,7 +16023,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16111,7 +16121,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16207,7 +16217,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -16304,7 +16314,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16400,7 +16410,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16490,7 +16500,8 @@
     "type": "ar",
     "buildTime": 14280,
     "skins": [
-      1601
+      1601,
+      2902
     ],
     "stats": {
       "hp": 95,
@@ -16499,7 +16510,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 75,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 30
     },
     "effect": {
@@ -16601,7 +16612,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -16660,7 +16671,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -16757,7 +16768,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -16856,7 +16867,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -16956,7 +16967,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -17053,7 +17064,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -17154,7 +17165,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -17251,7 +17262,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -17347,7 +17358,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -17445,7 +17456,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -17542,7 +17553,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 75,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -17643,7 +17654,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -17742,7 +17753,7 @@
       "dodge": 140,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -17840,7 +17851,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -17935,7 +17946,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 112,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -18037,7 +18048,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -18138,7 +18149,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 140,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -18235,7 +18246,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -18331,7 +18342,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -18432,7 +18443,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -18527,7 +18538,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -18626,7 +18637,7 @@
       "dodge": 108,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -18724,7 +18735,7 @@
       "dodge": 132,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -18823,7 +18834,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 108,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -18914,7 +18925,8 @@
     "type": "rf",
     "buildTime": 16680,
     "skins": [
-      2201
+      2201,
+      2905
     ],
     "stats": {
       "hp": 90,
@@ -18923,7 +18935,7 @@
       "dodge": 108,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19012,7 +19024,8 @@
     "type": "rf",
     "buildTime": 16920,
     "skins": [
-      2202
+      2202,
+      2904
     ],
     "stats": {
       "hp": 82,
@@ -19021,7 +19034,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19119,7 +19132,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -19216,7 +19229,7 @@
       "dodge": 88,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19314,7 +19327,7 @@
       "dodge": 82,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19411,7 +19424,7 @@
       "dodge": 75,
       "speed": 100,
       "rate": 65,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19505,7 +19518,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -19602,7 +19615,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -19699,7 +19712,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -19800,7 +19813,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -19899,7 +19912,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 118,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -19997,7 +20010,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -20093,7 +20106,7 @@
       "dodge": 122,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -20181,7 +20194,9 @@
     "rank": 3,
     "type": "hg",
     "buildTime": 2700,
-    "skins": [],
+    "skins": [
+      3007
+    ],
     "stats": {
       "hp": 115,
       "pow": 125,
@@ -20189,7 +20204,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -20285,7 +20300,7 @@
       "dodge": 98,
       "speed": 100,
       "rate": 98,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -20382,7 +20397,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 118,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -20482,7 +20497,7 @@
       "dodge": 122,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -20584,7 +20599,7 @@
       "dodge": 98,
       "speed": 100,
       "rate": 112,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -20682,7 +20697,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -20779,7 +20794,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -20874,7 +20889,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 122,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -20970,7 +20985,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -21066,7 +21081,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 105,
@@ -21163,7 +21178,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 132,
@@ -21260,7 +21275,7 @@
       "dodge": 102,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 112,
@@ -21357,7 +21372,7 @@
       "dodge": 118,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 114,
@@ -21457,7 +21472,7 @@
       "dodge": 118,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 112,
@@ -21554,7 +21569,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 135,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 122,
@@ -21649,7 +21664,7 @@
       "dodge": 92,
       "speed": 100,
       "rate": 112,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 115,
@@ -21746,7 +21761,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 115,
@@ -21831,7 +21846,9 @@
       "nightvision",
       "suppressor"
     ],
-    "skins": []
+    "skins": [
+      2903
+    ]
   },
   {
     "id": 229,
@@ -21846,7 +21863,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 4
     },
@@ -21942,7 +21959,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 120,
@@ -22038,7 +22055,7 @@
       "dodge": 82,
       "speed": 100,
       "rate": 96,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 128,
@@ -22134,7 +22151,7 @@
       "dodge": 128,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 125,
@@ -22231,7 +22248,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 102,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 132,
@@ -22329,7 +22346,7 @@
       "dodge": 128,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 122,
@@ -22427,7 +22444,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 98,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 128,
@@ -22523,7 +22540,7 @@
       "dodge": 82,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 128,
@@ -22622,7 +22639,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 100,
@@ -22721,7 +22738,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -22804,7 +22821,9 @@
       "chip",
       "ammunitionBox"
     ],
-    "skins": []
+    "skins": [
+      3003
+    ]
   },
   {
     "id": 239,
@@ -22819,7 +22838,7 @@
       "dodge": 102,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 105,
@@ -22915,7 +22934,7 @@
       "dodge": 132,
       "speed": 100,
       "rate": 128,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -23012,7 +23031,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 122,
@@ -23107,7 +23126,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 88,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 140,
@@ -23190,7 +23209,9 @@
       "chip",
       "exoSkeleton"
     ],
-    "skins": []
+    "skins": [
+      2901
+    ]
   },
   {
     "id": 245,
@@ -23205,7 +23226,7 @@
       "dodge": 126,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 118,
@@ -23306,7 +23327,7 @@
       "dodge": 108,
       "speed": 100,
       "rate": 112,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 122,
@@ -23402,7 +23423,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 106,
@@ -23498,7 +23519,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 9
     },
@@ -23579,7 +23600,9 @@
       "chip",
       "ammunitionBox"
     ],
-    "skins": []
+    "skins": [
+      2908
+    ]
   },
   {
     "id": 1001,
@@ -23596,7 +23619,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -23699,7 +23722,7 @@
       "dodge": 80,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -23798,7 +23821,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 125,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -23894,7 +23917,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 98,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -23991,7 +24014,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -24086,7 +24109,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24182,7 +24205,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24281,7 +24304,7 @@
       "dodge": 130,
       "speed": 100,
       "rate": 108,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40,
       "bullet": 5
     },
@@ -24339,7 +24362,7 @@
       "dodge": 103,
       "speed": 100,
       "rate": 106,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24438,7 +24461,7 @@
       "dodge": 103,
       "speed": 100,
       "rate": 106,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24533,7 +24556,7 @@
       "dodge": 95,
       "speed": 100,
       "rate": 89,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 130,
@@ -24640,7 +24663,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 106,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24746,7 +24769,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 80,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -24853,7 +24876,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 125,
@@ -24961,7 +24984,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 130,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 110,
@@ -25065,7 +25088,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 85,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -25169,7 +25192,7 @@
       "dodge": 85,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "grow": 115,
@@ -25273,7 +25296,7 @@
       "dodge": 100,
       "speed": 100,
       "rate": 100,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 40
     },
     "effect": {
@@ -25379,7 +25402,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -25491,7 +25514,7 @@
       "dodge": 115,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 30
     },
     "grow": 110,
@@ -25603,7 +25626,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 115,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -25716,7 +25739,7 @@
       "dodge": 90,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 120,
@@ -25826,7 +25849,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 114,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "grow": 110,
@@ -25931,7 +25954,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -26038,7 +26061,7 @@
       "dodge": 105,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 10
     },
@@ -26141,7 +26164,7 @@
       "dodge": 110,
       "speed": 100,
       "rate": 95,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5,
       "bullet": 8
     },
@@ -26248,7 +26271,7 @@
       "dodge": 102,
       "speed": 100,
       "rate": 110,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 20
     },
     "effect": {
@@ -26355,7 +26378,7 @@
       "dodge": 125,
       "speed": 100,
       "rate": 90,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -26463,7 +26486,7 @@
       "dodge": 113,
       "speed": 100,
       "rate": 120,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "effect": {
@@ -26569,7 +26592,7 @@
       "dodge": 120,
       "speed": 100,
       "rate": 105,
-      "armorPiercing": 10,
+      "armorPiercing": 15,
       "criticalPercent": 5
     },
     "grow": 110,
