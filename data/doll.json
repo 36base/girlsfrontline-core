@@ -22,10 +22,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
+        4,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 12,
@@ -146,10 +146,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
+        4,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "rate": 10,
@@ -267,10 +267,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -375,12 +375,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
         1,
-        8,
+        4,
+        9,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -485,9 +485,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
-        2
+        4,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 16,
@@ -608,10 +608,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -717,10 +717,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 6,
@@ -842,10 +842,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        4
+        1,
+        4,
+        7,
+        6
       ],
       "gridEffect": {
         "pow": 10,
@@ -951,10 +951,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 7,
@@ -1060,10 +1060,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        4
+        1,
+        4,
+        7,
+        6
       ],
       "gridEffect": {
         "rate": 16,
@@ -1167,9 +1167,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 7,
@@ -1273,9 +1273,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        4
+        1,
+        7,
+        6
       ],
       "gridEffect": {
         "hit": 32,
@@ -1394,14 +1394,14 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2,
-        7,
+        1,
         4,
-        1
+        7,
+        2,
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 25,
@@ -1505,10 +1505,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
+        1,
         7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -1612,11 +1612,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
+        1,
         7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 32,
@@ -1722,8 +1722,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -1830,7 +1830,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "hit": 40,
@@ -1937,9 +1937,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 12
@@ -2047,8 +2047,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -2158,7 +2158,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "rate": 25
@@ -2267,8 +2267,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 10,
@@ -2375,9 +2375,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 12
@@ -2484,8 +2484,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 8,
@@ -2592,8 +2592,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -2702,8 +2702,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "hit": 25,
@@ -2815,8 +2815,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "hit": 40,
@@ -2940,7 +2940,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "rate": 15,
@@ -3050,9 +3050,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -3161,9 +3161,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "hit": 10,
@@ -3285,8 +3285,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 5,
@@ -3409,8 +3409,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 18
@@ -3533,8 +3533,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 10,
@@ -3643,7 +3643,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -3751,8 +3751,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 12
@@ -3862,7 +3862,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -3970,8 +3970,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -4094,8 +4094,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 12
@@ -4202,7 +4202,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8
+        2
       ],
       "gridEffect": {
         "cooldown": 15
@@ -4322,7 +4322,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 10
@@ -4427,8 +4427,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 10
@@ -4535,7 +4535,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        2
+        8
       ],
       "gridEffect": {
         "cooldown": 15
@@ -4643,8 +4643,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -4752,7 +4752,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "cooldown": 12
@@ -4874,8 +4874,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 18
@@ -4980,8 +4980,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 10
@@ -5091,7 +5091,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -5197,8 +5197,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 12
@@ -5306,8 +5306,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 18
@@ -5412,8 +5412,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 10
@@ -5533,7 +5533,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 10
@@ -5643,7 +5643,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -5766,10 +5766,10 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -5877,11 +5877,11 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 18,
@@ -6005,9 +6005,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -6136,9 +6136,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -6265,7 +6265,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        8
+        2
       ],
       "gridEffect": {
         "dodge": 18
@@ -6374,9 +6374,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -6484,7 +6484,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        2
+        8
       ],
       "gridEffect": {
         "pow": 25,
@@ -6606,7 +6606,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "dodge": 20,
@@ -6730,8 +6730,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -6842,7 +6842,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        2
+        8
       ],
       "gridEffect": {
         "rate": 20,
@@ -6971,8 +6971,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 30,
@@ -7097,7 +7097,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 40
@@ -7222,7 +7222,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "dodge": 15,
@@ -7330,7 +7330,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        2
+        8
       ],
       "gridEffect": {
         "pow": 20,
@@ -7439,7 +7439,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "pow": 25,
@@ -7550,7 +7550,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -7658,7 +7658,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "hit": 50,
@@ -7767,8 +7767,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "dodge": 18
@@ -7876,11 +7876,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        4,
-        1,
         2,
-        7
+        6,
+        9,
+        8,
+        3
       ],
       "gridEffect": {
         "pow": 12,
@@ -7986,8 +7986,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -8097,9 +8097,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -8219,9 +8219,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 22
@@ -8324,10 +8324,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -8434,10 +8434,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "rate": 12,
@@ -8543,9 +8543,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "hit": 25,
@@ -8652,9 +8652,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 10,
@@ -8771,10 +8771,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 15
@@ -8876,10 +8876,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 16
@@ -8983,10 +8983,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 18
@@ -9089,9 +9089,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "pow": 22
@@ -9196,9 +9196,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "pow": 20
@@ -9304,10 +9304,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -9413,10 +9413,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -9537,11 +9537,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -9648,11 +9648,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2
+        1,
+        4,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 14
@@ -9770,7 +9770,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "pow": 20
@@ -9879,9 +9879,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "dodge": 20
@@ -10004,7 +10004,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "rate": 20
@@ -10126,7 +10126,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -10251,11 +10251,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
+        1,
+        7,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -10363,10 +10363,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
+        1,
         7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -10487,10 +10487,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
-        2
+        1,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 6,
@@ -10598,10 +10598,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        4
+        1,
+        4,
+        7,
+        6
       ],
       "gridEffect": {
         "pow": 18
@@ -10707,12 +10707,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
-        2,
+        1,
         7,
-        1
+        2,
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -10821,9 +10821,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 12,
@@ -10948,10 +10948,10 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "criticalPercent": 500
@@ -11062,9 +11062,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 18,
@@ -11191,9 +11191,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -11302,8 +11302,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -11415,9 +11415,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "dodge": 20
@@ -11523,7 +11523,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 20,
@@ -11630,8 +11630,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 25,
@@ -11740,10 +11740,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -11847,10 +11847,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "hit": 30
@@ -11952,9 +11952,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "rate": 20
@@ -12059,11 +12059,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "armor": 20
@@ -12169,9 +12169,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
-        2
+        4,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 12,
@@ -12278,11 +12278,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2
+        1,
+        4,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 10,
@@ -12389,8 +12389,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -12499,8 +12499,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "pow": 12,
@@ -12609,8 +12609,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 15
@@ -12718,8 +12718,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -12831,9 +12831,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 25,
@@ -12939,7 +12939,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "pow": 25,
@@ -13044,10 +13044,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 18
@@ -13157,7 +13157,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 30,
@@ -13264,9 +13264,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "rate": 6,
@@ -13371,7 +13371,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -13475,10 +13475,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "hit": 12,
@@ -13586,12 +13586,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
-        2,
-        7,
         4,
-        1
+        2,
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -13697,8 +13697,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 20
@@ -13808,7 +13808,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -13917,7 +13917,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "pow": 10,
@@ -14027,7 +14027,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -14136,7 +14136,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "hit": 55
@@ -14243,11 +14243,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -14352,7 +14352,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 10,
@@ -14459,7 +14459,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "rate": 16,
@@ -14569,9 +14569,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 18,
@@ -14681,7 +14681,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "pow": 24
@@ -14788,8 +14788,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 12,
@@ -14898,7 +14898,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 35
@@ -15004,10 +15004,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
+        4,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 8,
@@ -15111,10 +15111,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        7,
         4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 28,
@@ -15218,9 +15218,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        4
+        1,
+        7,
+        6
       ],
       "gridEffect": {
         "rate": 14
@@ -15328,10 +15328,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -15437,11 +15437,11 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2
+        1,
+        4,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "rate": 10,
@@ -15547,8 +15547,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -15657,8 +15657,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -15767,8 +15767,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 15
@@ -15873,7 +15873,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -15980,8 +15980,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 18
@@ -16086,10 +16086,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -16194,8 +16194,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -16303,9 +16303,9 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "pow": 20,
@@ -16411,10 +16411,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "hit": 50
@@ -16519,10 +16519,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 18
@@ -16627,10 +16627,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 18
@@ -16750,10 +16750,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 7,
+      "effectCenter": 3,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "hit": 55
@@ -16858,9 +16858,9 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "pow": 15,
@@ -16964,10 +16964,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 20
@@ -17070,9 +17070,9 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        9
+        1
       ],
       "gridEffect": {
         "pow": 12,
@@ -17179,9 +17179,9 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 7,
+      "effectCenter": 3,
       "effectPos": [
-        3
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -17288,11 +17288,11 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15
@@ -17397,11 +17397,11 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 12
@@ -17508,10 +17508,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 20
@@ -17617,10 +17617,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 22
@@ -17725,11 +17725,11 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        6,
-        3,
-        9
+        4,
+        7,
+        1
       ],
       "gridEffect": {
         "pow": 12,
@@ -17836,10 +17836,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 7,
+      "effectCenter": 3,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 20
@@ -17946,10 +17946,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
-        2
+        1,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 8,
@@ -18054,10 +18054,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
+        1,
         7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 16
@@ -18159,12 +18159,12 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        9,
-        3,
+        1,
         7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -18267,7 +18267,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "pow": 6,
@@ -18374,8 +18374,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 30
@@ -18480,8 +18480,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 20
@@ -18590,9 +18590,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 30,
@@ -18703,11 +18703,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -18814,7 +18814,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -18921,8 +18921,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -19029,10 +19029,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -19141,7 +19141,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "rate": 25
@@ -19248,8 +19248,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "hit": 40,
@@ -19357,10 +19357,10 @@
     },
     "effect": {
       "effectType": "hg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
         5,
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -19466,8 +19466,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 15
@@ -19572,10 +19572,10 @@
     },
     "effect": {
       "effectType": "smg",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -19682,7 +19682,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "cooldown": 12
@@ -19790,14 +19790,14 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2,
-        7,
+        1,
         4,
-        1
+        7,
+        2,
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -19903,8 +19903,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        7
+        2,
+        3
       ],
       "gridEffect": {
         "cooldown": 15
@@ -20010,11 +20010,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -20119,9 +20119,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 10,
@@ -20225,8 +20225,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -20336,11 +20336,11 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -20446,9 +20446,9 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        3
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -20554,10 +20554,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 15
@@ -20661,9 +20661,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 8,
@@ -20773,8 +20773,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 18
@@ -20878,8 +20878,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -20989,8 +20989,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 25,
@@ -21095,10 +21095,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 8,
@@ -21207,8 +21207,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 12,
@@ -21316,10 +21316,10 @@
     },
     "effect": {
       "effectType": "rf",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "cooldown": 10
@@ -21425,10 +21425,10 @@
     },
     "effect": {
       "effectType": "rf",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "cooldown": 10
@@ -21533,10 +21533,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -21641,8 +21641,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -21751,8 +21751,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -21859,9 +21859,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        4
+        1,
+        7,
+        6
       ],
       "gridEffect": {
         "pow": 18
@@ -21963,10 +21963,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 20,
@@ -22072,8 +22072,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 18
@@ -22178,11 +22178,11 @@
     },
     "effect": {
       "effectType": "smg",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        4,
-        1,
-        7
+        6,
+        9,
+        3
       ],
       "gridEffect": {
         "hit": 55,
@@ -22290,11 +22290,11 @@
     },
     "effect": {
       "effectType": "smg",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        1,
-        7,
-        4
+        9,
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 25,
@@ -22401,7 +22401,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "rate": 10,
@@ -22508,10 +22508,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -22615,8 +22615,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 16
@@ -22723,10 +22723,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -22829,8 +22829,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -22937,12 +22937,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
+        1,
+        4,
+        7,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -23048,9 +23048,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -23160,9 +23160,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 30,
@@ -23272,8 +23272,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 25,
@@ -23380,7 +23380,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        1
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -23487,8 +23487,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 12
@@ -23592,9 +23592,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 12
@@ -23699,11 +23699,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -23808,11 +23808,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        9,
-        6,
-        3
+        8,
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -23932,8 +23932,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -24039,8 +24039,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -24148,8 +24148,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -24255,8 +24255,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -24362,8 +24362,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 15
@@ -24467,11 +24467,11 @@
     },
     "effect": {
       "effectType": "smg",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -24580,8 +24580,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -24690,10 +24690,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 7,
+      "effectCenter": 3,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "pow": 18,
@@ -24798,8 +24798,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -24903,8 +24903,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -25008,11 +25008,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        9,
-        6,
-        3
+        8,
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 6,
@@ -25115,11 +25115,11 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        6,
-        3,
+        1,
+        4,
+        7,
         5
       ],
       "gridEffect": {
@@ -25223,11 +25223,11 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 18,
@@ -25333,8 +25333,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -25441,9 +25441,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -25550,9 +25550,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -25660,11 +25660,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 10,
@@ -25769,7 +25769,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 12,
@@ -25873,10 +25873,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -25981,8 +25981,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -26086,13 +26086,13 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        9,
-        6,
-        3,
+        1,
+        4,
+        7,
         5,
-        4
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -26197,8 +26197,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 18,
@@ -26305,11 +26305,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        3,
-        8,
+        4,
+        7,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "rate": 16
@@ -26413,9 +26413,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -26522,8 +26522,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -26628,10 +26628,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        3,
         4,
-        1
+        7,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 12,
@@ -26734,10 +26734,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 18,
@@ -26839,14 +26839,14 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        6,
-        3,
-        5,
-        2,
         4,
-        1
+        7,
+        5,
+        8,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -26947,11 +26947,11 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -27061,8 +27061,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 15
@@ -27181,11 +27181,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 10,
@@ -27289,10 +27289,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -27396,8 +27396,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -27503,8 +27503,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -27610,8 +27610,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 18
@@ -27716,7 +27716,7 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "hit": 50,
@@ -27820,10 +27820,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -27931,14 +27931,14 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        6,
-        3,
-        8,
-        5,
         4,
-        1
+        7,
+        2,
+        5,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -28042,12 +28042,12 @@
     },
     "effect": {
       "effectType": "hg",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        3,
-        8,
+        7,
+        2,
         5,
-        2
+        8
       ],
       "gridEffect": {
         "cooldown": 18
@@ -28154,8 +28154,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -28266,11 +28266,11 @@
         "ar",
         "sg"
       ],
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
         5,
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -28373,10 +28373,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 12,
@@ -28481,8 +28481,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -28590,9 +28590,9 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 18
@@ -28696,8 +28696,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "pow": 12,
@@ -28803,8 +28803,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 12
@@ -28908,12 +28908,12 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        6,
-        3,
         4,
-        1
+        7,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 9,
@@ -29019,10 +29019,10 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -29125,10 +29125,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "hit": 10,
@@ -29230,13 +29230,13 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        9,
-        6,
+        1,
+        4,
         5,
-        2,
-        1
+        8,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -29339,8 +29339,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -29442,11 +29442,11 @@
     },
     "effect": {
       "effectType": "smg",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 25,
@@ -29552,10 +29552,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "hit": 10,
@@ -29657,10 +29657,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -29764,10 +29764,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
-        2
+        1,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "rate": 10,
@@ -29869,10 +29869,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "pow": 10,
@@ -29977,8 +29977,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -30082,10 +30082,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 20,
@@ -30193,10 +30193,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6
+        1,
+        4
       ],
       "gridEffect": {
         "pow": 18,
@@ -30305,10 +30305,10 @@
         "rf",
         "mg"
       ],
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -30412,10 +30412,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 10,
@@ -30522,8 +30522,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "cooldown": 12
@@ -30625,13 +30625,13 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        6,
-        3,
-        8,
+        4,
+        7,
+        2,
         5,
-        7
+        3
       ],
       "gridEffect": {
         "pow": 12,
@@ -30734,8 +30734,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        3
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -30842,8 +30842,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 12,
@@ -30950,8 +30950,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -31058,8 +31058,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 12,
@@ -31165,9 +31165,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -31274,8 +31274,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 12,
@@ -31383,13 +31383,13 @@
         "ar",
         "sg"
       ],
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        9,
-        6,
-        5,
+        1,
         4,
-        1
+        5,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 12,
@@ -31494,9 +31494,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 25,
@@ -31601,13 +31601,13 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        9,
-        6,
-        3,
+        1,
+        4,
+        7,
         5,
-        7
+        3
       ],
       "gridEffect": {
         "pow": 8,
@@ -31708,11 +31708,11 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 20,
@@ -31816,12 +31816,12 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 9,
+      "effectCenter": 1,
       "effectPos": [
-        6,
-        3,
+        4,
+        7,
         5,
-        4
+        6
       ],
       "gridEffect": {
         "pow": 10,
@@ -31926,8 +31926,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -32033,8 +32033,8 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 16
@@ -32138,10 +32138,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 15
@@ -32243,10 +32243,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -32348,10 +32348,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 18,
@@ -32459,12 +32459,12 @@
         "mg",
         "sg"
       ],
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
         5,
-        6,
-        3,
-        1
+        4,
+        7,
+        9
       ],
       "gridEffect": {
         "pow": 10,
@@ -32568,14 +32568,14 @@
     },
     "effect": {
       "effectType": "all",
-      "effectCenter": 8,
+      "effectCenter": 2,
       "effectPos": [
-        9,
-        7,
-        6,
-        5,
+        1,
+        3,
         4,
-        2
+        5,
+        6,
+        8
       ],
       "gridEffect": {
         "pow": 15,
@@ -32676,10 +32676,10 @@
     },
     "effect": {
       "effectType": "ar",
-      "effectCenter": 2,
+      "effectCenter": 8,
       "effectPos": [
-        3,
-        6
+        7,
+        4
       ],
       "gridEffect": {
         "pow": 22
@@ -32785,8 +32785,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8,
-        2
+        2,
+        8
       ],
       "gridEffect": {
         "cooldown": 15
@@ -32892,11 +32892,11 @@
         "smg",
         "ar"
       ],
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
         5,
-        2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 20,
@@ -33001,11 +33001,11 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
         5,
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -33112,12 +33112,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        8,
-        2,
+        1,
         7,
-        1
+        2,
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 15,
@@ -33222,10 +33222,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -33332,11 +33332,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2
+        1,
+        4,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "rate": 15,
@@ -33441,11 +33441,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -33550,14 +33550,14 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        8,
-        7,
-        6,
-        4,
-        3,
+        1,
         2,
-        1
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -33665,11 +33665,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        8,
-        4,
-        3,
-        2
+        1,
+        2,
+        6,
+        7,
+        8
       ],
       "gridEffect": {
         "pow": 15,
@@ -33777,8 +33777,8 @@
       ],
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -33886,8 +33886,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 18
@@ -33992,10 +33992,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 15,
@@ -34101,11 +34101,11 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 4,
+      "effectCenter": 6,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -34213,10 +34213,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
+        4,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 12,
@@ -34381,10 +34381,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
+        4,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "rate": 12,
@@ -34548,9 +34548,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        6,
-        8,
-        2
+        4,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 18,
@@ -34714,10 +34714,10 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        1
+        8,
+        3,
+        9
       ],
       "gridEffect": {
         "pow": 8,
@@ -34883,9 +34883,9 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3,
-        4
+        1,
+        7,
+        6
       ],
       "gridEffect": {
         "hit": 40,
@@ -35053,8 +35053,8 @@
       ],
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "hit": 45,
@@ -35222,9 +35222,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "hit": 30,
@@ -35394,8 +35394,8 @@
       ],
       "effectCenter": 5,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 8,
@@ -35562,9 +35562,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        6
+        8,
+        4
       ],
       "gridEffect": {
         "pow": 18,
@@ -35731,8 +35731,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -35898,7 +35898,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        8
+        2
       ],
       "gridEffect": {
         "cooldown": 18
@@ -36063,7 +36063,7 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7
+        3
       ],
       "gridEffect": {
         "cooldown": 15
@@ -36228,8 +36228,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "cooldown": 15
@@ -36395,8 +36395,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "cooldown": 20
@@ -36561,11 +36561,11 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        7,
-        4,
-        1
+        8,
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 20,
@@ -36733,9 +36733,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "hit": 50,
@@ -36907,9 +36907,9 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4,
-        1
+        3,
+        6,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -37081,8 +37081,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "pow": 25,
@@ -37252,9 +37252,9 @@
       ],
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "dodge": 20,
@@ -37421,8 +37421,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        2,
-        4
+        8,
+        6
       ],
       "gridEffect": {
         "rate": 25,
@@ -37590,8 +37590,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        7,
-        4
+        3,
+        6
       ],
       "gridEffect": {
         "pow": 30,
@@ -37758,8 +37758,8 @@
       "effectType": "smg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        1
+        6,
+        9
       ],
       "gridEffect": {
         "pow": 45
@@ -37924,9 +37924,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 18,
@@ -38089,9 +38089,9 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        4
+        6
       ],
       "gridEffect": {
         "pow": 15,
@@ -38254,10 +38254,10 @@
     },
     "effect": {
       "effectType": "sg",
-      "effectCenter": 3,
+      "effectCenter": 7,
       "effectPos": [
-        7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 10,
@@ -38423,11 +38423,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
-        8,
-        2
+        1,
+        4,
+        7,
+        2,
+        8
       ],
       "gridEffect": {
         "pow": 18
@@ -38591,9 +38591,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "dodge": 20,
@@ -38760,7 +38760,7 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        6
+        4
       ],
       "gridEffect": {
         "rate": 24
@@ -38926,8 +38926,8 @@
       "effectType": "hg",
       "effectCenter": 5,
       "effectPos": [
-        4,
-        7
+        6,
+        3
       ],
       "gridEffect": {
         "cooldown": 15
@@ -39093,11 +39093,11 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3,
+        1,
+        4,
         7,
-        1
+        3,
+        9
       ],
       "gridEffect": {
         "rate": 16,
@@ -39262,9 +39262,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "rate": 15,
@@ -39431,9 +39431,9 @@
       "effectType": "ar",
       "effectCenter": 5,
       "effectPos": [
-        9,
-        6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 20,
@@ -39600,10 +39600,10 @@
     },
     "effect": {
       "effectType": "mg",
-      "effectCenter": 1,
+      "effectCenter": 9,
       "effectPos": [
-        9,
-        3
+        1,
+        7
       ],
       "gridEffect": {
         "pow": 18,
@@ -39769,12 +39769,12 @@
       "effectType": "all",
       "effectCenter": 5,
       "effectPos": [
-        8,
         2,
-        4,
-        9,
+        8,
         6,
-        3
+        1,
+        4,
+        7
       ],
       "gridEffect": {
         "pow": 15,
@@ -39940,11 +39940,11 @@
         "hg",
         "sg"
       ],
-      "effectCenter": 6,
+      "effectCenter": 4,
       "effectPos": [
-        8,
+        2,
         5,
-        4
+        6
       ],
       "gridEffect": {
         "cooldown": 15
