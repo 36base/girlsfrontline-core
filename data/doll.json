@@ -34289,58 +34289,6 @@
       "codename": "rateBuff",
       "cooldownType": "frame",
       "initialCooldown": 120,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 180,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 174,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 168,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 159,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 153,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 147,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 141,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 132,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 126,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 120,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -34457,58 +34405,6 @@
       "codename": "AimAttackSpecificTarge",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -34623,58 +34519,6 @@
       "codename": "powBuff",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -34790,58 +34634,6 @@
       "codename": "APS",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -34958,58 +34750,6 @@
       "codename": "c96",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35127,58 +34867,6 @@
       "codename": "Mp5mods",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35297,58 +34985,6 @@
       "codename": "StenMK2",
       "cooldownType": "frame",
       "initialCooldown": 180,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 600,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 588,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 573,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 561,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 546,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 534,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 519,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 507,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 492,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 480,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35468,58 +35104,6 @@
       "codename": "Napalm",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35637,58 +35221,6 @@
       "codename": "UZImod",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35804,58 +35336,6 @@
       "codename": "px4",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -35970,58 +35450,6 @@
       "codename": "MosinNagant",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36135,58 +35563,6 @@
       "codename": "rateBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36301,58 +35677,6 @@
       "codename": "powBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36468,58 +35792,6 @@
       "codename": "ntw20",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36638,58 +35910,6 @@
       "codename": "M4_Nightmare",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36808,58 +36028,6 @@
       "codename": "SplitGrenade",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -36982,58 +36150,6 @@
       "codename": "AR15_Shot",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37155,58 +36271,6 @@
       "codename": "AS VALmod",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37327,58 +36391,6 @@
       "codename": "Stg44mod",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37495,58 +36507,6 @@
       "codename": "RifleGrenade",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37664,58 +36624,6 @@
       "codename": "G36Buff",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37831,58 +36739,6 @@
       "codename": "416mods",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -37999,58 +36855,6 @@
       "codename": "M1918",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38164,58 +36968,6 @@
       "codename": "LWMMGShield",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38330,58 +37082,6 @@
       "codename": "comboBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 5,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 5,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38499,58 +37199,6 @@
       "codename": "rateBuff",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38666,58 +37314,6 @@
       "codename": "rateBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38832,58 +37428,6 @@
       "codename": "dodgeBuffSelf",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -38999,58 +37543,6 @@
       "codename": "88typemods",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -39170,58 +37662,6 @@
       "codename": "m950aicon",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -39337,58 +37777,6 @@
       "codename": "ump9mod",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -39506,58 +37894,6 @@
       "codename": "ShortCircuit",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -39676,58 +38012,6 @@
       "codename": "m500icon",
       "cooldownType": "frame",
       "initialCooldown": 1,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 30,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 30,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -39847,58 +38131,6 @@
       "codename": "Gsh18icon",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": -1,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": -1,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
@@ -40016,58 +38248,6 @@
       "codename": "ksvkicon",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0,
-          "consumption": 0
-        },
-        {
-          "level": 10,
-          "cooldown": 0,
-          "consumption": 0
-        }
-      ],
       "consumption": 0
     },
     "obtain": [
