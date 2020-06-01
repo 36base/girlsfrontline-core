@@ -33091,6 +33091,111 @@
     ]
   },
   {
+    "id": 308,
+    "rank": 3,
+    "type": "rf",
+    "buildTime": 15600,
+    "skins": [],
+    "stats": {
+      "hp": 105,
+      "pow": 122,
+      "hit": 120,
+      "dodge": 90,
+      "speed": 100,
+      "rate": 95,
+      "armorPiercing": 15,
+      "criticalPercent": 40
+    },
+    "effect": {
+      "effectType": "hg",
+      "effectCenter": 5,
+      "effectPos": [
+        3,
+        6
+      ],
+      "gridEffect": {
+        "cooldown": 12
+      }
+    },
+    "grow": 115,
+    "codename": "C14",
+    "skill1": {
+      "id": "100402",
+      "codename": "rateBuffSelf",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 300,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 294,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 288,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 279,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 273,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 267,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 261,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 252,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 246,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 240,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      2006
+    ],
+    "equip1": [
+      "apAmmo"
+    ],
+    "equip2": [
+      "optical",
+      "holo",
+      "reddot",
+      "suppressor"
+    ],
+    "equip3": [
+      "chip",
+      "cloak"
+    ]
+  },
+  {
     "id": 1001,
     "rank": 7,
     "type": "hg",
