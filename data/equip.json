@@ -6,12 +6,12 @@
     "category": "accessory",
     "type": "optical",
     "company": "BM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 300,
     "stats": {
-      "critical_percent": {
+      "criticalPercent": {
         "min": "5",
         "max": "8"
       }
@@ -30,12 +30,12 @@
     "category": "accessory",
     "type": "optical",
     "company": "BM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1200,
     "stats": {
-      "critical_percent": {
+      "criticalPercent": {
         "min": "9",
         "max": "12",
         "upgrade": 1000
@@ -55,12 +55,12 @@
     "category": "accessory",
     "type": "optical",
     "company": "BM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2100,
     "stats": {
-      "critical_percent": {
+      "criticalPercent": {
         "min": "13",
         "max": "16",
         "upgrade": 1000
@@ -80,12 +80,12 @@
     "category": "accessory",
     "type": "optical",
     "company": "BM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2700,
     "stats": {
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -105,7 +105,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "EOT",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 480,
@@ -137,7 +137,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "EOT",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1380,
@@ -171,7 +171,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "EOT",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2280,
@@ -205,7 +205,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "EOT",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2880,
@@ -239,7 +239,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "AMP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 600,
@@ -267,7 +267,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "AMP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1500,
@@ -296,7 +296,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "AMP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2400,
@@ -325,7 +325,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "AMP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3000,
@@ -354,11 +354,16 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 540,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "51",
+        "max": "55"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -373,11 +378,16 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1440,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "61",
+        "max": "70"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -392,11 +402,16 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2340,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "76",
+        "max": "85"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -411,11 +426,16 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2940,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "91",
+        "max": "100"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -430,11 +450,16 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 900,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "45",
+        "max": "55"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -449,11 +474,17 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1800,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "65",
+        "max": "75",
+        "upgrade": 500
+      }
+    },
     "powerup": {
       "mp": 0.08,
       "ammo": 0.5,
@@ -468,11 +499,17 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2700,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "90",
+        "max": "100",
+        "upgrade": 500
+      }
+    },
     "powerup": {
       "mp": 0.08,
       "ammo": 0.5,
@@ -487,11 +524,17 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3300,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
     "powerup": {
       "mp": 0.08,
       "ammo": 0.5,
@@ -506,7 +549,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 840,
@@ -525,7 +568,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1740,
@@ -544,7 +587,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2640,
@@ -563,7 +606,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3240,
@@ -582,7 +625,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1020,
@@ -601,7 +644,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1920,
@@ -620,7 +663,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2820,
@@ -639,7 +682,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3420,
@@ -658,7 +701,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "PMC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1080,
@@ -682,7 +725,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "PMC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1980,
@@ -707,7 +750,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "PMC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2880,
@@ -732,7 +775,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "PMC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3480,
@@ -757,7 +800,7 @@
     "category": "doll",
     "type": "chip",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 660,
@@ -776,7 +819,7 @@
     "category": "doll",
     "type": "chip",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1560,
@@ -795,7 +838,7 @@
     "category": "doll",
     "type": "chip",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2460,
@@ -814,7 +857,7 @@
     "category": "doll",
     "type": "chip",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3060,
@@ -833,7 +876,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 720,
@@ -861,7 +904,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1620,
@@ -890,7 +933,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2520,
@@ -919,7 +962,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3120,
@@ -948,7 +991,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1560,
@@ -956,6 +999,11 @@
       "dodge": {
         "min": "-1",
         "max": "-1"
+      },
+      "armor": {
+        "min": "3",
+        "max": "3",
+        "upgrade": 400
       }
     },
     "powerup": {
@@ -972,7 +1020,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2460,
@@ -980,6 +1028,11 @@
       "dodge": {
         "min": "-1",
         "max": "-1"
+      },
+      "armor": {
+        "min": "4",
+        "max": "5",
+        "upgrade": 400
       }
     },
     "powerup": {
@@ -996,7 +1049,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3060,
@@ -1004,6 +1057,11 @@
       "dodge": {
         "min": "-3",
         "max": "-2"
+      },
+      "armor": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 400
       }
     },
     "powerup": {
@@ -1020,7 +1078,7 @@
     "category": "doll",
     "type": "medal",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1200,
@@ -1039,7 +1097,7 @@
     "category": "doll",
     "type": "medal",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2100,
@@ -1058,7 +1116,7 @@
     "category": "doll",
     "type": "medal",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3000,
@@ -1077,7 +1135,7 @@
     "category": "doll",
     "type": "medal",
     "company": "",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3600,
@@ -1096,11 +1154,16 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3120,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "100",
+        "max": "100"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -1115,11 +1178,17 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3420,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "120",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
     "powerup": {
       "mp": 0.08,
       "ammo": 0.55,
@@ -1134,7 +1203,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 960,
@@ -1142,6 +1211,10 @@
       "pow": {
         "min": "-10",
         "max": "-5"
+      },
+      "armorPiercing": {
+        "min": "15",
+        "max": "25"
       }
     },
     "powerup": {
@@ -1158,7 +1231,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 1860,
@@ -1166,6 +1239,10 @@
       "pow": {
         "min": "-20",
         "max": "-10"
+      },
+      "armorPiercing": {
+        "min": "35",
+        "max": "50"
       }
     },
     "powerup": {
@@ -1182,7 +1259,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 2760,
@@ -1190,6 +1267,10 @@
       "pow": {
         "min": "-30",
         "max": "-15"
+      },
+      "armorPiercing": {
+        "min": "60",
+        "max": "75"
       }
     },
     "powerup": {
@@ -1206,7 +1287,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 3360,
@@ -1214,6 +1295,10 @@
       "pow": {
         "min": "-40",
         "max": "-25"
+      },
+      "armorPiercing": {
+        "min": "85",
+        "max": "100"
       }
     },
     "powerup": {
@@ -1230,7 +1315,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 720,
@@ -1254,7 +1339,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1620,
@@ -1279,7 +1364,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2520,
@@ -1304,7 +1389,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3120,
@@ -1329,7 +1414,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "NMS",
-    "fitguns": [
+    "fitGuns": [
       36
     ],
     "exclusiveRate": 3.0,
@@ -1340,6 +1425,11 @@
         "min": "1",
         "max": "8",
         "upgrade": 300
+      },
+      "armorPiercing": {
+        "min": "120",
+        "max": "130",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -1356,7 +1446,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       57,
       20057
     ],
@@ -1388,7 +1478,7 @@
     "category": "doll",
     "type": "chip",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       75,
       20075
     ],
@@ -1403,6 +1493,11 @@
       "rate": {
         "min": "-8",
         "max": "-1"
+      },
+      "bullet": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -1419,7 +1514,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       20026,
       26
     ],
@@ -1451,7 +1546,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "AC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 420,
@@ -1460,7 +1555,7 @@
         "min": "2",
         "max": "2"
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "4",
         "max": "5"
       }
@@ -1479,7 +1574,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "AC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1320,
@@ -1489,7 +1584,7 @@
         "max": "3",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "6",
         "max": "8",
         "upgrade": 300
@@ -1509,7 +1604,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "AC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2220,
@@ -1519,7 +1614,7 @@
         "max": "5",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "9",
         "max": "11",
         "upgrade": 300
@@ -1539,7 +1634,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "AC",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2820,
@@ -1549,7 +1644,7 @@
         "max": "8",
         "upgrade": 300
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -1569,7 +1664,7 @@
     "category": "doll",
     "type": "ammunitionBox",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2820,
@@ -1577,6 +1672,11 @@
       "dodge": {
         "min": "-1",
         "max": "-1"
+      },
+      "bullet": {
+        "min": "1",
+        "max": "1",
+        "upgrade": 2000
       }
     },
     "powerup": {
@@ -1593,7 +1693,7 @@
     "category": "doll",
     "type": "ammunitionBox",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3420,
@@ -1601,6 +1701,11 @@
       "dodge": {
         "min": "-3",
         "max": "-2"
+      },
+      "bullet": {
+        "min": "2",
+        "max": "3",
+        "upgrade": 700
       }
     },
     "powerup": {
@@ -1617,7 +1722,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "ILM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 780,
@@ -1625,6 +1730,10 @@
       "pow": {
         "min": "1",
         "max": "1"
+      },
+      "armorPiercing": {
+        "min": "-1",
+        "max": "-1"
       }
     },
     "powerup": {
@@ -1641,7 +1750,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "ILM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1680,
@@ -1650,6 +1759,10 @@
         "min": "2",
         "max": "3",
         "upgrade": 700
+      },
+      "armorPiercing": {
+        "min": "-3",
+        "max": "-2"
       }
     },
     "powerup": {
@@ -1666,7 +1779,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "ILM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2580,
@@ -1675,6 +1788,10 @@
         "min": "4",
         "max": "6",
         "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "-6",
+        "max": "-4"
       }
     },
     "powerup": {
@@ -1691,7 +1808,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "ILM",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3180,
@@ -1700,6 +1817,10 @@
         "min": "7",
         "max": "10",
         "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
       }
     },
     "powerup": {
@@ -1716,7 +1837,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 840,
@@ -1725,7 +1846,7 @@
         "min": "1",
         "max": "1"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "3",
         "max": "4"
       }
@@ -1744,7 +1865,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1740,
@@ -1754,7 +1875,7 @@
         "max": "3",
         "upgrade": 500
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "5",
         "max": "6",
         "upgrade": 500
@@ -1774,7 +1895,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2640,
@@ -1784,7 +1905,7 @@
         "max": "6",
         "upgrade": 500
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "7",
         "max": "9",
         "upgrade": 600
@@ -1804,7 +1925,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3240,
@@ -1814,7 +1935,7 @@
         "max": "10",
         "upgrade": 500
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "10",
         "max": "15",
         "upgrade": 500
@@ -1834,7 +1955,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 840,
@@ -1858,7 +1979,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1740,
@@ -1883,7 +2004,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2640,
@@ -1908,7 +2029,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3240,
@@ -1933,7 +2054,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3060,
@@ -1941,6 +2062,11 @@
       "dodge": {
         "min": "-2",
         "max": "-2"
+      },
+      "armor": {
+        "min": "8",
+        "max": "8",
+        "upgrade": 400
       }
     },
     "powerup": {
@@ -1957,7 +2083,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3240,
@@ -1967,7 +2093,7 @@
         "max": "10",
         "upgrade": 500
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "15",
         "max": "15",
         "upgrade": 500
@@ -1987,7 +2113,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "KST",
-    "fitguns": [
+    "fitGuns": [
       58,
       66
     ],
@@ -1995,12 +2121,12 @@
     "maxLevel": 10,
     "buildTime": 2700,
     "stats": {
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "40",
         "max": "40",
         "upgrade": 100
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "32",
         "max": "32",
         "upgrade": 500
@@ -2020,7 +2146,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "KST",
-    "fitguns": [
+    "fitGuns": [
       58,
       66
     ],
@@ -2028,12 +2154,12 @@
     "maxLevel": 10,
     "buildTime": 2700,
     "stats": {
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "25",
         "max": "25",
         "upgrade": 200
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "32",
         "max": "32",
         "upgrade": 500
@@ -2053,7 +2179,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "KST",
-    "fitguns": [
+    "fitGuns": [
       58,
       66
     ],
@@ -2061,12 +2187,12 @@
     "maxLevel": 10,
     "buildTime": 2700,
     "stats": {
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "10",
         "max": "10",
         "upgrade": 500
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "32",
         "max": "32",
         "upgrade": 500
@@ -2086,7 +2212,7 @@
     "category": "doll",
     "type": "chip",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       39,
       20039
     ],
@@ -2104,7 +2230,7 @@
         "max": "4",
         "upgrade": 300
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "15",
         "max": "20",
         "upgrade": 500
@@ -2124,7 +2250,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 0,
     "buildTime": 960,
@@ -2133,7 +2259,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "3",
         "max": "4"
       }
@@ -2152,7 +2278,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 1860,
@@ -2161,7 +2287,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "5",
         "max": "7",
         "upgrade": 900
@@ -2181,7 +2307,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 2760,
@@ -2190,7 +2316,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "8",
         "max": "10",
         "upgrade": 800
@@ -2210,7 +2336,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "IOP",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3360,
@@ -2219,7 +2345,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "11",
         "max": "15",
         "upgrade": 700
@@ -2239,7 +2365,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "SF",
-    "fitguns": [
+    "fitGuns": [
       54
     ],
     "exclusiveRate": 3.0,
@@ -2258,6 +2384,11 @@
       "rate": {
         "min": "-10",
         "max": "-10"
+      },
+      "armor": {
+        "min": "15",
+        "max": "15",
+        "upgrade": 350
       }
     },
     "powerup": {
@@ -2274,7 +2405,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "IOP",
-    "fitguns": [
+    "fitGuns": [
       101,
       102,
       103,
@@ -2290,7 +2421,7 @@
         "max": "25",
         "upgrade": 400
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "11",
         "max": "15",
         "upgrade": 700
@@ -2310,7 +2441,7 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "IDB",
-    "fitguns": [
+    "fitGuns": [
       118
     ],
     "exclusiveRate": 3.0,
@@ -2321,6 +2452,10 @@
         "min": "5",
         "max": "5",
         "upgrade": 600
+      },
+      "nightview": {
+        "min": "100",
+        "max": "100"
       }
     },
     "powerup": {
@@ -2337,7 +2472,7 @@
     "category": "doll",
     "type": "chip",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       185
     ],
     "exclusiveRate": 3.0,
@@ -2352,6 +2487,11 @@
       "hit": {
         "min": "-5",
         "max": "-3"
+      },
+      "bullet": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -2368,7 +2508,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3180,
@@ -2377,6 +2517,10 @@
         "min": "10",
         "max": "10",
         "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "-7",
+        "max": "-7"
       }
     },
     "powerup": {
@@ -2393,7 +2537,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3360,
@@ -2402,7 +2546,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "15",
         "max": "15",
         "upgrade": 700
@@ -2422,7 +2566,7 @@
     "category": "doll",
     "type": "armorPlate",
     "company": "",
-    "fitguns": [
+    "fitGuns": [
       9001,
       9002,
       9003,
@@ -2438,7 +2582,13 @@
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
-    "stats": {},
+    "stats": {
+      "armor": {
+        "min": "500",
+        "max": "500",
+        "upgrade": 400
+      }
+    },
     "powerup": {
       "mp": 100.0,
       "ammo": 100.0,
@@ -2453,7 +2603,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "",
-    "fitguns": [
+    "fitGuns": [
       9001,
       9002,
       9003,
@@ -2469,7 +2619,13 @@
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
-    "stats": {},
+    "stats": {
+      "armorPiercing": {
+        "min": "500",
+        "max": "500",
+        "upgrade": 500
+      }
+    },
     "powerup": {
       "mp": 100.0,
       "ammo": 100.0,
@@ -2484,7 +2640,7 @@
     "category": "doll",
     "type": "medal",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       20055,
       55
     ],
@@ -2496,6 +2652,11 @@
         "min": "2",
         "max": "3",
         "upgrade": 700
+      },
+      "armor": {
+        "min": "9",
+        "max": "12",
+        "upgrade": 250
       }
     },
     "powerup": {
@@ -2512,7 +2673,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       20057,
       57
     ],
@@ -2525,7 +2686,7 @@
         "max": "6",
         "upgrade": 700
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "11",
         "max": "15",
         "upgrade": 350
@@ -2545,7 +2706,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "AAI",
-    "fitguns": [
+    "fitGuns": [
       20002,
       2
     ],
@@ -2557,6 +2718,10 @@
         "min": "8",
         "max": "11",
         "upgrade": 550
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
       }
     },
     "powerup": {
@@ -2573,7 +2738,7 @@
     "category": "doll",
     "type": "chip",
     "company": "NTD",
-    "fitguns": [
+    "fitGuns": [
       20093,
       93
     ],
@@ -2610,7 +2775,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "NRC",
-    "fitguns": [
+    "fitGuns": [
       20094,
       94
     ],
@@ -2623,7 +2788,7 @@
         "max": "11",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -2643,7 +2808,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "FNH",
-    "fitguns": [
+    "fitGuns": [
       20051,
       51
     ],
@@ -2656,7 +2821,7 @@
         "max": "3",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -2676,19 +2841,19 @@
     "category": "accessory",
     "type": "optical",
     "company": "S&B",
-    "fitguns": [
+    "fitGuns": [
       46
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "10",
         "max": "10",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "24",
         "max": "24",
         "upgrade": 1000
@@ -2708,7 +2873,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       20065,
       65
     ],
@@ -2726,7 +2891,7 @@
         "max": "10",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 700
@@ -2746,7 +2911,7 @@
     "category": "doll",
     "type": "ammunitionBox",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       88
     ],
     "exclusiveRate": 3.0,
@@ -2764,6 +2929,11 @@
       "dodge": {
         "min": "-2",
         "max": "-2"
+      },
+      "bullet": {
+        "min": "20",
+        "max": "20",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -2780,7 +2950,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "16Lab",
-    "fitguns": [
+    "fitGuns": [
       42
     ],
     "exclusiveRate": 3.0,
@@ -2796,7 +2966,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "11",
         "max": "15",
         "upgrade": 700
@@ -2816,12 +2986,12 @@
     "category": "accessory",
     "type": "optical",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
-      "critical_percent": {
+      "criticalPercent": {
         "min": "24",
         "max": "24",
         "upgrade": 1000
@@ -2841,7 +3011,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
@@ -2866,7 +3036,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "KSH",
-    "fitguns": [
+    "fitGuns": [
       20039,
       39
     ],
@@ -2879,7 +3049,7 @@
         "max": "3",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "18",
         "max": "25",
         "upgrade": 1000
@@ -2899,7 +3069,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "CT",
-    "fitguns": [
+    "fitGuns": [
       20075,
       75
     ],
@@ -2916,7 +3086,7 @@
         "min": "-4",
         "max": "-1"
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "3",
         "max": "5",
         "upgrade": 1000
@@ -2936,7 +3106,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "NS",
-    "fitguns": [
+    "fitGuns": [
       20005,
       5
     ],
@@ -2954,7 +3124,7 @@
         "max": "10",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -2974,7 +3144,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "IMP",
-    "fitguns": [
+    "fitGuns": [
       20091,
       91
     ],
@@ -2992,7 +3162,7 @@
         "max": "8",
         "upgrade": 300
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -3012,7 +3182,7 @@
     "category": "doll",
     "type": "cloak",
     "company": "FSB",
-    "fitguns": [
+    "fitGuns": [
       20044,
       44
     ],
@@ -3029,7 +3199,7 @@
         "min": "-3",
         "max": "-3"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "11",
         "max": "15",
         "upgrade": 700
@@ -3049,13 +3219,18 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "DJMAX",
-    "fitguns": [
+    "fitGuns": [
       1009
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 0,
     "buildTime": 3600,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "100",
+        "max": "100"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -3070,13 +3245,18 @@
     "category": "accessory",
     "type": "nightvision",
     "company": "DJMAX",
-    "fitguns": [
+    "fitGuns": [
       1010
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 0,
     "buildTime": 3600,
-    "stats": {},
+    "stats": {
+      "nightview": {
+        "min": "100",
+        "max": "100"
+      }
+    },
     "powerup": {
       "mp": 0.0,
       "ammo": 0.0,
@@ -3091,7 +3271,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "SED",
-    "fitguns": [
+    "fitGuns": [
       69
     ],
     "exclusiveRate": 3.0,
@@ -3108,7 +3288,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -3128,7 +3308,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
@@ -3157,7 +3337,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "16Lab",
-    "fitguns": null,
+    "fitGuns": null,
     "exclusiveRate": 1.0,
     "maxLevel": 10,
     "buildTime": 3600,
@@ -3186,7 +3366,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "CT",
-    "fitguns": [
+    "fitGuns": [
       20001,
       1
     ],
@@ -3204,7 +3384,7 @@
         "max": "8",
         "upgrade": 300
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -3224,7 +3404,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "LA",
-    "fitguns": [
+    "fitGuns": [
       20089,
       89
     ],
@@ -3261,7 +3441,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "PTR",
-    "fitguns": [
+    "fitGuns": [
       20063,
       63
     ],
@@ -3274,7 +3454,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -3294,7 +3474,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "???",
-    "fitguns": [
+    "fitGuns": [
       20103,
       103
     ],
@@ -3307,7 +3487,7 @@
         "max": "10",
         "upgrade": 500
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "15",
         "max": "18",
         "upgrade": 400
@@ -3327,7 +3507,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "???",
-    "fitguns": [
+    "fitGuns": [
       20056,
       56
     ],
@@ -3364,7 +3544,7 @@
     "category": "doll",
     "type": "medal",
     "company": "MS",
-    "fitguns": [
+    "fitGuns": [
       62
     ],
     "exclusiveRate": 3.0,
@@ -3401,7 +3581,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "RSAF",
-    "fitguns": [
+    "fitGuns": [
       20029,
       29
     ],
@@ -3414,7 +3594,7 @@
         "max": "11",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -3434,7 +3614,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "SFA",
-    "fitguns": [
+    "fitGuns": [
       20037,
       37
     ],
@@ -3447,7 +3627,7 @@
         "max": "5",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -3467,7 +3647,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "ZF",
-    "fitguns": [
+    "fitGuns": [
       20064,
       64
     ],
@@ -3480,7 +3660,7 @@
         "max": "4",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -3500,7 +3680,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "TJC",
-    "fitguns": [
+    "fitGuns": [
       20081,
       81
     ],
@@ -3537,7 +3717,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "TJC",
-    "fitguns": [
+    "fitGuns": [
       125
     ],
     "exclusiveRate": 3.0,
@@ -3553,7 +3733,7 @@
         "min": "-1",
         "max": "-1"
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "15",
         "max": "15",
         "upgrade": 700
@@ -3573,7 +3753,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "USR",
-    "fitguns": [
+    "fitGuns": [
       20007,
       7
     ],
@@ -3591,7 +3771,7 @@
         "max": "8",
         "upgrade": 300
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -3611,7 +3791,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "MPL",
-    "fitguns": [
+    "fitGuns": [
       20032,
       32
     ],
@@ -3643,7 +3823,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "TTM",
-    "fitguns": [
+    "fitGuns": [
       20060,
       60
     ],
@@ -3671,7 +3851,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "PAW",
-    "fitguns": [
+    "fitGuns": [
       20061,
       61
     ],
@@ -3699,7 +3879,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3725,7 +3905,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3751,7 +3931,7 @@
     "category": "ammo",
     "type": "spClip",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3777,7 +3957,7 @@
     "category": "ammo",
     "type": "spClip",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3803,7 +3983,7 @@
     "category": "doll",
     "type": "medal",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3829,7 +4009,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3855,7 +4035,7 @@
     "category": "ammo",
     "type": "spClip",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3881,7 +4061,7 @@
     "category": "doll",
     "type": "medal",
     "company": "BTC",
-    "fitguns": [
+    "fitGuns": [
       1017
     ],
     "exclusiveRate": 3.0,
@@ -3907,7 +4087,7 @@
     "category": "doll",
     "type": "medal",
     "company": "Zaibatsu Corp.",
-    "fitguns": [
+    "fitGuns": [
       1022
     ],
     "exclusiveRate": 3.0,
@@ -3922,6 +4102,11 @@
       "dodge": {
         "min": "-3",
         "max": "-2"
+      },
+      "armor": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 400
       }
     },
     "powerup": {
@@ -3938,7 +4123,7 @@
     "category": "ammo",
     "type": "hpAmmo",
     "company": "Zaibatsu Corp.",
-    "fitguns": [
+    "fitGuns": [
       1019
     ],
     "exclusiveRate": 3.0,
@@ -3949,6 +4134,10 @@
         "min": "12",
         "max": "15",
         "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
       }
     },
     "powerup": {
@@ -3965,7 +4154,7 @@
     "category": "doll",
     "type": "exoSkeleton",
     "company": "Zaibatsu Corp.",
-    "fitguns": [
+    "fitGuns": [
       1018
     ],
     "exclusiveRate": 3.0,
@@ -3992,7 +4181,7 @@
     "category": "doll",
     "type": "medal",
     "company": "Zaibatsu Corp.",
-    "fitguns": [
+    "fitGuns": [
       1020
     ],
     "exclusiveRate": 3.0,
@@ -4008,7 +4197,7 @@
         "max": "2",
         "upgrade": 500
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "15",
         "max": "20",
         "upgrade": 500
@@ -4028,7 +4217,7 @@
     "category": "doll",
     "type": "medal",
     "company": "Zaibatsu Corp.",
-    "fitguns": [
+    "fitGuns": [
       1021
     ],
     "exclusiveRate": 3.0,
@@ -4043,6 +4232,11 @@
       "dodge": {
         "min": "-3",
         "max": "-2"
+      },
+      "bullet": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -4059,7 +4253,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "ZF",
-    "fitguns": [
+    "fitGuns": [
       110
     ],
     "exclusiveRate": 3.0,
@@ -4075,7 +4269,7 @@
         "min": "-4",
         "max": "-1"
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "13",
         "max": "16",
         "upgrade": 500
@@ -4095,7 +4289,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "FD",
-    "fitguns": [
+    "fitGuns": [
       158
     ],
     "exclusiveRate": 3.0,
@@ -4112,7 +4306,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "14",
         "max": "18",
         "upgrade": 500
@@ -4132,7 +4326,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "SIG",
-    "fitguns": [
+    "fitGuns": [
       74
     ],
     "exclusiveRate": 3.0,
@@ -4149,7 +4343,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "18",
         "max": "25",
         "upgrade": 1000
@@ -4169,7 +4363,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "BRT",
-    "fitguns": [
+    "fitGuns": [
       52
     ],
     "exclusiveRate": 3.0,
@@ -4186,7 +4380,7 @@
         "max": "4",
         "upgrade": 500
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "18",
         "max": "25",
         "upgrade": 1000
@@ -4206,7 +4400,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "OSS",
-    "fitguns": [
+    "fitGuns": [
       17
     ],
     "exclusiveRate": 3.0,
@@ -4223,7 +4417,7 @@
         "max": "14",
         "upgrade": 500
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "15",
         "max": "20",
         "upgrade": 400
@@ -4243,7 +4437,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "WTR",
-    "fitguns": [
+    "fitGuns": [
       10
     ],
     "exclusiveRate": 3.0,
@@ -4255,7 +4449,7 @@
         "max": "13",
         "upgrade": 400
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "15",
         "max": "20",
         "upgrade": 500
@@ -4275,7 +4469,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "AMP",
-    "fitguns": [
+    "fitGuns": [
       20101,
       101
     ],
@@ -4312,7 +4506,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "SF",
-    "fitguns": [
+    "fitGuns": [
       20026,
       26
     ],
@@ -4349,7 +4543,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "KXY",
-    "fitguns": [
+    "fitGuns": [
       20095,
       95
     ],
@@ -4362,7 +4556,7 @@
         "max": "3",
         "upgrade": 800
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "18",
         "max": "25",
         "upgrade": 1000
@@ -4382,7 +4576,7 @@
     "category": "doll",
     "type": "medal",
     "company": "HK",
-    "fitguns": [
+    "fitGuns": [
       20065,
       65
     ],
@@ -4395,7 +4589,7 @@
         "max": "12",
         "upgrade": 700
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "6",
         "max": "8",
         "upgrade": 250
@@ -4415,7 +4609,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "VKS",
-    "fitguns": [
+    "fitGuns": [
       50
     ],
     "exclusiveRate": 3.0,
@@ -4427,7 +4621,7 @@
         "max": "2",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "24",
         "max": "24",
         "upgrade": 1000
@@ -4447,7 +4641,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "208",
-    "fitguns": [
+    "fitGuns": [
       129,
       130
     ],
@@ -4460,7 +4654,7 @@
         "max": "3",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -4480,7 +4674,7 @@
     "category": "doll",
     "type": "medal",
     "company": "GDR",
-    "fitguns": [
+    "fitGuns": [
       84
     ],
     "exclusiveRate": 3.0,
@@ -4495,6 +4689,11 @@
       "dodge": {
         "min": "-3",
         "max": "-2"
+      },
+      "bullet": {
+        "min": "2",
+        "max": "3",
+        "upgrade": 700
       }
     },
     "powerup": {
@@ -4511,7 +4710,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "LGE",
-    "fitguns": [
+    "fitGuns": [
       18
     ],
     "exclusiveRate": 3.0,
@@ -4527,7 +4726,7 @@
         "min": "-6",
         "max": "-4"
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "15",
         "max": "20",
         "upgrade": 750
@@ -4547,7 +4746,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "RT",
-    "fitguns": [
+    "fitGuns": [
       3
     ],
     "exclusiveRate": 3.0,
@@ -4563,7 +4762,7 @@
         "max": "12",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -4583,7 +4782,7 @@
     "category": "doll",
     "type": "medal",
     "company": "IRI",
-    "fitguns": [
+    "fitGuns": [
       72
     ],
     "exclusiveRate": 3.0,
@@ -4620,7 +4819,7 @@
     "category": "accessory",
     "type": "holo",
     "company": "DO",
-    "fitguns": [
+    "fitGuns": [
       31,
       20031
     ],
@@ -4657,7 +4856,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "MS",
-    "fitguns": [
+    "fitGuns": [
       12,
       20012
     ],
@@ -4670,7 +4869,7 @@
         "max": "10",
         "upgrade": 1000
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 700
@@ -4690,7 +4889,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "IJ",
-    "fitguns": [
+    "fitGuns": [
       228
     ],
     "exclusiveRate": 3.0,
@@ -4702,7 +4901,7 @@
         "max": "15",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -4722,19 +4921,19 @@
     "category": "accessory",
     "type": "spPart",
     "company": "KTC",
-    "fitguns": [
+    "fitGuns": [
       172
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "6",
         "max": "10",
         "upgrade": 800
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -4754,7 +4953,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "DD",
-    "fitguns": [
+    "fitGuns": [
       53,
       20053
     ],
@@ -4766,6 +4965,11 @@
         "min": "3",
         "max": "5",
         "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -4782,7 +4986,7 @@
     "category": "doll",
     "type": "medal",
     "company": "WTF",
-    "fitguns": [
+    "fitGuns": [
       7,
       20007
     ],
@@ -4795,7 +4999,7 @@
         "max": "12",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
@@ -4815,7 +5019,7 @@
     "category": "accessory",
     "type": "optical",
     "company": "Redfield",
-    "fitguns": [
+    "fitGuns": [
       38
     ],
     "exclusiveRate": 3.0,
@@ -4827,7 +5031,7 @@
         "max": "5",
         "upgrade": 800
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -4847,7 +5051,7 @@
     "category": "ammo",
     "type": "hvAmmo",
     "company": "TCP",
-    "fitguns": [
+    "fitGuns": [
       105
     ],
     "exclusiveRate": 3.0,
@@ -4859,7 +5063,7 @@
         "max": "12",
         "upgrade": 700
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "6",
         "max": "10",
         "upgrade": 500
@@ -4879,7 +5083,7 @@
     "category": "ammo",
     "type": "shotgunShell",
     "company": "CS",
-    "fitguns": [
+    "fitGuns": [
       163
     ],
     "exclusiveRate": 3.0,
@@ -4911,7 +5115,7 @@
     "category": "accessory",
     "type": "suppressor",
     "company": "MDR",
-    "fitguns": [
+    "fitGuns": [
       215
     ],
     "exclusiveRate": 3.0,
@@ -4928,7 +5132,7 @@
         "max": "8",
         "upgrade": 300
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "17",
         "max": "24",
         "upgrade": 1000
@@ -4948,7 +5152,7 @@
     "category": "ammo",
     "type": "spClip",
     "company": "IOP",
-    "fitguns": [
+    "fitGuns": [
       221,
       20221
     ],
@@ -4965,6 +5169,11 @@
         "min": "1",
         "max": "2",
         "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "16",
+        "max": "20",
+        "upgrade": 750
       }
     },
     "powerup": {
@@ -4981,7 +5190,7 @@
     "category": "accessory",
     "type": "reddot",
     "company": "MGP",
-    "fitguns": [
+    "fitGuns": [
       154,
       20154
     ],
@@ -4998,7 +5207,7 @@
         "min": "-4",
         "max": "-1"
       },
-      "critical_harm_rate": {
+      "criticalHarmRate": {
         "min": "12",
         "max": "15",
         "upgrade": 650
@@ -5018,7 +5227,7 @@
     "category": "ammo",
     "type": "apAmmo",
     "company": "IOP",
-    "fitguns": [
+    "fitGuns": [
       252,
       20252
     ],
@@ -5030,6 +5239,11 @@
         "min": "3",
         "max": "5",
         "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -5046,7 +5260,7 @@
     "category": "accessory",
     "type": "spPart",
     "company": "IOP",
-    "fitguns": [
+    "fitGuns": [
       97,
       20097
     ],
@@ -5059,7 +5273,7 @@
         "max": "12",
         "upgrade": 700
       },
-      "critical_percent": {
+      "criticalPercent": {
         "min": "12",
         "max": "15",
         "upgrade": 350
