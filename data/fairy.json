@@ -1265,7 +1265,7 @@
       "criticalHarmRate": "201"
     },
     "skill": {
-      "id": "1000002",
+      "id": "*13",
       "codename": "command",
       "cooldownType": "frame",
       "initialCooldown": 30,
@@ -1354,7 +1354,7 @@
       "dodge": "200"
     },
     "skill": {
-      "id": "1000001",
+      "id": "*14",
       "codename": "rescue",
       "cooldownType": "frame",
       "initialCooldown": 30,
