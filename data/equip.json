@@ -4795,5 +4795,72 @@
       "mre": 0.23,
       "part": 0.23
     }
+  },
+  {
+    "id": 180,
+    "codename": "配件_枪托_马卡洛夫",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "FAB",
+    "fitGuns": [
+      8
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "8",
+        "max": "11",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 181,
+    "codename": "弹闸_子弹_蝎式",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hpAmmo",
+    "company": "G2R",
+    "fitGuns": [
+      27
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3180,
+    "stats": {
+      "pow": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "rate": {
+        "min": "-4",
+        "max": "-4"
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
   }
 ]
