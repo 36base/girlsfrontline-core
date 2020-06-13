@@ -122,7 +122,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 2,
@@ -245,7 +246,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 3,
@@ -353,7 +355,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 4,
@@ -461,7 +464,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 5,
@@ -583,7 +587,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 6,
@@ -693,7 +698,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 7,
@@ -817,7 +823,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 8,
@@ -919,7 +926,8 @@
     ],
     "equip1": [
       "nightvision",
-      "suppressor"
+      "suppressor",
+      "spPart"
     ],
     "equip2": [
       "hpAmmo"
@@ -927,7 +935,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 9,
@@ -1036,7 +1045,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 10,
@@ -1145,7 +1155,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 11,
@@ -1251,7 +1262,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 12,
@@ -1372,7 +1384,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 13,
@@ -1483,7 +1496,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 14,
@@ -1590,7 +1604,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 15,
@@ -1698,7 +1713,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 16,
@@ -1808,7 +1824,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 17,
@@ -1915,7 +1932,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 18,
@@ -2025,7 +2043,8 @@
       "nightvision",
       "suppressor",
       "spPart"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 19,
@@ -2133,7 +2152,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20,
@@ -2243,7 +2263,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 21,
@@ -2353,7 +2374,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 22,
@@ -2462,7 +2484,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 23,
@@ -2570,7 +2593,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 24,
@@ -2678,7 +2702,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 25,
@@ -2788,7 +2813,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 26,
@@ -2916,7 +2942,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 27,
@@ -3026,7 +3053,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 28,
@@ -3137,7 +3165,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 29,
@@ -3263,7 +3292,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 31,
@@ -3385,7 +3415,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 32,
@@ -3509,7 +3540,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 33,
@@ -3619,7 +3651,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 34,
@@ -3727,7 +3760,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 35,
@@ -3835,7 +3869,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 36,
@@ -3946,7 +3981,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 37,
@@ -4070,7 +4106,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 38,
@@ -4178,7 +4215,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 39,
@@ -4300,7 +4338,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 40,
@@ -4405,7 +4444,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 41,
@@ -4511,7 +4551,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 42,
@@ -4619,7 +4660,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 43,
@@ -4727,7 +4769,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 44,
@@ -4850,7 +4893,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 46,
@@ -4958,7 +5002,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 47,
@@ -5064,7 +5109,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 48,
@@ -5175,7 +5221,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 49,
@@ -5280,7 +5327,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 50,
@@ -5390,7 +5438,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 51,
@@ -5511,7 +5560,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 52,
@@ -5617,7 +5667,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 53,
@@ -5741,7 +5792,8 @@
         "core": 75,
         "mempiece": 2400
       }
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 54,
@@ -5852,7 +5904,8 @@
       "chip",
       "exoSkeleton",
       "armorPlate"
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 55,
@@ -5980,7 +6033,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 56,
@@ -6110,7 +6164,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 57,
@@ -6241,7 +6296,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 58,
@@ -6350,7 +6406,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 59,
@@ -6460,7 +6517,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 60,
@@ -6584,7 +6642,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 61,
@@ -6706,7 +6765,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 62,
@@ -6818,7 +6878,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 63,
@@ -6942,7 +7003,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 64,
@@ -7071,7 +7133,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 65,
@@ -7197,7 +7260,8 @@
         "core": 75,
         "mempiece": 2400
       }
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 66,
@@ -7308,7 +7372,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 68,
@@ -7415,7 +7480,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 69,
@@ -7423,7 +7489,8 @@
     "type": "ar",
     "buildTime": 12600,
     "skins": [
-      2604
+      2604,
+      4604
     ],
     "stats": {
       "hp": 110,
@@ -7525,7 +7592,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 70,
@@ -7636,7 +7704,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 71,
@@ -7743,7 +7812,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 72,
@@ -7854,7 +7924,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 73,
@@ -7964,7 +8035,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 74,
@@ -8073,7 +8145,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 75,
@@ -8197,7 +8270,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 77,
@@ -8304,7 +8378,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 78,
@@ -8411,7 +8486,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 79,
@@ -8520,7 +8596,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 80,
@@ -8629,7 +8706,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 81,
@@ -8751,7 +8829,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 82,
@@ -8856,7 +8935,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 84,
@@ -8961,7 +9041,8 @@
       "chip",
       "ammunitionBox",
       "medal"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 85,
@@ -9069,7 +9150,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 86,
@@ -9174,7 +9256,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 87,
@@ -9280,7 +9363,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 88,
@@ -9391,7 +9475,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 89,
@@ -9515,7 +9600,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 90,
@@ -9623,7 +9709,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 91,
@@ -9748,7 +9835,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 92,
@@ -9854,7 +9942,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 93,
@@ -9979,7 +10068,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 94,
@@ -10102,7 +10192,8 @@
         "core": 30,
         "mempiece": 1200
       }
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 95,
@@ -10224,7 +10315,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 96,
@@ -10336,7 +10428,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 97,
@@ -10462,7 +10555,8 @@
         "core": 75,
         "mempiece": 2400
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 98,
@@ -10571,7 +10665,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 99,
@@ -10682,7 +10777,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 100,
@@ -10794,7 +10890,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 101,
@@ -10924,7 +11021,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 102,
@@ -11034,7 +11132,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 103,
@@ -11165,7 +11264,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 104,
@@ -11278,7 +11378,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 105,
@@ -11389,7 +11490,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 106,
@@ -11501,7 +11603,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 107,
@@ -11608,7 +11711,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 108,
@@ -11716,7 +11820,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 109,
@@ -11827,7 +11932,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 110,
@@ -11932,7 +12038,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 111,
@@ -12036,7 +12143,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 112,
@@ -12145,7 +12253,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 113,
@@ -12252,7 +12361,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 114,
@@ -12363,7 +12473,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 115,
@@ -12475,7 +12586,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 116,
@@ -12585,7 +12697,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 117,
@@ -12693,7 +12806,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 118,
@@ -12805,7 +12919,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 119,
@@ -12917,7 +13032,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 120,
@@ -13024,7 +13140,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 121,
@@ -13129,7 +13246,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 122,
@@ -13242,7 +13360,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 123,
@@ -13347,7 +13466,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 124,
@@ -13453,7 +13573,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 125,
@@ -13561,7 +13682,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 126,
@@ -13672,7 +13794,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 127,
@@ -13782,7 +13905,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 128,
@@ -13891,7 +14015,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 129,
@@ -14002,7 +14127,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 130,
@@ -14112,7 +14238,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 131,
@@ -14120,7 +14247,8 @@
     "type": "smg",
     "buildTime": 6600,
     "skins": [
-      2109
+      2109,
+      4607
     ],
     "stats": {
       "hp": 110,
@@ -14219,7 +14347,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 132,
@@ -14328,7 +14457,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 133,
@@ -14437,7 +14567,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 134,
@@ -14543,7 +14674,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 135,
@@ -14657,7 +14789,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 136,
@@ -14764,7 +14897,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 137,
@@ -14874,7 +15008,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 138,
@@ -14982,7 +15117,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 139,
@@ -15089,7 +15225,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 140,
@@ -15196,7 +15333,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 141,
@@ -15301,7 +15439,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 142,
@@ -15412,7 +15551,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 143,
@@ -15525,7 +15665,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 144,
@@ -15632,7 +15773,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 145,
@@ -15741,7 +15883,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 146,
@@ -15851,7 +15994,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 147,
@@ -15955,7 +16099,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 148,
@@ -16064,7 +16209,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 149,
@@ -16172,7 +16318,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 150,
@@ -16280,7 +16427,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 151,
@@ -16388,7 +16536,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 152,
@@ -16496,7 +16645,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 153,
@@ -16604,7 +16754,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 154,
@@ -16726,7 +16877,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 155,
@@ -16835,7 +16987,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 156,
@@ -16943,7 +17096,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 157,
@@ -17049,7 +17203,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 158,
@@ -17155,7 +17310,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 159,
@@ -17264,7 +17420,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 160,
@@ -17374,7 +17531,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 161,
@@ -17483,7 +17641,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 162,
@@ -17593,7 +17752,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 163,
@@ -17702,7 +17862,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 164,
@@ -17812,7 +17973,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 165,
@@ -17921,7 +18083,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 166,
@@ -18030,7 +18193,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 167,
@@ -18137,7 +18301,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 168,
@@ -18245,7 +18410,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 169,
@@ -18352,7 +18518,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 170,
@@ -18458,7 +18625,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 171,
@@ -18565,7 +18733,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 172,
@@ -18678,7 +18847,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 173,
@@ -18790,7 +18960,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 174,
@@ -18896,7 +19067,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 175,
@@ -19006,7 +19178,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 176,
@@ -19015,7 +19188,8 @@
     "buildTime": 7800,
     "skins": [
       2807,
-      3708
+      3708,
+      4606
     ],
     "stats": {
       "hp": 85,
@@ -19116,7 +19290,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 177,
@@ -19224,7 +19399,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 178,
@@ -19334,7 +19510,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 179,
@@ -19442,7 +19619,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 180,
@@ -19550,7 +19728,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 181,
@@ -19660,7 +19839,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 182,
@@ -19764,7 +19944,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 183,
@@ -19879,7 +20060,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 184,
@@ -19887,7 +20069,8 @@
     "type": "rf",
     "buildTime": 15000,
     "skins": [
-      3106
+      3106,
+      4605
     ],
     "stats": {
       "hp": 102,
@@ -19987,7 +20170,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 185,
@@ -20097,7 +20281,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 186,
@@ -20203,7 +20388,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 187,
@@ -20311,7 +20497,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 188,
@@ -20423,7 +20610,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 189,
@@ -20531,7 +20719,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 190,
@@ -20639,7 +20828,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 191,
@@ -20748,7 +20938,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 192,
@@ -20856,7 +21047,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 193,
@@ -20964,7 +21156,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 194,
@@ -21075,7 +21268,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 195,
@@ -21181,7 +21375,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 196,
@@ -21293,7 +21488,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 197,
@@ -21402,7 +21598,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 198,
@@ -21511,7 +21708,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 199,
@@ -21619,7 +21817,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 200,
@@ -21725,7 +21924,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 201,
@@ -21834,7 +22034,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 202,
@@ -21941,7 +22142,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 203,
@@ -22050,7 +22252,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 204,
@@ -22155,7 +22358,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 205,
@@ -22267,7 +22471,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 206,
@@ -22275,6 +22480,7 @@
     "type": "ar",
     "buildTime": 15120,
     "skins": [
+      540,
       2402,
       3302
     ],
@@ -22379,7 +22585,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 207,
@@ -22485,7 +22692,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 208,
@@ -22593,7 +22801,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 209,
@@ -22699,7 +22908,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 210,
@@ -22807,7 +23017,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 211,
@@ -22912,7 +23123,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 212,
@@ -23023,7 +23235,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 213,
@@ -23136,7 +23349,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 214,
@@ -23247,7 +23461,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 215,
@@ -23358,7 +23573,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 216,
@@ -23465,7 +23681,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 217,
@@ -23570,7 +23787,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 218,
@@ -23677,7 +23895,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 220,
@@ -23784,7 +24003,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 221,
@@ -23908,7 +24128,8 @@
         "core": 45,
         "mempiece": 1600
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 222,
@@ -24015,7 +24236,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 223,
@@ -24124,7 +24346,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 224,
@@ -24233,7 +24456,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 225,
@@ -24340,7 +24564,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 226,
@@ -24445,7 +24670,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 227,
@@ -24555,7 +24781,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 228,
@@ -24667,7 +24894,8 @@
       "nightvision",
       "suppressor",
       "spPart"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 229,
@@ -24776,7 +25004,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 230,
@@ -24881,7 +25110,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 231,
@@ -24986,7 +25216,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 232,
@@ -25093,7 +25324,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 233,
@@ -25201,7 +25433,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 234,
@@ -25311,7 +25544,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 235,
@@ -25417,7 +25651,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 236,
@@ -25528,7 +25763,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 237,
@@ -25637,7 +25873,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 238,
@@ -25747,7 +25984,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 239,
@@ -25853,7 +26091,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 240,
@@ -25959,7 +26198,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 241,
@@ -26064,7 +26304,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 242,
@@ -26173,7 +26414,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 243,
@@ -26283,7 +26525,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 244,
@@ -26389,7 +26632,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 245,
@@ -26500,7 +26744,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 247,
@@ -26606,7 +26851,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 248,
@@ -26712,7 +26958,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 249,
@@ -26819,7 +27066,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 250,
@@ -26927,14 +27175,17 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 251,
     "rank": 5,
     "type": "smg",
     "buildTime": 14760,
-    "skins": [],
+    "skins": [
+      4603
+    ],
     "stats": {
       "hp": 110,
       "pow": 138,
@@ -27035,7 +27286,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 252,
@@ -27158,7 +27410,8 @@
         "core": 60,
         "mempiece": 2000
       }
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 253,
@@ -27267,7 +27520,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 254,
@@ -27374,7 +27628,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 255,
@@ -27479,7 +27734,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 256,
@@ -27586,7 +27842,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 257,
@@ -27694,7 +27951,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 258,
@@ -27800,7 +28058,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 259,
@@ -27907,7 +28166,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 260,
@@ -28019,7 +28279,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 261,
@@ -28130,7 +28391,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 262,
@@ -28240,7 +28502,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 263,
@@ -28353,7 +28616,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 264,
@@ -28459,7 +28723,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 265,
@@ -28566,7 +28831,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 266,
@@ -28674,7 +28940,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 267,
@@ -28781,7 +29048,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 268,
@@ -28886,7 +29154,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 269,
@@ -28994,7 +29263,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 270,
@@ -29105,7 +29375,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 271,
@@ -29210,7 +29481,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 272,
@@ -29317,7 +29589,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 273,
@@ -29422,7 +29695,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 274,
@@ -29530,7 +29804,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 275,
@@ -29637,7 +29912,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 276,
@@ -29742,7 +30018,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 277,
@@ -29848,7 +30125,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 278,
@@ -29955,7 +30233,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 279,
@@ -30062,7 +30341,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 280,
@@ -30170,7 +30450,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 281,
@@ -30279,7 +30560,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 282,
@@ -30391,7 +30673,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 283,
@@ -30498,7 +30781,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 284,
@@ -30605,7 +30889,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 285,
@@ -30712,7 +30997,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 286,
@@ -30820,7 +31106,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 287,
@@ -30928,7 +31215,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 288,
@@ -31036,7 +31324,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 289,
@@ -31143,7 +31432,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 290,
@@ -31252,7 +31542,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 291,
@@ -31359,7 +31650,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 292,
@@ -31472,7 +31764,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 293,
@@ -31581,7 +31874,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 294,
@@ -31688,7 +31982,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 295,
@@ -31796,7 +32091,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 296,
@@ -31904,7 +32200,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 297,
@@ -32011,7 +32308,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 298,
@@ -32117,7 +32415,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 299,
@@ -32223,7 +32522,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 300,
@@ -32328,7 +32628,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 301,
@@ -32435,7 +32736,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 302,
@@ -32548,14 +32850,17 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 303,
     "rank": 5,
     "type": "hg",
     "buildTime": 5700,
-    "skins": [],
+    "skins": [
+      4602
+    ],
     "stats": {
       "hp": 115,
       "pow": 108,
@@ -32656,7 +32961,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 304,
@@ -32763,7 +33069,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 305,
@@ -32869,14 +33176,17 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 306,
     "rank": 5,
     "type": "ar",
     "buildTime": 14160,
-    "skins": [],
+    "skins": [
+      4601
+    ],
     "stats": {
       "hp": 105,
       "pow": 116,
@@ -32981,7 +33291,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 307,
@@ -33088,7 +33399,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 308,
@@ -33193,7 +33505,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 1001,
@@ -33303,7 +33616,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1002,
@@ -33413,7 +33727,655 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1003,
+    "rank": 7,
+    "type": "hg",
+    "buildTime": 3600,
+    "skins": [
+      506
+    ],
+    "stats": {
+      "hp": 105,
+      "pow": 125,
+      "hit": 118,
+      "dodge": 115,
+      "speed": 100,
+      "rate": 125,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "all",
+      "effectCenter": 5,
+      "effectPos": [
+        2,
+        8,
+        3,
+        9
+      ],
+      "gridEffect": {
+        "pow": 10,
+        "dodge": 15
+      }
+    },
+    "grow": 104,
+    "codename": "Kiana",
+    "skill1": {
+      "id": "107301",
+      "codename": "Kiana",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 450,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 441,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 429,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 420,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 411,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 399,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 390,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 381,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 369,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 360,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      309
+    ],
+    "equip1": [
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1004,
+    "rank": 7,
+    "type": "rf",
+    "buildTime": 17400,
+    "skins": [],
+    "stats": {
+      "hp": 95,
+      "pow": 135,
+      "hit": 105,
+      "dodge": 95,
+      "speed": 100,
+      "rate": 98,
+      "armorPiercing": 15,
+      "criticalPercent": 40
+    },
+    "effect": {
+      "effectType": "hg",
+      "effectCenter": 5,
+      "effectPos": [
+        8,
+        9
+      ],
+      "gridEffect": {
+        "cooldown": 18
+      }
+    },
+    "grow": 120,
+    "codename": "RaidenMei",
+    "skill1": {
+      "id": "107401",
+      "codename": "RaidenMei",
+      "cooldownType": "frame",
+      "initialCooldown": 180,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      307
+    ],
+    "equip1": [
+      "apAmmo"
+    ],
+    "equip2": [
+      "optical",
+      "holo",
+      "reddot",
+      "suppressor"
+    ],
+    "equip3": [
+      "chip",
+      "cloak"
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1005,
+    "rank": 7,
+    "type": "rf",
+    "buildTime": 17400,
+    "skins": [
+      507
+    ],
+    "stats": {
+      "hp": 92,
+      "pow": 122,
+      "hit": 115,
+      "dodge": 100,
+      "speed": 100,
+      "rate": 110,
+      "armorPiercing": 15,
+      "criticalPercent": 40
+    },
+    "effect": {
+      "effectType": "hg",
+      "effectCenter": 5,
+      "effectPos": [
+        2,
+        3
+      ],
+      "gridEffect": {
+        "cooldown": 18
+      }
+    },
+    "grow": 120,
+    "codename": "Bronya",
+    "skill1": {
+      "id": "107101",
+      "codename": "Bronya",
+      "cooldownType": "turn",
+      "initialCooldown": 150,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 1,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      307
+    ],
+    "equip1": [
+      "apAmmo"
+    ],
+    "equip2": [
+      "optical",
+      "holo",
+      "reddot",
+      "suppressor"
+    ],
+    "equip3": [
+      "chip",
+      "cloak"
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1006,
+    "rank": 7,
+    "type": "hg",
+    "buildTime": 3600,
+    "skins": [],
+    "stats": {
+      "hp": 125,
+      "pow": 120,
+      "hit": 105,
+      "dodge": 120,
+      "speed": 100,
+      "rate": 105,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "all",
+      "effectCenter": 5,
+      "effectPos": [
+        1,
+        7,
+        2,
+        8
+      ],
+      "gridEffect": {
+        "rate": 15,
+        "hit": 25
+      }
+    },
+    "grow": 104,
+    "codename": "Theresa",
+    "skill1": {
+      "id": "107501",
+      "codename": "Theresa",
+      "cooldownType": "frame",
+      "initialCooldown": 30,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 450,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 441,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 429,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 420,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 411,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 399,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 390,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 381,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 369,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 360,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      306
+    ],
+    "equip1": [
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1007,
+    "rank": 7,
+    "type": "ar",
+    "buildTime": 14100,
+    "skins": [],
+    "stats": {
+      "hp": 110,
+      "pow": 126,
+      "hit": 105,
+      "dodge": 100,
+      "speed": 100,
+      "rate": 95,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "smg",
+      "effectCenter": 5,
+      "effectPos": [
+        6
+      ],
+      "gridEffect": {
+        "pow": 20,
+        "rate": 20
+      }
+    },
+    "grow": 122,
+    "codename": "Himeko",
+    "skill1": {
+      "id": "107601",
+      "codename": "Himeko",
+      "cooldownType": "frame",
+      "initialCooldown": 30,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      308
+    ],
+    "equip1": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hvAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "collab"
+  },
+  {
+    "id": 1008,
+    "rank": 7,
+    "type": "sg",
+    "buildTime": 28800,
+    "skins": [
+      508
+    ],
+    "stats": {
+      "hp": 112,
+      "pow": 128,
+      "hit": 110,
+      "dodge": 130,
+      "speed": 100,
+      "rate": 108,
+      "armorPiercing": 15,
+      "criticalPercent": 40,
+      "armor": 120
+    },
+    "effect": {
+      "effectType": "mg",
+      "effectCenter": 6,
+      "effectPos": [
+        1,
+        7
+      ],
+      "gridEffect": {
+        "pow": 20,
+        "hit": 10
+      }
+    },
+    "grow": 90,
+    "codename": "Seele",
+    "skill1": {
+      "id": "107001",
+      "codename": "Seele",
+      "cooldownType": "frame",
+      "initialCooldown": 30,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 99,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 99,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      306
+    ],
+    "equip1": [
+      "chip",
+      "armorPlate"
+    ],
+    "equip2": [
+      "shotgunShell"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision"
+    ],
+    "tag": "collab"
   },
   {
     "id": 1009,
@@ -33522,7 +34484,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1010,
@@ -33631,7 +34594,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1017,
@@ -33746,7 +34710,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1018,
@@ -33855,7 +34820,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1019,
@@ -33967,7 +34933,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1020,
@@ -34075,7 +35042,8 @@
       "chip",
       "cloak",
       "medal"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1021,
@@ -34183,7 +35151,8 @@
       "chip",
       "ammunitionBox",
       "medal"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 1022,
@@ -34294,7 +35263,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "collab"
   },
   {
     "id": 20001,
@@ -34462,7 +35432,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20002,
@@ -34629,7 +35600,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20005,
@@ -34795,7 +35767,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20007,
@@ -34964,7 +35937,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20012,
@@ -35131,7 +36105,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 20026,
@@ -35303,7 +36278,8 @@
       "nightvision",
       "suppressor",
       "spPart"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 20029,
@@ -35472,7 +36448,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 20031,
@@ -35643,7 +36620,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_Italy"
   },
   {
     "id": 20032,
@@ -35812,7 +36790,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 20037,
@@ -35979,7 +36958,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20039,
@@ -36144,7 +37124,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20044,
@@ -36309,7 +37290,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20051,
@@ -36476,7 +37458,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Belgium"
   },
   {
     "id": 20053,
@@ -36642,7 +37625,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 20055,
@@ -36814,7 +37798,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 20056,
@@ -36988,7 +37973,8 @@
     ],
     "equip3": [
       "hvAmmo"
-    ]
+    ],
+    "tag": "team_ar"
   },
   {
     "id": 20057,
@@ -37162,7 +38148,8 @@
     ],
     "equip3": [
       "hvAmmo"
-    ]
+    ],
+    "tag": "team_defy"
   },
   {
     "id": 20060,
@@ -37330,7 +38317,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20061,
@@ -37502,7 +38490,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 20063,
@@ -37671,7 +38660,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 20064,
@@ -37839,7 +38829,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 20065,
@@ -38007,7 +38998,8 @@
       "chip",
       "exoSkeleton",
       "medal"
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 20075,
@@ -38172,7 +39164,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20081,
@@ -38337,7 +39330,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20089,
@@ -38504,7 +39498,8 @@
     "equip3": [
       "chip",
       "ammunitionBox"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 20091,
@@ -38672,7 +39667,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20093,
@@ -38841,7 +39837,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 20094,
@@ -39007,7 +40004,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 20095,
@@ -39174,7 +40172,8 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 20097,
@@ -39343,7 +40342,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20101,
@@ -39512,7 +40512,8 @@
       "reddot",
       "nightvision",
       "suppressor"
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 20103,
@@ -39682,7 +40683,8 @@
       "nightvision",
       "suppressor",
       "spPart"
-    ]
+    ],
+    "tag": "team_404"
   },
   {
     "id": 20154,
@@ -39850,7 +40852,8 @@
       "holo",
       "reddot",
       "nightvision"
-    ]
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20221,
@@ -40020,7 +41023,8 @@
     "equip3": [
       "chip",
       "exoSkeleton"
-    ]
+    ],
+    "tag": "nation_Russia"
   },
   {
     "id": 20252,
@@ -40190,6 +41194,7 @@
     "equip3": [
       "chip",
       "cloak"
-    ]
+    ],
+    "tag": "nation_Russia"
   }
 ]
