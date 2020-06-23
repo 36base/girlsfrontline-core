@@ -1504,7 +1504,9 @@
     "rank": 3,
     "type": "hg",
     "buildTime": 2400,
-    "skins": [],
+    "skins": [
+      4708
+    ],
     "stats": {
       "hp": 120,
       "pow": 120,
