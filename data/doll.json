@@ -24333,7 +24333,7 @@
       "consumption": 0
     },
     "obtain": [
-      1807
+      415
     ],
     "equip1": [
       "optical",
@@ -25098,7 +25098,7 @@
       "consumption": 0
     },
     "obtain": [
-      1808
+      415
     ],
     "equip1": [
       "apAmmo"
@@ -25314,7 +25314,7 @@
       "consumption": 0
     },
     "obtain": [
-      1809
+      415
     ],
     "equip1": [
       "nightvision",
@@ -26078,7 +26078,7 @@
       "consumption": 0
     },
     "obtain": [
-      1810
+      415
     ],
     "equip1": [
       "optical",
@@ -26292,7 +26292,7 @@
       "consumption": 0
     },
     "obtain": [
-      1811
+      415
     ],
     "equip1": [
       "apAmmo"
@@ -26404,7 +26404,7 @@
       "consumption": 0
     },
     "obtain": [
-      215
+      415
     ],
     "equip1": [
       "nightvision",
@@ -27055,7 +27055,7 @@
       "consumption": 0
     },
     "obtain": [
-      1812
+      415
     ],
     "equip1": [
       "apAmmo"
@@ -27273,7 +27273,7 @@
       "consumption": 0
     },
     "obtain": [
-      215
+      415
     ],
     "equip1": [
       "chip",
@@ -27617,7 +27617,7 @@
       "consumption": 0
     },
     "obtain": [
-      215
+      415
     ],
     "equip1": [
       "apAmmo"
@@ -33509,6 +33509,112 @@
       "cloak"
     ],
     "tag": "team_griffin"
+  },
+  {
+    "id": 309,
+    "rank": 3,
+    "type": "hg",
+    "buildTime": 2700,
+    "skins": [],
+    "stats": {
+      "hp": 120,
+      "pow": 140,
+      "hit": 90,
+      "dodge": 80,
+      "speed": 100,
+      "rate": 80,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "all",
+      "effectCenter": 2,
+      "effectPos": [
+        6,
+        5,
+        8
+      ],
+      "gridEffect": {
+        "pow": 10,
+        "hit": 25
+      }
+    },
+    "grow": 130,
+    "codename": "WKP",
+    "skill1": {
+      "id": "900763",
+      "codename": "WKp",
+      "cooldownType": "frame",
+      "initialCooldown": 90,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 506,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 491,
+          "consumption": 0
+        },
+        {
+          "level": 1,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      2007
+    ],
+    "equip1": [
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "nation_German"
   },
   {
     "id": 1001,
