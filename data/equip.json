@@ -4893,5 +4893,253 @@
       "mre": 0.08,
       "part": 0.25
     }
+  },
+  {
+    "id": 183,
+    "codename": "人形_特殊_莉可",
+    "rank": 5,
+    "category": "doll",
+    "type": "medal",
+    "company": "IOP",
+    "fitGuns": [
+      1024
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3360,
+    "stats": {
+      "speed": {
+        "min": "-3",
+        "max": "-3"
+      },
+      "criticalHarmRate": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 800
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.16,
+      "mre": 0.6,
+      "part": 0.16
+    }
+  },
+  {
+    "id": 184,
+    "codename": "人形_特殊_安洁莉卡",
+    "rank": 5,
+    "category": "doll",
+    "type": "medal",
+    "company": "IOP",
+    "fitGuns": [
+      1027
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "dodge": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 185,
+    "codename": "配件_特殊_库拉耶丝",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      1026
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 186,
+    "codename": "配件_特殊_崔耶拉",
+    "rank": 5,
+    "category": "ammo",
+    "type": "spClip",
+    "company": "IOP",
+    "fitGuns": [
+      1025
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3240,
+    "stats": {
+      "pow": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 500
+      },
+      "criticalHarmRate": {
+        "min": "10",
+        "max": "15",
+        "upgrade": 500
+      },
+      "criticalPercent": {
+        "min": "11",
+        "max": "14",
+        "upgrade": 800
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.53,
+      "mre": 0.08,
+      "part": 0.45
+    }
+  },
+  {
+    "id": 187,
+    "codename": "配件_特殊_海莉艾塔",
+    "rank": 5,
+    "category": "accessory",
+    "type": "suppressor",
+    "company": "IOP",
+    "fitGuns": [
+      1023
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "dodge": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 300
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 188,
+    "codename": "配件_陨石_库拉耶丝",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      1026
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 189,
+    "codename": "配件_手表_库拉耶丝",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      1026
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
   }
 ]
