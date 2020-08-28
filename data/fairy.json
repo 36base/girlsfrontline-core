@@ -10,49 +10,13 @@
     },
     "skill": {
       "id": "900110",
-      "codename": "fighting",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -100,49 +64,13 @@
     },
     "skill": {
       "id": "900111",
-      "codename": "crit",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -189,49 +117,13 @@
     },
     "skill": {
       "id": "900103",
-      "codename": "armor",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -278,49 +170,13 @@
     },
     "skill": {
       "id": "900101",
-      "codename": "shield",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -458,49 +314,13 @@
     },
     "skill": {
       "id": "900104",
-      "codename": "target",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -548,49 +368,13 @@
     },
     "skill": {
       "id": "900102",
-      "codename": "sniper",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 2,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -637,49 +421,13 @@
     },
     "skill": {
       "id": "900108",
-      "codename": "bombard",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -727,49 +475,13 @@
     },
     "skill": {
       "id": "900109",
-      "codename": "air_attack",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1265,50 +977,14 @@
       "criticalHarmRate": "201"
     },
     "skill": {
-      "id": "*13",
-      "codename": "command",
+      "id": "1000002",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1354,50 +1030,14 @@
       "dodge": "200"
     },
     "skill": {
-      "id": "*14",
-      "codename": "rescue",
+      "id": "1000001",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1536,49 +1176,13 @@
     },
     "skill": {
       "id": "900117",
-      "codename": "golden",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1627,49 +1231,13 @@
     },
     "skill": {
       "id": "900151",
-      "codename": "golden",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1717,49 +1285,13 @@
     },
     "skill": {
       "id": "900155",
-      "codename": "hanabi",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1807,49 +1339,13 @@
     },
     "skill": {
       "id": "900157",
-      "codename": "baozhu",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1896,49 +1392,13 @@
     },
     "skill": {
       "id": "900165",
-      "codename": "seawave",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2074,49 +1534,13 @@
     },
     "skill": {
       "id": "900168",
-      "codename": "shield",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2164,49 +1588,13 @@
     },
     "skill": {
       "id": "900159",
-      "codename": "twins",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 0,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2254,49 +1642,13 @@
     },
     "skill": {
       "id": "901001",
-      "codename": "ExpFa",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2434,49 +1786,13 @@
     },
     "skill": {
       "id": "900118",
-      "codename": "Sakura",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2614,49 +1930,13 @@
     },
     "skill": {
       "id": "900119",
-      "codename": "Chloe",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 60,
-      "consumption": 2,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2793,49 +2073,13 @@
     },
     "skill": {
       "id": "900152",
-      "codename": "LadyMadeSTAR",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2884,49 +2128,13 @@
     },
     "skill": {
       "id": "900153",
-      "codename": "OblivioN",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]
@@ -2974,49 +2182,13 @@
     },
     "skill": {
       "id": "900158",
-      "codename": "Anna",
+      "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 0
-        },
-        {
-          "level": 2,
-          "cooldown": 0
-        },
-        {
-          "level": 3,
-          "cooldown": 0
-        },
-        {
-          "level": 4,
-          "cooldown": 0
-        },
-        {
-          "level": 5,
-          "cooldown": 0
-        },
-        {
-          "level": 6,
-          "cooldown": 0
-        },
-        {
-          "level": 7,
-          "cooldown": 0
-        },
-        {
-          "level": 8,
-          "cooldown": 0
-        },
-        {
-          "level": 9,
-          "cooldown": 0
-        },
-        {
-          "level": 10,
           "cooldown": 0
         }
       ]

@@ -5141,5 +5141,134 @@
       "mre": 0.3,
       "part": 0.15
     }
+  },
+  {
+    "id": 190,
+    "codename": "人形装备_Gbox_G11",
+    "rank": 5,
+    "category": "doll",
+    "type": "medal",
+    "company": "404后勤部",
+    "fitGuns": [
+      122,
+      20122
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "hit": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "-10",
+        "max": "-5"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 191,
+    "codename": "配件_枪托_Super SASS",
+    "rank": 5,
+    "category": "accessory",
+    "type": "optical",
+    "company": "MGP",
+    "fitGuns": [
+      124,
+      20124
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 192,
+    "codename": "人形装备_特殊_RO635",
+    "rank": 5,
+    "category": "doll",
+    "type": "medal",
+    "company": "IOP",
+    "fitGuns": [
+      143,
+      20143
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "-8",
+        "max": "-6"
+      },
+      "dodge": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 800
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 193,
+    "codename": "人形装备_插板_97霰",
+    "rank": 5,
+    "category": "doll",
+    "type": "armorPlate",
+    "company": "IOP",
+    "fitGuns": [
+      161,
+      20161
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3060,
+    "stats": {
+      "dodge": {
+        "min": "1",
+        "max": "2"
+      },
+      "armor": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 400
+      }
+    },
+    "powerup": {
+      "mp": 0.23,
+      "ammo": 0.23,
+      "mre": 0.33,
+      "part": 0.33
+    }
   }
 ]
