@@ -18,6 +18,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -72,6 +108,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -124,6 +196,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -178,6 +286,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -226,7 +370,7 @@
       "codename": "defense",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 5,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -322,6 +466,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -376,6 +556,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -428,6 +644,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -483,6 +735,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -532,7 +820,7 @@
       "codename": "reinforce",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 2,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -622,7 +910,7 @@
       "codename": "airborne",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 5,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -711,7 +999,7 @@
       "codename": "Landmines",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 5,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -800,7 +1088,7 @@
       "codename": "position",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 10,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -891,7 +1179,7 @@
       "codename": "fortress",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 5,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -977,7 +1265,7 @@
       "criticalHarmRate": "201"
     },
     "skill": {
-      "id": "1000002",
+      "id": "*13",
       "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
@@ -985,6 +1273,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1030,7 +1354,7 @@
       "dodge": "200"
     },
     "skill": {
-      "id": "1000001",
+      "id": "*14",
       "codename": "0",
       "cooldownType": "frame",
       "initialCooldown": 30,
@@ -1038,6 +1362,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1088,7 +1448,7 @@
       "codename": "illumine",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 5,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -1184,6 +1544,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1239,6 +1635,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1292,6 +1724,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1347,6 +1815,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1400,6 +1904,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1448,7 +1988,7 @@
       "codename": "combo",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 2,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -1542,6 +2082,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1595,6 +2171,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
@@ -1650,6 +2262,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -1699,7 +2347,7 @@
       "codename": "Peach",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 1,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -1776,204 +2424,6 @@
     ]
   },
   {
-    "id": 1001,
-    "category": "battle",
-    "stats": {
-      "pow": "220",
-      "dodge": "75",
-      "armor": "65",
-      "criticalHarmRate": "200"
-    },
-    "skill": {
-      "id": "900118",
-      "codename": "0",
-      "cooldownType": "frame",
-      "initialCooldown": 30,
-      "consumption": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0
-        }
-      ]
-    },
-    "grow": 60,
-    "buildTime": 18600,
-    "codename": "Sakura",
-    "powerup": {
-      "mp": "3",
-      "ammo": "14",
-      "mre": "10",
-      "part": "3"
-    },
-    "retireExp": 100,
-    "qualityExp": [
-      0,
-      100,
-      200,
-      350,
-      550
-    ],
-    "skins": [
-      {
-        "id": "55",
-        "codename": "Sakura_1"
-      },
-      {
-        "id": "56",
-        "codename": "Sakura_2"
-      },
-      {
-        "id": "57",
-        "codename": "Sakura_3"
-      }
-    ]
-  },
-  {
-    "id": 1002,
-    "category": "strategy",
-    "stats": {
-      "hit": "173",
-      "dodge": "75",
-      "armor": "180",
-      "criticalHarmRate": "195"
-    },
-    "skill": {
-      "id": "*1002",
-      "codename": "Kaguya",
-      "cooldownType": "turn",
-      "initialCooldown": 0,
-      "consumption": 8,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 3
-        },
-        {
-          "level": 2,
-          "cooldown": 3
-        },
-        {
-          "level": 3,
-          "cooldown": 3
-        },
-        {
-          "level": 4,
-          "cooldown": 3
-        },
-        {
-          "level": 5,
-          "cooldown": 3
-        },
-        {
-          "level": 6,
-          "cooldown": 3
-        },
-        {
-          "level": 7,
-          "cooldown": 3
-        },
-        {
-          "level": 8,
-          "cooldown": 3
-        },
-        {
-          "level": 9,
-          "cooldown": 3
-        },
-        {
-          "level": 10,
-          "cooldown": 3
-        }
-      ]
-    },
-    "grow": 60,
-    "buildTime": 18600,
-    "codename": "Kaguya",
-    "powerup": {
-      "mp": "3",
-      "ammo": "10",
-      "mre": "14",
-      "part": "8"
-    },
-    "retireExp": 100,
-    "qualityExp": [
-      0,
-      100,
-      200,
-      350,
-      550
-    ],
-    "skins": [
-      {
-        "id": "58",
-        "codename": "Kaguya_1"
-      },
-      {
-        "id": "59",
-        "codename": "Kaguya_2"
-      },
-      {
-        "id": "60",
-        "codename": "Kaguya_3"
-      }
-    ]
-  },
-  {
-    "id": 1003,
-    "category": "battle",
-    "stats": {
-      "pow": "145",
-      "hit": "135",
-      "dodge": "199",
-      "armor": "65"
-    },
-    "skill": {
-      "id": "900119",
-      "codename": "0",
-      "cooldownType": "frame",
-      "initialCooldown": 60,
-      "consumption": 0,
-      "dataPool": [
-        {
-          "level": 1,
-          "cooldown": 0
-        }
-      ]
-    },
-    "grow": 60,
-    "buildTime": 18600,
-    "codename": "Chloe",
-    "powerup": {
-      "mp": "14",
-      "ammo": "10",
-      "mre": "3",
-      "part": "3"
-    },
-    "retireExp": 100,
-    "qualityExp": [
-      0,
-      100,
-      200,
-      350,
-      550
-    ],
-    "skins": [
-      {
-        "id": "61",
-        "codename": "Chloe_1"
-      },
-      {
-        "id": "62",
-        "codename": "Chloe_2"
-      },
-      {
-        "id": "63",
-        "codename": "Chloe_3"
-      }
-    ]
-  },
-  {
     "id": 1004,
     "category": "strategy",
     "stats": {
@@ -1986,7 +2436,7 @@
       "codename": "IWantU",
       "cooldownType": "turn",
       "initialCooldown": 0,
-      "consumption": 3,
+      "consumption": 0,
       "dataPool": [
         {
           "level": 1,
@@ -2081,6 +2531,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -2136,6 +2622,42 @@
         {
           "level": 1,
           "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0
         }
       ]
     },
@@ -2189,6 +2711,42 @@
       "dataPool": [
         {
           "level": 1,
+          "cooldown": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0
+        },
+        {
+          "level": 10,
           "cooldown": 0
         }
       ]
