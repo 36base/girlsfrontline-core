@@ -10,7 +10,7 @@
     },
     "skill": {
       "id": "900110",
-      "codename": "0",
+      "codename": "fighting",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -100,7 +100,7 @@
     },
     "skill": {
       "id": "900111",
-      "codename": "0",
+      "codename": "crit",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -189,7 +189,7 @@
     },
     "skill": {
       "id": "900103",
-      "codename": "0",
+      "codename": "armor",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -278,7 +278,7 @@
     },
     "skill": {
       "id": "900101",
-      "codename": "0",
+      "codename": "shield",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -458,7 +458,7 @@
     },
     "skill": {
       "id": "900104",
-      "codename": "0",
+      "codename": "target",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -548,7 +548,7 @@
     },
     "skill": {
       "id": "900102",
-      "codename": "0",
+      "codename": "sniper",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -637,7 +637,7 @@
     },
     "skill": {
       "id": "900108",
-      "codename": "0",
+      "codename": "bombard",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -727,7 +727,7 @@
     },
     "skill": {
       "id": "900109",
-      "codename": "0",
+      "codename": "air_attack",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1266,7 +1266,7 @@
     },
     "skill": {
       "id": "*13",
-      "codename": "0",
+      "codename": "command",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1355,7 +1355,7 @@
     },
     "skill": {
       "id": "*14",
-      "codename": "0",
+      "codename": "rescue",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1536,7 +1536,7 @@
     },
     "skill": {
       "id": "900117",
-      "codename": "0",
+      "codename": "golden",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1627,7 +1627,7 @@
     },
     "skill": {
       "id": "900151",
-      "codename": "0",
+      "codename": "golden",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1717,7 +1717,7 @@
     },
     "skill": {
       "id": "900155",
-      "codename": "0",
+      "codename": "hanabi",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1807,7 +1807,7 @@
     },
     "skill": {
       "id": "900157",
-      "codename": "0",
+      "codename": "baozhu",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -1896,7 +1896,7 @@
     },
     "skill": {
       "id": "900165",
-      "codename": "0",
+      "codename": "seawave",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -2074,7 +2074,7 @@
     },
     "skill": {
       "id": "900168",
-      "codename": "0",
+      "codename": "shield",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -2164,7 +2164,7 @@
     },
     "skill": {
       "id": "900159",
-      "codename": "0",
+      "codename": "twins",
       "cooldownType": "frame",
       "initialCooldown": 0,
       "consumption": 0,
@@ -2254,7 +2254,7 @@
     },
     "skill": {
       "id": "901001",
-      "codename": "0",
+      "codename": "ExpFa",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -2523,7 +2523,7 @@
     },
     "skill": {
       "id": "900152",
-      "codename": "0",
+      "codename": "LadyMadeSTAR",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -2614,7 +2614,7 @@
     },
     "skill": {
       "id": "900153",
-      "codename": "0",
+      "codename": "OblivioN",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
@@ -2704,7 +2704,7 @@
     },
     "skill": {
       "id": "900158",
-      "codename": "0",
+      "codename": "Anna",
       "cooldownType": "frame",
       "initialCooldown": 30,
       "consumption": 0,
