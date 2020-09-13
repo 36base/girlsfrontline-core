@@ -5270,5 +5270,100 @@
       "mre": 0.33,
       "part": 0.33
     }
+  },
+  {
+    "id": 194,
+    "codename": "配件_特殊_谢尔久科夫",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      113
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "8",
+        "max": "11",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 195,
+    "codename": "弹匣_子弹_阿斯特拉",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hpAmmo",
+    "company": "ILM",
+    "fitGuns": [
+      14
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 196,
+    "codename": "配件_特殊_幽灵",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      92
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "2",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
   }
 ]
