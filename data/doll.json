@@ -597,7 +597,8 @@
     "buildTime": 2700,
     "skins": [
       601,
-      3204
+      3204,
+      5106
     ],
     "stats": {
       "hp": 130,
@@ -4117,7 +4118,8 @@
     "type": "rf",
     "buildTime": 13800,
     "skins": [
-      304
+      304,
+      5107
     ],
     "stats": {
       "hp": 105,
@@ -13831,7 +13833,8 @@
     ],
     "equip1": [
       "nightvision",
-      "suppressor"
+      "suppressor",
+      "spPart"
     ],
     "equip2": [
       "hpAmmo"
@@ -14183,7 +14186,8 @@
     "buildTime": 13800,
     "skins": [
       406,
-      3703
+      3703,
+      5103
     ],
     "stats": {
       "hp": 105,
@@ -30009,7 +30013,9 @@
     "rank": 5,
     "type": "mg",
     "buildTime": 22500,
-    "skins": [],
+    "skins": [
+      5102
+    ],
     "stats": {
       "hp": 120,
       "pow": 140,
@@ -32085,7 +32091,9 @@
     "rank": 4,
     "type": "smg",
     "buildTime": 8400,
-    "skins": [],
+    "skins": [
+      5104
+    ],
     "stats": {
       "hp": 108,
       "pow": 100,
@@ -32305,7 +32313,9 @@
     "rank": 4,
     "type": "ar",
     "buildTime": 12900,
-    "skins": [],
+    "skins": [
+      5105
+    ],
     "stats": {
       "hp": 102,
       "pow": 110,
@@ -34379,7 +34389,9 @@
     "rank": 5,
     "type": "rf",
     "buildTime": 16980,
-    "skins": [],
+    "skins": [
+      5101
+    ],
     "stats": {
       "hp": 90,
       "pow": 120,
@@ -34908,6 +34920,220 @@
       "cloak"
     ],
     "tag": "team_griffin"
+  },
+  {
+    "id": 321,
+    "rank": 3,
+    "type": "sg",
+    "buildTime": 26100,
+    "skins": [],
+    "stats": {
+      "hp": 110,
+      "pow": 115,
+      "hit": 115,
+      "dodge": 90,
+      "speed": 100,
+      "rate": 115,
+      "armorPiercing": 15,
+      "criticalPercent": 40,
+      "armor": 115
+    },
+    "effect": {
+      "effectType": "mg",
+      "effectCenter": 6,
+      "effectPos": [
+        1,
+        4
+      ],
+      "gridEffect": {
+        "pow": 15
+      }
+    },
+    "grow": 105,
+    "codename": "TavorTS12",
+    "skill1": {
+      "id": "900971",
+      "codename": "Seele",
+      "cooldownType": "frame",
+      "initialCooldown": 150,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      2010
+    ],
+    "equip1": [
+      "chip",
+      "armorPlate"
+    ],
+    "equip2": [
+      "shotgunShell"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision"
+    ],
+    "tag": "team_griffin"
+  },
+  {
+    "id": 322,
+    "rank": 3,
+    "type": "hg",
+    "buildTime": 2700,
+    "skins": [],
+    "stats": {
+      "hp": 105,
+      "pow": 135,
+      "hit": 120,
+      "dodge": 100,
+      "speed": 100,
+      "rate": 100,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "all",
+      "effectCenter": 5,
+      "effectPos": [
+        1,
+        4,
+        7,
+        2,
+        8
+      ],
+      "gridEffect": {
+        "pow": 16
+      }
+    },
+    "grow": 115,
+    "codename": "QSB91",
+    "skill1": {
+      "id": "901051",
+      "codename": "X95",
+      "cooldownType": "frame",
+      "initialCooldown": 120,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 450,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 441,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 429,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 420,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 411,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 399,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 390,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 381,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 369,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 360,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      2011
+    ],
+    "equip1": [
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "nation_China"
   },
   {
     "id": 1001,

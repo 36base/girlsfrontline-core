@@ -5365,5 +5365,68 @@
       "mre": 0.23,
       "part": 0.23
     }
+  },
+  {
+    "id": 197,
+    "codename": "人形装备_特殊_索米",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "IOP",
+    "fitGuns": [
+      115
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "-6",
+        "max": "-6"
+      },
+      "dodge": {
+        "min": "25",
+        "max": "25",
+        "upgrade": 900
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 198,
+    "codename": "配件_枪托_NZ75",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      126
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "16",
+        "max": "20",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
   }
 ]
