@@ -5428,5 +5428,180 @@
       "mre": 0.23,
       "part": 0.23
     }
+  },
+  {
+    "id": 199,
+    "codename": "配件_消音器_特工Vector",
+    "rank": 5,
+    "category": "accessory",
+    "type": "suppressor",
+    "company": "SC",
+    "fitGuns": [
+      1028
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "8",
+        "max": "8",
+        "upgrade": 300
+      },
+      "criticalPercent": {
+        "min": "15",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 200,
+    "codename": "弹匣_状态弹_空尖弹_特工Vector",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hpAmmo",
+    "company": "SHD",
+    "fitGuns": [
+      1028
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3180,
+    "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 500
+      },
+      "armorPiercing": {
+        "min": "-7",
+        "max": "-7"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 201,
+    "codename": "人形装备_外骨骼_特工Vector",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "SHD",
+    "fitGuns": [
+      1028
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "-6",
+        "max": "-6"
+      },
+      "dodge": {
+        "min": "25",
+        "max": "25",
+        "upgrade": 400
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 202,
+    "codename": "配件_光学瞄准镜_特工416",
+    "rank": 5,
+    "category": "accessory",
+    "type": "optical",
+    "company": "TC",
+    "fitGuns": [
+      1029
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "criticalPercent": {
+        "min": "24",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 203,
+    "codename": "弹匣_高速弹_特工416",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hvAmmo",
+    "company": "SHD",
+    "fitGuns": [
+      1029
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3480,
+    "stats": {
+      "pow": {
+        "min": "12",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.15,
+      "ammo": 0.6,
+      "mre": 0.38,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 204,
+    "codename": "人形装备_外骨骼_X_特工416",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "SHD",
+    "fitGuns": [
+      1029
+    ],
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "dodge": {
+        "min": "12",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
   }
 ]
