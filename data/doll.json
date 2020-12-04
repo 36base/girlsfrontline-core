@@ -35610,73 +35610,80 @@
       "criticalPercent": 5
     },
     "effect": {
-      "effectType": "ar",
-      "effectCenter": 2,
+      "effectType": "all",
+      "effectCenter": 8,
       "effectPos": [
         1,
-        7
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
       ],
       "gridEffect": {
-        "pow": 18,
-        "criticalPercent": 20
+        "pow": 20,
+        "hit": 20,
+        "criticalPercent": 10
       }
     },
     "grow": 105,
     "codename": "SUB2000",
     "skill1": {
-      "id": "101903",
-      "codename": "powBuffSelf",
+      "id": "902138",
+      "codename": "Liu",
       "cooldownType": "frame",
-      "initialCooldown": 180,
+      "initialCooldown": 150,
       "dataPool": [
         {
           "level": 1,
-          "cooldown": 300,
+          "cooldown": 450,
           "consumption": 0
         },
         {
           "level": 2,
-          "cooldown": 294,
+          "cooldown": 441,
           "consumption": 0
         },
         {
           "level": 3,
-          "cooldown": 288,
+          "cooldown": 429,
           "consumption": 0
         },
         {
           "level": 4,
-          "cooldown": 279,
+          "cooldown": 420,
           "consumption": 0
         },
         {
           "level": 5,
-          "cooldown": 273,
+          "cooldown": 411,
           "consumption": 0
         },
         {
           "level": 6,
-          "cooldown": 267,
+          "cooldown": 399,
           "consumption": 0
         },
         {
           "level": 7,
-          "cooldown": 261,
+          "cooldown": 390,
           "consumption": 0
         },
         {
           "level": 8,
-          "cooldown": 252,
+          "cooldown": 381,
           "consumption": 0
         },
         {
           "level": 9,
-          "cooldown": 246,
+          "cooldown": 369,
           "consumption": 0
         },
         {
           "level": 10,
-          "cooldown": 240,
+          "cooldown": 360,
           "consumption": 0
         }
       ],
