@@ -5603,5 +5603,231 @@
       "mre": 0.12,
       "part": 0.38
     }
+  },
+  {
+    "id": 205,
+    "codename": "人形装备_护木_加利尔",
+    "rank": 5,
+    "category": "doll",
+    "type": "medal",
+    "company": "MI",
+    "fitGuns": [
+      71,
+      20071
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "hit": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "-10",
+        "max": "-5"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 206,
+    "codename": "弹匣_霰弹_鹿弹_M1897",
+    "rank": 5,
+    "category": "ammo",
+    "type": "shotgunShell",
+    "company": "IOP",
+    "fitGuns": [
+      152,
+      20152
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 500
+      },
+      "hit": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.53,
+      "mre": 0.08,
+      "part": 0.45
+    }
+  },
+  {
+    "id": 207,
+    "codename": "配件_特殊_PP19",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "ZNT",
+    "fitGuns": [
+      136,
+      20136
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "2",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 208,
+    "codename": "配件_光瞄_Ots-44",
+    "rank": 5,
+    "category": "accessory",
+    "type": "optical",
+    "company": "IOP",
+    "fitGuns": [
+      145
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "criticalHarmRate": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 209,
+    "codename": "配件_特殊_63式",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      133
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 210,
+    "codename": "配件_特殊_SCW",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "CT",
+    "fitGuns": [
+      169
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 900
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 211,
+    "codename": "弹匣_子弹_四式",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": [
+      270
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
   }
 ]

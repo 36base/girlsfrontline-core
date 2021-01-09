@@ -473,7 +473,8 @@
     "type": "hg",
     "buildTime": 1200,
     "skins": [
-      2706
+      2706,
+      5309
     ],
     "stats": {
       "hp": 105,
@@ -7821,7 +7822,22 @@
     ],
     "equip3": [
       "chip",
-      "exoSkeleton"
+      "exoSkeleton",
+      "medal"
+    ],
+    "mindupdate": [
+      {
+        "core": 10,
+        "mempiece": 200
+      },
+      {
+        "core": 20,
+        "mempiece": 600
+      },
+      {
+        "core": 30,
+        "mempiece": 1200
+      }
     ],
     "tag": "team_griffin"
   },
@@ -10215,7 +10231,8 @@
     "type": "rf",
     "buildTime": 13800,
     "skins": [
-      1809
+      1809,
+      5308
     ],
     "stats": {
       "hp": 115,
@@ -14612,7 +14629,8 @@
       "holo",
       "reddot",
       "nightvision",
-      "suppressor"
+      "suppressor",
+      "spPart"
     ],
     "equip2": [
       "hvAmmo"
@@ -14950,7 +14968,22 @@
       "holo",
       "reddot",
       "nightvision",
-      "suppressor"
+      "suppressor",
+      "spPart"
+    ],
+    "mindupdate": [
+      {
+        "core": 20,
+        "mempiece": 200
+      },
+      {
+        "core": 40,
+        "mempiece": 1000
+      },
+      {
+        "core": 60,
+        "mempiece": 2000
+      }
     ],
     "tag": "nation_Russia"
   },
@@ -16715,6 +16748,20 @@
       "holo",
       "reddot",
       "nightvision"
+    ],
+    "mindupdate": [
+      {
+        "core": 15,
+        "mempiece": 200
+      },
+      {
+        "core": 30,
+        "mempiece": 800
+      },
+      {
+        "core": 45,
+        "mempiece": 1600
+      }
     ],
     "tag": "nation_US"
   },
@@ -18602,7 +18649,8 @@
       "holo",
       "reddot",
       "nightvision",
-      "suppressor"
+      "suppressor",
+      "spPart"
     ],
     "tag": "nation_US"
   },
@@ -23224,7 +23272,8 @@
     "buildTime": 3180,
     "skins": [
       2002,
-      3308
+      3308,
+      5306
     ],
     "stats": {
       "hp": 100,
@@ -27169,7 +27218,9 @@
     "rank": 5,
     "type": "hg",
     "buildTime": 4200,
-    "skins": [],
+    "skins": [
+      5304
+    ],
     "stats": {
       "hp": 108,
       "pow": 125,
@@ -29371,7 +29422,8 @@
     "buildTime": 14640,
     "skins": [
       3505,
-      4103
+      4103,
+      5305
     ],
     "stats": {
       "hp": 95,
@@ -31438,7 +31490,9 @@
     "rank": 5,
     "type": "ar",
     "buildTime": 13980,
-    "skins": [],
+    "skins": [
+      5302
+    ],
     "stats": {
       "hp": 112,
       "pow": 120,
@@ -33965,7 +34019,9 @@
     "rank": 5,
     "type": "rf",
     "buildTime": 16980,
-    "skins": [],
+    "skins": [
+      5301
+    ],
     "stats": {
       "hp": 100,
       "pow": 116,
@@ -34072,7 +34128,9 @@
     "rank": 5,
     "type": "ar",
     "buildTime": 14880,
-    "skins": [],
+    "skins": [
+      5303
+    ],
     "stats": {
       "hp": 112,
       "pow": 100,
@@ -34724,7 +34782,9 @@
     "rank": 4,
     "type": "mg",
     "buildTime": 23280,
-    "skins": [],
+    "skins": [
+      5307
+    ],
     "stats": {
       "hp": 115,
       "pow": 118,
@@ -35632,7 +35692,7 @@
     "codename": "SUB2000",
     "skill1": {
       "id": "902138",
-      "codename": "Liu",
+      "codename": "sub2000",
       "cooldownType": "frame",
       "initialCooldown": 150,
       "dataPool": [
@@ -35707,6 +35767,337 @@
       "suppressor"
     ],
     "tag": "nation_US"
+  },
+  {
+    "id": 328,
+    "rank": 4,
+    "type": "smg",
+    "buildTime": 8160,
+    "skins": [],
+    "stats": {
+      "hp": 104,
+      "pow": 102,
+      "hit": 116,
+      "dodge": 122,
+      "speed": 100,
+      "rate": 118,
+      "armorPiercing": 15,
+      "criticalPercent": 5
+    },
+    "effect": {
+      "effectType": [
+        "smg",
+        "ar"
+      ],
+      "effectCenter": 5,
+      "effectPos": [
+        1,
+        4,
+        7,
+        2
+      ],
+      "gridEffect": {
+        "pow": 20,
+        "dodge": 15
+      }
+    },
+    "grow": 108,
+    "codename": "AR57",
+    "skill1": {
+      "id": "902158",
+      "codename": "AR57",
+      "cooldownType": "frame",
+      "initialCooldown": 90,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 90,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 90,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "tag": "nation_US"
+  },
+  {
+    "id": 329,
+    "rank": 5,
+    "type": "rf",
+    "buildTime": 17220,
+    "skins": [],
+    "stats": {
+      "hp": 98,
+      "pow": 126,
+      "hit": 136,
+      "dodge": 82,
+      "speed": 100,
+      "rate": 100,
+      "armorPiercing": 15,
+      "criticalPercent": 40
+    },
+    "effect": {
+      "effectType": "hg",
+      "effectCenter": 2,
+      "effectPos": [
+        3,
+        6,
+        9
+      ],
+      "gridEffect": {
+        "cooldown": 18
+      }
+    },
+    "grow": 131,
+    "codename": "SVCh",
+    "skill1": {
+      "id": "902223",
+      "codename": "SVch",
+      "cooldownType": "frame",
+      "initialCooldown": 150,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 300,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 294,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 288,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 279,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 273,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 267,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 261,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 252,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 245,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 240,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "apAmmo"
+    ],
+    "equip2": [
+      "optical",
+      "holo",
+      "reddot",
+      "suppressor"
+    ],
+    "equip3": [
+      "chip",
+      "cloak"
+    ],
+    "tag": "nation_Russia"
+  },
+  {
+    "id": 330,
+    "rank": 4,
+    "type": "ar",
+    "buildTime": 13200,
+    "skins": [],
+    "stats": {
+      "hp": 100,
+      "pow": 118,
+      "hit": 128,
+      "dodge": 110,
+      "speed": 100,
+      "rate": 102,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": "smg",
+      "effectCenter": 5,
+      "effectPos": [
+        3,
+        6
+      ],
+      "gridEffect": {
+        "pow": 30,
+        "rate": 10
+      }
+    },
+    "grow": 123,
+    "codename": "FX05",
+    "skill1": {
+      "id": "902155",
+      "codename": "FX05",
+      "cooldownType": "frame",
+      "initialCooldown": 60,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 506,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 491,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      1,
+      2
+    ],
+    "equip1": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hvAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "tag": "team_griffin"
   },
   {
     "id": 1001,
@@ -41989,6 +42380,180 @@
     "tag": "team_404"
   },
   {
+    "id": 20071,
+    "rank": 4,
+    "type": "ar",
+    "buildTime": 9600,
+    "skins": [
+      5039
+    ],
+    "stats": {
+      "hp": 112,
+      "pow": 108,
+      "hit": 105,
+      "dodge": 95,
+      "speed": 100,
+      "rate": 95,
+      "armorPiercing": 15,
+      "criticalPercent": 20
+    },
+    "effect": {
+      "effectType": [
+        "smg",
+        "ar"
+      ],
+      "effectCenter": 5,
+      "effectPos": [
+        6,
+        2,
+        8
+      ],
+      "gridEffect": {
+        "hit": 55,
+        "dodge": 15
+      }
+    },
+    "grow": 130,
+    "codename": "ARMod",
+    "skill1": {
+      "id": "902130",
+      "codename": "hitBuffSelf",
+      "cooldownType": "frame",
+      "initialCooldown": 150,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "skill2": {
+      "id": "902132",
+      "codename": "jialier",
+      "cooldownType": "frame",
+      "initialCooldown": 0,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      35
+    ],
+    "equip1": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor"
+    ],
+    "equip2": [
+      "hvAmmo"
+    ],
+    "equip3": [
+      "chip",
+      "exoSkeleton",
+      "medal"
+    ],
+    "tag": "team_griffin"
+  },
+  {
     "id": 20075,
     "rank": 5,
     "type": "mg",
@@ -44011,6 +44576,176 @@
     "tag": "nation_US"
   },
   {
+    "id": 20136,
+    "rank": 5,
+    "type": "smg",
+    "buildTime": 8400,
+    "skins": [
+      5040
+    ],
+    "stats": {
+      "hp": 105,
+      "pow": 103,
+      "hit": 115,
+      "dodge": 125,
+      "speed": 100,
+      "rate": 115,
+      "armorPiercing": 15,
+      "criticalPercent": 5
+    },
+    "effect": {
+      "effectType": "ar",
+      "effectCenter": 5,
+      "effectPos": [
+        1,
+        4
+      ],
+      "gridEffect": {
+        "pow": 25,
+        "hit": 15
+      }
+    },
+    "grow": 110,
+    "codename": "PP19Mod",
+    "skill1": {
+      "id": "902137",
+      "codename": "Grenade",
+      "cooldownType": "frame",
+      "initialCooldown": 90,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "skill2": {
+      "id": "902148",
+      "codename": "pp192",
+      "cooldownType": "frame",
+      "initialCooldown": 0,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 0,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 0,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      35
+    ],
+    "equip1": [
+      "chip",
+      "exoSkeleton"
+    ],
+    "equip2": [
+      "hpAmmo"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision",
+      "suppressor",
+      "spPart"
+    ],
+    "tag": "nation_Russia"
+  },
+  {
     "id": 20143,
     "rank": 6,
     "type": "smg",
@@ -44182,6 +44917,176 @@
       "suppressor"
     ],
     "tag": "team_ar"
+  },
+  {
+    "id": 20152,
+    "rank": 4,
+    "type": "sg",
+    "buildTime": 27000,
+    "skins": [
+      5041
+    ],
+    "stats": {
+      "hp": 120,
+      "pow": 125,
+      "hit": 108,
+      "dodge": 95,
+      "speed": 100,
+      "rate": 100,
+      "armorPiercing": 15,
+      "criticalPercent": 40,
+      "armor": 115
+    },
+    "effect": {
+      "effectType": "mg",
+      "effectCenter": 6,
+      "effectPos": [
+        5,
+        1,
+        4
+      ],
+      "gridEffect": {
+        "pow": 10,
+        "hit": 50
+      }
+    },
+    "grow": 100,
+    "codename": "M1897Mod",
+    "skill1": {
+      "id": "103203",
+      "codename": "Shotgun",
+      "cooldownType": "frame",
+      "initialCooldown": 240,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 600,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 588,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 573,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 561,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 546,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 534,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 519,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 507,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 492,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 480,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "skill2": {
+      "id": "902142",
+      "codename": "97fbd",
+      "cooldownType": "frame",
+      "initialCooldown": 0,
+      "dataPool": [
+        {
+          "level": 1,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 2,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 3,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 4,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 5,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 6,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 7,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 8,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 9,
+          "cooldown": 1,
+          "consumption": 0
+        },
+        {
+          "level": 10,
+          "cooldown": 1,
+          "consumption": 0
+        }
+      ],
+      "consumption": 0
+    },
+    "obtain": [
+      35
+    ],
+    "equip1": [
+      "chip",
+      "armorPlate"
+    ],
+    "equip2": [
+      "shotgunShell"
+    ],
+    "equip3": [
+      "optical",
+      "holo",
+      "reddot",
+      "nightvision"
+    ],
+    "tag": "nation_US"
   },
   {
     "id": 20154,
