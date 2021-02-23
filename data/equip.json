@@ -5829,5 +5829,200 @@
       "mre": 0.3,
       "part": 0.3
     }
+  },
+  {
+    "id": 212,
+    "codename": "弹匣_子弹_56式半",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": [
+      49,
+      20049
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 213,
+    "codename": "人形装备_行动包_维尔德",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "IOP",
+    "fitGuns": [
+      114,
+      20114
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "dodge": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      },
+      "armor": {
+        "min": "3",
+        "max": "5"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 214,
+    "codename": "人形装备_求生刀_F1",
+    "rank": 5,
+    "category": "doll",
+    "type": "chip",
+    "company": "IOP",
+    "fitGuns": [
+      20178,
+      178
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 450
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 215,
+    "codename": "弹匣_子弹_80式",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": [
+      199,
+      20199
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 216,
+    "codename": "弹匣_独头弹_防卫者",
+    "rank": 5,
+    "category": "ammo",
+    "type": "shotgunShell",
+    "company": "IOP",
+    "fitGuns": [
+      302
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3240,
+    "stats": {
+      "pow": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 900
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.39,
+      "mre": 0.08,
+      "part": 0.48
+    }
+  },
+  {
+    "id": 217,
+    "codename": "配件_光瞄_WA2000",
+    "rank": 5,
+    "category": "accessory",
+    "type": "optical",
+    "company": "SB",
+    "fitGuns": [
+      48
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "25",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
   }
 ]
