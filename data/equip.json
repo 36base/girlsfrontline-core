@@ -1060,7 +1060,7 @@
     "codename": "人形装备_战术核芯片_M1918",
     "rank": 5,
     "category": "doll",
-    "type": "chip",
+    "type": "ammunitionBox",
     "company": "16Lab",
     "fitGuns": [
       75,
@@ -1794,7 +1794,7 @@
     "codename": "人形装备_战术核芯片_莫辛纳甘",
     "rank": 5,
     "category": "doll",
-    "type": "chip",
+    "type": "cloak",
     "company": "16Lab",
     "fitGuns": [
       39,
@@ -2054,7 +2054,7 @@
     "codename": "人形装备_战术核芯片_阿梅利",
     "rank": 5,
     "category": "doll",
-    "type": "chip",
+    "type": "ammunitionBox",
     "company": "16Lab",
     "fitGuns": [
       185
@@ -2316,7 +2316,7 @@
     "codename": "配件_特殊_FN49",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "FNH",
     "fitGuns": [
       20051,
@@ -2949,7 +2949,7 @@
     "codename": "配件_特殊_G3",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "PTR",
     "fitGuns": [
       20063,
@@ -2982,7 +2982,7 @@
     "codename": "配件_特殊_UMP45",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "???",
     "fitGuns": [
       20103,
@@ -3122,7 +3122,7 @@
     "codename": "配件_特殊_M14",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "SFA",
     "fitGuns": [
       20037,
@@ -3439,7 +3439,7 @@
     "codename": "弹匣_特殊1_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "hpAmmo",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3465,7 +3465,7 @@
     "codename": "弹匣_特殊2_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "hpAmmo",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3543,7 +3543,7 @@
     "codename": "弹匣_特殊3_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "hpAmmo",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3834,7 +3834,7 @@
     "codename": "配件_特殊_SIG510",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "SIG",
     "fitGuns": [
       74
@@ -3871,7 +3871,7 @@
     "codename": "配件_特殊_BM59",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "BRT",
     "fitGuns": [
       52
@@ -4014,7 +4014,7 @@
     "codename": "配件_其它_MP5",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "holo",
     "company": "SF",
     "fitGuns": [
       20026,
@@ -4051,7 +4051,7 @@
     "codename": "配件_其它_汉阳造",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "KXY",
     "fitGuns": [
       20095,
@@ -4218,7 +4218,7 @@
     "codename": "配件_上机匣_MAC10",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "LGE",
     "fitGuns": [
       18
@@ -4397,7 +4397,7 @@
     "codename": "配件_特殊_樱花",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "IJ",
     "fitGuns": [
       228
@@ -4429,7 +4429,7 @@
     "codename": "配件_导轨_RFB",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "KTC",
     "fitGuns": [
       172
@@ -4660,7 +4660,7 @@
     "codename": "弹匣_子弹_Gsh18",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "hpAmmo",
     "company": "IOP",
     "fitGuns": [
       221,
@@ -4999,7 +4999,7 @@
     "codename": "配件_特殊_崔耶拉",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "shotgunShell",
     "company": "IOP",
     "fitGuns": [
       1025
@@ -5339,7 +5339,7 @@
     "codename": "配件_特殊_幽灵",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "IOP",
     "fitGuns": [
       92
@@ -5674,7 +5674,7 @@
     "codename": "配件_特殊_PP19",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "ZNT",
     "fitGuns": [
       136,
@@ -5739,7 +5739,7 @@
     "codename": "配件_特殊_63式",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "optical",
     "company": "IOP",
     "fitGuns": [
       133
@@ -5771,7 +5771,7 @@
     "codename": "配件_特殊_SCW",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "suppressor",
     "company": "CT",
     "fitGuns": [
       169
@@ -6023,6 +6023,579 @@
       "ammo": 0.15,
       "mre": 0.3,
       "part": 0.15
+    }
+  },
+  {
+    "id": 218,
+    "codename": "人形装备_特殊_64式",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "IOP",
+    "fitGuns": [
+      94,
+      20094
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "dodge": {
+        "min": "16",
+        "max": "20",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 219,
+    "codename": "配件_特殊_ppsh41",
+    "rank": 5,
+    "category": "accessory",
+    "type": "suppressor",
+    "company": "IOP",
+    "fitGuns": [
+      21
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "2",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 220,
+    "codename": "配件_特殊_1919",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IOP",
+    "fitGuns": [
+      80
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "hit": {
+        "min": "14",
+        "max": "16",
+        "upgrade": 1000
+      },
+      "criticalHarmRate": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 221,
+    "codename": "弹闸_子弹_汉阳造",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "16Lab",
+    "fitGuns": [
+      95,
+      20095
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "2",
+        "max": "3",
+        "upgrade": 700
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 222,
+    "codename": "配件_备用瞄具_N",
+    "rank": 3,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "TJC",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2040,
+    "stats": {
+      "hit": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 600
+      },
+      "criticalPercent": {
+        "min": "5",
+        "max": "8",
+        "upgrade": 900
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 223,
+    "codename": "配件_备用瞄具_N",
+    "rank": 4,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "TJC",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2940,
+    "stats": {
+      "hit": {
+        "min": "6",
+        "max": "9",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "9",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 224,
+    "codename": "配件_备用瞄具_N",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "TJC",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3540,
+    "stats": {
+      "hit": {
+        "min": "10",
+        "max": "12",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "13",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 225,
+    "codename": "弹匣_信号弹_N",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hpAmmo",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 0,
+    "buildTime": 3420,
+    "stats": {
+      "rate": {
+        "min": "-5",
+        "max": "-1"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.45
+    }
+  },
+  {
+    "id": 226,
+    "codename": "弹匣_狙击弹_N",
+    "rank": 4,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2400,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "armorPiercing": {
+        "min": "50",
+        "max": "60",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 227,
+    "codename": "弹匣_狙击弹_N",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3000,
+    "stats": {
+      "pow": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 300
+      },
+      "armorPiercing": {
+        "min": "70",
+        "max": "80",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 228,
+    "codename": "弹匣_脱壳穿甲弹_N",
+    "rank": 4,
+    "category": "ammo",
+    "type": "spClip",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2880,
+    "stats": {
+      "rate": {
+        "min": "-5",
+        "max": "-5"
+      },
+      "armorPiercing": {
+        "min": "190",
+        "max": "200",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.08,
+      "part": 0.08
+    }
+  },
+  {
+    "id": 229,
+    "codename": "弹匣_脱壳穿甲弹_N",
+    "rank": 5,
+    "category": "ammo",
+    "type": "spClip",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3480,
+    "stats": {
+      "rate": {
+        "min": "-5",
+        "max": "-5"
+      },
+      "armorPiercing": {
+        "min": "240",
+        "max": "250",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.08,
+      "part": 0.08
+    }
+  },
+  {
+    "id": 230,
+    "codename": "弹匣_霰弹_鸟弹_N",
+    "rank": 4,
+    "category": "ammo",
+    "type": "shotgunShell",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "rate": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 500
+      },
+      "criticalHarmRate": {
+        "min": "-30",
+        "max": "-15"
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.39,
+      "mre": 0.08,
+      "part": 0.48
+    }
+  },
+  {
+    "id": 231,
+    "codename": "弹匣_霰弹_鸟弹_N",
+    "rank": 5,
+    "category": "ammo",
+    "type": "shotgunShell",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "rate": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 500
+      },
+      "criticalHarmRate": {
+        "min": "-20",
+        "max": "-10"
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.39,
+      "mre": 0.08,
+      "part": 0.48
+    }
+  },
+  {
+    "id": 232,
+    "codename": "人形装备_运算芯片_N",
+    "rank": 3,
+    "category": "doll",
+    "type": "chip",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 1560,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "rate": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 600
+      },
+      "criticalHarmRate": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 233,
+    "codename": "人形装备_运算芯片_N",
+    "rank": 4,
+    "category": "doll",
+    "type": "chip",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 2460,
+    "stats": {
+      "pow": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 700
+      },
+      "rate": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 600
+      },
+      "criticalHarmRate": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 234,
+    "codename": "人形装备_运算芯片_N",
+    "rank": 5,
+    "category": "doll",
+    "type": "chip",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3060,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 500
+      },
+      "rate": {
+        "min": "12",
+        "max": "16",
+        "upgrade": 600
+      },
+      "criticalHarmRate": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 235,
+    "codename": "弹匣_霰弹_闪光弹_N",
+    "rank": 5,
+    "category": "ammo",
+    "type": "shotgunShell",
+    "company": "IOP",
+    "fitGuns": null,
+    "exclusiveRate": 1.0,
+    "maxLevel": 10,
+    "buildTime": 3420,
+    "stats": {
+      "hit": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.39,
+      "mre": 0.08,
+      "part": 0.48
+    }
+  },
+  {
+    "id": 236,
+    "codename": "人形装备_外骨骼_THOMPSON",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "AO",
+    "fitGuns": [
+      16
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "-8",
+        "max": "-6"
+      },
+      "dodge": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 600
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
     }
   }
 ]
