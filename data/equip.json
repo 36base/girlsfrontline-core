@@ -2159,9 +2159,14 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "2",
-        "max": "3",
-        "upgrade": 700
+        "min": "10",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "rate": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1000
       },
       "armor": {
         "min": "9",
@@ -2597,8 +2602,8 @@
         "max": "-1"
       },
       "criticalPercent": {
-        "min": "3",
-        "max": "5",
+        "min": "15",
+        "max": "15",
         "upgrade": 1000
       }
     },
@@ -2789,8 +2794,8 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "1",
-        "max": "2",
+        "min": "3",
+        "max": "4",
         "upgrade": 1000
       },
       "hit": {
@@ -2932,9 +2937,10 @@
         "max": "15",
         "upgrade": 1000
       },
-      "rate": {
-        "min": "-4",
-        "max": "-1"
+      "criticalPercent": {
+        "min": "15",
+        "max": "15",
+        "upgrade": 1000
       }
     },
     "powerup": {
@@ -2960,8 +2966,8 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "1",
-        "max": "2",
+        "min": "3",
+        "max": "4",
         "upgrade": 1000
       },
       "criticalPercent": {
@@ -3062,14 +3068,14 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "3",
-        "max": "3",
-        "upgrade": 700
+        "min": "10",
+        "max": "10",
+        "upgrade": 1500
       },
       "hit": {
-        "min": "3",
-        "max": "3",
-        "upgrade": 700
+        "min": "5",
+        "max": "5",
+        "upgrade": 1000
       },
       "dodge": {
         "min": "12",
@@ -3208,9 +3214,10 @@
         "max": "17",
         "upgrade": 1000
       },
-      "rate": {
-        "min": "-4",
-        "max": "-1"
+      "criticalPercent": {
+        "min": "15",
+        "max": "15",
+        "upgrade": 1000
       }
     },
     "powerup": {
@@ -3228,7 +3235,8 @@
     "type": "reddot",
     "company": "TJC",
     "fitGuns": [
-      125
+      125,
+      20125
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -3244,9 +3252,9 @@
         "max": "-1"
       },
       "criticalPercent": {
-        "min": "15",
-        "max": "15",
-        "upgrade": 700
+        "min": "20",
+        "max": "20",
+        "upgrade": 750
       }
     },
     "powerup": {
@@ -3309,6 +3317,11 @@
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
+      "pow": {
+        "min": "5",
+        "max": "5",
+        "upgrade": 1000
+      },
       "hit": {
         "min": "14",
         "max": "18",
@@ -3780,8 +3793,8 @@
         "max": "-1"
       },
       "criticalPercent": {
-        "min": "13",
-        "max": "16",
+        "min": "20",
+        "max": "20",
         "upgrade": 500
       }
     },
@@ -3918,8 +3931,8 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "1",
-        "max": "2",
+        "min": "3",
+        "max": "4",
         "upgrade": 1000
       },
       "dodge": {
@@ -3995,11 +4008,12 @@
       "hit": {
         "min": "6",
         "max": "10",
-        "upgrade": 400
+        "upgrade": 500
       },
-      "rate": {
-        "min": "-4",
-        "max": "-3"
+      "dodge": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -4034,9 +4048,10 @@
         "max": "11",
         "upgrade": 400
       },
-      "rate": {
-        "min": "-6",
-        "max": "-4"
+      "dodge": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 500
       }
     },
     "powerup": {
@@ -4094,6 +4109,11 @@
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1500
+      },
       "dodge": {
         "min": "10",
         "max": "12",
@@ -4300,8 +4320,8 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "1",
-        "max": "1",
+        "min": "5",
+        "max": "5",
         "upgrade": 2000
       },
       "dodge": {
@@ -4310,9 +4330,9 @@
         "upgrade": 700
       },
       "rate": {
-        "min": "1",
-        "max": "2",
-        "upgrade": 500
+        "min": "5",
+        "max": "5",
+        "upgrade": 1000
       }
     },
     "powerup": {
@@ -4804,7 +4824,8 @@
     "type": "spPart",
     "company": "FAB",
     "fitGuns": [
-      8
+      8,
+      20008
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -4940,9 +4961,9 @@
     "buildTime": 3120,
     "stats": {
       "pow": {
-        "min": "1",
-        "max": "3",
-        "upgrade": 700
+        "min": "8",
+        "max": "8",
+        "upgrade": 900
       },
       "dodge": {
         "min": "8",
@@ -5157,14 +5178,20 @@
     "maxLevel": 10,
     "buildTime": 3120,
     "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1000
+      },
       "hit": {
         "min": "3",
         "max": "5",
         "upgrade": 1000
       },
-      "dodge": {
-        "min": "-10",
-        "max": "-5"
+      "criticalHarmRate": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1500
       }
     },
     "powerup": {
@@ -5268,7 +5295,7 @@
       "mp": 0.23,
       "ammo": 0.23,
       "mre": 0.33,
-      "part": 0.33
+      "part": 0.38
     }
   },
   {
@@ -5619,6 +5646,11 @@
     "maxLevel": 10,
     "buildTime": 3120,
     "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 500
+      },
       "hit": {
         "min": "3",
         "max": "5",
@@ -6108,6 +6140,11 @@
         "min": "3",
         "max": "5",
         "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "15",
+        "max": "15",
+        "upgrade": 1000
       }
     },
     "powerup": {
@@ -6583,7 +6620,7 @@
     "stats": {
       "pow": {
         "min": "-8",
-        "max": "-6"
+        "max": "-8"
       },
       "dodge": {
         "min": "20",
@@ -6596,6 +6633,336 @@
       "ammo": 0.25,
       "mre": 0.12,
       "part": 0.38
+    }
+  },
+  {
+    "id": 237,
+    "codename": "人形装备_外骨骼_灰熊MkV",
+    "rank": 5,
+    "category": "doll",
+    "type": "exoSkeleton",
+    "company": "IOP",
+    "fitGuns": [
+      96
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "dodge": {
+        "min": "10",
+        "max": "20",
+        "upgrade": 500
+      },
+      "speed": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 238,
+    "codename": "弹匣_子弹_马卡洛夫",
+    "rank": 5,
+    "category": "ammo",
+    "type": "hpAmmo",
+    "company": "HND",
+    "fitGuns": [
+      8,
+      20008
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "5",
+        "max": "8",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 239,
+    "codename": "弹匣_子弹_MG4",
+    "rank": 5,
+    "category": "ammo",
+    "type": "spClip",
+    "company": "HST",
+    "fitGuns": [
+      125,
+      20125
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "-5",
+        "max": "-1"
+      },
+      "armorPiercing": {
+        "min": "300",
+        "max": "300",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 240,
+    "codename": "人形装备_插板_RMB93",
+    "rank": 5,
+    "category": "doll",
+    "type": "armorPlate",
+    "company": "IOP",
+    "fitGuns": [
+      159,
+      20159
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3060,
+    "stats": {
+      "speed": {
+        "min": "3",
+        "max": "3"
+      },
+      "armor": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.23,
+      "ammo": 0.23,
+      "mre": 0.33,
+      "part": 0.33
+    }
+  },
+  {
+    "id": 241,
+    "codename": "弹匣_子弹_XM3",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": [
+      200,
+      20200
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "2",
+        "max": "4",
+        "upgrade": 500
+      },
+      "hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 242,
+    "codename": "弹匣_子弹_SVD",
+    "rank": 5,
+    "category": "ammo",
+    "type": "apAmmo",
+    "company": "IOP",
+    "fitGuns": [
+      43
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "2",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 243,
+    "codename": "配件_光学瞄具_F2000",
+    "rank": 5,
+    "category": "accessory",
+    "type": "optical",
+    "company": "FNH",
+    "fitGuns": [
+      107
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "2",
+        "max": "4",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 244,
+    "codename": "配件_全息瞄具_PP2000",
+    "rank": 5,
+    "category": "accessory",
+    "type": "holo",
+    "company": "IOP",
+    "fitGuns": [
+      24
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 400
+      },
+      "hit": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 400
+      },
+      "dodge": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 245,
+    "codename": "配件_备用瞄具_Glock17",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "ZEVT",
+    "fitGuns": [
+      15
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3540,
+    "stats": {
+      "hit": {
+        "min": "10",
+        "max": "12",
+        "upgrade": 700
+      },
+      "dodge": {
+        "min": "6",
+        "max": "8",
+        "upgrade": 500
+      },
+      "criticalPercent": {
+        "min": "13",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 246,
+    "codename": "配件_枪托_杰里科",
+    "rank": 5,
+    "category": "accessory",
+    "type": "spPart",
+    "company": "IWI",
+    "fitGuns": [
+      248
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1500
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
     }
   }
 ]
