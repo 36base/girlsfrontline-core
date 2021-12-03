@@ -996,7 +996,7 @@
     "codename": "弹匣_穿甲弹_Springfield",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "NMS",
     "fitGuns": [
       36
@@ -1028,7 +1028,7 @@
     "codename": "弹匣_高速弹_AR15",
     "rank": 5,
     "category": "ammo",
-    "type": "hvAmmo",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       57,
@@ -1060,7 +1060,7 @@
     "codename": "人形装备_战术核芯片_M1918",
     "rank": 5,
     "category": "doll",
-    "type": "ammunitionBox",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       75,
@@ -1096,7 +1096,7 @@
     "codename": "人形装备_外骨骼_MP5",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       20026,
@@ -1695,7 +1695,7 @@
     "codename": "配件_光学瞄准镜_AK",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KST",
     "fitGuns": [
       58,
@@ -1728,7 +1728,7 @@
     "codename": "配件_光学瞄准镜_AK",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KST",
     "fitGuns": [
       58,
@@ -1761,7 +1761,7 @@
     "codename": "配件_光学瞄准镜_AK",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KST",
     "fitGuns": [
       58,
@@ -1794,7 +1794,7 @@
     "codename": "人形装备_战术核芯片_莫辛纳甘",
     "rank": 5,
     "category": "doll",
-    "type": "cloak",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       39,
@@ -1947,7 +1947,7 @@
     "codename": "人形装备_防弹插板_M16A1",
     "rank": 5,
     "category": "doll",
-    "type": "armorPlate",
+    "type": "undefined",
     "company": "SF",
     "fitGuns": [
       54
@@ -1987,7 +1987,7 @@
     "codename": "人形装备_外骨骼_UMP",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       101,
@@ -2023,7 +2023,7 @@
     "codename": "配件_红外夜视仪_9A91",
     "rank": 5,
     "category": "accessory",
-    "type": "nightvision",
+    "type": "undefined",
     "company": "IDB",
     "fitGuns": [
       118
@@ -2054,7 +2054,7 @@
     "codename": "人形装备_战术核芯片_阿梅利",
     "rank": 5,
     "category": "doll",
-    "type": "ammunitionBox",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       185
@@ -2148,7 +2148,7 @@
     "codename": "人形装备_特殊_M4A1",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       20055,
@@ -2186,7 +2186,7 @@
     "codename": "配件_特殊_AR15",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       20057,
@@ -2219,7 +2219,7 @@
     "codename": "弹匣_空尖弹_M1911",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "AAI",
     "fitGuns": [
       20002,
@@ -2251,7 +2251,7 @@
     "codename": "人形装备_战术核芯片_IDW",
     "rank": 5,
     "category": "doll",
-    "type": "chip",
+    "type": "undefined",
     "company": "NTD",
     "fitGuns": [
       20093,
@@ -2288,7 +2288,7 @@
     "codename": "配件_消音器_64式",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "NRC",
     "fitGuns": [
       20094,
@@ -2321,7 +2321,7 @@
     "codename": "配件_特殊_FN49",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "FNH",
     "fitGuns": [
       20051,
@@ -2354,7 +2354,7 @@
     "codename": "配件_光学瞄准镜_Kar98k",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "S&B",
     "fitGuns": [
       46
@@ -2386,7 +2386,7 @@
     "codename": "配件_全息瞄准镜_HK416",
     "rank": 5,
     "category": "accessory",
-    "type": "holo",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       20065,
@@ -2424,7 +2424,7 @@
     "codename": "人形装备_弹链箱_MG3",
     "rank": 5,
     "category": "doll",
-    "type": "ammunitionBox",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       88
@@ -2463,7 +2463,7 @@
     "codename": "人形装备_伪装披风_PTRD",
     "rank": 5,
     "category": "doll",
-    "type": "cloak",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       42
@@ -2549,7 +2549,7 @@
     "codename": "配件_光学瞄准镜_莫辛纳甘",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KSH",
     "fitGuns": [
       20039,
@@ -2582,7 +2582,7 @@
     "codename": "配件_ACOG瞄准镜_M1918",
     "rank": 5,
     "category": "accessory",
-    "type": "reddot",
+    "type": "undefined",
     "company": "CT",
     "fitGuns": [
       20075,
@@ -2619,7 +2619,7 @@
     "codename": "配件_消音器_纳甘左轮",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "NS",
     "fitGuns": [
       20005,
@@ -2657,7 +2657,7 @@
     "codename": "配件_特殊_MP446",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IMP",
     "fitGuns": [
       20091,
@@ -2695,7 +2695,7 @@
     "codename": "人形装备_伪装披风_SV98",
     "rank": 5,
     "category": "doll",
-    "type": "cloak",
+    "type": "undefined",
     "company": "FSB",
     "fitGuns": [
       20044,
@@ -2732,7 +2732,7 @@
     "codename": "配件_特殊_clear",
     "rank": 5,
     "category": "accessory",
-    "type": "nightvision",
+    "type": "undefined",
     "company": "DJMAX",
     "fitGuns": [
       1009
@@ -2758,7 +2758,7 @@
     "codename": "配件_特殊_fail",
     "rank": 5,
     "category": "accessory",
-    "type": "nightvision",
+    "type": "undefined",
     "company": "DJMAX",
     "fitGuns": [
       1010
@@ -2784,7 +2784,7 @@
     "codename": "配件_光学瞄准镜_FAMAS",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "SED",
     "fitGuns": [
       69
@@ -2879,7 +2879,7 @@
     "codename": "配件_特殊_柯尔特左轮",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "CT",
     "fitGuns": [
       20001,
@@ -2917,7 +2917,7 @@
     "codename": "配件_特殊_布伦",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "LA",
     "fitGuns": [
       20089,
@@ -2955,7 +2955,7 @@
     "codename": "配件_特殊_G3",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "PTR",
     "fitGuns": [
       20063,
@@ -2988,7 +2988,7 @@
     "codename": "配件_特殊_UMP45",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "???",
     "fitGuns": [
       20103,
@@ -3021,7 +3021,7 @@
     "codename": "配件_特殊_M4SOPMODII",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "???",
     "fitGuns": [
       20056,
@@ -3058,7 +3058,7 @@
     "codename": "人形装备_特殊_G41",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "MS",
     "fitGuns": [
       62
@@ -3095,7 +3095,7 @@
     "codename": "配件_消音器_司登",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "RSAF",
     "fitGuns": [
       20029,
@@ -3128,7 +3128,7 @@
     "codename": "配件_特殊_M14",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "SFA",
     "fitGuns": [
       20037,
@@ -3161,7 +3161,7 @@
     "codename": "配件_光学瞄准镜_G36",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "ZF",
     "fitGuns": [
       20064,
@@ -3194,7 +3194,7 @@
     "codename": "配件_ACOG瞄准镜_LWMMG",
     "rank": 5,
     "category": "accessory",
-    "type": "reddot",
+    "type": "undefined",
     "company": "TJC",
     "fitGuns": [
       20081,
@@ -3232,7 +3232,7 @@
     "codename": "配件_ACOG瞄准镜_MG4",
     "rank": 5,
     "category": "accessory",
-    "type": "reddot",
+    "type": "undefined",
     "company": "TJC",
     "fitGuns": [
       125,
@@ -3269,7 +3269,7 @@
     "codename": "配件_特殊_斯捷奇金",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "USR",
     "fitGuns": [
       20007,
@@ -3307,7 +3307,7 @@
     "codename": "配件_ACOG瞄准镜_乌兹",
     "rank": 5,
     "category": "accessory",
-    "type": "reddot",
+    "type": "undefined",
     "company": "MPL",
     "fitGuns": [
       20032,
@@ -3344,7 +3344,7 @@
     "codename": "弹匣_高速弹_ASVal",
     "rank": 5,
     "category": "ammo",
-    "type": "hvAmmo",
+    "type": "undefined",
     "company": "TTM",
     "fitGuns": [
       20060,
@@ -3372,7 +3372,7 @@
     "codename": "弹匣_高速弹_StG44",
     "rank": 5,
     "category": "ammo",
-    "type": "hvAmmo",
+    "type": "undefined",
     "company": "PAW",
     "fitGuns": [
       20061,
@@ -3400,7 +3400,7 @@
     "codename": "配件_特殊1_吉尔",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3426,7 +3426,7 @@
     "codename": "配件_特殊2_吉尔",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3452,7 +3452,7 @@
     "codename": "弹匣_特殊1_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3478,7 +3478,7 @@
     "codename": "弹匣_特殊2_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3504,7 +3504,7 @@
     "codename": "人形_特殊1_吉尔",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3530,7 +3530,7 @@
     "codename": "配件_特殊3_吉尔",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3556,7 +3556,7 @@
     "codename": "弹匣_特殊3_吉尔",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3582,7 +3582,7 @@
     "codename": "人形_特殊2_吉尔",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "BTC",
     "fitGuns": [
       1017
@@ -3608,7 +3608,7 @@
     "codename": "人形_特殊_达娜",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "Zaibatsu Corp.",
     "fitGuns": [
       1022
@@ -3644,7 +3644,7 @@
     "codename": "弹匣_状态弹_多萝西",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "Zaibatsu Corp.",
     "fitGuns": [
       1019
@@ -3675,7 +3675,7 @@
     "codename": "人形_外骨骼_赛伊",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "Zaibatsu Corp.",
     "fitGuns": [
       1018
@@ -3702,7 +3702,7 @@
     "codename": "人形_特殊_史黛拉",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "Zaibatsu Corp.",
     "fitGuns": [
       1020
@@ -3738,7 +3738,7 @@
     "codename": "人形_特殊_阿尔玛",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "Zaibatsu Corp.",
     "fitGuns": [
       1021
@@ -3774,7 +3774,7 @@
     "codename": "配件_光学瞄准镜_FG42",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "ZF",
     "fitGuns": [
       110
@@ -3810,7 +3810,7 @@
     "codename": "弹匣_霰弹_鹿弹_KS23",
     "rank": 5,
     "category": "ammo",
-    "type": "shotgunShell",
+    "type": "undefined",
     "company": "FD",
     "fitGuns": [
       158
@@ -3847,7 +3847,7 @@
     "codename": "配件_特殊_SIG510",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "SIG",
     "fitGuns": [
       74
@@ -3884,7 +3884,7 @@
     "codename": "配件_特殊_BM59",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "BRT",
     "fitGuns": [
       52
@@ -3921,7 +3921,7 @@
     "codename": "配件_消音器_M3",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "OSS",
     "fitGuns": [
       17
@@ -3958,7 +3958,7 @@
     "codename": "配件_消音器_PPK",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "WTR",
     "fitGuns": [
       10
@@ -3990,7 +3990,7 @@
     "codename": "配件_ACOG_UMP9",
     "rank": 5,
     "category": "accessory",
-    "type": "holo",
+    "type": "undefined",
     "company": "AMP",
     "fitGuns": [
       20101,
@@ -4028,7 +4028,7 @@
     "codename": "配件_其它_MP5",
     "rank": 5,
     "category": "accessory",
-    "type": "holo",
+    "type": "undefined",
     "company": "SF",
     "fitGuns": [
       20026,
@@ -4066,7 +4066,7 @@
     "codename": "配件_其它_汉阳造",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KXY",
     "fitGuns": [
       20095,
@@ -4099,7 +4099,7 @@
     "codename": "配件_人形_hk416",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "HK",
     "fitGuns": [
       20065,
@@ -4137,7 +4137,7 @@
     "codename": "配件_光瞄_lee",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "VKS",
     "fitGuns": [
       50
@@ -4169,7 +4169,7 @@
     "codename": "配件_光瞄_9597",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "208",
     "fitGuns": [
       129,
@@ -4202,7 +4202,7 @@
     "codename": "配件_特殊_RPD",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "GDR",
     "fitGuns": [
       84
@@ -4238,7 +4238,7 @@
     "codename": "配件_上机匣_MAC10",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "LGE",
     "fitGuns": [
       18
@@ -4274,7 +4274,7 @@
     "codename": "配件_聚合物握把_M9",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "RT",
     "fitGuns": [
       3
@@ -4310,7 +4310,7 @@
     "codename": "人形装备_其它_Tar21",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "IRI",
     "fitGuns": [
       72
@@ -4347,7 +4347,7 @@
     "codename": "配件_全息_伯莱塔38",
     "rank": 5,
     "category": "accessory",
-    "type": "holo",
+    "type": "undefined",
     "company": "DO",
     "fitGuns": [
       31,
@@ -4384,7 +4384,7 @@
     "codename": "配件_特殊_C96",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "MS",
     "fitGuns": [
       12,
@@ -4417,7 +4417,7 @@
     "codename": "配件_特殊_樱花",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "IJ",
     "fitGuns": [
       228
@@ -4449,7 +4449,7 @@
     "codename": "配件_导轨_RFB",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "KTC",
     "fitGuns": [
       172
@@ -4481,7 +4481,7 @@
     "codename": "弹匣_子弹_NTW20",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "DD",
     "fitGuns": [
       53,
@@ -4514,7 +4514,7 @@
     "codename": "人形装备_呆毛_斯捷奇金",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "WTF",
     "fitGuns": [
       7,
@@ -4547,7 +4547,7 @@
     "codename": "配件_光瞄_M21",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "Redfield",
     "fitGuns": [
       38
@@ -4579,7 +4579,7 @@
     "codename": "弹匣_子弹_ots12",
     "rank": 5,
     "category": "ammo",
-    "type": "hvAmmo",
+    "type": "undefined",
     "company": "TCP",
     "fitGuns": [
       105
@@ -4611,7 +4611,7 @@
     "codename": "弹匣_高爆弹_AA12",
     "rank": 5,
     "category": "ammo",
-    "type": "shotgunShell",
+    "type": "undefined",
     "company": "CS",
     "fitGuns": [
       163
@@ -4643,7 +4643,7 @@
     "codename": "配件_消音_MDR",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "MDR",
     "fitGuns": [
       215
@@ -4680,7 +4680,7 @@
     "codename": "弹匣_子弹_Gsh18",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       221,
@@ -4718,7 +4718,7 @@
     "codename": "配件_特殊_M500",
     "rank": 5,
     "category": "accessory",
-    "type": "reddot",
+    "type": "undefined",
     "company": "MGP",
     "fitGuns": [
       154,
@@ -4755,7 +4755,7 @@
     "codename": "弹匣_子弹_KSVK",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       252,
@@ -4788,7 +4788,7 @@
     "codename": "配件_特殊_M950A",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       97,
@@ -4821,7 +4821,7 @@
     "codename": "配件_枪托_马卡洛夫",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "FAB",
     "fitGuns": [
       8,
@@ -4854,7 +4854,7 @@
     "codename": "弹闸_子弹_蝎式",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "G2R",
     "fitGuns": [
       27
@@ -4889,7 +4889,7 @@
     "codename": "弹闸_子弹_79式",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "S&B",
     "fitGuns": [
       127
@@ -4920,7 +4920,7 @@
     "codename": "人形_特殊_莉可",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1024
@@ -4951,7 +4951,7 @@
     "codename": "人形_特殊_安洁莉卡",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1027
@@ -4983,7 +4983,7 @@
     "codename": "配件_特殊_库拉耶丝",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1026
@@ -5020,7 +5020,7 @@
     "codename": "配件_特殊_崔耶拉",
     "rank": 5,
     "category": "ammo",
-    "type": "shotgunShell",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1025
@@ -5057,7 +5057,7 @@
     "codename": "配件_特殊_海莉艾塔",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1023
@@ -5094,7 +5094,7 @@
     "codename": "配件_陨石_库拉耶丝",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1026
@@ -5131,7 +5131,7 @@
     "codename": "配件_手表_库拉耶丝",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       1026
@@ -5168,7 +5168,7 @@
     "codename": "人形装备_Gbox_G11",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "404后勤部",
     "fitGuns": [
       122,
@@ -5206,7 +5206,7 @@
     "codename": "配件_枪托_Super SASS",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "MGP",
     "fitGuns": [
       124,
@@ -5239,7 +5239,7 @@
     "codename": "人形装备_特殊_RO635",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       143,
@@ -5271,7 +5271,7 @@
     "codename": "人形装备_插板_97霰",
     "rank": 5,
     "category": "doll",
-    "type": "armorPlate",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       161,
@@ -5303,7 +5303,7 @@
     "codename": "配件_特殊_谢尔久科夫",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       113
@@ -5335,7 +5335,7 @@
     "codename": "弹匣_子弹_阿斯特拉",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "ILM",
     "fitGuns": [
       14
@@ -5366,7 +5366,7 @@
     "codename": "配件_特殊_幽灵",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       92
@@ -5398,7 +5398,7 @@
     "codename": "人形装备_特殊_索米",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       115
@@ -5429,7 +5429,7 @@
     "codename": "配件_枪托_NZ75",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       126
@@ -5461,7 +5461,7 @@
     "codename": "配件_消音器_特工Vector",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "SC",
     "fitGuns": [
       1028
@@ -5493,7 +5493,7 @@
     "codename": "弹匣_状态弹_空尖弹_特工Vector",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "SHD",
     "fitGuns": [
       1028
@@ -5524,7 +5524,7 @@
     "codename": "人形装备_外骨骼_特工Vector",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "SHD",
     "fitGuns": [
       1028
@@ -5555,7 +5555,7 @@
     "codename": "配件_光学瞄准镜_特工416",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "TC",
     "fitGuns": [
       1029
@@ -5582,7 +5582,7 @@
     "codename": "弹匣_高速弹_特工416",
     "rank": 5,
     "category": "ammo",
-    "type": "hvAmmo",
+    "type": "undefined",
     "company": "SHD",
     "fitGuns": [
       1029
@@ -5609,7 +5609,7 @@
     "codename": "人形装备_外骨骼_X_特工416",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "SHD",
     "fitGuns": [
       1029
@@ -5636,7 +5636,7 @@
     "codename": "人形装备_护木_加利尔",
     "rank": 5,
     "category": "doll",
-    "type": "medal",
+    "type": "undefined",
     "company": "MI",
     "fitGuns": [
       71,
@@ -5673,7 +5673,7 @@
     "codename": "弹匣_霰弹_鹿弹_M1897",
     "rank": 5,
     "category": "ammo",
-    "type": "shotgunShell",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       152,
@@ -5706,7 +5706,7 @@
     "codename": "配件_特殊_PP19",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "ZNT",
     "fitGuns": [
       136,
@@ -5739,7 +5739,7 @@
     "codename": "配件_光瞄_Ots-44",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       145
@@ -5771,7 +5771,7 @@
     "codename": "配件_特殊_63式",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       133
@@ -5803,7 +5803,7 @@
     "codename": "配件_特殊_SCW",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "CT",
     "fitGuns": [
       169
@@ -5835,7 +5835,7 @@
     "codename": "弹匣_子弹_四式",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       270
@@ -5867,7 +5867,7 @@
     "codename": "弹匣_子弹_56式半",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       49,
@@ -5900,7 +5900,7 @@
     "codename": "人形装备_行动包_维尔德",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       114,
@@ -5932,7 +5932,7 @@
     "codename": "人形装备_求生刀_F1",
     "rank": 5,
     "category": "doll",
-    "type": "chip",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       20178,
@@ -5965,7 +5965,7 @@
     "codename": "弹匣_子弹_80式",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       199,
@@ -5998,7 +5998,7 @@
     "codename": "弹匣_独头弹_防卫者",
     "rank": 5,
     "category": "ammo",
-    "type": "shotgunShell",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       302
@@ -6030,7 +6030,7 @@
     "codename": "配件_光瞄_WA2000",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "SB",
     "fitGuns": [
       48
@@ -6062,7 +6062,7 @@
     "codename": "人形装备_特殊_64式",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       94,
@@ -6090,7 +6090,7 @@
     "codename": "配件_特殊_ppsh41",
     "rank": 5,
     "category": "accessory",
-    "type": "suppressor",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       21
@@ -6122,7 +6122,7 @@
     "codename": "配件_特殊_1919",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       80
@@ -6159,7 +6159,7 @@
     "codename": "弹闸_子弹_汉阳造",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
       95,
@@ -6609,7 +6609,7 @@
     "codename": "人形装备_外骨骼_THOMPSON",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "AO",
     "fitGuns": [
       16
@@ -6640,7 +6640,7 @@
     "codename": "人形装备_外骨骼_灰熊MkV",
     "rank": 5,
     "category": "doll",
-    "type": "exoSkeleton",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       96
@@ -6671,7 +6671,7 @@
     "codename": "弹匣_子弹_马卡洛夫",
     "rank": 5,
     "category": "ammo",
-    "type": "hpAmmo",
+    "type": "undefined",
     "company": "HND",
     "fitGuns": [
       8,
@@ -6699,7 +6699,7 @@
     "codename": "弹匣_子弹_MG4",
     "rank": 5,
     "category": "ammo",
-    "type": "spClip",
+    "type": "undefined",
     "company": "HST",
     "fitGuns": [
       125,
@@ -6731,7 +6731,7 @@
     "codename": "人形装备_插板_RMB93",
     "rank": 5,
     "category": "doll",
-    "type": "armorPlate",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       159,
@@ -6763,7 +6763,7 @@
     "codename": "弹匣_子弹_XM3",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       200,
@@ -6800,7 +6800,7 @@
     "codename": "弹匣_子弹_SVD",
     "rank": 5,
     "category": "ammo",
-    "type": "apAmmo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       43
@@ -6832,7 +6832,7 @@
     "codename": "配件_光学瞄具_F2000",
     "rank": 5,
     "category": "accessory",
-    "type": "optical",
+    "type": "undefined",
     "company": "FNH",
     "fitGuns": [
       107
@@ -6864,7 +6864,7 @@
     "codename": "配件_全息瞄具_PP2000",
     "rank": 5,
     "category": "accessory",
-    "type": "holo",
+    "type": "undefined",
     "company": "IOP",
     "fitGuns": [
       24
@@ -6901,7 +6901,7 @@
     "codename": "配件_备用瞄具_Glock17",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "ZEVT",
     "fitGuns": [
       15
@@ -6938,7 +6938,7 @@
     "codename": "配件_枪托_杰里科",
     "rank": 5,
     "category": "accessory",
-    "type": "spPart",
+    "type": "undefined",
     "company": "IWI",
     "fitGuns": [
       248
@@ -6963,6 +6963,622 @@
       "ammo": 0.23,
       "mre": 0.23,
       "part": 0.23
+    }
+  },
+  {
+    "id": 247,
+    "codename": "配件_光学瞄准镜_TAC50",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "MCM",
+    "fitGuns": [
+      222
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "criticalHarmRate": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 500
+      },
+      "criticalPercent": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 248,
+    "codename": "人形_芯片_9A91",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      118
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3060,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 500
+      },
+      "rate": {
+        "min": "12",
+        "max": "16",
+        "upgrade": 600
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 249,
+    "codename": "配件_特殊人形_SR3MP",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      135
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "6",
+        "max": "6",
+        "upgrade": 700
+      },
+      "hit": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 250,
+    "codename": "人形_特殊_PDW",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "AO",
+    "fitGuns": [
+      203
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 500
+      },
+      "dodge": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 400
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 251,
+    "codename": "配件_特殊_米诺斯",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      1034
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3000,
+    "stats": {
+      "hit": {
+        "min": "12",
+        "max": "18",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "3",
+        "max": "5"
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 252,
+    "codename": "配件_特殊_百合铃",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      1033
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 253,
+    "codename": "人形装备_特殊_小邪神",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      1030
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 450
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 254,
+    "codename": "人形_特殊_佩柯拉",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      1031
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3360,
+    "stats": {
+      "speed": {
+        "min": "-3",
+        "max": "-3"
+      },
+      "criticalHarmRate": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 800
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.16,
+      "mre": 0.6,
+      "part": 0.16
+    }
+  },
+  {
+    "id": 255,
+    "codename": "人形装备_外骨骼_美杜莎",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      1032
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "pow": {
+        "min": "10",
+        "max": "12",
+        "upgrade": 500
+      },
+      "rate": {
+        "min": "12",
+        "max": "16",
+        "upgrade": 600
+      },
+      "criticalHarmRate": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 256,
+    "codename": "人形_特殊_M249SAW",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "TYRT",
+    "fitGuns": [
+      79
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3420,
+    "stats": {
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      },
+      "bullet": {
+        "min": "3",
+        "max": "4",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.1,
+      "ammo": 0.1,
+      "mre": 0.1,
+      "part": 0.55
+    }
+  },
+  {
+    "id": 257,
+    "codename": "配件_特殊_DP28",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "AXI",
+    "fitGuns": [
+      82
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "hit": {
+        "min": "14",
+        "max": "16",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "20",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 258,
+    "codename": "弹匣_特殊_PzB39",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      180
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 259,
+    "codename": "人形_特殊_MondragonM1908",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      317
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3360,
+    "stats": {
+      "criticalHarmRate": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 800
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.16,
+      "mre": 0.6,
+      "part": 0.16
+    }
+  },
+  {
+    "id": 260,
+    "codename": "人形_特殊_G36C",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      104,
+      20104
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3120,
+    "stats": {
+      "dodge": {
+        "min": "16",
+        "max": "20",
+        "upgrade": 1000
+      },
+      "speed": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.25,
+      "mre": 0.12,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 261,
+    "codename": "配件_特殊_利贝罗勒",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      171,
+      20171
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 700
+      },
+      "hit": {
+        "min": "11",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 262,
+    "codename": "弹匣_特殊_猎豹M1",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      201,
+      20201
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 600
+      },
+      "armorPiercing": {
+        "min": "95",
+        "max": "100",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 263,
+    "codename": "弹匣_特殊_MP443",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "KP/Z",
+    "fitGuns": [
+      220,
+      20220
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "hit": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 264,
+    "codename": "配件_特殊_PK",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      85
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "3",
+        "max": "5"
+      },
+      "criticalPercent": {
+        "min": "20",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 265,
+    "codename": "配件_特殊_M37",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "ITC",
+    "fitGuns": [
+      153
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3000,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 600
+      },
+      "hit": {
+        "min": "11",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
     }
   }
 ]
