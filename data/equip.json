@@ -1039,13 +1039,13 @@
     "buildTime": 3420,
     "stats": {
       "pow": {
-        "min": "12",
-        "max": "16",
-        "upgrade": 600
+        "min": "20",
+        "max": "25",
+        "upgrade": 400
       },
-      "hit": {
-        "min": "-5",
-        "max": "-1"
+      "rate": {
+        "min": "-10",
+        "max": "-10"
       }
     },
     "powerup": {
@@ -2196,6 +2196,11 @@
     "maxLevel": 10,
     "buildTime": 3600,
     "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 500
+      },
       "hit": {
         "min": "4",
         "max": "6",
@@ -2204,7 +2209,7 @@
       "criticalHarmRate": {
         "min": "11",
         "max": "15",
-        "upgrade": 350
+        "upgrade": 1000
       }
     },
     "powerup": {
@@ -3032,9 +3037,9 @@
     "buildTime": 3600,
     "stats": {
       "pow": {
-        "min": "6",
-        "max": "9",
-        "upgrade": 350
+        "min": "15",
+        "max": "20",
+        "upgrade": 750
       },
       "hit": {
         "min": "6",
@@ -6093,7 +6098,8 @@
     "type": "undefined",
     "company": "IOP",
     "fitGuns": [
-      21
+      21,
+      20021
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -7571,6 +7577,609 @@
       "hit": {
         "min": "11",
         "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 266,
+    "codename": "配件_特殊_Px4Storm",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "B&T",
+    "fitGuns": [
+      233
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 267,
+    "codename": "配件_特殊_P38",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      9
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "hit": {
+        "min": "3",
+        "max": "3"
+      },
+      "dodge": {
+        "min": "10",
+        "max": "12",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 268,
+    "codename": "弹匣_特殊_Type03",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      239
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3480,
+    "stats": {
+      "pow": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 700
+      },
+      "criticalHarmRate": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.15,
+      "ammo": 0.6,
+      "mre": 0.38,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 269,
+    "codename": "配件_特殊_Mk23",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "Insight",
+    "fitGuns": [
+      99
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2940,
+    "stats": {
+      "dodge": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "nightview": {
+        "min": "95",
+        "max": "100"
+      }
+    },
+    "powerup": {
+      "mp": 0.33,
+      "ammo": 0.22,
+      "mre": 0.5,
+      "part": 0.18
+    }
+  },
+  {
+    "id": 270,
+    "codename": "配件_特殊_CZ75",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "CZ",
+    "fitGuns": [
+      166
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3540,
+    "stats": {
+      "pow": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "hit": {
+        "min": "10",
+        "max": "12",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "13",
+        "max": "15",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 271,
+    "codename": "弹匣_特殊_蟒蛇",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      4
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "10",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "-7",
+        "max": "-7"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 272,
+    "codename": "弹匣_特殊_PPsh41",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      21,
+      20021
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "-10",
+        "max": "-7"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 273,
+    "codename": "配件_特殊_XM8",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "Insight",
+    "fitGuns": [
+      216,
+      20216
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "11",
+        "max": "15",
+        "upgrade": 1000
+      },
+      "rate": {
+        "min": "-6",
+        "max": "-4"
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 274,
+    "codename": "配件_特殊_AN94",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      205,
+      20205
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "criticalHarmRate": {
+        "min": "10",
+        "max": "15",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "20",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 275,
+    "codename": "人形_特殊_AK15",
+    "rank": 5,
+    "category": "doll",
+    "type": "undefined",
+    "company": "ZNT",
+    "fitGuns": [
+      293,
+      20293
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3060,
+    "stats": {
+      "pow": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "dodge": {
+        "min": "8",
+        "max": "12",
+        "upgrade": 700
+      },
+      "criticalHarmRate": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.3,
+      "ammo": 0.23,
+      "mre": 0.15,
+      "part": 0.38
+    }
+  },
+  {
+    "id": 276,
+    "codename": "配件_特殊_P7",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "HK",
+    "fitGuns": [
+      100
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1500
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 350
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 277,
+    "codename": "配件_特殊_P90",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "DHG",
+    "fitGuns": [
+      245
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "hit": {
+        "min": "4",
+        "max": "6",
+        "upgrade": 700
+      },
+      "dodge": {
+        "min": "7",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "speed": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 278,
+    "codename": "配件_特殊_P22",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "WTR",
+    "fitGuns": [
+      242
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2820,
+    "stats": {
+      "dodge": {
+        "min": "8",
+        "max": "10",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.55,
+      "ammo": 0.23,
+      "mre": 0.23,
+      "part": 0.23
+    }
+  },
+  {
+    "id": 279,
+    "codename": "配件_特殊_加兰德",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      34
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "rate": {
+        "min": "1",
+        "max": "2",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 280,
+    "codename": "弹匣_特殊_T77",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "WOLF",
+    "fitGuns": [
+      218
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3180,
+    "stats": {
+      "pow": {
+        "min": "7",
+        "max": "12",
+        "upgrade": 900
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "rate": {
+        "min": "-6",
+        "max": "-6"
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 281,
+    "codename": "弹匣_特殊_SVT38",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      40
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3300,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "armorPiercing": {
+        "min": "110",
+        "max": "120",
+        "upgrade": 500
+      }
+    },
+    "powerup": {
+      "mp": 0.08,
+      "ammo": 0.5,
+      "mre": 0.3,
+      "part": 0.3
+    }
+  },
+  {
+    "id": 282,
+    "codename": "配件_特殊_64式自",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      243
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "criticalHarmRate": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 800
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 283,
+    "codename": "配件_特殊_M82A1",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "BRT",
+    "fitGuns": [
+      231
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
         "upgrade": 1000
       }
     },
