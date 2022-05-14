@@ -2432,7 +2432,8 @@
     "type": "undefined",
     "company": "16Lab",
     "fitGuns": [
-      88
+      88,
+      20088
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -3966,7 +3967,8 @@
     "type": "undefined",
     "company": "WTR",
     "fitGuns": [
-      10
+      10,
+      20010
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -5406,7 +5408,8 @@
     "type": "undefined",
     "company": "IOP",
     "fitGuns": [
-      115
+      115,
+      20115
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
@@ -8167,6 +8170,133 @@
     "company": "BRT",
     "fitGuns": [
       231
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 2700,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "criticalPercent": {
+        "min": "17",
+        "max": "24",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 284,
+    "codename": "弹匣_特殊_PPK",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      10,
+      20010
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "hit": {
+        "min": "6",
+        "max": "10",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 285,
+    "codename": "配件_特殊_MG3",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "IOP",
+    "fitGuns": [
+      88,
+      20088
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "pow": {
+        "min": "3",
+        "max": "5",
+        "upgrade": 1000
+      },
+      "hit": {
+        "min": "1",
+        "max": "3",
+        "upgrade": 700
+      },
+      "criticalPercent": {
+        "min": "18",
+        "max": "25",
+        "upgrade": 1000
+      }
+    },
+    "powerup": {
+      "mp": 0.45,
+      "ammo": 0.15,
+      "mre": 0.3,
+      "part": 0.15
+    }
+  },
+  {
+    "id": 286,
+    "codename": "弹匣_特殊_索米",
+    "rank": 5,
+    "category": "ammo",
+    "type": "undefined",
+    "company": "VKT",
+    "fitGuns": [
+      115,
+      20115
+    ],
+    "exclusiveRate": 3.0,
+    "maxLevel": 10,
+    "buildTime": 3600,
+    "stats": {
+      "hit": {
+        "min": "12",
+        "max": "15",
+        "upgrade": 700
+      }
+    },
+    "powerup": {
+      "mp": 0.48,
+      "ammo": 0.48,
+      "mre": 0.08,
+      "part": 0.25
+    }
+  },
+  {
+    "id": 287,
+    "codename": "配件_特殊_OBR",
+    "rank": 5,
+    "category": "accessory",
+    "type": "undefined",
+    "company": "HARRIS",
+    "fitGuns": [
+      230,
+      20230
     ],
     "exclusiveRate": 3.0,
     "maxLevel": 10,
